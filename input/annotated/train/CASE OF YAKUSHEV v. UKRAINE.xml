@@ -1,0 +1,5308 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">DC:TITLE</Name>
+  <Value className="java.lang.String">ECHR</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/mnavas/CASE%20OF%20YAKUSHEV%20v.%20UKRAINE.docx</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">application/vnd.openxmlformats-officedocument.wordprocessingml.document</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">TIKA_DC:TITLE</Name>
+  <Value className="java.lang.String">ECHR</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsteps</Name>
+  <Value className="java.lang.String">16</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ECHR<Node id="4"/>
+<Node id="5"/>FOURTH SECTION<Node id="19"/>
+<Node id="20"/>CASE OF YAKUSHEV v. UKRAINE<Node id="47"/>
+<Node id="48"/>(Application no. 15978/09)<Node id="74"/>
+<Node id="75"/>JUDGMENT<Node id="83"/>
+<Node id="84"/>STRASBOURG<Node id="94"/>
+<Node id="95"/>4 December 2018<Node id="110"/>
+<Node id="111"/>This judgment is final but it may be subject to editorial revision.<Node id="178"/>
+<Node id="179"/>In the case of Yakushev v. Ukraine,<Node id="214"/>
+<Node id="215"/>The European Court of Human Rights (Fourth Section), sitting as a Committee composed of:<Node id="303"/>
+<Node id="304"/>	Faris Vehabović,<Node id="321"/> President,
+<Node id="333"/>	Carlo Ranzoni,<Node id="348"/>
+<Node id="349"/>	Péter Paczolay,<Node id="365"/> judges,<Node id="373"/>
+and Andrea Tamietti, <Node id="395"/>Deputy Section Registrar,<Node id="420"/>
+<Node id="421"/>Having deliberated in private on 13 November 2018,<Node id="471"/>
+<Node id="472"/>Delivers the following judgment, which was adopted on that date:<Node id="536"/>
+<Node id="537"/>PROCEDURE<Node id="546"/>
+<Node id="547"/>1.  <Node id="551"/>The case originated in an <Node id="577"/>application<Node id="588"/> (no. 15978/09) against Ukraine <Node id="620"/>lodged<Node id="626"/> with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a <Node id="761"/>Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”)<Node id="827"/>, on <Node id="832"/>7 March 2009<Node id="844"/>.<Node id="845"/>
+<Node id="846"/>2.  The applicant, who had been granted legal aid, was represented by Mr A. Kristenko a lawyer practising in Kharkiv. The Ukrainian Government (“the Government”) were represented by their Agent, most recently, Mr I. Lishchyna.<Node id="1072"/>
+<Node id="1073"/>3.  <Node id="1077"/>On <Node id="1080"/>9 December 2013<Node id="1095"/> notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the <Node id="1283"/>application<Node id="1294"/> <Node id="1295"/>was declared inadmissible<Node id="1320"/> pursuant to Rule 54 § 3 of the Rules of Court.<Node id="1367"/>
+<Node id="1368"/>THE FACTS<Node id="1377"/>
+<Node id="1378"/>I.  THE CIRCUMSTANCES OF THE CASE<Node id="1411"/>
+<Node id="1412"/>4.  <Node id="1416"/>The <Node id="1420"/>applicant<Node id="1429"/> <Node id="1430"/>was born<Node id="1438"/> in <Node id="1442"/>1971<Node id="1446"/> and lives in Malyn, Zhytomyr Region.<Node id="1483"/>
+<Node id="1484"/>5.  <Node id="1488"/>On <Node id="1491"/>17 November 1993<Node id="1507"/> <Node id="1508"/>M.<Node id="1510"/> <Node id="1511"/>gave birth<Node id="1521"/> to a baby girl, K<Node id="1539"/>.<Node id="1540"/> <Node id="1541"/>Given that the applicant had had relations with M. at the relevant time, on <Node id="1617"/>2 December 1993<Node id="1632"/> <Node id="1633"/>he<Node id="1635"/> <Node id="1636"/>accepted paternity<Node id="1654"/> of K. by submitting the relevant declaration to the authorities<Node id="1718"/>.<Node id="1719"/>
+<Node id="1720"/>6.  <Node id="1724"/>On <Node id="1727"/>23 March 2000<Node id="1740"/> the <Node id="1745"/>applicant<Node id="1754"/> <Node id="1755"/>married<Node id="1762"/> M<Node id="1764"/>.<Node id="1765"/> <Node id="1766"/>They<Node id="1770"/> <Node id="1771"/>divorced<Node id="1779"/> in <Node id="1783"/>2006<Node id="1787"/>.<Node id="1788"/>
+<Node id="1789"/>7.  <Node id="1793"/>In <Node id="1796"/>July 2006<Node id="1805"/> the <Node id="1810"/>applicant<Node id="1819"/> <Node id="1820"/>instituted proceedings<Node id="1842"/> in the Malyn District Court <Node id="1871"/>against M., challenging the paternity of K<Node id="1913"/>.<Node id="1914"/> The applicant claimed that, even though he had been married to another woman at the relevant time, he had had relations with M. and he had been sure that he was the father of the child and so accepted the paternity. However, in 2005 he had reason to doubt his paternity.<Node id="2185"/>
+<Node id="2186"/>8.  <Node id="2190"/>On <Node id="2193"/>24 March 2008<Node id="2206"/> the <Node id="2211"/>District Court<Node id="2225"/> <Node id="2226"/>found for the applicant<Node id="2249"/>, relying on a genetic expert’s opinion which <Node id="2295"/>excluded the possibility of the applicant being K.’s biological father<Node id="2365"/>.<Node id="2366"/> The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity of K.<Node id="2585"/>
+<Node id="2586"/>9.  <Node id="2590"/>M.<Node id="2592"/> <Node id="2593"/>appealed<Node id="2601"/>, stating that<Node id="2615"/> from January 1993 she and the applicant had lived together without being married and that <Node id="2706"/>she had never had any doubts about the applicant’s paternity of K.<Node id="2772"/> She argued, <Node id="2785"/>inter alia<Node id="2795"/> , that the genetic expert’s opinion was not reliable<Node id="2848"/>.<Node id="2849"/>
+<Node id="2850"/>10.  <Node id="2855"/>On <Node id="2858"/>29 May 2008<Node id="2869"/> the <Node id="2874"/>Zhytomyr Regional Court of Appeal<Node id="2907"/> <Node id="2908"/>quashed<Node id="2915"/> the first-instance court’s decision<Node id="2951"/> and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father<Node id="3172"/>.<Node id="3173"/> In support of that finding the Court of Appeal noted that before K.’s birth, the applicant and M. had not been married, they had not lived together (noting, in particular, that between February and April 1993 the applicant lived in another town), and the applicant had been married to another woman at the relevant time.<Node id="3494"/>
+<Node id="3495"/>11.  <Node id="3500"/>The <Node id="3504"/>applicant<Node id="3513"/> <Node id="3514"/>appealed<Node id="3522"/> on a point of law<Node id="3540"/>, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child<Node id="3701"/>.<Node id="3702"/> No such evidence was available in the file and the Regional Court of Appeal had exceeded its powers in drawing such a conclusion.<Node id="3832"/>
+<Node id="3833"/>12.  <Node id="3838"/>On <Node id="3841"/>9 September 2008<Node id="3857"/> the <Node id="3862"/>Supreme Court of Ukraine<Node id="3886"/> <Node id="3887"/>rejected the appeal<Node id="3906"/> by the applicant as unfounded<Node id="3936"/>.<Node id="3937"/>
+<Node id="3938"/>II.  RELEVANT DOMESTIC LAW<Node id="3964"/>
+<Node id="3965"/>13.  Article 56 § 2 of the Marriage and Family Code of Ukraine, in force at the material time, provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.<Node id="4355"/>
+<Node id="4356"/>THE LAW<Node id="4363"/>
+<Node id="4364"/>I.  ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION<Node id="4416"/>
+<Node id="4417"/>14.  The applicant complained under Articles 6 and 8 of the Convention that he could not challenge his paternity of K. because the domestic courts had arbitrarily refused his claim to that effect.<Node id="4613"/>
+<Node id="4614"/>15.  The Court, which is master of the characterisation to be given in law to the facts of the case (see <Node id="4719"/>Radomilja and Others v. Croatia <Node id="4751"/>[GC], nos. 37685/10 and 22768/12, §§ 114 and 126, 20 March 2018), will examine the complaint from the standpoint of Article 8 of the Convention alone.<Node id="4901"/>
+<Node id="4902"/>This provision reads as follows:<Node id="4934"/>
+<Node id="4935"/>“1. Everyone has the right to respect for his private and family life, his home and his correspondence.<Node id="5038"/>
+<Node id="5039"/>2. There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.”<Node id="5450"/>
+<Node id="5451"/>A.  Admissibility<Node id="5468"/>
+<Node id="5469"/>16.  The Court has previously examined cases in which a man wished to institute proceedings to contest the paternity of a child. It has found on numerous occasions that proceedings concerning the establishment of, or a challenge against, paternity concerned that man’s “private life” under Article 8, which encompasses important aspects of one’s personal identity (see <Node id="5838"/>A.L.<Node id="5842"/> <Node id="5843"/>v. Poland<Node id="5852"/> , no. 28609/08, § 59, 18 February 2014, with further references).<Node id="5918"/>
+<Node id="5919"/>17.  Accordingly, Article 8 is applicable to the facts of the present case.<Node id="5994"/>
+<Node id="5995"/>18.  The Court notes that this complaint is not manifestly ill-founded within the meaning of Article 35 § 3 (a) of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.<Node id="6234"/>
+<Node id="6235"/>B.  Merits<Node id="6245"/>
+<Node id="6246"/>19.  The applicant submitted that the Court of Appeal had rejected his claim arbitrarily without relying on any evidence in the file and in clear disregard of both the applicant’s and the child’s mother’s submissions, both of whom never denied that they had had relations at the material time.<Node id="6539"/>
+<Node id="6540"/>20.  The Government submitted that the court’s refusal to examine the claim was based on clear provisions of domestic law, pursued the aim of protecting the child’s interests and was necessary in the circumstances because the interests of the child prevailed over those of the parents or putative parents.<Node id="6845"/>
+<Node id="6846"/>21.  The Court notes that the essence of the applicant’s claim is not that the State should have refrained from acting but rather that the domestic courts had failed to resolve the question of his biological relationship with the child, thereby ensuring “respect” for the applicant’s “private life”.<Node id="7145"/>
+<Node id="7146"/>22.  The Court reiterates that while the essential object of Article 8 is to protect the individual against arbitrary interference by the public authorities, it does not merely compel the State to abstain from such interference: in addition to this negative undertaking, there may be positive obligations inherent in effective respect for private or family life. These obligations may involve the adoption of measures designed to secure respect for private life even in the sphere of the relations of individuals between themselves (see  <Node id="7684"/>Von Hannover v. Germany (no. 2) <Node id="7716"/>[GC], nos. 40660/08 and 60641/08, § 98, ECHR 2012). The boundary between the State’s positive and negative obligations under Article 8 does not lend itself to precise definition; the applicable principles are, nonetheless, similar. In both contexts regard must be had to the fair balance that has to be struck between the relevant competing interests (ibid., § 99).<Node id="8081"/>
+<Node id="8082"/>23.  However, in the present case the Court of Appeal did not examine and balance all the interests at stake, notably the interests of the putative father and those of the child (compare <Node id="8269"/>Tavlı v. Turkey<Node id="8284"/> , no. 11449/02, § 34, 9 November 2006). The court did not perform that examination because it ultimately ruled that the applicant did not have a right to challenge his paternity on the basis that at the time of accepting paternity, he knew that he was not the biological father of the child. This ruling was based on a clear provision of domestic law, namely Article 56 § 2 of the Marriage and Family Code of Ukraine, as in force at the material time (see paragraph 13 above) and indeed there may be justified restrictions on the withdrawal of a decision to accept paternity where the man knew at the time of that decision that he was not the father (compare <Node id="8944"/>Kňákal v. Czech Republic<Node id="8968"/> (dec.), no. 39277/06, 8 January 2007). However, the question in the present case is not about the legitimacy of such a legal restriction but whether the domestic courts, notably the Court of Appeal, reached such a crucial factual conclusion in the course of a proper decision-making procedure which was free from arbitrariness.<Node id="9296"/>
+<Node id="9297"/>2	YAKUSHEV v. UKRAINE JUDGMENT<Node id="9327"/>
+<Node id="9328"/>	YAKUSHEV v. UKRAINE JUDGMENT	1<Node id="9359"/>
+<Node id="9360"/>24.  In that regard the Court reiterates that it cannot question the assessment of the domestic authorities unless there is clear evidence of arbitrariness (see <Node id="9521"/>Sisojeva and Others v. Latvia <Node id="9551"/>(striking out) [GC],<Node id="9571"/> <Node id="9572"/>no. 60654/00, § 89, ECHR 2007I). Moreover, the appearance of arbitrariness may be disclosed by the cumulative effect of the procedural failings on the part of the domestic courts resulting in a violation of Article 8 of the Convention (see, for example and in respect to the right to <Node id="9856"/>
+<Node id="9857"/>receive medical care and information, <Node id="9895"/>A.K.<Node id="9899"/> <Node id="9900"/>v. Latvia<Node id="9909"/> , no. 33011/08, § 94, 24 June 2014).<Node id="9946"/>
+<Node id="9947"/>25.  In the domestic proceedings the applicant and the child’s mother both admitted that they had had relations at the material time. Neither of the parties argued that the applicant was aware that he was not the father of the child when he accepted paternity. On the contrary, in his claim the applicant stated that he had had no doubts about his paternity for many years until 2005 (see paragraph 7 above). In her appeal the child’s mother contended that she had never doubted the applicant’s biological paternity and her grounds of appeal related essentially to a challenge to the reliability of the paternity test which disproved her statement (see paragraph 9 above). In these circumstances it is not clear why the Court of Appeal completely disregarded this important part of the parties’ submissions and examined the appeal on grounds which were never advanced by any party to the dispute. Moreover, in making such a crucial factual finding, which was a totally new finding and, apparently, surprising to both parties, the Court of Appeal provided general reasoning merely based on assumption which were unsupported by any specific evidence. It is important to emphasise that this new factual finding was based on the same file and evidence which had been examined in full trial by the first-instance court. The Court of Appeal, however, overturned the factual conclusions of the first-instance court without reference to any new piece of evidence and without explaining why the factual conclusions of the first-instance court had been defective. Despite the applicant’s appeal on a point of law (see paragraph 11 above), the Supreme Court did not address those issues in the course of review of the case (see paragraph 12 above). In such circumstances it does not appear to the Court that the decision-making process was fair and free from arbitrariness.<Node id="11809"/>
+<Node id="11810"/>26.  Accordingly, the above procedural failings in the course of the domestic proceedings lead the Court to conclude that the domestic courts did not ensure the respect for the applicant’s private life to which he is entitled under the Convention.<Node id="12057"/>
+<Node id="12058"/>27.  There has therefore been a violation of Article 8 of the Convention.<Node id="12131"/>
+<Node id="12132"/>II.  APPLICATION OF ARTICLE 41 OF THE CONVENTION<Node id="12180"/>
+<Node id="12181"/>28.  Article 41 of the Convention provides:<Node id="12224"/>
+<Node id="12225"/>“If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”<Node id="12506"/>
+<Node id="12507"/>A.  Damage<Node id="12517"/>
+<Node id="12518"/>29.  The applicant claimed 14,413.84 Ukrainian hryvnias (UAH) in respect of pecuniary damage and 15,000 euros (EUR) in respect of nonpecuniary damage.<Node id="12668"/>
+<Node id="12669"/>30.  The Government’s position was that the claims were unsubstantiated.<Node id="12741"/>
+<Node id="12742"/>31.  The Court considers that the applicant has not shown the existence of a causal link between the violation found and the pecuniary damage alleged; it therefore rejects this claim. However, the Court considers that the applicant must have suffered anguish and distress on account of the violation found in the present case. Ruling on an equitable basis, the Court awards the applicant the sum of EUR 4,500 in respect of non-pecuniary damage.<Node id="13186"/>
+<Node id="13187"/>B.  Costs and expenses<Node id="13209"/>
+<Node id="13210"/>32.  The applicant also claimed UAH 64,130 (approximately EUR 4,008 at the time of the claim) for legal fees incurred before the Court and UAH 45.92 (approximately EUR 3 at the time of the claim) for postal expenses.<Node id="13426"/>
+<Node id="13427"/>33.  The Government considered that the legal fees were exorbitant and unsubstantiated and that the postal expenses were only partly supported by the relevant evidence.<Node id="13595"/>
+<Node id="13596"/>34.  According to the Court’s case-law, an applicant is entitled to the reimbursement of costs and expenses only in so far as it has been shown that these have been actually and necessarily incurred and are reasonable as to quantum. In the present case, regard being had to the documents in its possession and the above criteria, the Court considers it reasonable to award, in addition to the legal aid already granted (see paragraph 2 above), the sum of EUR 1,000 for costs and expenses for the proceedings before it.<Node id="14114"/>
+<Node id="14115"/>C.  Default interest<Node id="14135"/>
+<Node id="14136"/>35.  The Court considers it appropriate that the default interest rate should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.<Node id="14331"/>
+<Node id="14332"/>FOR THESE REASONS, <Node id="14351"/>THE COURT<Node id="14360"/>, UNANIMOUSLY<Node id="14373"/>,<Node id="14374"/>
+<Node id="14375"/>1.   <Node id="14380"/>Declares<Node id="14388"/> the application admissible;<Node id="14416"/>
+<Node id="14417"/>2.   <Node id="14422"/>Holds<Node id="14427"/> that there has been a violation of Article 8 of the Convention;<Node id="14491"/>
+<Node id="14492"/>3.   <Node id="14497"/>Holds<Node id="14502"/>
+<Node id="14503"/>(a)  that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:<Node id="14710"/>
+<Node id="14711"/>(i)  EUR 4,500 (four thousand and five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;<Node id="14838"/>
+<Node id="14839"/>(ii)  EUR 1,000 (one thousand euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;<Node id="14964"/>
+<Node id="14965"/>(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;<Node id="15227"/>
+<Node id="15228"/>4.   <Node id="15233"/>Dismisses<Node id="15242"/> the remainder of the applicant’s claim for just satisfaction.<Node id="15304"/>
+<Node id="15305"/>Done in English, and notified in writing on <Node id="15349"/>4 December 2018<Node id="15364"/>, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court<Node id="15418"/>.<Node id="15419"/>
+<Node id="15420"/>	Andrea Tamietti	Faris Vehabović
+	Deputy Registrar	President<Node id="15480"/>
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="consensus">
+<Annotation Id="53643" Type="Event" StartNode="2190" EndNode="2366">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53644" Type="Event" StartNode="3500" EndNode="3702">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53645" Type="Event" StartNode="3838" EndNode="3937">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53646" Type="Event" StartNode="2855" EndNode="3173">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53647" Type="Event" StartNode="1793" EndNode="1914">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53648" Type="Event" StartNode="14332" EndNode="15419">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53649" Type="Event" StartNode="551" EndNode="845">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53650" Type="Event_what" StartNode="1820" EndNode="1842">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53651" Type="Event_what" StartNode="3514" EndNode="3522">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53652" Type="Event_what" StartNode="620" EndNode="626">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53653" Type="Event_what" StartNode="1771" EndNode="1779">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53654" Type="Event_when" StartNode="1491" EndNode="1507">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53655" Type="Event_when" StartNode="832" EndNode="844">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53656" Type="Event_when" StartNode="1796" EndNode="1805">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53657" Type="Event_when" StartNode="1783" EndNode="1787">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53658" Type="Event_when" StartNode="1727" EndNode="1740">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53659" Type="Event_when" StartNode="1617" EndNode="1632">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53660" Type="Event_when" StartNode="15349" EndNode="15364">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53661" Type="Event_when" StartNode="3841" EndNode="3857">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53662" Type="Event_when" StartNode="2858" EndNode="2869">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53663" Type="Event_when" StartNode="2193" EndNode="2206">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53664" Type="Event_who" StartNode="1745" EndNode="1754">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53665" Type="Event_who" StartNode="1766" EndNode="1770">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53666" Type="Event_who" StartNode="1810" EndNode="1819">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53667" Type="Event_who" StartNode="2211" EndNode="2225">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53668" Type="Event_who" StartNode="2590" EndNode="2592">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53669" Type="Event_who" StartNode="2874" EndNode="2907">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53670" Type="Event_who" StartNode="3504" EndNode="3513">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53671" Type="Event_who" StartNode="3862" EndNode="3886">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53672" Type="Event_who" StartNode="14351" EndNode="14360">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53675" Type="Event" StartNode="1766" EndNode="1788">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53676" Type="Event" StartNode="1724" EndNode="1765">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53681" Type="Event" StartNode="1488" EndNode="1540">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53682" Type="Event" StartNode="1541" EndNode="1719">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53683" Type="Event_what" StartNode="2593" EndNode="2601">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Erwin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53684" Type="Event_what" StartNode="2908" EndNode="2951">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53685" Type="Event_what" StartNode="3887" EndNode="3936">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53686" Type="Event_what" StartNode="1511" EndNode="1540">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53687" Type="Event_what" StartNode="1755" EndNode="1765">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53688" Type="Event_what" StartNode="1636" EndNode="1718">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53689" Type="Event_who" StartNode="1633" EndNode="1635">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53690" Type="Event" StartNode="2590" EndNode="2772">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Erwin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53692" Type="Event_who" StartNode="577" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">12</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Erwin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53693" Type="Event_what" StartNode="2295" EndNode="2365">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">13</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53694" Type="Event_what" StartNode="1871" EndNode="1914">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">14</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Cristiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53695" Type="Event_what" StartNode="15233" EndNode="15304">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Erwin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53696" Type="Event_what" StartNode="14422" EndNode="14491">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Erwin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53697" Type="Event_what" StartNode="14497" EndNode="15227">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Erwin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53698" Type="Event_what" StartNode="14380" EndNode="14416">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">anndiffsource</Name>
+  <Value className="java.lang.String">Erwin</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="html" StartNode="0" EndNode="15480">
+</Annotation>
+<Annotation Id="1" Type="head" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="2" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2019-03-13T10:51:00Z</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">cp:revision</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">extended-properties:AppVersion</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">15.0000</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Category</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">ECHR Template</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">meta:paragraph-count</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">32</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">meta:word-count</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2455</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">subject</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">DJ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">extended-properties:Company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Word-Count</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2455</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">dcterms:created</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2019-03-13T10:51:00Z</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">meta:line-count</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">116</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Last-Modified</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2019-03-13T10:51:00Z</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">dcterms:modified</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2019-03-13T10:51:00Z</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Manager</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Last-Save-Date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2019-03-13T10:51:00Z</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">meta:character-count</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">13995</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Template</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">Normal.dotm</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">custom:CASEID</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">562239</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Line-Count</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">116</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Paragraph-Count</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">32</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">meta:save-date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2019-03-13T10:51:00Z</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">meta:character-count-with-spaces</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">16418</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">dc:title</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">ECHR</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Application-Name</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">Microsoft Office Word</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">modified</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2019-03-13T10:51:00Z</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">extended-properties:Manager</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">cp:subject</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">DJ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Content-Type</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">application/vnd.openxmlformats-officedocument.wordprocessingml.document</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">X-Parsed-By</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">org.apache.tika.parser.microsoft.ooxml.OOXMLParser</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">custom:cstLanguage</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2057</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">custom:ContentTypeId</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">0x010100558EB02BDB9E204AB350EDD385B68E10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">meta:creation-date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2019-03-13T10:51:00Z</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">extended-properties:Application</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">Microsoft Office Word</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Creation-Date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2019-03-13T10:51:00Z</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">xmpTPg:NPages</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">resourceName</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">CASE OF YAKUSHEV v. UKRAINE.docx</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Character-Count-With-Spaces</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">16418</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Character Count</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">13995</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">custom:RegisteredNo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">15978/09</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Page-Count</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Revision-Number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">Application-Version</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">15.0000</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">extended-properties:Template</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">Normal.dotm</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">publisher</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">cp:category</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">ECHR Template</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">meta:page-count</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">dc:publisher</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="title" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="50" Type="body" StartNode="5" EndNode="15480">
+</Annotation>
+<Annotation Id="51" Type="p" StartNode="5" EndNode="5">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Decision_Body</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="a" StartNode="5" EndNode="5">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">_GoBack</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="p" StartNode="5" EndNode="5">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Decision_Body</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="p" StartNode="5" EndNode="5">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Decision_Body</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="p" StartNode="5" EndNode="19">
+</Annotation>
+<Annotation Id="56" Type="p" StartNode="20" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="p" StartNode="20" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="p" StartNode="20" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="p" StartNode="20" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="p" StartNode="20" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="p" StartNode="20" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="p" StartNode="20" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="p" StartNode="20" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="p" StartNode="20" EndNode="47">
+</Annotation>
+<Annotation Id="65" Type="a" StartNode="20" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">To</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="b" StartNode="20" EndNode="47">
+</Annotation>
+<Annotation Id="67" Type="p" StartNode="48" EndNode="48">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="p" StartNode="48" EndNode="74">
+</Annotation>
+<Annotation Id="69" Type="i" StartNode="48" EndNode="74">
+</Annotation>
+<Annotation Id="70" Type="p" StartNode="75" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="p" StartNode="75" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="p" StartNode="75" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="p" StartNode="75" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="p" StartNode="75" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="p" StartNode="75" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="p" StartNode="75" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="p" StartNode="75" EndNode="75">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="p" StartNode="75" EndNode="83">
+</Annotation>
+<Annotation Id="79" Type="p" StartNode="84" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="p" StartNode="84" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="p" StartNode="84" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="p" StartNode="84" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="83" Type="p" StartNode="84" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_Case</Value>
+</Feature>
+</Annotation>
+<Annotation Id="84" Type="p" StartNode="84" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="p" StartNode="84" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_Case</Value>
+</Feature>
+</Annotation>
+<Annotation Id="86" Type="p" StartNode="84" EndNode="94">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_Case</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="p" StartNode="95" EndNode="95">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_Case</Value>
+</Feature>
+</Annotation>
+<Annotation Id="88" Type="p" StartNode="95" EndNode="110">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_Case</Value>
+</Feature>
+</Annotation>
+<Annotation Id="89" Type="p" StartNode="111" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_Case</Value>
+</Feature>
+</Annotation>
+<Annotation Id="90" Type="p" StartNode="111" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_Case</Value>
+</Feature>
+</Annotation>
+<Annotation Id="91" Type="p" StartNode="111" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="92" Type="p" StartNode="111" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="93" Type="img" StartNode="111" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">alt</Name>
+  <Value className="java.lang.String">R:\1_Graphics&amp;Web\Court_Graphic_Charter\2013\ECHR_Stationery\Documents_and_Letters\Cover_Pages_And_Docs\White_600_dpi\ECHR_CoverpageCS61_ECHR_Coverpage_Header_Black.png</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">src</Name>
+  <Value className="java.lang.String">embedded:image1.png</Value>
+</Feature>
+</Annotation>
+<Annotation Id="94" Type="p" StartNode="111" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">header</Value>
+</Feature>
+</Annotation>
+<Annotation Id="95" Type="p" StartNode="111" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">header</Value>
+</Feature>
+</Annotation>
+<Annotation Id="96" Type="p" StartNode="111" EndNode="178">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_Case</Value>
+</Feature>
+</Annotation>
+<Annotation Id="97" Type="i" StartNode="111" EndNode="178">
+</Annotation>
+<Annotation Id="98" Type="p" StartNode="179" EndNode="179">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="img" StartNode="179" EndNode="179">
+<Feature>
+  <Name className="java.lang.String">alt</Name>
+  <Value className="java.lang.String">R:\1_Graphics&amp;Web\Court_Graphic_Charter\2013\ECHR_Stationery\Documents_and_Letters\Cover_Pages_And_Docs\White_600_dpi\ECHR_CoverpageCS61_ECHR_Coverpage_Footer_COE_Black.png</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">src</Name>
+  <Value className="java.lang.String">embedded:image2.png</Value>
+</Feature>
+</Annotation>
+<Annotation Id="100" Type="p" StartNode="179" EndNode="179">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">footer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="101" Type="p" StartNode="179" EndNode="214">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_Case</Value>
+</Feature>
+</Annotation>
+<Annotation Id="102" Type="p" StartNode="215" EndNode="303">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="103" Type="p" StartNode="304" EndNode="420">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Decision_Body</Value>
+</Feature>
+</Annotation>
+<Annotation Id="104" Type="i" StartNode="321" EndNode="333">
+</Annotation>
+<Annotation Id="105" Type="i" StartNode="348" EndNode="349">
+</Annotation>
+<Annotation Id="106" Type="i" StartNode="365" EndNode="373">
+</Annotation>
+<Annotation Id="107" Type="i" StartNode="395" EndNode="420">
+</Annotation>
+<Annotation Id="108" Type="p" StartNode="421" EndNode="471">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="109" Type="p" StartNode="472" EndNode="536">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="110" Type="p" StartNode="537" EndNode="546">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Title_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="111" Type="p" StartNode="547" EndNode="845">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="112" Type="p" StartNode="846" EndNode="1072">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="113" Type="p" StartNode="1073" EndNode="1367">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="114" Type="p" StartNode="1368" EndNode="1377">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Title_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="115" Type="p" StartNode="1378" EndNode="1411">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Heading_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="116" Type="p" StartNode="1412" EndNode="1483">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="117" Type="p" StartNode="1484" EndNode="1719">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="118" Type="p" StartNode="1720" EndNode="1788">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="119" Type="p" StartNode="1789" EndNode="2185">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="120" Type="p" StartNode="2186" EndNode="2585">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="121" Type="p" StartNode="2586" EndNode="2849">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="122" Type="i" StartNode="2785" EndNode="2795">
+</Annotation>
+<Annotation Id="123" Type="p" StartNode="2850" EndNode="3494">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="124" Type="p" StartNode="3495" EndNode="3832">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="125" Type="p" StartNode="3833" EndNode="3937">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="126" Type="p" StartNode="3938" EndNode="3964">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Heading_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="127" Type="p" StartNode="3965" EndNode="4355">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="128" Type="p" StartNode="4356" EndNode="4363">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Title_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="129" Type="p" StartNode="4364" EndNode="4416">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Heading_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="130" Type="p" StartNode="4417" EndNode="4613">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="131" Type="p" StartNode="4614" EndNode="4901">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="132" Type="i" StartNode="4719" EndNode="4751">
+</Annotation>
+<Annotation Id="133" Type="p" StartNode="4902" EndNode="4934">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="134" Type="p" StartNode="4935" EndNode="5038">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para_Quote</Value>
+</Feature>
+</Annotation>
+<Annotation Id="135" Type="p" StartNode="5039" EndNode="5450">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para_Quote</Value>
+</Feature>
+</Annotation>
+<Annotation Id="136" Type="p" StartNode="5451" EndNode="5468">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Heading_2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="137" Type="p" StartNode="5469" EndNode="5918">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="138" Type="i" StartNode="5838" EndNode="5842">
+</Annotation>
+<Annotation Id="139" Type="i" StartNode="5843" EndNode="5852">
+</Annotation>
+<Annotation Id="140" Type="p" StartNode="5919" EndNode="5994">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="141" Type="p" StartNode="5995" EndNode="6234">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="142" Type="p" StartNode="6235" EndNode="6245">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Heading_2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="143" Type="p" StartNode="6246" EndNode="6539">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="144" Type="p" StartNode="6540" EndNode="6845">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="145" Type="p" StartNode="6846" EndNode="7145">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="146" Type="p" StartNode="7146" EndNode="8081">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="147" Type="i" StartNode="7684" EndNode="7716">
+</Annotation>
+<Annotation Id="148" Type="p" StartNode="8082" EndNode="9296">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="149" Type="i" StartNode="8269" EndNode="8284">
+</Annotation>
+<Annotation Id="150" Type="i" StartNode="8944" EndNode="8968">
+</Annotation>
+<Annotation Id="151" Type="p" StartNode="9297" EndNode="9327">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Header</Value>
+</Feature>
+</Annotation>
+<Annotation Id="152" Type="p" StartNode="9328" EndNode="9359">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Header</Value>
+</Feature>
+</Annotation>
+<Annotation Id="153" Type="p" StartNode="9360" EndNode="9856">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="154" Type="i" StartNode="9521" EndNode="9551">
+</Annotation>
+<Annotation Id="155" Type="i" StartNode="9571" EndNode="9572">
+</Annotation>
+<Annotation Id="156" Type="p" StartNode="9857" EndNode="9946">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="157" Type="i" StartNode="9895" EndNode="9899">
+</Annotation>
+<Annotation Id="158" Type="i" StartNode="9900" EndNode="9909">
+</Annotation>
+<Annotation Id="159" Type="p" StartNode="9947" EndNode="11809">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="160" Type="p" StartNode="11810" EndNode="12057">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="161" Type="p" StartNode="12058" EndNode="12131">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="162" Type="p" StartNode="12132" EndNode="12180">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Heading_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="163" Type="p" StartNode="12181" EndNode="12224">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="164" Type="p" StartNode="12225" EndNode="12506">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para_Quote</Value>
+</Feature>
+</Annotation>
+<Annotation Id="165" Type="p" StartNode="12507" EndNode="12517">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Heading_2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="166" Type="p" StartNode="12518" EndNode="12668">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="167" Type="p" StartNode="12669" EndNode="12741">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="168" Type="p" StartNode="12742" EndNode="13186">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="169" Type="p" StartNode="13187" EndNode="13209">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Heading_2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="170" Type="p" StartNode="13210" EndNode="13426">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="171" Type="p" StartNode="13427" EndNode="13595">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="172" Type="p" StartNode="13596" EndNode="14114">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="173" Type="p" StartNode="14115" EndNode="14135">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Heading_2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="174" Type="p" StartNode="14136" EndNode="14331">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Para</Value>
+</Feature>
+</Annotation>
+<Annotation Id="175" Type="p" StartNode="14332" EndNode="14374">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">eCHR_Title_1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="176" Type="p" StartNode="14375" EndNode="14416">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_List</Value>
+</Feature>
+</Annotation>
+<Annotation Id="177" Type="i" StartNode="14380" EndNode="14388">
+</Annotation>
+<Annotation Id="178" Type="p" StartNode="14417" EndNode="14417">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_List</Value>
+</Feature>
+</Annotation>
+<Annotation Id="179" Type="p" StartNode="14417" EndNode="14491">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_List</Value>
+</Feature>
+</Annotation>
+<Annotation Id="180" Type="i" StartNode="14422" EndNode="14427">
+</Annotation>
+<Annotation Id="181" Type="p" StartNode="14492" EndNode="14492">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_List</Value>
+</Feature>
+</Annotation>
+<Annotation Id="182" Type="p" StartNode="14492" EndNode="14502">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_List</Value>
+</Feature>
+</Annotation>
+<Annotation Id="183" Type="i" StartNode="14497" EndNode="14502">
+</Annotation>
+<Annotation Id="184" Type="p" StartNode="14503" EndNode="14710">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_List_a</Value>
+</Feature>
+</Annotation>
+<Annotation Id="185" Type="p" StartNode="14711" EndNode="14838">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_List_i</Value>
+</Feature>
+</Annotation>
+<Annotation Id="186" Type="p" StartNode="14839" EndNode="14964">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_List_i</Value>
+</Feature>
+</Annotation>
+<Annotation Id="187" Type="p" StartNode="14965" EndNode="15227">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_List_a</Value>
+</Feature>
+</Annotation>
+<Annotation Id="188" Type="p" StartNode="15228" EndNode="15228">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_List</Value>
+</Feature>
+</Annotation>
+<Annotation Id="189" Type="p" StartNode="15228" EndNode="15304">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_List</Value>
+</Feature>
+</Annotation>
+<Annotation Id="190" Type="i" StartNode="15233" EndNode="15242">
+</Annotation>
+<Annotation Id="191" Type="p" StartNode="15305" EndNode="15419">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_Para_Last</Value>
+</Feature>
+</Annotation>
+<Annotation Id="192" Type="p" StartNode="15420" EndNode="15480">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ju_Signed</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Cristiana">
+<Annotation Id="6912" Type="Event_what" StartNode="2908" EndNode="2951">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6913" Type="Event_what" StartNode="3514" EndNode="3522">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6914" Type="Event_what" StartNode="3887" EndNode="3936">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6915" Type="Event_what" StartNode="14351" EndNode="14373">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6916" Type="Event_when" StartNode="832" EndNode="844">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6917" Type="Event_when" StartNode="1491" EndNode="1507">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6918" Type="Event_when" StartNode="1617" EndNode="1632">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6919" Type="Event_when" StartNode="1727" EndNode="1740">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6920" Type="Event_when" StartNode="1783" EndNode="1787">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6921" Type="Event_when" StartNode="1796" EndNode="1805">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6922" Type="Event_when" StartNode="2193" EndNode="2206">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6923" Type="Event_when" StartNode="2858" EndNode="2869">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6924" Type="Event_when" StartNode="3841" EndNode="3857">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6925" Type="Event_when" StartNode="15349" EndNode="15364">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6926" Type="Event_who" StartNode="761" EndNode="827">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6927" Type="Event_who" StartNode="1508" EndNode="1510">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6928" Type="Event_who" StartNode="1633" EndNode="1635">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6929" Type="Event_who" StartNode="1745" EndNode="1754">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6930" Type="Event_who" StartNode="1766" EndNode="1770">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6931" Type="Event_who" StartNode="1810" EndNode="1819">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6932" Type="Event_who" StartNode="2211" EndNode="2225">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6933" Type="Event_who" StartNode="2590" EndNode="2592">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6934" Type="Event_who" StartNode="2874" EndNode="2907">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6935" Type="Event_who" StartNode="3504" EndNode="3513">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6936" Type="Event_who" StartNode="3862" EndNode="3886">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12824" Type="Event" StartNode="551" EndNode="845">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6937" Type="Event_who" StartNode="14351" EndNode="14360">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12825" Type="Event" StartNode="1488" EndNode="1540">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12826" Type="Event" StartNode="1541" EndNode="1719">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12827" Type="Event" StartNode="1766" EndNode="1788">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12828" Type="Event" StartNode="2190" EndNode="2366">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12829" Type="Event" StartNode="2590" EndNode="2849">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12830" Type="Event" StartNode="2855" EndNode="3173">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12831" Type="Event" StartNode="3500" EndNode="3702">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12832" Type="Event" StartNode="3838" EndNode="3937">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12833" Type="Event" StartNode="14332" EndNode="15419">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6950" Type="Event_combined" StartNode="551" EndNode="844">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6951" Type="Event_combined" StartNode="577" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6952" Type="Event_combined" StartNode="620" EndNode="626">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6953" Type="Event_combined" StartNode="761" EndNode="827">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6954" Type="Event_combined" StartNode="832" EndNode="844">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6955" Type="Event_combined" StartNode="1488" EndNode="1539">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6956" Type="Event_combined" StartNode="1491" EndNode="1507">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6957" Type="Event_combined" StartNode="1508" EndNode="1510">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6958" Type="Event_combined" StartNode="1511" EndNode="1540">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6959" Type="Event_combined" StartNode="1541" EndNode="1718">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6960" Type="Event_combined" StartNode="1617" EndNode="1632">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6961" Type="Event_combined" StartNode="1633" EndNode="1635">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6962" Type="Event_combined" StartNode="1636" EndNode="1718">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6963" Type="Event_combined" StartNode="1724" EndNode="1765">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6964" Type="Event_combined" StartNode="1727" EndNode="1740">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6965" Type="Event_combined" StartNode="1745" EndNode="1754">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6966" Type="Event_combined" StartNode="1755" EndNode="1765">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6967" Type="Event_combined" StartNode="1766" EndNode="1787">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6968" Type="Event_combined" StartNode="1766" EndNode="1770">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6969" Type="Event_combined" StartNode="1771" EndNode="1779">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6970" Type="Event_combined" StartNode="1783" EndNode="1787">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6971" Type="Event_combined" StartNode="1793" EndNode="1914">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6972" Type="Event_combined" StartNode="1796" EndNode="1805">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6973" Type="Event_combined" StartNode="1810" EndNode="1819">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6974" Type="Event_combined" StartNode="1820" EndNode="1842">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6975" Type="Event_combined" StartNode="1871" EndNode="1914">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6976" Type="Event_combined" StartNode="2190" EndNode="2365">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6977" Type="Event_combined" StartNode="2193" EndNode="2206">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6978" Type="Event_combined" StartNode="2211" EndNode="2225">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6979" Type="Event_combined" StartNode="2295" EndNode="2365">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6980" Type="Event_combined" StartNode="2590" EndNode="2848">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6981" Type="Event_combined" StartNode="2590" EndNode="2592">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6982" Type="Event_combined" StartNode="2593" EndNode="2615">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6983" Type="Event_combined" StartNode="2706" EndNode="2772">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6984" Type="Event_combined" StartNode="2855" EndNode="3172">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6985" Type="Event_combined" StartNode="2858" EndNode="2869">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6986" Type="Event_combined" StartNode="2874" EndNode="2907">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6987" Type="Event_combined" StartNode="2908" EndNode="2951">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6988" Type="Event_combined" StartNode="3500" EndNode="3701">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">9</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6989" Type="Event_combined" StartNode="3504" EndNode="3513">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">9</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6990" Type="Event_combined" StartNode="3514" EndNode="3522">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">9</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6991" Type="Event_combined" StartNode="3838" EndNode="3936">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6992" Type="Event_combined" StartNode="3841" EndNode="3857">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6993" Type="Event_combined" StartNode="3862" EndNode="3886">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6994" Type="Event_combined" StartNode="3887" EndNode="3936">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6995" Type="Event_combined" StartNode="14332" EndNode="15418">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6996" Type="Event_combined" StartNode="14351" EndNode="14373">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6997" Type="Event_combined" StartNode="14351" EndNode="14360">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6998" Type="Event_combined" StartNode="15349" EndNode="15364">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53632" Type="Event" StartNode="1724" EndNode="1765">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53633" Type="Event" StartNode="1793" EndNode="1914">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6901" Type="Event_what" StartNode="577" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6902" Type="Event_what" StartNode="620" EndNode="626">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6903" Type="Event_what" StartNode="1511" EndNode="1540">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6904" Type="Event_what" StartNode="1636" EndNode="1718">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6905" Type="Event_what" StartNode="1755" EndNode="1765">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6906" Type="Event_what" StartNode="1771" EndNode="1779">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6907" Type="Event_what" StartNode="1820" EndNode="1842">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6908" Type="Event_what" StartNode="1871" EndNode="1914">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">14</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6909" Type="Event_what" StartNode="2295" EndNode="2365">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">13</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6910" Type="Event_what" StartNode="2593" EndNode="2615">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6911" Type="Event_what" StartNode="2706" EndNode="2772">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">10</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Cristiana_round_1">
+<Annotation Id="193" Type="Event" StartNode="551" EndNode="844">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="194" Type="Event" StartNode="577" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="195" Type="Event" StartNode="620" EndNode="626">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="196" Type="Event" StartNode="832" EndNode="844">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="197" Type="Event" StartNode="1488" EndNode="1539">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="198" Type="Event" StartNode="1491" EndNode="1507">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="199" Type="Event" StartNode="1511" EndNode="1521">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="200" Type="Event" StartNode="1541" EndNode="1718">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="201" Type="Event" StartNode="1617" EndNode="1632">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="202" Type="Event" StartNode="1636" EndNode="1654">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="203" Type="Event" StartNode="1724" EndNode="1764">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="204" Type="Event" StartNode="1727" EndNode="1740">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="205" Type="Event" StartNode="1755" EndNode="1762">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="206" Type="Event" StartNode="1766" EndNode="1787">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="207" Type="Event" StartNode="1771" EndNode="1779">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="208" Type="Event" StartNode="1783" EndNode="1787">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="209" Type="Event" StartNode="1793" EndNode="1913">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="210" Type="Event" StartNode="1796" EndNode="1805">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="211" Type="Event" StartNode="1820" EndNode="1842">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="212" Type="Event" StartNode="2190" EndNode="2365">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="213" Type="Event" StartNode="2193" EndNode="2206">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="214" Type="Event" StartNode="2295" EndNode="2365">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="215" Type="Event" StartNode="2590" EndNode="2848">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="216" Type="Event" StartNode="2593" EndNode="2601">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="217" Type="Event" StartNode="2855" EndNode="3172">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="218" Type="Event" StartNode="2858" EndNode="2869">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="219" Type="Event" StartNode="2908" EndNode="2951">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="220" Type="Event" StartNode="3500" EndNode="3701">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">9</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6493" Type="Event_what" StartNode="577" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="221" Type="Event" StartNode="3514" EndNode="3540">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">9</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6494" Type="Event_what" StartNode="620" EndNode="626">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="222" Type="Event" StartNode="3838" EndNode="3936">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6495" Type="Event_what" StartNode="1511" EndNode="1521">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="223" Type="Event" StartNode="3841" EndNode="3857">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6496" Type="Event_what" StartNode="1636" EndNode="1654">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="224" Type="Event" StartNode="3887" EndNode="3906">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6497" Type="Event_what" StartNode="1755" EndNode="1762">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="225" Type="Event" StartNode="14332" EndNode="15418">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6498" Type="Event_what" StartNode="1771" EndNode="1779">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="226" Type="Event" StartNode="14351" EndNode="14373">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6499" Type="Event_what" StartNode="1820" EndNode="1842">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="227" Type="Event" StartNode="15349" EndNode="15364">
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6500" Type="Event_what" StartNode="2295" EndNode="2365">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6501" Type="Event_what" StartNode="2593" EndNode="2601">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6502" Type="Event_what" StartNode="2908" EndNode="2951">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6503" Type="Event_what" StartNode="3514" EndNode="3540">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6504" Type="Event_what" StartNode="3887" EndNode="3906">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6505" Type="Event_what" StartNode="14351" EndNode="14373">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6506" Type="Event_when" StartNode="832" EndNode="844">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6507" Type="Event_when" StartNode="1491" EndNode="1507">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6508" Type="Event_when" StartNode="1617" EndNode="1632">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6509" Type="Event_when" StartNode="1727" EndNode="1740">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6510" Type="Event_when" StartNode="1783" EndNode="1787">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6511" Type="Event_when" StartNode="1796" EndNode="1805">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6512" Type="Event_when" StartNode="2193" EndNode="2206">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6513" Type="Event_when" StartNode="2858" EndNode="2869">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6514" Type="Event_when" StartNode="3841" EndNode="3857">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6515" Type="Event_when" StartNode="15349" EndNode="15364">
+<Feature>
+  <Name className="java.lang.String">event</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Section">
+<Annotation Id="53628" Type="Procedure" StartNode="547" EndNode="1367">
+</Annotation>
+<Annotation Id="53629" Type="Circumstances" StartNode="1412" EndNode="4355">
+</Annotation>
+<Annotation Id="53630" Type="Law" StartNode="4364" EndNode="14331">
+</Annotation>
+<Annotation Id="53631" Type="Decision" StartNode="14375" EndNode="15304">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Erwin">
+<Annotation Id="6784" Type="Event_what" StartNode="620" EndNode="626">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6785" Type="Event_when" StartNode="832" EndNode="844">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53635" Type="Event" StartNode="1416" EndNode="1483">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6788" Type="Event_when" StartNode="1080" EndNode="1095">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53636" Type="Event_who" StartNode="14351" EndNode="14360">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53637" Type="Event_when" StartNode="15349" EndNode="15364">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53638" Type="Event_what" StartNode="14380" EndNode="14416">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53639" Type="Event_what" StartNode="14422" EndNode="14491">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53640" Type="Event_what" StartNode="14497" EndNode="15227">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53641" Type="Event_what" StartNode="15233" EndNode="15304">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53642" Type="Event" StartNode="14332" EndNode="15419">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6797" Type="Event_who" StartNode="1283" EndNode="1294">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6798" Type="Event_what" StartNode="1295" EndNode="1320">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6800" Type="Event_who" StartNode="1420" EndNode="1429">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6801" Type="Event_what" StartNode="1430" EndNode="1438">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6802" Type="Event_when" StartNode="1491" EndNode="1507">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6805" Type="Event_when" StartNode="1617" EndNode="1632">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6806" Type="Event_when" StartNode="1727" EndNode="1740">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6807" Type="Event_who" StartNode="1745" EndNode="1754">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6808" Type="Event_what" StartNode="1755" EndNode="1762">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6810" Type="Event_who" StartNode="1810" EndNode="1819">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6811" Type="Event_what" StartNode="1820" EndNode="1842">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6814" Type="Event_when" StartNode="2193" EndNode="2206">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6815" Type="Event_who" StartNode="2211" EndNode="2225">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6816" Type="Event_what" StartNode="2226" EndNode="2249">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53673" Type="Event" StartNode="1724" EndNode="1765">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53674" Type="Event" StartNode="1766" EndNode="1788">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53678" Type="Event" StartNode="1488" EndNode="1540">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53679" Type="Event_who" StartNode="1633" EndNode="1635">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">9</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53680" Type="Event" StartNode="1541" EndNode="1719">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6837" Type="Event_when" StartNode="2858" EndNode="2869">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6838" Type="Event_who" StartNode="2874" EndNode="2907">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6839" Type="Event_what" StartNode="2908" EndNode="2915">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6854" Type="Event_who" StartNode="3504" EndNode="3513">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6855" Type="Event_what" StartNode="3514" EndNode="3522">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6860" Type="Event_when" StartNode="3841" EndNode="3857">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6862" Type="Event_what" StartNode="3887" EndNode="3906">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6864" Type="Event" StartNode="1077" EndNode="1367">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6867" Type="Event" StartNode="2190" EndNode="2366">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6868" Type="Event" StartNode="2855" EndNode="3173">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6869" Type="Event" StartNode="3838" EndNode="3937">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6871" Type="Event_when" StartNode="1442" EndNode="1446">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6872" Type="Event_what" StartNode="1511" EndNode="1521">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6873" Type="Event_what" StartNode="1636" EndNode="1654">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6874" Type="Event_what" StartNode="1771" EndNode="1779">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6875" Type="Event_when" StartNode="1783" EndNode="1787">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6876" Type="Event_when" StartNode="1796" EndNode="1805">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">when</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6877" Type="Event_what" StartNode="2593" EndNode="2601">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">what</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6878" Type="Event_who" StartNode="3862" EndNode="3886">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6879" Type="Event_who" StartNode="2590" EndNode="2592">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6880" Type="Event_who" StartNode="1766" EndNode="1770">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6881" Type="Event" StartNode="1793" EndNode="1914">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6882" Type="Event" StartNode="2590" EndNode="2772">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6883" Type="Event" StartNode="3500" EndNode="3702">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">circumstance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6884" Type="Event" StartNode="551" EndNode="845">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">ev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6886" Type="Event_who" StartNode="577" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">anndiffstep</Name>
+  <Value className="java.lang.String">12</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">argument</Name>
+  <Value className="java.lang.String">who</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">procedure</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
