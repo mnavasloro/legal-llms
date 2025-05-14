@@ -8,4 +8,6 @@
 - Multi agent system: let the LLMs discuss with each other (like we did) and vote in the end
 
 - second pass over results -> let LLM restructure it to make it more precise ("instruct" llm?)
+=> IEbyLLM.ipynb
 - alternative: https://python.useinstructor.com/
+=> IEbyLLM_instructor.ipynb (currently not doing what it should do)
