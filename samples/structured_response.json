@@ -1,0 +1,30 @@
+{"events": [
+    {
+        "event": "The case originated in an application (no. 62526/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Russian national, Ms Leyla Khamarzovna Muruzheva (\"the applicant\")",
+        "event_who": "Leyla Khamarzovna Muruzheva (the applicant)",
+        "event_when": "11 December 2015",
+        "event_what": "lodged an application",
+        "event_type": "event_procedure"
+    },
+    {
+        "event": "The applicant was represented by Ms V. Kogan and Mr E. Wesselink from the Stichting Russian Justice Initiative, an NGO based in Moscow. The Russian Government (\"the Government\") were initially represented by Mr G. Matyushkin, Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+        "event_who": "applicant, Russian Government",
+        "event_when": "N/A",
+        "event_what": "were represented",
+        "event_type": "event_procedure"
+    },
+    {
+        "event": "The applicant complained about the authorities’ failure to enforce the judgment of 25 June 2014 granting her a residence order in respect of her children.",
+        "event_who": "applicant",
+        "event_when": "25 June 2014",
+        "event_what": "complained about failure to enforce",
+        "event_type": "event_circumstance"
+    },
+    {
+        "event": "The application was communicated to the Government.",
+        "event_who": "application, Government",
+        "event_when": "25 April 2016",
+        "event_what": "was communicated",
+        "event_type": "event_procedure"
+    }
+]}

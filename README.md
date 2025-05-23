@@ -13,4 +13,4 @@ Currently installed models:
 - mistral:latest                          
 - incept5/llama3.1-claude:latest        
 - chevalblanc/claude-3-haiku:latest    
-- GandalfBaum/llama3.1-claude3.7:latest
+- GandalfBaum/llama3.1-claude3.7:latest -- doesn't load

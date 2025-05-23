@@ -1,0 +1,1 @@
+Error with model GandalfBaum/llama3.1/claude3.7: cannot access local variable 'chat_response' where it is not associated with a value
