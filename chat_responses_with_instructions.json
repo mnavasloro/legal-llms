@@ -1,0 +1,38 @@
+[
+  {
+    "Document": "file:/C:/Users/mnavas/CASE%20OF%20ALTAY%20v.%20TURKEY%20(No.%202).docx",
+    "model": {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "event": "The case originated in an application (no. 11236/09) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Turkish national, Mr Mehmet Aytunç Altay (\"the applicant\")",
+          "event_who": "Mr Mehmet Aytunç Altay (the applicant)",
+          "event_when": "17 February 2006",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "event": "The applicant was represented by Ms G. Tuncer, a lawyer practising in Istanbul. The Turkish Government (\"the Government\") were represented by their Agent.",
+          "event_who": "The applicant, Ms G. Tuncer, The Turkish Government",
+          "event_when": "N/A",
+          "event_what": "were represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "event": "The applicant alleged, in particular, that the restriction of the privacy of his consultations with his lawyer was incompatible with his rights under Article 8 of the Convention and that the domestic proceedings with respect to this measure had not complied with the requirements of Article 6 § 1 of the Convention.",
+          "event_who": "The applicant",
+          "event_when": "N/A",
+          "event_what": "alleged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "event": "notice of the above complaints was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "N/A",
+          "event_when": "17 October 2017",
+          "event_what": "was given and was declared inadmissible",
+          "event_type": "event_procedure"
+        }
+      ]
+    }
+  }
+]
