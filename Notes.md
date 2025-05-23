@@ -1,3 +1,9 @@
+### tmux info
+- list instances: tmux ls
+- attach to instance: tmux a -t <instance>
+- close tmux window: ctrl+b then d
+
+
 ### Notes
 
 - Langflow web editor
