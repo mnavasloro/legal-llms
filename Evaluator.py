@@ -6,8 +6,21 @@ def load_json(path):
     with open(path, encoding="utf-8") as f:
         return json.load(f)
 
-def extract_events(doc, key="events"):
-    return doc["annotations"]["events"] if "annotations" in doc else doc["model"]["events"]
+def extract_events(doc, key="events", model_name=None):
+    anns = doc.get("annotations")
+    if isinstance(anns, dict):
+        # Gold standard format
+        return anns.get("events", [])
+    elif isinstance(anns, list):
+        # Prediction format: pick the right model or default to first
+        if model_name:
+            for ann in anns:
+                if ann.get("model_name") == model_name:
+                    return ann.get("events", [])
+        # fallback: return events from first annotation
+        if anns and "events" in anns[0]:
+            return anns[0]["events"]
+    return []
 
 def get_doc_map(data, doc_key="annotations"):
     return {d["Document"]: d for d in data}
@@ -23,17 +36,17 @@ def match_events(gold_events, pred_events, field):
 def safe_div(x, y):
     return x / y if y else 0
 
-def evaluate(gold_path, pred_path, fields=["event_type", "event_who", "event_what", "event_when"]):
+def evaluate(gold_path, pred_path, fields=["event_type", "event_who", "event_what", "event_when"], model_name="gemma3:12b"):
     gold = load_json(gold_path)
     pred = load_json(pred_path)
     gold_map = get_doc_map(gold)
-    pred_map = get_doc_map(pred, doc_key="model")
+    pred_map = get_doc_map(pred)
 
     results = defaultdict(lambda: defaultdict(dict))
 
     for doc_id in gold_map:
         gold_events = extract_events(gold_map[doc_id])
-        pred_events = extract_events(pred_map.get(doc_id, {"model": {"events": []}}))
+        pred_events = extract_events(pred_map.get(doc_id, {}), model_name=model_name)
         for field in fields:
             tp, fp, fn = match_events(gold_events, pred_events, field)
             precision = safe_div(tp, tp + fp)
