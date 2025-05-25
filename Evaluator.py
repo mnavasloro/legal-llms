@@ -62,6 +62,40 @@ def evaluate(gold_path, pred_path, fields=["event_type", "event_who", "event_wha
             }
     return results
 
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+
+def plot_overview(results):
+    # Flatten results into a DataFrame
+    rows = []
+    for doc, fields in results.items():
+        for field, scores in fields.items():
+            row = {"Document": doc, "Field": field}
+            row.update(scores)
+            rows.append(row)
+    df = pd.DataFrame(rows)
+
+    # Barplot: average metrics per field
+    avg_df = df.groupby("Field")[["precision", "recall", "f1"]].mean().reset_index()
+    avg_df = avg_df.melt(id_vars="Field", value_vars=["precision", "recall", "f1"], var_name="Metric", value_name="Score")
+
+    plt.figure(figsize=(8, 5))
+    sns.barplot(data=avg_df, x="Field", y="Score", hue="Metric")
+    plt.title("Average Precision, Recall, F1 per Field")
+    plt.ylim(0, 1)
+    plt.legend(loc="lower right")
+    plt.tight_layout()
+    plt.show()
+
+    # Heatmap: F1 per document and field
+    pivot = df.pivot(index="Document", columns="Field", values="f1")
+    plt.figure(figsize=(10, max(4, len(pivot) * 0.5)))
+    sns.heatmap(pivot, annot=True, fmt=".2f", cmap="YlGnBu", cbar_kws={'label': 'F1 Score'})
+    plt.title("F1 Score per Document and Field")
+    plt.tight_layout()
+    plt.show()
+
 if __name__ == "__main__":
     gold_path = "input/gold_standard_events.json"
     pred_path = "chat_responses_with_instructions.json"
@@ -70,3 +104,4 @@ if __name__ == "__main__":
         print(f"\nDocument: {doc}")
         for field, scores in fields.items():
             print(f"  {field}: P={scores['precision']:.2f} R={scores['recall']:.2f} F1={scores['f1']:.2f} (TP={scores['tp']} FP={scores['fp']} FN={scores['fn']})")
+    plot_overview(results)
