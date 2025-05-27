@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
+# %%
 import os
 from gatenlp import Document
 from gatenlp.corpora import ListCorpus
@@ -16,13 +11,11 @@ import pandas as pd
 from tqdm import tqdm
 import ollama
 from pydantic import BaseModel
-
 from dotenv import load_dotenv
 
+from GatenlpUtils import loadCorpus
 
-# In[ ]:
-
-
+# %%
 try:
     load_dotenv()
 
@@ -48,10 +41,7 @@ try:
 except Exception as e:
     pass
 
-
-# In[10]:
-
-
+# %%
 class Event(BaseModel):
   event: str
   event_who: str
@@ -62,10 +52,7 @@ class Event(BaseModel):
 class EventList(BaseModel):
   events: list[Event]
 
-
-# In[5]:
-
-
+# %%
 def askChatbot(model, role, instruction, content):
     chat_url = "http://localhost:11434/api/chat"
 
@@ -95,10 +82,7 @@ def askChatbot(model, role, instruction, content):
     structured_response = EventList.model_validate_json(chat_response.json())
     return chat_response
 
-
-# In[11]:
-
-
+# %%
 def askChatbotLocal(model, role, instruction, content):
     try:
         response = ollama.chat(
@@ -116,35 +100,30 @@ def askChatbotLocal(model, role, instruction, content):
 
         chat_response = response['message']['content']
         structured_response = EventList.model_validate_json(response.message.content)
-
+                    
     except Exception as e:
         print(f"Error with model {model}: {str(e)}")
 
     return chat_response
 
-
-# In[13]:
-
-
-from importnb import Notebook
-with Notebook():
-    from Gatenlp import loadCorpus
-
+# %%
 corpus = loadCorpus()
 print(f"Documents in corpus: {len(corpus)}")
 
-
-# In[14]:
-
-
+# %%
+"""
 models = ["gemma3:12b",
-          "GandalfBaum/llama3.1/claude3.7",
+          "mistral:latest"
+]
+"""
+models = ["gemma3:12b",
           "chevalblanc/claude-3-haiku:latest",
           "incept5/llama3.1-claude:latest",
           "llama3.3:latest",
           "deepseek-r1:8b",
           "mistral:latest"
 ]
+
 
 event_definitions = """
 You are an expert in legal text analysis. Here are the definitions of legal events:
@@ -163,31 +142,47 @@ Events contain the annotations event_who, event_what and event_when. Events can 
 instruction = "Analyze the provided text and extract the legal events. Provide the results in a structured format. Obviously, Event_who, Event_what and Event_when can only appear within an Event. If you find an event, also classify it into an event_circumstance or event_procedure. Do not invent additional information."
 
 
-# In[ ]:
-
-
+# %%
 viaWeb = False
 results = []
+counter = 0
+
 # Iterate over documents and models
 for doc in tqdm(corpus, desc="Processing documents"):
+    if counter >= 2 :  # Limit to 10 documents for testing
+        break
+
     doc_dict = {"Document": doc.features.get("gate.SourceURL")}
     print(f"Processing document: {doc.features.get("gate.SourceURL")}")
-
+    
     # Combine all procedure texts for the document
     procedure_texts = []
     annotations = doc.annset("Section")
+    # Procedure
     procedure_annotations = annotations.with_type("Procedure")
     for ann in procedure_annotations:
         procedure_text = doc.text[ann.start:ann.end]
         procedure_texts.append(procedure_text)
+    # Circumstances
+    circumstances_annotations = annotations.with_type("Circumstances")
+    for ann in circumstances_annotations:
+        procedure_text = doc.text[ann.start:ann.end]
+        procedure_texts.append(procedure_text)
+    # Decision
+    decision_annotations = annotations.with_type("Decision")
+    for ann in decision_annotations:
+        procedure_text = doc.text[ann.start:ann.end]
+        procedure_texts.append(procedure_text)
+
     combined_procedure_text = " ".join(procedure_texts)
     #print(f"Combined procedure text: {combined_procedure_text}")
-
+    
+    annotations_list = []
     # Iterate over models
     for model in models:
         try:
             print(f"Using model: {model}")
-
+            
             # Call the chatbot with role, instruction, and content
             if viaWeb == True:
                 # via WebUI
@@ -198,22 +193,27 @@ for doc in tqdm(corpus, desc="Processing documents"):
                 # without WebUI
                 chat_response = askChatbotLocal(model, event_definitions, instruction, combined_procedure_text)
                 response_content = chat_response
-
-            print(f"Response from {model}:\n{response_content}")
-            doc_dict["annotations"] = {
-                "model_name": model,
-                #"response": response_content,
-                "events": response_content.get("events", []) if isinstance(response_content, dict) else []
-
-            }
-
+            
+            #print(f"Response from {model}:\n{response_content}")
+            #doc_dict["annotations"] = {
+            #    "model_name": model,
+            #   "events": response_content,
+                #"events": response_content.get("events", []) if isinstance(response_content, dict) else []
+            #}
+            annotations_list.append({"model_name": model, "events": response_content})
+            
         except Exception as e:
             with open("error.txt", "a") as file:
                 file.write(f"Error with model {model}: {str(e)}")
             file.close()
         
+    doc_dict["annotations"] = annotations_list
     # Append the document dictionary to the results list
     results.append(doc_dict)
+    
+    # for testing only
+    #counter += 1
+    
     
 
 # Save results
@@ -223,14 +223,22 @@ for doc in tqdm(corpus, desc="Processing documents"):
 # Excel
 #df.to_excel("chat_responses_with_instructions.xlsx", index=False)
 # JSON
-for doc_dict in results:
-    for model in models:
-        if model in doc_dict and isinstance(doc_dict[model], str):
+for doc in results:
+    for ann in doc["annotations"]:
+        # If events is a string, parse it to dict, then extract the list under "events"
+        if isinstance(ann["events"], str):
             try:
-                doc_dict[model] = json.loads(doc_dict[model])
+                parsed = json.loads(ann["events"])
+                # If the parsed object has an "events" key, use its value (a list)
+                if isinstance(parsed, dict) and "events" in parsed:
+                    ann["events"] = parsed["events"]
+                else:
+                    ann["events"] = parsed
             except Exception as e:
-                print(f"Warning: Could not parse JSON for model {model}: {e}")
+                ann["events"] = []  # fallback to empty list if parsing fails
 
 with open("chat_responses_with_instructions.json", "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
+
+
 
