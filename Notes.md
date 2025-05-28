@@ -6,8 +6,16 @@
 ### 28.05.25
 
 - Model selection -> try different sizes of models? Impact on performance (runtime, results)?
+=> take a smaller and larger model of each LLM for comparison
 - Evaluation -> needs rework
 - Decision section does not cover last sentence which is annotated as an event! 
+=> Include the sentence after the decision sections ends, plus the sentence before
+
+- Preprocessing: add numbers to sentences to check order
+- Length of documents: check context length of LLMs
+- Check acceptable tokens of each LLM
+- try out different prompts (very little to very structured)
+- Make it more explicit to have the actual sentence as well in the output
 
 ### 25.04.25
 

@@ -2,3 +2,5 @@
 .env
 .webui_secret_key
 *.zip
+*.pyc
+__pycache__/
