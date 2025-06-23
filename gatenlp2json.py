@@ -83,10 +83,12 @@ def gate_to_gliner_json(gate_file_path):
     return gliner_format
 
 def main():
+
+    total = []
     
     # Get the script's directory
     script_dir = Path(__file__).parent
-    folder = "train" #test"
+    folder = "dev" # "train" #test"
     input_dir = script_dir / ("input/annotated/" + folder)
     output_dir = script_dir / ("input/annotated-json/" + folder)
     
@@ -106,8 +108,14 @@ def main():
             
             print(f"Converted {gate_file.name} to {output_file.name}")
             
+            total.append(gliner_data)
         except Exception as e:
             print(f"Error processing {gate_file.name}: {str(e)}")
+
+    # Save all processed data to a single JSON file
+    total_output_file = script_dir / f"input/annotated-json/total_{folder}.json"
+    with open(total_output_file, 'w', encoding='utf-8') as f:
+                json.dump(total, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     main()

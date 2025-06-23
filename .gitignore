@@ -3,4 +3,8 @@
 .webui_secret_key
 *.zip
 *.pyc
+<<<<<<< HEAD
 .__pycache__/
+=======
+__pycache__/
+>>>>>>> 5f2150419fd191124c2b878579193b4fea919fc3
