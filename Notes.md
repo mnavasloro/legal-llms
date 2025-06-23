@@ -3,9 +3,12 @@
 - attach to instance: tmux a -t <instance>
 - close tmux window: ctrl+b then d
 
+### 26.06.25
+- clarify which additional models we want to test -> how much additional disk space is required (disk currently full)
+
 ### 28.05.25
 
-- Model selection -> try different sizes of models? Impact on performance (runtime, results)?
+- Model selection -> try different sizes of models? Impact on performance (runtime, results)? Which models to choose -> research different models
 - Evaluation -> needs rework
 - Decision section does not cover last sentence which is annotated as an event! 
 
