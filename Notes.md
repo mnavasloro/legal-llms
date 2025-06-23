@@ -8,12 +8,8 @@
 
 ### 28.05.25
 
-<<<<<<< HEAD
-- Model selection -> try different sizes of models? Impact on performance (runtime, results)? Which models to choose -> research different models
-=======
 - Model selection -> try different sizes of models? Impact on performance (runtime, results)?
 => take a smaller and larger model of each LLM for comparison
->>>>>>> 5f2150419fd191124c2b878579193b4fea919fc3
 - Evaluation -> needs rework
 - Decision section does not cover last sentence which is annotated as an event! 
 => Include the sentence after the decision sections ends, plus the sentence before
