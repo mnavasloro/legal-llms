@@ -8,7 +8,7 @@ def loadCorpus():
     corpus = ListCorpus([])
 
     # Define the base directory
-    base_dir = "input/annotated"
+    base_dir = "input/updated/annotated"
 
     # Walk through the directory and load each XML file
     for root, dirs, files in os.walk(base_dir):

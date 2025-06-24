@@ -89,8 +89,8 @@ def main():
     # Get the script's directory
     script_dir = Path(__file__).parent
     folder = "dev" # "train" #test"
-    input_dir = script_dir / ("input/annotated/" + folder)
-    output_dir = script_dir / ("input/annotated-json/" + folder)
+    input_dir = script_dir / ("input/updated/annotated/" + folder)
+    output_dir = script_dir / ("input/updated/annotated-json/" + folder)
     
     # Create output directory if it doesn't exist
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -113,7 +113,7 @@ def main():
             print(f"Error processing {gate_file.name}: {str(e)}")
 
     # Save all processed data to a single JSON file
-    total_output_file = script_dir / f"input/annotated-json/total_{folder}.json"
+    total_output_file = script_dir / f"input/updated/annotated-json/total_{folder}.json"
     with open(total_output_file, 'w', encoding='utf-8') as f:
                 json.dump(total, f, ensure_ascii=False, indent=2)
 
