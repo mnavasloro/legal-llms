@@ -1,0 +1,160 @@
+[
+  {
+    "Document": "file:/C:/Users/mnavas/CASE%20OF%20ALTAY%20v.%20TURKEY%20(No.%202).docx",
+    "annotations": [
+      {
+        "model_name": "gemma3:12b",
+        "events": [
+          {
+            "source_text": "11236/09) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Mr Mehmet Aytunç Altay (“the applicant”), on 17 February 2006.",
+            "event": "Application to lift restriction",
+            "event_who": "Applicant",
+            "event_when": "2008-05-29",
+            "event_what": "Application to lift restriction on conversations with lawyer",
+            "event_type": "application"
+          },
+          {
+            "source_text": "8.  On 25 August 2005 the Edirne Enforcement Court allowed an application by the prosecutor and examined the contents of the package, which contained a book entitled Globalisation and Imperialism ( Küreselleşme ve Emperyalizm) , a magazine with the title Rootless Anational Publication ( Köxüz Anasyonal Neşriyat ), and a newspaper with the title Express International Sha la la ( Express Enternasyonal Şalala ).",
+            "event": "Dismissal of application",
+            "event_who": "Edirne Enforcement Court",
+            "event_when": "2008-06-04",
+            "event_what": "Dismissal of application to lift restriction",
+            "event_type": "dismissal"
+          },
+          {
+            "source_text": "11236/09) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Mr Mehmet Aytunç Altay (“the applicant”), on 17 February 2006.",
+            "event": "Application with hearing request",
+            "event_who": "Applicant",
+            "event_when": "2010-11-02",
+            "event_what": "Application for hearing",
+            "event_type": "application"
+          },
+          {
+            "source_text": "8.  On 25 August 2005 the Edirne Enforcement Court allowed an application by the prosecutor and examined the contents of the package, which contained a book entitled Globalisation and Imperialism ( Küreselleşme ve Emperyalizm) , a magazine with the title Rootless Anational Publication ( Köxüz Anasyonal Neşriyat ), and a newspaper with the title Express International Sha la la ( Express Enternasyonal Şalala ).",
+            "event": "Dismissal of hearing request",
+            "event_who": "Edirne Enforcement Court",
+            "event_when": "2010-12-06",
+            "event_what": "Dismissal of request for hearing",
+            "event_type": "dismissal"
+          },
+          {
+            "source_text": "Source text not identified",
+            "event": "Dismissal of appeal",
+            "event_who": "Appeals court",
+            "event_when": "2011-08-24",
+            "event_what": "Dismissal of appeal against hearing request dismissal",
+            "event_type": "dismissal"
+          },
+          {
+            "source_text": "11236/09) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Mr Mehmet Aytunç Altay (“the applicant”), on 17 February 2006.",
+            "event": "Application to lift restriction",
+            "event_who": "Applicant",
+            "event_when": "2013-02-21",
+            "event_what": "Application to lift restriction",
+            "event_type": "application"
+          },
+          {
+            "source_text": "8.  On 25 August 2005 the Edirne Enforcement Court allowed an application by the prosecutor and examined the contents of the package, which contained a book entitled Globalisation and Imperialism ( Küreselleşme ve Emperyalizm) , a magazine with the title Rootless Anational Publication ( Köxüz Anasyonal Neşriyat ), and a newspaper with the title Express International Sha la la ( Express Enternasyonal Şalala ).",
+            "event": "Dismissal of application",
+            "event_who": "Edirne Enforcement Court",
+            "event_when": "2013-04-11",
+            "event_what": "Dismissal of application to lift restriction",
+            "event_type": "dismissal"
+          },
+          {
+            "source_text": "Source text not identified",
+            "event": "Rejection of appeal",
+            "event_who": "Appeals court",
+            "event_when": "2013-06-10",
+            "event_what": "Rejection of appeal against dismissal of application to lift restriction",
+            "event_type": "rejection"
+          }
+        ]
+      },
+      {
+        "model_name": "mistral:latest",
+        "events": [
+          {
+            "source_text": "Source text not identified",
+            "event": "summary",
+            "event_who": "",
+            "event_when": "",
+            "event_what": "The Court found that there was a violation of Article 8 (right to respect for private and family life) and Article 6 § 1 (right to a fair trial) due to lack of a hearing in the proceedings concerning the applicant.",
+            "event_type": "judgment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Document": "file:/C:/Users/mnavas/CASE%20OF%20BELYAYEV%20AND%20OTHERS%20v.%20UKRAINE.docx",
+    "annotations": [
+      {
+        "model_name": "gemma3:12b",
+        "events": [
+          {
+            "source_text": "34345/10, lodged on 3 March 2010), Mr Ivan Ivanovych Karpenko (“the second applicant” – application no.",
+            "event": "Application Lodged",
+            "event_who": "Mikhail Igorevich Belyayev, Ivan Ivanovych Karpenko, and a third unnamed applicant",
+            "event_when": "3 March 2010",
+            "event_what": "Three applications lodged against Ukraine with the Court under Article 34 of the Convention.",
+            "event_type": "Legal"
+          },
+          {
+            "source_text": "7.  On 11 July 2003 the Ukrainian Parliament adopted the Code on the Execution of Sentences of Ukraine (“the Code”).",
+            "event": "Law Amended",
+            "event_who": "Parliament",
+            "event_when": "8 April 2014",
+            "event_what": "Law introduced amendments to the Code, entitling all life prisoners to one short visit every month and one long visit every three months.",
+            "event_type": "Legal"
+          },
+          {
+            "source_text": "7.  On 11 July 2003 the Ukrainian Parliament adopted the Code on the Execution of Sentences of Ukraine (“the Code”).",
+            "event": "Code Amended",
+            "event_who": "Parliament",
+            "event_when": "7 September 2016",
+            "event_what": "Amendments to Article 151 of the Code, entitling all life prisoners to one long visit every two months.",
+            "event_type": "Legal"
+          },
+          {
+            "source_text": "1.  The case originated in three applications against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by three Ukrainian nationals: Mr Mikhail Igorevich Belyayev (“the first applicant” application no.",
+            "event": "Payment Ordered",
+            "event_who": "Court",
+            "event_when": "6 June 2019",
+            "event_what": "The respondent State is ordered to pay EUR 3,000 to the first applicant and EUR 1,500 each to the second and third applicants for non-pecuniary damage.",
+            "event_type": "Legal"
+          },
+          {
+            "source_text": "1.  The case originated in three applications against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by three Ukrainian nationals: Mr Mikhail Igorevich Belyayev (“the first applicant” application no.",
+            "event": "Payment Ordered",
+            "event_who": "Court",
+            "event_when": "6 June 2019",
+            "event_what": "The respondent State is ordered to pay EUR 850 to the first applicant for costs and expenses, to be paid to Mr. T. Kalmykov.",
+            "event_type": "Legal"
+          },
+          {
+            "source_text": "50687/10, lodged on 16 August 2010) and Mr Rustam Zakirovich Farziyev (“the third applicant” – application no. 70492/13, lodged on 28 October 2013).",
+            "event": "Impact on Rights",
+            "event_who": "Third Applicant",
+            "event_when": "Before 2014",
+            "event_what": "Lack of long visits impacted the third applicant's right to found a family.",
+            "event_type": "Social"
+          }
+        ]
+      },
+      {
+        "model_name": "mistral:latest",
+        "events": [
+          {
+            "source_text": "Source text not identified",
+            "event": "Judgment from European Court of Human Rights",
+            "event_who": "European Court of Human Rights",
+            "event_when": "June 6, 2019",
+            "event_what": "Violation of Article 14 (prohibition of discrimination) and Article 8 (right to respect for private and family life)",
+            "event_type": "Legal Event"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -5,6 +5,7 @@
 
 ### 26.06.25
 - clarify which additional models we want to test -> how much additional disk space is required (disk currently full)
+=> email to Alex sent to increase disk space, give Maria access to jurix and ollama
 
 ### 28.05.25
 
@@ -12,8 +13,8 @@
 => take a smaller and larger model of each LLM for comparison
 - Evaluation -> needs rework
 - Decision section does not cover last sentence which is annotated as an event! 
-=> Include the sentence after the decision sections ends, plus the sentence before
-
+-> Include the sentence after the decision sections ends, plus the sentence before 
+=> DONE
 - Preprocessing: add numbers to sentences to check order
 - Length of documents: check context length of LLMs
 - Check acceptable tokens of each LLM
