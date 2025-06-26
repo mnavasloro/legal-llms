@@ -4,8 +4,17 @@
 - close tmux window: ctrl+b then d
 
 ### 26.06.25
+
 - clarify which additional models we want to test -> how much additional disk space is required (disk currently full)
-=> email to Alex sent to increase disk space, give Maria access to jurix and ollama
+-> email to Alex sent to increase disk space, give Maria access to jurix and ollama
+=> DONE
+- Length of documents: check context length of LLMs
+- try out different prompts (very little to very structured)
+    - focus on text and do not "summarize" the event
+    - lenient evaluation for llms -> publications? otherwise argue with LLM architecture   
+    - try out different ways to limit creativity, probabilities,... (temperature? or other properties?)
+- Make it more explicit to have the actual sentence as well in the output
+- Preprocessing: add numbers to sentences to check order (for evaluation)
 
 ### 28.05.25
 
@@ -16,9 +25,6 @@
 -> Include the sentence after the decision sections ends, plus the sentence before 
 => DONE
 - Preprocessing: add numbers to sentences to check order
-- Length of documents: check context length of LLMs
-- Check acceptable tokens of each LLM
-- try out different prompts (very little to very structured)
 - Make it more explicit to have the actual sentence as well in the output
 
 ### 25.04.25
