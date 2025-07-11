@@ -8,7 +8,10 @@
 - clarify which additional models we want to test -> how much additional disk space is required (disk currently full)
 -> email to Alex sent to increase disk space, give Maria access to jurix and ollama
 => DONE
-- Length of documents: check context length of LLMs
+- Length of documents: check context length of LLMs and whether documents fit into the context length
+
+![1752247070664](image/Notes/1752247070664.png)
+
 - try out different prompts (very little to very structured)
     - focus on text and do not "summarize" the event
     - lenient evaluation for llms -> publications? otherwise argue with LLM architecture   
