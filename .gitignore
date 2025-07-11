@@ -4,3 +4,4 @@
 *.zip
 *.pyc
 .__pycache__/
+backup/
