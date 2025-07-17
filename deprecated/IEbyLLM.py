@@ -14,6 +14,7 @@ from pydantic import BaseModel
 from dotenv import load_dotenv
 
 from GatenlpUtils import loadCorpus
+from PromptUtils import load_prompt_config, list_available_prompts
 
 # %%
 try:
@@ -125,21 +126,18 @@ models = ["gemma3:12b",
 ]
 
 
-event_definitions = """
-You are an expert in legal text analysis. Here are the definitions of legal events:
-- Event: Relates to the extent of text containing contextual event-related information. 
-- Event_who: Corresponds to the subject of the event, which can either be a subject, but also an object (i.e., an application). 
-    Examples: applicant, respondent, judge, witness
-- Event_what: Corresponds to the main verb reflecting the baseline of all the paragraph. Additionally, we include thereto a complementing verb or object whenever the core verb is not self-explicit or requires an extension to attain a sufficient meaning.
-    Examples: lodged an application, decided, ordered, dismissed
-- Event_when: Refers to the date of the event, or to any temporal reference thereto.
-- Event_circumstance: Meaning that the event correspond to the facts under judgment.
-- Event_procedure: The events belongs to the procedural dimension of the case.
+# Load prompt configurations
+print("Available prompt configurations:")
+available_prompts = list_available_prompts()
+for prompt in available_prompts:
+    print(f"  - {prompt}")
 
-Events contain the annotations event_who, event_what and event_when. Events can be of type event_circumstance and event_procedure.
-"""
+# Load default prompt configuration
+prompt_config = load_prompt_config("p1")
+print(f"\nUsing prompt configuration: p1")
 
-instruction = "Analyze the provided text and extract the legal events. Provide the results in a structured format. Obviously, Event_who, Event_what and Event_when can only appear within an Event. If you find an event, also classify it into an event_circumstance or event_procedure. Do not invent additional information."
+# Remove hardcoded definitions - now loaded from JSON files
+# event_definitions and instruction are now loaded from the prompt configuration
 
 
 # %%
@@ -186,12 +184,12 @@ for doc in tqdm(corpus, desc="Processing documents"):
             # Call the chatbot with role, instruction, and content
             if viaWeb == True:
                 # via WebUI
-                chat_response = askChatbot(model, event_definitions, instruction, combined_procedure_text)
+                chat_response = askChatbot(model, prompt_config.event_definitions, prompt_config.instruction, combined_procedure_text)
                 # Extract and store the response
                 response_content = chat_response.json().get("message", {}).get("content", "No response content")
             else:
                 # without WebUI
-                chat_response = askChatbotLocal(model, event_definitions, instruction, combined_procedure_text)
+                chat_response = askChatbotLocal(model, prompt_config.event_definitions, prompt_config.instruction, combined_procedure_text)
                 response_content = chat_response
             
             #print(f"Response from {model}:\n{response_content}")

@@ -15,6 +15,7 @@ from pydantic import BaseModel
 from dotenv import load_dotenv
 
 from GatenlpUtils import loadCorpus
+from PromptUtils import load_prompt_config, list_available_prompts
 
 
 # Configure logging
@@ -40,6 +41,7 @@ class ProcessingConfig:
     via_web: bool = False
     batch_size: int = 1
     reserve_tokens: int = 1000
+    prompt_config: str = "p1"  # Default prompt configuration
     
     def __post_init__(self):
         # Create output directories
@@ -142,35 +144,18 @@ class EventList(BaseModel):
   events: list[Event]
 
 # %%
-models = ["gemma3:12b",
-          "mistral:latest"
-]
-"""
-models = ["gemma3:1b",
-          "gemma3:12b",
-          "chevalblanc/claude-3-haiku:latest",
-          "incept5/llama3.1-claude:latest",
-          "llama3.3:latest",
-          "deepseek-r1:8b",
-          "mistral:latest"
-]
-"""
+# Load prompt configurations
+print("Available prompt configurations:")
+available_prompts = list_available_prompts()
+for prompt in available_prompts:
+    print(f"  - {prompt}")
 
-event_definitions = """
-You are an expert in legal text analysis. Here are the definitions of legal events:
-- Event: Relates to the extent of text containing contextual event-related information. 
-- Event_who: Corresponds to the subject of the event, which can either be a subject, but also an object (i.e., an application). 
-    Examples: applicant, respondent, judge, witness
-- Event_what: Corresponds to the main verb reflecting the baseline of all the paragraph. Additionally, we include thereto a complementing verb or object whenever the core verb is not self-explicit or requires an extension to attain a sufficient meaning.
-    Examples: lodged an application, decided, ordered, dismissed
-- Event_when: Refers to the date of the event, or to any temporal reference thereto.
-- Event_circumstance: Meaning that the event correspond to the facts under judgment.
-- Event_procedure: The events belongs to the procedural dimension of the case.
+# Load default prompt configuration
+default_prompt_config = load_prompt_config(config.prompt_config)
+print(f"\nUsing prompt configuration: {config.prompt_config}")
 
-Events contain the annotations event_who, event_what and event_when. Events can be of type event_circumstance and event_procedure.
-"""
-
-instruction = "Analyze the provided text and extract the legal events. Provide the results in a structured format. Obviously, Event_who, Event_what and Event_when can only appear within an Event. If you find an event, also classify it into an event_circumstance or event_procedure. Do not invent additional information."
+# Remove hardcoded definitions - now loaded from JSON files
+# event_definitions and instruction are now loaded from the prompt configuration
 
 
 # %%
@@ -353,7 +338,7 @@ def extract_document_sections(doc) -> Dict[str, str]:
         logger.error(f"Error extracting sections: {e}")
         return sections
 
-def save_results_improved(doc_dict: Dict[str, Any], backup: bool = True) -> bool:
+def save_results_improved(doc_dict: Dict[str, Any], pipeline_timestamp: str, backup: bool = True) -> bool:
     """
     Improved save function with better error handling and backup
     """
@@ -402,8 +387,10 @@ def save_results_improved(doc_dict: Dict[str, Any], backup: bool = True) -> bool
             "total_tokens": doc_dict.get("total_tokens", 0)
         }
         
-        # Save to main output
-        output_path = Path(config.output_dir) / f"{doc_name}.json"
+        # Save to main output - create subdirectory if it doesn't exist
+        output_subdir = Path(config.output_dir) / f"pipeline_results_{pipeline_timestamp}"
+        output_subdir.mkdir(parents=True, exist_ok=True)
+        output_path = output_subdir / f"{doc_name}.json"
         if not safe_json_dump(doc_dict, output_path, indent=2):
             return False
         
@@ -419,8 +406,7 @@ def save_results_improved(doc_dict: Dict[str, Any], backup: bool = True) -> bool
         logger.error(f"Error saving results: {e}")
         return False
 
-def process_document_with_models(doc, models: List[str], event_definitions: str, 
-                                instruction: str) -> Dict[str, Any]:
+def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[str, Any]:
     """
     Process a single document with multiple models
     """
@@ -452,9 +438,9 @@ def process_document_with_models(doc, models: List[str], event_definitions: str,
         
         # Choose appropriate function based on configuration
         if config.via_web:
-            response = askChatbotImproved(model, event_definitions, instruction, combined_text)
+            response = askChatbotImproved(model, prompt_config.event_definitions, prompt_config.instruction, combined_text)
         else:
-            response = askChatbotLocalImproved(model, event_definitions, instruction, combined_text)
+            response = askChatbotLocalImproved(model, prompt_config.event_definitions, prompt_config.instruction, combined_text)
         
         if response:
             annotation = {
@@ -473,33 +459,51 @@ def process_document_with_models(doc, models: List[str], event_definitions: str,
 
 # %%
 # Updated model configuration
-# models = [
-#     "gemma3:12b",
-#     "mistral:latest"
-# ]
-
-# You can add more models as needed
 models = [
     "gemma3:1b",
-    "gemma3:4b",
     "gemma3:12b",
-    "llama3.3:latest",
-    "deepseek-r1:8b",
-    "mistral:latest",
-    "incept5/llama3.1-claude:latest", 
-    "chevalblanc/claude-3-haiku:latest",
-    "llama4:16x17b",
-    "mixtral:8x7b"
+    "mistral:latest"
 ]
 
-def run_improved_pipeline(max_documents: int = 10, models: List[str] = None) -> Dict[str, Any]:
+# You can add more models as needed
+# models = [
+#     "gemma3:1b",
+#     "gemma3:4b",
+#     "gemma3:12b",
+#     "llama3.3:latest",
+#     "deepseek-r1:8b",
+#     "mistral:latest",
+#     "incept5/llama3.1-claude:latest", 
+#     "chevalblanc/claude-3-haiku:latest",
+#     "llama4:16x17b",
+#     "mixtral:8x7b"
+# ]
+
+def run_improved_pipeline(max_documents: int = 10, models: List[str] = None, 
+                         prompt_config_name: str = None, pipeline_timestamp: str = None) -> Dict[str, Any]:
     """
     Run the improved information extraction pipeline
     """
-    # if models is None:
-    #     models = models
+    # Load prompt configuration
+    if prompt_config_name is None:
+        prompt_config_name = config.prompt_config
+    
+    try:
+        prompt_config = load_prompt_config(prompt_config_name)
+        logger.info(f"Loaded prompt configuration: {prompt_config_name}")
+    except Exception as e:
+        logger.error(f"Failed to load prompt configuration: {e}")
+        return {"error": str(e)}
     
     logger.info(f"Starting IE pipeline with {len(models)} models and max {max_documents} documents")
+    
+    # Create pipeline-specific output directory
+    if pipeline_timestamp is None:
+        pipeline_timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+    
+    pipeline_output_dir = Path(config.output_dir) / f"pipeline_results_{pipeline_timestamp}"
+    pipeline_output_dir.mkdir(parents=True, exist_ok=True)
+    logger.info(f"Created pipeline output directory: {pipeline_output_dir}")
     
     # Load corpus
     try:
@@ -516,6 +520,7 @@ def run_improved_pipeline(max_documents: int = 10, models: List[str] = None) -> 
         "total_annotations": 0,
         "start_time": datetime.now().isoformat(),
         "models_used": models,
+        "prompt_config": prompt_config.get_metadata(),
         "documents": []
     }
     
@@ -525,11 +530,11 @@ def run_improved_pipeline(max_documents: int = 10, models: List[str] = None) -> 
             break
             
         try:
-            doc_dict = process_document_with_models(doc, models, event_definitions, instruction)
+            doc_dict = process_document_with_models(doc, models, prompt_config)
             
             if doc_dict:
                 # Save results
-                if save_results_improved(doc_dict, backup=True):
+                if save_results_improved(doc_dict, pipeline_timestamp, backup=True):
                     results["processed_documents"] += 1
                     results["total_annotations"] += len(doc_dict.get("annotations", []))
                     results["documents"].append(doc_dict["Document"])
@@ -548,7 +553,7 @@ def run_improved_pipeline(max_documents: int = 10, models: List[str] = None) -> 
     results["total_processing_time"] = str(datetime.fromisoformat(results["end_time"]) - datetime.fromisoformat(results["start_time"]))
     
     # Save pipeline results
-    pipeline_results_path = Path(config.output_dir) / f"pipeline_results_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+    pipeline_results_path = pipeline_output_dir / f"pipeline_results_{pipeline_timestamp}.json"
     safe_json_dump(results, pipeline_results_path, indent=2)
     
     logger.info(f"Pipeline completed. Processed: {results['processed_documents']}, Failed: {results['failed_documents']}")
@@ -561,15 +566,19 @@ print("Running improved IE pipeline...")
 print("=" * 50)
 
 # Configure processing
-config.max_documents = 30  # Start with a small number for testing
+config.max_documents = 2 # Start with a small number for testing
 config.via_web = False    # Use local models
 config.max_retries = 3
 config.retry_delay = 2.0
+config.prompt_config = "p1"  # Use the p1 prompt configuration
 
 # Run the pipeline
+pipeline_timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
 results = run_improved_pipeline(
     max_documents=config.max_documents,
-    models=models
+    models=models,
+    prompt_config_name=config.prompt_config,
+    pipeline_timestamp=pipeline_timestamp
 )
 
 # Display results
@@ -580,6 +589,9 @@ print(f"Documents failed: {results['failed_documents']}")
 print(f"Total annotations: {results['total_annotations']}")
 print(f"Models used: {', '.join(results['models_used'])}")
 print(f"Processing time: {results['total_processing_time']}")
+print(f"Prompt configuration: {results['prompt_config']['config_name']}")
+print(f"Event definitions: {results['prompt_config']['event_definitions'][:100]}...")
+print(f"Instruction: {results['prompt_config']['instruction'][:100]}...")
 
 if results['documents']:
     print(f"\nProcessed documents:")
@@ -592,7 +604,17 @@ def analyze_results(output_dir: str = "output") -> Dict[str, Any]:
     Analyze the results from the IE pipeline
     """
     output_path = Path(output_dir)
-    json_files = list(output_path.glob("*.json"))
+    
+    # Look for JSON files in both the main directory and subdirectories
+    json_files = []
+    
+    # Add files from main directory
+    json_files.extend(list(output_path.glob("*.json")))
+    
+    # Add files from pipeline result subdirectories
+    for subdir in output_path.glob("pipeline_results_*"):
+        if subdir.is_dir():
+            json_files.extend(list(subdir.glob("*.json")))
     
     if not json_files:
         logger.warning("No result files found")
@@ -609,8 +631,9 @@ def analyze_results(output_dir: str = "output") -> Dict[str, Any]:
     all_docs = []
     
     for file_path in json_files:
+        # Skip pipeline summary files
         if file_path.name.startswith("pipeline_results_"):
-            continue  # Skip pipeline summary files
+            continue
             
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
@@ -695,4 +718,4 @@ print("\nAnalyzing results...")
 analysis = analyze_results()
 display_analysis(analysis)
 
-
+# %%
