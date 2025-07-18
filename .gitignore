@@ -3,5 +3,6 @@
 .webui_secret_key
 *.zip
 *.pyc
-.__pycache__/
+__pycache__/
 backup/
+output/

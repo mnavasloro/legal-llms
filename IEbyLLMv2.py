@@ -345,21 +345,6 @@ def save_results_improved(doc_dict: Dict[str, Any], pipeline_timestamp: str, bac
     try:
         # Process events in annotations
         for ann in doc_dict.get("annotations", []):
-            # Handle structured_events (Pydantic objects)
-            if "structured_events" in ann and ann["structured_events"] is not None:
-                try:
-                    # Convert Pydantic model to dict
-                    if hasattr(ann["structured_events"], 'model_dump'):
-                        ann["structured_events"] = ann["structured_events"].model_dump()
-                    elif hasattr(ann["structured_events"], 'dict'):
-                        ann["structured_events"] = ann["structured_events"].dict()
-                    else:
-                        # If it's already a dict or other serializable type, keep as is
-                        pass
-                except Exception as e:
-                    logger.warning(f"Failed to serialize structured_events: {e}")
-                    ann["structured_events"] = None
-            
             # Handle events string parsing
             if "events" in ann and isinstance(ann["events"], str):
                 try:
@@ -446,7 +431,6 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
             annotation = {
                 "model_name": model,
                 "events": response["content"],
-                "structured_events": response.get("structured"),
                 "processed_at": datetime.now().isoformat(),
                 "context_length": model_manager.get_context_length(model),
                 "input_tokens": total_tokens
