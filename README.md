@@ -20,6 +20,10 @@ Access UI on ```localhost:8080``` (also available remote via port forwarding)
 | chevalblanc/claude-3-haiku:latest | 10        | 1000K                 |
 | llama4:16x17b                     | 67        | 10M                   |
 | mixtral:8x7b                      | 26        | 32K                   |
+| dolphin3:8b                       | 4.9       | 128K                  |
+| dolphin-mixtral:8x7b              | 26        | 32K                   |
+| gemma3n:e4b                       | 7.5       | 32K                   |
+
 
 
 ## Uninstalled models
