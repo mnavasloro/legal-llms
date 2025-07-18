@@ -459,7 +459,10 @@ models = [
 #     "incept5/llama3.1-claude:latest", 
 #     "chevalblanc/claude-3-haiku:latest",
 #     "llama4:16x17b",
-#     "mixtral:8x7b"
+#     "mixtral:8x7b",
+#     "dolphin3:8b",
+#     "dolphin-mixtral:8x7b",
+#     "gemma3n:e4b",
 # ]
 
 def run_improved_pipeline(max_documents: int = 10, models: List[str] = None, 
