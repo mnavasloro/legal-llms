@@ -1,23 +1,4 @@
 {
-  "processed_documents": 2,
-  "failed_documents": 0,
-  "total_annotations": 6,
-  "start_time": "2025-07-17T14:06:21.567910",
-  "models_used": [
-    "gemma3:1b",
-    "gemma3:12b",
-    "mistral:latest"
-  ],
-  "prompt_config": {
-    "config_name": "p1",
-    "config_path": "input\\prompts\\p1.json",
     "event_definitions": "You are an expert in legal text analysis. Here are the definitions of legal events:\n- Event: Relates to the extent of text containing contextual event-related information.\n- Event_who: Corresponds to the subject of the event, which can either be a subject, but also an object (i.e., an application).\n    Examples: applicant, respondent, judge, witness\n- Event_what: Corresponds to the main verb reflecting the baseline of all the paragraph. Additionally, we include thereto a complementing verb or object whenever the core verb is not self-explicit or requires an extension to attain a sufficient meaning.\n    Examples: lodged an application, decided, ordered, dismissed\n- Event_when: Refers to the date of the event, or to any temporal reference thereto.\n- Event_circumstance: Meaning that the event correspond to the facts under judgment.\n- Event_procedure: The events belongs to the procedural dimension of the case.\n\nEvents contain the annotations event_who, event_what and event_when. Events can be of type event_circumstance and event_procedure.",
-    "instruction": "Analyze the provided text and extract the legal events. Provide the results in a structured format. Obviously, Event_who, Event_what and Event_when can only appear within an Event. If you find an event, also classify it into an event_circumstance or event_procedure. Do not invent additional information."
-  },
-  "documents": [
-    "file:/C:/Users/mnavas/CASE%20OF%20ALTAY%20v.%20TURKEY%20(No.%202).docx",
-    "file:/C:/Users/mnavas/CASE%20OF%20BELYAYEV%20AND%20OTHERS%20v.%20UKRAINE.docx"
-  ],
-  "end_time": "2025-07-17T14:17:10.144706",
-  "total_processing_time": "0:10:48.576796"
+    "instruction": "Analyze the provided text and extract the legal events. Provide the results in a structured format. Obviously, Event_who, Event_what and Event_when can only appear within an Event. If you find an event, also classify it into an event_circumstance or event_procedure. Do not invent additional information. Only extract information that is explicitly present in the text, hence, do not add any assumptions or interpretations beyond what is stated and also do not summarize text."
 }

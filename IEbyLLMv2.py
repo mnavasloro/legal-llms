@@ -445,7 +445,6 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
 # Updated model configuration
 models = [
     "gemma3:1b",
-    "gemma3:12b",
     "mistral:latest"
 ]
 
