@@ -1,0 +1,2170 @@
+{
+  "Document": "file:/C:/Users/mnavas/CASE%20OF%20SOLCAN%20v.%20ROMANIA.docx",
+  "sections": {
+    "procedure": "1.  The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.\n2.  The applicant was represented by Ms A. Diaconescu, a lawyer practising in Iași. The Romanian Government (“the Government”) were represented by their Agent, most recently Mr. V. Mocanu, of the Ministry of Foreign Affairs.\n3.  The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.\n4.  On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+    "circumstances": "5.  The applicant was born in 1969 and is currently in a psychiatric facility in Pădureni-Grajduri.\n6.  In 2005 she committed a murder in France. On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility. The medical experts diagnosed her as suffering from paranoid schizophrenia and concluded that her acts had been the result of paranoid delusions. Endorsing the experts’ findings that she posed a danger to the public on account of her mental health, the court ordered her placement in a psychiatric facility in France for an indefinite period of time.\n7.  In 2011 the applicant lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.\n8.  By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi. At the time of the latest information available to the Court (9 November 2016), she was still detained there.\n9.  On 11 April 2013 the applicant’s mother died. On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.\n10.  On 23 May 2013 the court examined her request and refused to grant her leave. It pointed out that under Article 39 of the Mental Health Act (see paragraph 14 below) the restriction of liberty of mentally ill persons was justified for the protection of their health or safety or for the protection of others, and that under Article 49 of the same Act the facility was chosen so as to allow the mentally ill patient to be as close to home as possible. When applying the above provisions to the applicant’s situation, the court held as follows:\n“Bearing in mind these legal provisions, the court considers that the safety of others prevails, the patient Solcan Luminiţa having been diagnosed with a mental illness which could potentially present a danger to the lives of others and their feelings of peace and confidence; for this reason, the request made by the patient shall be dismissed ...”\n11.  The applicant lodged an appeal on points of law against that decision. She claimed that the provisions of Law no. 275/2006 on the execution of sentences, which authorised the temporary interruption of a custodial sentence for family reasons, should also apply to her detention in a psychiatric facility. The prosecutor’s office argued that a measure of detention in a medical facility could not be assimilated to a custodial sentence and accordingly there was no legal basis for the interruption of the applicant’s involuntary hospitalisation in a psychiatric facility.\n12.  By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal. It held that under Article 114 of the Criminal Code read in conjunction with Article 434 of the Code of Criminal Procedure her detention in a psychiatric facility could be either discontinued or replaced by an obligation to undergo outpatient mental health treatment after an assessment by medical experts. It concluded that the applicant’s request to interrupt her detention in a psychiatric facility had no basis in law and that no analogy could be drawn between her situation and the situation of a prison detainee. Accordingly, the provisions of Law no. 275/2006 authorising the temporary interruption of detention on family grounds were not applicable to her situation. Moreover, the court noted that in any event the applicant’s request was no longer valid as her mother’s funeral had already taken place.\nRELEVANT DOMESTIC LAW AND PRACTICE\n13.  The relevant provisions of the Criminal Code and the Code of Criminal Procedure, as in force at the relevant time, are set out in Filip v. Romania (no. 41124/02, §§ 30-31, 14 December 2006).\n14.  Psychiatric detention is governed by the provisions of the Mental Health Act (Law no. 487 of 11 July 2002 on mental health and the protection of people with mental disorders) published in Official Gazette no. 589 of 8 August 2002. It was amended by Law no. 600/2004 and subsequently by Law no. 129/2012.\nThe Mental Health Act does not contain any provisions expressly authorising a judge to interrupt or suspend the involuntary hospitalisation of a mentally ill person.\n15.  The Government attached to their observations three decisions made by the Buzau District Court (on 30 January 2014, 6 February and 27 March 2015 respectively) by which the applicants, who had all been admitted to a psychiatric facility for inpatient treatment, were allowed to attend the funerals of their family members. In all three case files there was medical evidence proving that they were able to attend. After assessing the particular circumstances of each applicant, the court granted them leave to attend their parents’ funerals. Their requests were examined by the court without undue delay so that they could attend. In one of the three cases the request was allowed on the condition that the applicant would be accompanied by medical staff and under police escort.",
+    "decision": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,\nDeclares the application admissible;\nHolds that there has been a violation of Article 8 of the Convention;\nHolds\nthat the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, EUR 6,000 (six thousand euros), to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of \nnon-pecuniary damage;\nthat from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;\nDismisses the remainder of the applicant’s claim for just satisfaction.\nDone in English, and notified in writing on 8 October 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court."
+  },
+  "combined_text_length": 7118,
+  "total_tokens": 1547,
+  "annotations": [
+    {
+      "model_name": "gemma3:1b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Romanian national, Ms Luminiţa Zamfira Solcan (\"the applicant”), on 17 April 2014.",
+          "event": "Event_who",
+          "event_who": "Applicant",
+          "event_when": "17 April 2014",
+          "event_what": "The case originated in an application.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "The applicant was represented by Ms A. Diaconescu, a lawyer practising in Iași.",
+          "event": "Event_who",
+          "event_who": "Applicant",
+          "event_when": "2014-04-17",
+          "event_what": "The applicant was represented by Ms A. Diaconescu.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "The Romanian Government (\"the Government\") were represented by their Agent, most recently Mr. V. Mocanu, of the Ministry of Foreign Affairs.",
+          "event": "Event_who",
+          "event_who": "Government",
+          "event_when": "2014-04-17",
+          "event_what": "The Romanian Government was represented by their Agent.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+          "event": "Event_what",
+          "event_who": "Applicant",
+          "event_when": "2014-04-17",
+          "event_what": "The applicant alleged a breach of Article 8 of the Convention.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2015-09-01",
+          "event_what": "Notice of the complaint was given.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "The applicant was born in 1969 and is currently in a psychiatric facility in Pădureni-Grajduri.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "1969-12-19",
+          "event_what": "The applicant was born in 1969.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "In 2005 she committed a murder in France.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2005-012",
+          "event_what": "The applicant committed a murder.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2007-11-12",
+          "event_what": "The criminal investigation was discontinued.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "The medical experts diagnosed her as suffering from paranoid schizophrenia and concluded that her acts had been the result of paranoid delusions.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2007-11-12",
+          "event_what": "The medical experts diagnosed her with paranoid schizophrenia.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "Endorsing the experts’ findings that she posed a danger to the public on account of her mental health, the court ordered her placement in a psychiatric facility in France for an indefinite period of time.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2007-11-12",
+          "event_what": "The court ordered placement in a psychiatric facility.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "In 2011 the applicant lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2011-01-11",
+          "event_what": "The applicant requested transfer.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2012-03-30",
+          "event_what": "The court authorised transfer.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "At the time of the latest information available to the Court (9 November 2016), she was still detained there.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2016-11-09",
+          "event_what": "The applicant was still detained.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "On 11 April 2013 the applicant’s mother died.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2013-04-11",
+          "event_what": "The applicant's mother died.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2013-04-12",
+          "event_what": "The applicant lodged a request.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave. It pointed out that under Article 39 of the Mental Health Act (see paragraph 14 below) the restriction of liberty of mentally ill persons was justified for the protection of their health or safety or for the protection of others, and that under Article 49 of the same Act the facility was chosen so as to allow the mentally ill patient to be as close to home as possible.",
+          "event": "Event_when",
+          "event_who": "Court",
+          "event_when": "2013-05-23",
+          "event_what": "The court refused to grant leave.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "Bearing in mind these legal provisions, the court considers that the safety of others prevails, the patient Solcan Luminiţa having been diagnosed with a mental illness which could potentially present a danger to the lives of others and their feelings of peace and confidence; for this reason, the request made by the patient shall be dismissed ...",
+          "event": "Event_when",
+          "event_who": "Court",
+          "event_when": "2013-05-23",
+          "event_what": "The court considers the safety of others.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "The court ordered placement in a psychiatric facility.",
+          "event": "Event_when",
+          "event_who": "Court",
+          "event_when": "2013-05-23",
+          "event_what": "The court ordered placement.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "The court ordered her placement in a psychiatric facility.",
+          "event": "Event_when",
+          "event_who": "Court",
+          "event_when": "2013-05-23",
+          "event_what": "The court ordered placement.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "In 2016 the applicant requested a review of the decision.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2016-06-01",
+          "event_what": "The applicant requested a review.",
+          "event_type": "Event_type"
+        },
+        {
+          "source_text": "The review found that the decision was justified.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2016-06-01",
+          "event_what": "The review found justification.",
+          "event_type": "Event_type"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Romanian national, Ms Luminiţa Zamfira Solcan (\"the applicant”), on 17 April 2014.",
+            "event": "Event_who",
+            "event_who": "Applicant",
+            "event_when": "17 April 2014",
+            "event_what": "The case originated in an application.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "The applicant was represented by Ms A. Diaconescu, a lawyer practising in Iași.",
+            "event": "Event_who",
+            "event_who": "Applicant",
+            "event_when": "2014-04-17",
+            "event_what": "The applicant was represented by Ms A. Diaconescu.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "The Romanian Government (\"the Government\") were represented by their Agent, most recently Mr. V. Mocanu, of the Ministry of Foreign Affairs.",
+            "event": "Event_who",
+            "event_who": "Government",
+            "event_when": "2014-04-17",
+            "event_what": "The Romanian Government was represented by their Agent.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+            "event": "Event_what",
+            "event_who": "Applicant",
+            "event_when": "2014-04-17",
+            "event_what": "The applicant alleged a breach of Article 8 of the Convention.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2015-09-01",
+            "event_what": "Notice of the complaint was given.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "The applicant was born in 1969 and is currently in a psychiatric facility in Pădureni-Grajduri.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "1969-12-19",
+            "event_what": "The applicant was born in 1969.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "In 2005 she committed a murder in France.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2005-012",
+            "event_what": "The applicant committed a murder.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2007-11-12",
+            "event_what": "The criminal investigation was discontinued.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "The medical experts diagnosed her as suffering from paranoid schizophrenia and concluded that her acts had been the result of paranoid delusions.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2007-11-12",
+            "event_what": "The medical experts diagnosed her with paranoid schizophrenia.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "Endorsing the experts’ findings that she posed a danger to the public on account of her mental health, the court ordered her placement in a psychiatric facility in France for an indefinite period of time.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2007-11-12",
+            "event_what": "The court ordered placement in a psychiatric facility.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "In 2011 the applicant lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2011-01-11",
+            "event_what": "The applicant requested transfer.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2012-03-30",
+            "event_what": "The court authorised transfer.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "At the time of the latest information available to the Court (9 November 2016), she was still detained there.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2016-11-09",
+            "event_what": "The applicant was still detained.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "On 11 April 2013 the applicant’s mother died.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2013-04-11",
+            "event_what": "The applicant's mother died.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2013-04-12",
+            "event_what": "The applicant lodged a request.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave. It pointed out that under Article 39 of the Mental Health Act (see paragraph 14 below) the restriction of liberty of mentally ill persons was justified for the protection of their health or safety or for the protection of others, and that under Article 49 of the same Act the facility was chosen so as to allow the mentally ill patient to be as close to home as possible.",
+            "event": "Event_when",
+            "event_who": "Court",
+            "event_when": "2013-05-23",
+            "event_what": "The court refused to grant leave.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "Bearing in mind these legal provisions, the court considers that the safety of others prevails, the patient Solcan Luminiţa having been diagnosed with a mental illness which could potentially present a danger to the lives of others and their feelings of peace and confidence; for this reason, the request made by the patient shall be dismissed ...",
+            "event": "Event_when",
+            "event_who": "Court",
+            "event_when": "2013-05-23",
+            "event_what": "The court considers the safety of others.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "The court ordered placement in a psychiatric facility.",
+            "event": "Event_when",
+            "event_who": "Court",
+            "event_when": "2013-05-23",
+            "event_what": "The court ordered placement.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "The court ordered her placement in a psychiatric facility.",
+            "event": "Event_when",
+            "event_who": "Court",
+            "event_when": "2013-05-23",
+            "event_what": "The court ordered placement.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "In 2016 the applicant requested a review of the decision.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2016-06-01",
+            "event_what": "The applicant requested a review.",
+            "event_type": "Event_type"
+          },
+          {
+            "source_text": "The review found that the decision was justified.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2016-06-01",
+            "event_what": "The review found justification.",
+            "event_type": "Event_type"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T15:03:07.587461",
+      "context_length": 8192,
+      "input_tokens": 1547
+    },
+    {
+      "model_name": "gemma3:4b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+          "event": "application",
+          "event_who": "applicant",
+          "event_when": "17 April 2014",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Ms A. Diaconescu, a lawyer practising in Iași. The Romanian Government (“the Government”) were represented by their Agent, most recently Mr. V. Mocanu, of the Ministry of Foreign Affairs.",
+          "event": "representation",
+          "event_who": "applicant, Government",
+          "event_when": "N/A",
+          "event_what": "represented by a lawyer",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+          "event": "breach of convention",
+          "event_who": "applicant",
+          "event_when": "N/A",
+          "event_what": "alleged a breach of Article 8",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "declaration of inadmissibility",
+          "event_who": "Government",
+          "event_when": "1 September 2015",
+          "event_what": "declared the application inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1969 and is currently in a psychiatric facility in Pădureni-Grajduri.",
+          "event": "detention",
+          "event_who": "applicant",
+          "event_when": "1969, 2016",
+          "event_what": "detained in a psychiatric facility",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2005 she committed a murder in France. On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility. The medical experts diagnosed her as suffering from paranoid schizophrenia and concluded that her acts had been the result of paranoid delusions. Endorsing the experts’ findings that she posed a danger to the public on account of her mental health, the court ordered her placement in a psychiatric facility in France for an indefinite period of time.",
+          "event": "criminal investigation",
+          "event_who": "applicant",
+          "event_when": "2005, 2007",
+          "event_what": "discontinued criminal investigation",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2011 the applicant lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+          "event": "request for transfer",
+          "event_who": "applicant",
+          "event_when": "2011",
+          "event_what": "lodged a request to be transferred",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi. At the time of the latest information available to the Court (9 November 2016), she was still detained there.",
+          "event": "authorization of transfer",
+          "event_who": "applicant",
+          "event_when": "30 March 2012, 9 November 2016",
+          "event_what": "authorised transfer to a psychiatric facility",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 11 April 2013 the applicant’s mother died. On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+          "event": "request for leave",
+          "event_who": "applicant",
+          "event_when": "11 April 2013, 12 April 2013",
+          "event_what": "lodged a request to attend a funeral",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave. It pointed out that under Article 39 of the Mental Health Act (see paragraph 14 below) the restriction of liberty of mentally ill persons was justified for the protection of their health or safety or for the protection of others, and that under Article 49 of the same Act the facility was chosen so as to allow the mentally ill patient to be as close to home as possible. When applying the above provisions to the applicant’s situation, the court held as follows: “Bearing in mind these legal provisions, the court considers that the safety of others prevails, the patient Solcan Luminiţa having been diagnosed with a mental illness which could potentially present a danger to the lives of others and their feelings of peace and confidence; for this reason, the request made by the patient shall be dismissed ...”, 10. The applicant lodged an appeal on points of law against that decision. She claimed that the provisions of Law no. 275/2006 on the execution of sentences, which authorised the temporary interruption of a custodial sentence for family reasons, should also apply to her detention in a psychiatric facility. The prosecutor’s office argued that a measure of detention in a medical facility could not be assimilated to a custodial sentence and accordingly there was no legal basis for the interruption of the applicant’s involuntary hospitalisation in a psychiatric facility.",
+          "event": "refusal of leave",
+          "event_who": "court, applicant",
+          "event_when": "23 May 2013",
+          "event_what": "refused to grant leave",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal. It held that under Article 114 of the Criminal Code read in conjunction with Article 434 of the Code of Criminal Procedure her detention in a psychiatric facility could be either discontinued or replaced by an obligation to undergo outpatient mental health treatment after an assessment by medical experts. It concluded that the applicant’s request to interrupt her detention in a psychiatric facility had no basis in law and that no analogy could be drawn between her situation and the situation of a prison detainee. Accordingly, the provisions of Law no. 275/2006 authorising the temporary interruption of detention on family grounds were not applicable to her situation. Moreover, the court noted that in any event the applicant’s request was no longer valid as her mother’s funeral had already taken place.",
+          "event": "dismissal of appeal",
+          "event_who": "court, applicant",
+          "event_when": "22 October 2013",
+          "event_what": "dismissed the applicant’s appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "RELEVANT DOMESTIC LAW AND PRACTICE 13. The relevant provisions of the Criminal Code and the Code of Criminal Procedure, as in force at the relevant time, are set out in Filip v. Romania (no. 41124/02, §§ 30-31, 14 December 2006). 14. Psychiatric detention is governed by the provisions of the Mental Health Act (Law no. 487 of 11 July 2002 on mental health and the protection of people with mental disorders) published in Official Gazette no. 589 of 8 August 2002. It was amended by Law no. 600/2004 and subsequently by Law no. 129/2012. 15. The Government attached to their observations three decisions made by the Buzau District Court (on 30 January 2014, 6 February and 27 March 2014)”, 15. The Government attached to their observations three decisions made by the Buzau District Court (on 30 January 2014, 6 February and 27 March 2014)",
+          "event": "reference to legal precedent",
+          "event_who": "government",
+          "event_when": "N/A",
+          "event_what": "reference to legal precedent",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave. It pointed out that under Article 39 of the Mental Health Act (see paragraph 14 below) the restriction of liberty of mentally ill persons was justified for the protection of their health or safety or for the protection of others, and that under Article 49 of the same Act the facility was chosen so as to allow the mentally ill patient to be as close to home as possible. When applying the above provisions to the applicant’s situation, the court held as follows: “Bearing in mind these legal provisions, the court considers that the safety of others prevails, the patient Solcan Luminiţa having been diagnosed with a mental illness which could potentially present a danger to the lives of others and their feelings of peace and confidence; for this reason, the request made by the patient shall be dismissed ...”, 10. The applicant lodged an appeal on points of law against that decision. She claimed that the provisions of Law no. 275/2006 on the execution of sentences, which authorised the temporary interruption of a custodial sentence for family reasons, should also apply to her detention in a psychiatric facility. The prosecutor’s office argued that a measure of detention in a medical facility could not be assimilated to a custodial sentence and accordingly there was no legal basis for the interruption of the applicant’s involuntary hospitalisation in a psychiatric facility.",
+          "event": "refusal of leave",
+          "event_who": "court, applicant",
+          "event_when": "23 May 2013",
+          "event_what": "refused to grant leave",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal. It held that under Article 114 of the Criminal Code read in conjunction with Article 434 of the Code of Criminal Procedure her detention in a psychiatric facility could be either discontinued or replaced by an obligation to undergo outpatient mental health treatment after an assessment by medical experts. It concluded that the applicant’s request to interrupt her detention in a psychiatric facility had no basis in law and that no analogy could be drawn between her situation and the situation of a prison detainee. Accordingly, the provisions of Law no. 275/2006 authorising the temporary interruption of detention on family grounds were not applicable to her situation. Moreover, the court noted that in any event the applicant’s request was no longer valid as her mother’s funeral had already taken place.",
+          "event": "dismissal of appeal",
+          "event_who": "court, applicant",
+          "event_when": "22 October 2013",
+          "event_what": "dismissed the applicant’s appeal",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+            "event": "application",
+            "event_who": "applicant",
+            "event_when": "17 April 2014",
+            "event_what": "lodged an application",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The applicant was represented by Ms A. Diaconescu, a lawyer practising in Iași. The Romanian Government (“the Government”) were represented by their Agent, most recently Mr. V. Mocanu, of the Ministry of Foreign Affairs.",
+            "event": "representation",
+            "event_who": "applicant, Government",
+            "event_when": "N/A",
+            "event_what": "represented by a lawyer",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+            "event": "breach of convention",
+            "event_who": "applicant",
+            "event_when": "N/A",
+            "event_what": "alleged a breach of Article 8",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "declaration of inadmissibility",
+            "event_who": "Government",
+            "event_when": "1 September 2015",
+            "event_what": "declared the application inadmissible",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant was born in 1969 and is currently in a psychiatric facility in Pădureni-Grajduri.",
+            "event": "detention",
+            "event_who": "applicant",
+            "event_when": "1969, 2016",
+            "event_what": "detained in a psychiatric facility",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "In 2005 she committed a murder in France. On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility. The medical experts diagnosed her as suffering from paranoid schizophrenia and concluded that her acts had been the result of paranoid delusions. Endorsing the experts’ findings that she posed a danger to the public on account of her mental health, the court ordered her placement in a psychiatric facility in France for an indefinite period of time.",
+            "event": "criminal investigation",
+            "event_who": "applicant",
+            "event_when": "2005, 2007",
+            "event_what": "discontinued criminal investigation",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "In 2011 the applicant lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+            "event": "request for transfer",
+            "event_who": "applicant",
+            "event_when": "2011",
+            "event_what": "lodged a request to be transferred",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi. At the time of the latest information available to the Court (9 November 2016), she was still detained there.",
+            "event": "authorization of transfer",
+            "event_who": "applicant",
+            "event_when": "30 March 2012, 9 November 2016",
+            "event_what": "authorised transfer to a psychiatric facility",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 11 April 2013 the applicant’s mother died. On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+            "event": "request for leave",
+            "event_who": "applicant",
+            "event_when": "11 April 2013, 12 April 2013",
+            "event_what": "lodged a request to attend a funeral",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave. It pointed out that under Article 39 of the Mental Health Act (see paragraph 14 below) the restriction of liberty of mentally ill persons was justified for the protection of their health or safety or for the protection of others, and that under Article 49 of the same Act the facility was chosen so as to allow the mentally ill patient to be as close to home as possible. When applying the above provisions to the applicant’s situation, the court held as follows: “Bearing in mind these legal provisions, the court considers that the safety of others prevails, the patient Solcan Luminiţa having been diagnosed with a mental illness which could potentially present a danger to the lives of others and their feelings of peace and confidence; for this reason, the request made by the patient shall be dismissed ...”, 10. The applicant lodged an appeal on points of law against that decision. She claimed that the provisions of Law no. 275/2006 on the execution of sentences, which authorised the temporary interruption of a custodial sentence for family reasons, should also apply to her detention in a psychiatric facility. The prosecutor’s office argued that a measure of detention in a medical facility could not be assimilated to a custodial sentence and accordingly there was no legal basis for the interruption of the applicant’s involuntary hospitalisation in a psychiatric facility.",
+            "event": "refusal of leave",
+            "event_who": "court, applicant",
+            "event_when": "23 May 2013",
+            "event_what": "refused to grant leave",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal. It held that under Article 114 of the Criminal Code read in conjunction with Article 434 of the Code of Criminal Procedure her detention in a psychiatric facility could be either discontinued or replaced by an obligation to undergo outpatient mental health treatment after an assessment by medical experts. It concluded that the applicant’s request to interrupt her detention in a psychiatric facility had no basis in law and that no analogy could be drawn between her situation and the situation of a prison detainee. Accordingly, the provisions of Law no. 275/2006 authorising the temporary interruption of detention on family grounds were not applicable to her situation. Moreover, the court noted that in any event the applicant’s request was no longer valid as her mother’s funeral had already taken place.",
+            "event": "dismissal of appeal",
+            "event_who": "court, applicant",
+            "event_when": "22 October 2013",
+            "event_what": "dismissed the applicant’s appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "RELEVANT DOMESTIC LAW AND PRACTICE 13. The relevant provisions of the Criminal Code and the Code of Criminal Procedure, as in force at the relevant time, are set out in Filip v. Romania (no. 41124/02, §§ 30-31, 14 December 2006). 14. Psychiatric detention is governed by the provisions of the Mental Health Act (Law no. 487 of 11 July 2002 on mental health and the protection of people with mental disorders) published in Official Gazette no. 589 of 8 August 2002. It was amended by Law no. 600/2004 and subsequently by Law no. 129/2012. 15. The Government attached to their observations three decisions made by the Buzau District Court (on 30 January 2014, 6 February and 27 March 2014)”, 15. The Government attached to their observations three decisions made by the Buzau District Court (on 30 January 2014, 6 February and 27 March 2014)",
+            "event": "reference to legal precedent",
+            "event_who": "government",
+            "event_when": "N/A",
+            "event_what": "reference to legal precedent",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave. It pointed out that under Article 39 of the Mental Health Act (see paragraph 14 below) the restriction of liberty of mentally ill persons was justified for the protection of their health or safety or for the protection of others, and that under Article 49 of the same Act the facility was chosen so as to allow the mentally ill patient to be as close to home as possible. When applying the above provisions to the applicant’s situation, the court held as follows: “Bearing in mind these legal provisions, the court considers that the safety of others prevails, the patient Solcan Luminiţa having been diagnosed with a mental illness which could potentially present a danger to the lives of others and their feelings of peace and confidence; for this reason, the request made by the patient shall be dismissed ...”, 10. The applicant lodged an appeal on points of law against that decision. She claimed that the provisions of Law no. 275/2006 on the execution of sentences, which authorised the temporary interruption of a custodial sentence for family reasons, should also apply to her detention in a psychiatric facility. The prosecutor’s office argued that a measure of detention in a medical facility could not be assimilated to a custodial sentence and accordingly there was no legal basis for the interruption of the applicant’s involuntary hospitalisation in a psychiatric facility.",
+            "event": "refusal of leave",
+            "event_who": "court, applicant",
+            "event_when": "23 May 2013",
+            "event_what": "refused to grant leave",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal. It held that under Article 114 of the Criminal Code read in conjunction with Article 434 of the Code of Criminal Procedure her detention in a psychiatric facility could be either discontinued or replaced by an obligation to undergo outpatient mental health treatment after an assessment by medical experts. It concluded that the applicant’s request to interrupt her detention in a psychiatric facility had no basis in law and that no analogy could be drawn between her situation and the situation of a prison detainee. Accordingly, the provisions of Law no. 275/2006 authorising the temporary interruption of detention on family grounds were not applicable to her situation. Moreover, the court noted that in any event the applicant’s request was no longer valid as her mother’s funeral had already taken place.",
+            "event": "dismissal of appeal",
+            "event_who": "court, applicant",
+            "event_when": "22 October 2013",
+            "event_what": "dismissed the applicant’s appeal",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T15:03:55.110271",
+      "context_length": 8192,
+      "input_tokens": 1547
+    },
+    {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+          "event": "lodged an application",
+          "event_who": "applicant",
+          "event_when": "17 April 2014",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "was given",
+          "event_who": "notice",
+          "event_when": "1 September 2015",
+          "event_what": "was given",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In 2005 she committed a murder in France.",
+          "event": "committed",
+          "event_who": "she",
+          "event_when": "2005",
+          "event_what": "committed a murder",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+          "event": "discontinued",
+          "event_who": "Mâcon County Court",
+          "event_when": "12 November 2007",
+          "event_what": "discontinued the criminal investigation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In 2011 she lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+          "event": "lodged",
+          "event_who": "she",
+          "event_when": "2011",
+          "event_what": "lodged a request",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+          "event": "authorised",
+          "event_who": "Bucharest Court of Appeal",
+          "event_when": "30 March 2012",
+          "event_what": "authorised her transfer",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 11 April 2013 the applicant’s mother died.",
+          "event": "died",
+          "event_who": "applicant’s mother",
+          "event_when": "11 April 2013",
+          "event_what": "died",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+          "event": "lodged",
+          "event_who": "applicant",
+          "event_when": "12 April 2013",
+          "event_what": "lodged a request",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave.",
+          "event": "refused",
+          "event_who": "court",
+          "event_when": "23 May 2013",
+          "event_what": "refused to grant her leave",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant lodged an appeal on points of law against that decision.",
+          "event": "lodged",
+          "event_who": "applicant",
+          "event_when": "2013",
+          "event_what": "lodged an appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal.",
+          "event": "dismissed",
+          "event_who": "Iaşi County Court",
+          "event_when": "22 October 2013",
+          "event_what": "dismissed the applicant’s appeal",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+            "event": "lodged an application",
+            "event_who": "applicant",
+            "event_when": "17 April 2014",
+            "event_what": "lodged an application",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "was given",
+            "event_who": "notice",
+            "event_when": "1 September 2015",
+            "event_what": "was given",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "In 2005 she committed a murder in France.",
+            "event": "committed",
+            "event_who": "she",
+            "event_when": "2005",
+            "event_what": "committed a murder",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+            "event": "discontinued",
+            "event_who": "Mâcon County Court",
+            "event_when": "12 November 2007",
+            "event_what": "discontinued the criminal investigation",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "In 2011 she lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+            "event": "lodged",
+            "event_who": "she",
+            "event_when": "2011",
+            "event_what": "lodged a request",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+            "event": "authorised",
+            "event_who": "Bucharest Court of Appeal",
+            "event_when": "30 March 2012",
+            "event_what": "authorised her transfer",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 11 April 2013 the applicant’s mother died.",
+            "event": "died",
+            "event_who": "applicant’s mother",
+            "event_when": "11 April 2013",
+            "event_what": "died",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+            "event": "lodged",
+            "event_who": "applicant",
+            "event_when": "12 April 2013",
+            "event_what": "lodged a request",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave.",
+            "event": "refused",
+            "event_who": "court",
+            "event_when": "23 May 2013",
+            "event_what": "refused to grant her leave",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant lodged an appeal on points of law against that decision.",
+            "event": "lodged",
+            "event_who": "applicant",
+            "event_when": "2013",
+            "event_what": "lodged an appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal.",
+            "event": "dismissed",
+            "event_who": "Iaşi County Court",
+            "event_when": "22 October 2013",
+            "event_what": "dismissed the applicant’s appeal",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T15:04:37.346458",
+      "context_length": 8192,
+      "input_tokens": 1547
+    },
+    {
+      "model_name": "llama3.3:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Romanian national, Ms Luminiţa Zamfira Solcan (\"the applicant\"), on 17 April 2014.",
+          "event": "Event",
+          "event_who": "Ms Luminiţa Zamfira Solcan",
+          "event_when": "17 April 2014",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Event",
+          "event_who": "Government",
+          "event_when": "1 September 2015",
+          "event_what": "given notice of complaint and declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In 2005 she committed a murder in France.",
+          "event": "Event",
+          "event_who": "Ms Luminiţa Zamfira Solcan",
+          "event_when": "2005",
+          "event_what": "committed a murder",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+          "event": "Event",
+          "event_who": "Mâcon County Court",
+          "event_when": "12 November 2007",
+          "event_what": "discontinued the criminal investigation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The medical experts diagnosed her as suffering from paranoid schizophrenia and concluded that her acts had been the result of paranoid delusions.",
+          "event": "Event",
+          "event_who": "medical experts",
+          "event_when": "",
+          "event_what": "diagnosed with paranoid schizophrenia",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The court ordered her placement in a psychiatric facility in France for an indefinite period of time.",
+          "event": "Event",
+          "event_who": "court",
+          "event_when": "",
+          "event_what": "ordered placement in psychiatric facility",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In 2011 the applicant lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+          "event": "Event",
+          "event_who": "Ms Luminiţa Zamfira Solcan",
+          "event_when": "2011",
+          "event_what": "lodged a request for transfer",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+          "event": "Event",
+          "event_who": "Bucharest Court of Appeal",
+          "event_when": "30 March 2012",
+          "event_what": "authorised transfer to psychiatric facility",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 11 April 2013 the applicant’s mother died.",
+          "event": "Event",
+          "event_who": "",
+          "event_when": "11 April 2013",
+          "event_what": "mother died",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+          "event": "Event",
+          "event_who": "Ms Luminiţa Zamfira Solcan",
+          "event_when": "12 April 2013",
+          "event_what": "lodged a request for leave to attend funeral",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave.",
+          "event": "Event",
+          "event_who": "court",
+          "event_when": "23 May 2013",
+          "event_what": "examined and refused request for leave",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant lodged an appeal on points of law against that decision.",
+          "event": "Event",
+          "event_who": "Ms Luminiţa Zamfira Solcan",
+          "event_when": "",
+          "event_what": "lodged an appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal.",
+          "event": "Event",
+          "event_who": "Iaşi County Court",
+          "event_when": "22 October 2013",
+          "event_what": "dismissed the applicant's appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Event",
+          "event_who": "Court",
+          "event_when": "",
+          "event_what": "declared application admissible and held violation of Article 8",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, EUR 6,000 (six thousand euros),",
+          "event": "Event",
+          "event_who": "respondent State",
+          "event_when": "",
+          "event_what": "ordered to pay EUR 6,000",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Romanian national, Ms Luminiţa Zamfira Solcan (\"the applicant\"), on 17 April 2014.",
+            "event": "Event",
+            "event_who": "Ms Luminiţa Zamfira Solcan",
+            "event_when": "17 April 2014",
+            "event_what": "lodged an application",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "Event",
+            "event_who": "Government",
+            "event_when": "1 September 2015",
+            "event_what": "given notice of complaint and declared inadmissible",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "In 2005 she committed a murder in France.",
+            "event": "Event",
+            "event_who": "Ms Luminiţa Zamfira Solcan",
+            "event_when": "2005",
+            "event_what": "committed a murder",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+            "event": "Event",
+            "event_who": "Mâcon County Court",
+            "event_when": "12 November 2007",
+            "event_what": "discontinued the criminal investigation",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The medical experts diagnosed her as suffering from paranoid schizophrenia and concluded that her acts had been the result of paranoid delusions.",
+            "event": "Event",
+            "event_who": "medical experts",
+            "event_when": "",
+            "event_what": "diagnosed with paranoid schizophrenia",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The court ordered her placement in a psychiatric facility in France for an indefinite period of time.",
+            "event": "Event",
+            "event_who": "court",
+            "event_when": "",
+            "event_what": "ordered placement in psychiatric facility",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "In 2011 the applicant lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+            "event": "Event",
+            "event_who": "Ms Luminiţa Zamfira Solcan",
+            "event_when": "2011",
+            "event_what": "lodged a request for transfer",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+            "event": "Event",
+            "event_who": "Bucharest Court of Appeal",
+            "event_when": "30 March 2012",
+            "event_what": "authorised transfer to psychiatric facility",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 11 April 2013 the applicant’s mother died.",
+            "event": "Event",
+            "event_who": "",
+            "event_when": "11 April 2013",
+            "event_what": "mother died",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+            "event": "Event",
+            "event_who": "Ms Luminiţa Zamfira Solcan",
+            "event_when": "12 April 2013",
+            "event_what": "lodged a request for leave to attend funeral",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave.",
+            "event": "Event",
+            "event_who": "court",
+            "event_when": "23 May 2013",
+            "event_what": "examined and refused request for leave",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant lodged an appeal on points of law against that decision.",
+            "event": "Event",
+            "event_who": "Ms Luminiţa Zamfira Solcan",
+            "event_when": "",
+            "event_what": "lodged an appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal.",
+            "event": "Event",
+            "event_who": "Iaşi County Court",
+            "event_when": "22 October 2013",
+            "event_what": "dismissed the applicant's appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention;",
+            "event": "Event",
+            "event_who": "Court",
+            "event_when": "",
+            "event_what": "declared application admissible and held violation of Article 8",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, EUR 6,000 (six thousand euros),",
+            "event": "Event",
+            "event_who": "respondent State",
+            "event_when": "",
+            "event_what": "ordered to pay EUR 6,000",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T15:25:56.764017",
+      "context_length": 128000,
+      "input_tokens": 1547
+    },
+    {
+      "model_name": "deepseek-r1:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms by a Romanian national, Ms Luminița Zamfira Solcan on 17 April 2014.",
+          "event": "Application",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "17 April 2014",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Ms A. Diaconescu, a lawyer practising in Iași. The Romanian Government were represented by their Agent, most recently Mr. V. Mocanu, of the Ministry of Foreign Affairs.",
+          "event": "Representation",
+          "event_who": "Ms A. Diaconescu and Mr. V. Mocanu",
+          "event_when": "n/a (representation ongoing)",
+          "event_what": "represented by",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+          "event": "Allegation",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "n/a (allegation ongoing)",
+          "event_what": "alleged a breach of Article 8 of the Convention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Complaint",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "1 September 2015",
+          "event_what": "gave notice of a complaint",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was born in 1969 and is currently in a psychiatric facility in Pădureni-Grajduri.",
+          "event": "Detention",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "n/a (current)",
+          "event_what": "detained in a psychiatric facility",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2005 she committed a murder in France. On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+          "event": "Criminal Investigation Discontinuation",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "12 November 2007",
+          "event_what": "criminal investigation discontinued",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The medical experts diagnosed her as suffering from paranoid schizophrenia and concluded that her acts had been the result of paranoid delusions. Endorsing the experts’ findings that she posed a danger to the public on account of her mental health, the court ordered her placement in a psychiatric facility in France for an indefinite period of time.",
+          "event": "Placement",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "n/a (current)",
+          "event_what": "placed in a psychiatric facility",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2011 the applicant lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iași.",
+          "event": "Transfer Request",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "2011",
+          "event_what": "lodged a request for transfer",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+          "event": "Transfer Authorization",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "30 March 2012",
+          "event_what": "authorised transfer",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "At the time of the latest information available to the Court (9 November 2016), she was still detained there.",
+          "event": "Detention",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "n/a (current)",
+          "event_what": "detained in a psychiatric facility",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 11 April 2013 the applicant’s mother died. On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+          "event": "Leave Request",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "12 April 2013",
+          "event_what": "lodged a request for leave",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave. It pointed out that under Article 39 of the Mental Health Act (see paragraph 14 below) the restriction of liberty of mentally ill persons was justified for the protection of their health or safety or for the protection of others, and that under Article 49 of the same Act the facility was chosen so as to allow the mentally ill patient to be as close to home as possible. When applying the above provisions to the applicant’s situation, the court held as follows: \"Bearing in mind these legal provisions, the court considers that the safety of others prevails, the patient Solcan Luminița having been diagnosed with a mental illness which could potentially present a danger to the lives of others and their feelings of peace and confidence; for this reason, the request made by the patient shall be dismissed ...\"",
+          "event": "Leave Denial",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "23 May 2013",
+          "event_what": "leave was denied",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant lodged an appeal on points of law against that decision. She claimed that the provisions of Law no. 275/2006 on the execution of sentences, which authorised the temporary interruption of a custodial sentence for family reasons, should also apply to her detention in a psychiatric facility.",
+          "event": "Appeal",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "n/a (appeal ongoing)",
+          "event_what": "lodged an appeal",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The prosecutor’s office argued that a measure of detention in a medical facility could not be assimilated to a custodial sentence and accordingly there was no legal basis for the interruption of the applicant’s involuntary hospitalisation in a psychiatric facility.",
+          "event": "Prosecution Argument",
+          "event_who": "prosecutor’s office",
+          "event_when": "n/a (argument ongoing)",
+          "event_what": "argued against interruption of detention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal. It held that under Article 114 of the Criminal Code read in conjunction with Article 434 of the Code of Criminal Procedure her detention in a psychiatric facility could be either discontinued or replaced by an obligation to undergo outpatient mental health treatment after an assessment by medical experts. It concluded that the applicant’s request to interrupt her detention in a psychiatric facility had no basis in law and that no analogy could be drawn between her situation and the situation of a prison detainee. Accordingly, the provisions of Law no. 275/2006 authorising the temporary interruption of detention on family grounds were not applicable to her situation. Moreover, the court noted that in any event the applicant’s request was no longer valid as her mother’s funeral had already taken place.",
+          "event": "Appeal Dismissal",
+          "event_who": "Ms Luminița Zamfira Solcan",
+          "event_when": "22 October 2013",
+          "event_what": "appeal dismissed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The Government attached to their observations three decisions made by the Buzau District Court (on 30 January 2014, 6 February and 27 March 2015 respectively) by which the applicants, who had all been admitted to a psychiatric facility for inpatient treatment, were allowed to attend the funerals of their family members. In all three case files there was medical evidence proving that they were able to attend. After assessing the particular circumstances of each applicant, the court granted them leave to attend their parents’ funerals. Their requests were examined by the court without undue delay so that they could attend. In one of the three cases the request was allowed on the condition that the applicant would be accompanied by medical staff and under police escort.",
+          "event": "Leave Grant",
+          "event_who": "applicants (plural)",
+          "event_when": "n/a (past)",
+          "event_what": "granted leave to attend funerals",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, EUR 6,000 (six thousand euros), to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of non-pecuniary damage; that from the date of this judgment until the payment is made, the applicant shall have the right to claim interim measures of satisfaction, as provided for in Article 75 of the Convention; Holds that the respondent State shall notify the Committee within two months of the receipt of this judgment and, if necessary, within the maximum period provided by Article 97 of the Convention, a specific program of actions to eliminate the violations found in this case and to prevent similar violations in the future; and Orders the respondent State to submit reports on the measures taken to implement this judgment within one month from the date of service of this judgment.",
+          "event": "Judgment",
+          "event_who": "ECtHR",
+          "event_when": "n/a (past)",
+          "event_what": "issued a judgment",
+          "event_type": "event_circumstance"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms by a Romanian national, Ms Luminița Zamfira Solcan on 17 April 2014.",
+            "event": "Application",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "17 April 2014",
+            "event_what": "lodged an application",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The applicant was represented by Ms A. Diaconescu, a lawyer practising in Iași. The Romanian Government were represented by their Agent, most recently Mr. V. Mocanu, of the Ministry of Foreign Affairs.",
+            "event": "Representation",
+            "event_who": "Ms A. Diaconescu and Mr. V. Mocanu",
+            "event_when": "n/a (representation ongoing)",
+            "event_what": "represented by",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+            "event": "Allegation",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "n/a (allegation ongoing)",
+            "event_what": "alleged a breach of Article 8 of the Convention",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "Complaint",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "1 September 2015",
+            "event_what": "gave notice of a complaint",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The applicant was born in 1969 and is currently in a psychiatric facility in Pădureni-Grajduri.",
+            "event": "Detention",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "n/a (current)",
+            "event_what": "detained in a psychiatric facility",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "In 2005 she committed a murder in France. On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+            "event": "Criminal Investigation Discontinuation",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "12 November 2007",
+            "event_what": "criminal investigation discontinued",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The medical experts diagnosed her as suffering from paranoid schizophrenia and concluded that her acts had been the result of paranoid delusions. Endorsing the experts’ findings that she posed a danger to the public on account of her mental health, the court ordered her placement in a psychiatric facility in France for an indefinite period of time.",
+            "event": "Placement",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "n/a (current)",
+            "event_what": "placed in a psychiatric facility",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "In 2011 the applicant lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iași.",
+            "event": "Transfer Request",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "2011",
+            "event_what": "lodged a request for transfer",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+            "event": "Transfer Authorization",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "30 March 2012",
+            "event_what": "authorised transfer",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "At the time of the latest information available to the Court (9 November 2016), she was still detained there.",
+            "event": "Detention",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "n/a (current)",
+            "event_what": "detained in a psychiatric facility",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 11 April 2013 the applicant’s mother died. On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+            "event": "Leave Request",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "12 April 2013",
+            "event_what": "lodged a request for leave",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave. It pointed out that under Article 39 of the Mental Health Act (see paragraph 14 below) the restriction of liberty of mentally ill persons was justified for the protection of their health or safety or for the protection of others, and that under Article 49 of the same Act the facility was chosen so as to allow the mentally ill patient to be as close to home as possible. When applying the above provisions to the applicant’s situation, the court held as follows: \"Bearing in mind these legal provisions, the court considers that the safety of others prevails, the patient Solcan Luminița having been diagnosed with a mental illness which could potentially present a danger to the lives of others and their feelings of peace and confidence; for this reason, the request made by the patient shall be dismissed ...\"",
+            "event": "Leave Denial",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "23 May 2013",
+            "event_what": "leave was denied",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The applicant lodged an appeal on points of law against that decision. She claimed that the provisions of Law no. 275/2006 on the execution of sentences, which authorised the temporary interruption of a custodial sentence for family reasons, should also apply to her detention in a psychiatric facility.",
+            "event": "Appeal",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "n/a (appeal ongoing)",
+            "event_what": "lodged an appeal",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The prosecutor’s office argued that a measure of detention in a medical facility could not be assimilated to a custodial sentence and accordingly there was no legal basis for the interruption of the applicant’s involuntary hospitalisation in a psychiatric facility.",
+            "event": "Prosecution Argument",
+            "event_who": "prosecutor’s office",
+            "event_when": "n/a (argument ongoing)",
+            "event_what": "argued against interruption of detention",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal. It held that under Article 114 of the Criminal Code read in conjunction with Article 434 of the Code of Criminal Procedure her detention in a psychiatric facility could be either discontinued or replaced by an obligation to undergo outpatient mental health treatment after an assessment by medical experts. It concluded that the applicant’s request to interrupt her detention in a psychiatric facility had no basis in law and that no analogy could be drawn between her situation and the situation of a prison detainee. Accordingly, the provisions of Law no. 275/2006 authorising the temporary interruption of detention on family grounds were not applicable to her situation. Moreover, the court noted that in any event the applicant’s request was no longer valid as her mother’s funeral had already taken place.",
+            "event": "Appeal Dismissal",
+            "event_who": "Ms Luminița Zamfira Solcan",
+            "event_when": "22 October 2013",
+            "event_what": "appeal dismissed",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The Government attached to their observations three decisions made by the Buzau District Court (on 30 January 2014, 6 February and 27 March 2015 respectively) by which the applicants, who had all been admitted to a psychiatric facility for inpatient treatment, were allowed to attend the funerals of their family members. In all three case files there was medical evidence proving that they were able to attend. After assessing the particular circumstances of each applicant, the court granted them leave to attend their parents’ funerals. Their requests were examined by the court without undue delay so that they could attend. In one of the three cases the request was allowed on the condition that the applicant would be accompanied by medical staff and under police escort.",
+            "event": "Leave Grant",
+            "event_who": "applicants (plural)",
+            "event_when": "n/a (past)",
+            "event_what": "granted leave to attend funerals",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, EUR 6,000 (six thousand euros), to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of non-pecuniary damage; that from the date of this judgment until the payment is made, the applicant shall have the right to claim interim measures of satisfaction, as provided for in Article 75 of the Convention; Holds that the respondent State shall notify the Committee within two months of the receipt of this judgment and, if necessary, within the maximum period provided by Article 97 of the Convention, a specific program of actions to eliminate the violations found in this case and to prevent similar violations in the future; and Orders the respondent State to submit reports on the measures taken to implement this judgment within one month from the date of service of this judgment.",
+            "event": "Judgment",
+            "event_who": "ECtHR",
+            "event_when": "n/a (past)",
+            "event_what": "issued a judgment",
+            "event_type": "event_circumstance"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T15:27:08.725060",
+      "context_length": 128000,
+      "input_tokens": 1547
+    },
+    {
+      "model_name": "mistral:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+          "event": "Application lodged",
+          "event_who": "Applicant",
+          "event_when": "17 April 2014",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Ms A. Diaconescu, a lawyer practising in Iași.",
+          "event": "Representation of the applicant",
+          "event_who": "Applicant's representative",
+          "event_when": "",
+          "event_what": "was represented by",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Romanian Government (“the Government”) were represented by their Agent, most recently Mr. V. Mocanu, of the Ministry of Foreign Affairs.",
+          "event": "Representation of the Government",
+          "event_who": "Government's representative",
+          "event_when": "",
+          "event_what": "were represented by",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+          "event": "Allegation of breach",
+          "event_who": "Applicant",
+          "event_when": "",
+          "event_what": "alleged a breach of Article 8",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Notice of complaint",
+          "event_who": "Court",
+          "event_when": "1 September 2015",
+          "event_what": "gave notice of the complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1969 and is currently in a psychiatric facility in Pădureni-Grajduri.",
+          "event": "Current location of the applicant",
+          "event_who": "Applicant",
+          "event_when": "",
+          "event_what": "is currently in a psychiatric facility",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2005 she committed a murder in France.",
+          "event": "Committed a murder",
+          "event_who": "Applicant",
+          "event_when": "2005",
+          "event_what": "committed a murder",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+          "event": "Discontinuation of criminal investigation",
+          "event_who": "Mâcon County Court",
+          "event_when": "12 November 2007",
+          "event_what": "discontinued the criminal investigation",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2011 the applicant lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+          "event": "Request for transfer",
+          "event_who": "Applicant",
+          "event_when": "2011",
+          "event_what": "lodged a request to be transferred",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+          "event": "Authorization for transfer",
+          "event_who": "Bucharest Court of Appeal",
+          "event_when": "30 March 2012",
+          "event_what": "authorised her transfer",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 11 April 2013 the applicant’s mother died.",
+          "event": "Death of the applicant's mother",
+          "event_who": "Applicant's mother",
+          "event_when": "11 April 2013",
+          "event_what": "died",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+          "event": "Request for leave to attend funeral",
+          "event_who": "Applicant",
+          "event_when": "12 April 2013",
+          "event_what": "lodged a request with the Iaşi District Court",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave.",
+          "event": "Refusal of leave to attend funeral",
+          "event_who": "Iaşi District Court",
+          "event_when": "23 May 2013",
+          "event_what": "refused to grant her leave",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant lodged an appeal on points of law against that decision.",
+          "event": "Lodging of an appeal",
+          "event_who": "Applicant",
+          "event_when": "",
+          "event_what": "lodged an appeal on points of law",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal.",
+          "event": "Dismissal of the appeal",
+          "event_who": "Iaşi County Court",
+          "event_when": "22 October 2013",
+          "event_what": "dismissed the applicant’s appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Court declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, EUR 6,000 (six thousand euros), to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of non-pecuniary damage; that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Judgment",
+          "event_who": "Court",
+          "event_when": "",
+          "event_what": "declared the application admissible and held that there has been a violation of Article 8 of the Convention, among other things.",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+            "event": "Application lodged",
+            "event_who": "Applicant",
+            "event_when": "17 April 2014",
+            "event_what": "lodged an application",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant was represented by Ms A. Diaconescu, a lawyer practising in Iași.",
+            "event": "Representation of the applicant",
+            "event_who": "Applicant's representative",
+            "event_when": "",
+            "event_what": "was represented by",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The Romanian Government (“the Government”) were represented by their Agent, most recently Mr. V. Mocanu, of the Ministry of Foreign Affairs.",
+            "event": "Representation of the Government",
+            "event_who": "Government's representative",
+            "event_when": "",
+            "event_what": "were represented by",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+            "event": "Allegation of breach",
+            "event_who": "Applicant",
+            "event_when": "",
+            "event_what": "alleged a breach of Article 8",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "Notice of complaint",
+            "event_who": "Court",
+            "event_when": "1 September 2015",
+            "event_what": "gave notice of the complaint",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant was born in 1969 and is currently in a psychiatric facility in Pădureni-Grajduri.",
+            "event": "Current location of the applicant",
+            "event_who": "Applicant",
+            "event_when": "",
+            "event_what": "is currently in a psychiatric facility",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "In 2005 she committed a murder in France.",
+            "event": "Committed a murder",
+            "event_who": "Applicant",
+            "event_when": "2005",
+            "event_what": "committed a murder",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+            "event": "Discontinuation of criminal investigation",
+            "event_who": "Mâcon County Court",
+            "event_when": "12 November 2007",
+            "event_what": "discontinued the criminal investigation",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "In 2011 the applicant lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+            "event": "Request for transfer",
+            "event_who": "Applicant",
+            "event_when": "2011",
+            "event_what": "lodged a request to be transferred",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+            "event": "Authorization for transfer",
+            "event_who": "Bucharest Court of Appeal",
+            "event_when": "30 March 2012",
+            "event_what": "authorised her transfer",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 11 April 2013 the applicant’s mother died.",
+            "event": "Death of the applicant's mother",
+            "event_who": "Applicant's mother",
+            "event_when": "11 April 2013",
+            "event_what": "died",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+            "event": "Request for leave to attend funeral",
+            "event_who": "Applicant",
+            "event_when": "12 April 2013",
+            "event_what": "lodged a request with the Iaşi District Court",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave.",
+            "event": "Refusal of leave to attend funeral",
+            "event_who": "Iaşi District Court",
+            "event_when": "23 May 2013",
+            "event_what": "refused to grant her leave",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The applicant lodged an appeal on points of law against that decision.",
+            "event": "Lodging of an appeal",
+            "event_who": "Applicant",
+            "event_when": "",
+            "event_what": "lodged an appeal on points of law",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal.",
+            "event": "Dismissal of the appeal",
+            "event_who": "Iaşi County Court",
+            "event_when": "22 October 2013",
+            "event_what": "dismissed the applicant’s appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The Court declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, EUR 6,000 (six thousand euros), to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of non-pecuniary damage; that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses the remainder of the applicant’s claim for just satisfaction.",
+            "event": "Judgment",
+            "event_who": "Court",
+            "event_when": "",
+            "event_what": "declared the application admissible and held that there has been a violation of Article 8 of the Convention, among other things.",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T15:27:54.222571",
+      "context_length": 32768,
+      "input_tokens": 1547
+    },
+    {
+      "model_name": "incept5/llama3.1-claude:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+          "event": "Application",
+          "event_who": "Ms Luminiţa Zamfira Solcan (applicant)",
+          "event_when": "17 April 2014",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Notice",
+          "event_who": "Government",
+          "event_when": "1 September 2015",
+          "event_what": "given notice",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 11 April 2013 the applicant’s mother died. On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+          "event": "Death and Request",
+          "event_who": "applicant's mother (deceased)",
+          "event_when": "11 April 2013",
+          "event_what": "lodged a request",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave. It pointed out that under Article 39 of the Mental Health Act (see paragraph 14 below) the restriction of liberty of mentally ill persons was justified for the protection of their health or safety or for the protection of others, and that under Article 49 of the same Act the facility was chosen so as to allow the mentally ill patient to be as close to home as possible.",
+          "event": "Refusal",
+          "event_who": "Iaşi District Court",
+          "event_when": "23 May 2013",
+          "event_what": "refused leave",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant lodged an appeal on points of law against that decision. She claimed that the provisions of Law no. 275/2006 on the execution of sentences, which authorised the temporary interruption of a custodial sentence for family reasons, should also apply to her detention in a psychiatric facility.",
+          "event": "Appeal",
+          "event_who": "applicant",
+          "event_when": "no specific date mentioned",
+          "event_what": "lodged an appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal. It held that under Article 114 of the Criminal Code read in conjunction with Article 434 of the Code of Criminal Procedure her detention in a psychiatric facility could be either discontinued or replaced by an obligation to undergo outpatient mental health treatment after an assessment by medical experts.",
+          "event": "Dismissal",
+          "event_who": "Iaşi County Court",
+          "event_when": "22 October 2013",
+          "event_what": "dismissed the appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+          "event": "Discontinuation",
+          "event_who": "Mâcon County Court",
+          "event_when": "12 November 2007",
+          "event_what": "discontinued the investigation",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+          "event": "Transfer",
+          "event_who": "Bucharest Court of Appeal",
+          "event_when": "30 March 2012",
+          "event_what": "authorised the transfer",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 9 November 2016, she was still detained there.",
+          "event": "Detention",
+          "event_who": "applicant",
+          "event_when": "9 November 2016",
+          "event_what": "detained",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The Government attached to their observations three decisions made by the Buzau District Court (on 30 January 2014, 6 February and 27 March 2015 respectively) by which the applicants, who had all been admitted to a psychiatric facility for inpatient treatment, were allowed to attend the funerals of their family members.",
+          "event": "Allowance",
+          "event_who": "Buzau District Court",
+          "event_when": "30 January 2014, 6 February and 27 March 2015",
+          "event_what": "allowed attendance at funeral",
+          "event_type": "event_circumstance"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+            "event": "Application",
+            "event_who": "Ms Luminiţa Zamfira Solcan (applicant)",
+            "event_when": "17 April 2014",
+            "event_what": "lodged an application",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "Notice",
+            "event_who": "Government",
+            "event_when": "1 September 2015",
+            "event_what": "given notice",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 11 April 2013 the applicant’s mother died. On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+            "event": "Death and Request",
+            "event_who": "applicant's mother (deceased)",
+            "event_when": "11 April 2013",
+            "event_what": "lodged a request",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave. It pointed out that under Article 39 of the Mental Health Act (see paragraph 14 below) the restriction of liberty of mentally ill persons was justified for the protection of their health or safety or for the protection of others, and that under Article 49 of the same Act the facility was chosen so as to allow the mentally ill patient to be as close to home as possible.",
+            "event": "Refusal",
+            "event_who": "Iaşi District Court",
+            "event_when": "23 May 2013",
+            "event_what": "refused leave",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant lodged an appeal on points of law against that decision. She claimed that the provisions of Law no. 275/2006 on the execution of sentences, which authorised the temporary interruption of a custodial sentence for family reasons, should also apply to her detention in a psychiatric facility.",
+            "event": "Appeal",
+            "event_who": "applicant",
+            "event_when": "no specific date mentioned",
+            "event_what": "lodged an appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal. It held that under Article 114 of the Criminal Code read in conjunction with Article 434 of the Code of Criminal Procedure her detention in a psychiatric facility could be either discontinued or replaced by an obligation to undergo outpatient mental health treatment after an assessment by medical experts.",
+            "event": "Dismissal",
+            "event_who": "Iaşi County Court",
+            "event_when": "22 October 2013",
+            "event_what": "dismissed the appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 12 November 2007 the Mâcon County Court discontinued the criminal investigation against her on the grounds that she had committed the offence in a state of diminished responsibility.",
+            "event": "Discontinuation",
+            "event_who": "Mâcon County Court",
+            "event_when": "12 November 2007",
+            "event_what": "discontinued the investigation",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "By a decision of 30 March 2012 the Bucharest Court of Appeal authorised her transfer to a psychiatric facility in Pădureni-Grajduri, a village located about twenty kilometres from Iaşi.",
+            "event": "Transfer",
+            "event_who": "Bucharest Court of Appeal",
+            "event_when": "30 March 2012",
+            "event_what": "authorised the transfer",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 9 November 2016, she was still detained there.",
+            "event": "Detention",
+            "event_who": "applicant",
+            "event_when": "9 November 2016",
+            "event_what": "detained",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The Government attached to their observations three decisions made by the Buzau District Court (on 30 January 2014, 6 February and 27 March 2015 respectively) by which the applicants, who had all been admitted to a psychiatric facility for inpatient treatment, were allowed to attend the funerals of their family members.",
+            "event": "Allowance",
+            "event_who": "Buzau District Court",
+            "event_when": "30 January 2014, 6 February and 27 March 2015",
+            "event_what": "allowed attendance at funeral",
+            "event_type": "event_circumstance"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T15:28:35.399250",
+      "context_length": 128000,
+      "input_tokens": 1547
+    },
+    {
+      "model_name": "chevalblanc/claude-3-haiku:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+          "event": "lodged an application",
+          "event_who": "Ms Luminiţa Zamfira Solcan (the applicant)",
+          "event_when": "on 17 April 2014",
+          "event_what": "lodged an application against Romania under Article 34 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+          "event": "alleged",
+          "event_who": "Ms Luminiţa Zamfira Solcan (the applicant)",
+          "event_when": "not specified",
+          "event_what": "alleged a breach of Article 8 of the Convention due to not being allowed to attend her mother's funeral",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "given notice",
+          "event_who": "the Government",
+          "event_when": "on 1 September 2015",
+          "event_what": "notice of the complaint under Article 8 of the Convention was given to them",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+          "event": "lodged a request",
+          "event_who": "Ms Luminiţa Zamfira Solcan (the applicant)",
+          "event_when": "on 12 April 2013",
+          "event_what": "lodged a request with the Iaşi District Court for leave to attend her mother's funeral",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave.",
+          "event": "refused to grant leave",
+          "event_who": "the Iaşi District Court",
+          "event_when": "on 23 May 2013",
+          "event_what": "refused to grant the applicant leave to attend her mother's funeral",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant lodged an appeal on points of law against that decision.",
+          "event": "lodged an appeal",
+          "event_who": "Ms Luminiţa Zamfira Solcan (the applicant)",
+          "event_when": "not specified",
+          "event_what": "lodged an appeal on points of law against the decision of the Iaşi District Court",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal.",
+          "event": "dismissed the appeal",
+          "event_who": "the Iaşi County Court",
+          "event_when": "on 22 October 2013",
+          "event_what": "dismissed the applicant's appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the respondent State is to pay the applicant...",
+          "event": "declared and held",
+          "event_who": "THE COURT",
+          "event_when": "not specified",
+          "event_what": "declared the application admissible, held there was a violation of Article 8 of the Convention, and ordered payment to the applicant",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+            "event": "lodged an application",
+            "event_who": "Ms Luminiţa Zamfira Solcan (the applicant)",
+            "event_when": "on 17 April 2014",
+            "event_what": "lodged an application against Romania under Article 34 of the Convention",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+            "event": "alleged",
+            "event_who": "Ms Luminiţa Zamfira Solcan (the applicant)",
+            "event_when": "not specified",
+            "event_what": "alleged a breach of Article 8 of the Convention due to not being allowed to attend her mother's funeral",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "given notice",
+            "event_who": "the Government",
+            "event_when": "on 1 September 2015",
+            "event_what": "notice of the complaint under Article 8 of the Convention was given to them",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+            "event": "lodged a request",
+            "event_who": "Ms Luminiţa Zamfira Solcan (the applicant)",
+            "event_when": "on 12 April 2013",
+            "event_what": "lodged a request with the Iaşi District Court for leave to attend her mother's funeral",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave.",
+            "event": "refused to grant leave",
+            "event_who": "the Iaşi District Court",
+            "event_when": "on 23 May 2013",
+            "event_what": "refused to grant the applicant leave to attend her mother's funeral",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant lodged an appeal on points of law against that decision.",
+            "event": "lodged an appeal",
+            "event_who": "Ms Luminiţa Zamfira Solcan (the applicant)",
+            "event_when": "not specified",
+            "event_what": "lodged an appeal on points of law against the decision of the Iaşi District Court",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal.",
+            "event": "dismissed the appeal",
+            "event_who": "the Iaşi County Court",
+            "event_when": "on 22 October 2013",
+            "event_what": "dismissed the applicant's appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the respondent State is to pay the applicant...",
+            "event": "declared and held",
+            "event_who": "THE COURT",
+            "event_when": "not specified",
+            "event_what": "declared the application admissible, held there was a violation of Article 8 of the Convention, and ordered payment to the applicant",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T15:29:50.398900",
+      "context_length": 200000,
+      "input_tokens": 1547
+    },
+    {
+      "model_name": "llama4:16x17b",
+      "events": [
+        {
+          "source_text": "The applicant lodged an application with the Court on 17 April 2014.",
+          "event": "lodged an application",
+          "event_who": "the applicant",
+          "event_when": "17 April 2014",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant's mother died on 11 April 2013.",
+          "event": "died",
+          "event_who": "the applicant's mother",
+          "event_when": "11 April 2013",
+          "event_what": "died",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant requested to attend her mother's funeral on 12 April 2013.",
+          "event": "requested to attend her mother's funeral",
+          "event_who": "the applicant",
+          "event_when": "12 April 2013",
+          "event_what": "requested to attend her mother's funeral",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Iași District Court refused the applicant's request on 23 May 2013.",
+          "event": "refused the applicant's request",
+          "event_who": "the Iași District Court",
+          "event_when": "23 May 2013",
+          "event_what": "refused the applicant's request",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant appealed the decision on 23 May 2013.",
+          "event": "appealed the decision",
+          "event_who": "the applicant",
+          "event_when": "23 May 2013",
+          "event_what": "appealed the decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Iași County Court dismissed the applicant's appeal on 22 October 2013.",
+          "event": "dismissed the applicant's appeal",
+          "event_who": "the Iași County Court",
+          "event_when": "22 October 2013",
+          "event_what": "dismissed the applicant's appeal",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The applicant lodged an application with the Court on 17 April 2014.",
+            "event": "lodged an application",
+            "event_who": "the applicant",
+            "event_when": "17 April 2014",
+            "event_what": "lodged an application",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant's mother died on 11 April 2013.",
+            "event": "died",
+            "event_who": "the applicant's mother",
+            "event_when": "11 April 2013",
+            "event_what": "died",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The applicant requested to attend her mother's funeral on 12 April 2013.",
+            "event": "requested to attend her mother's funeral",
+            "event_who": "the applicant",
+            "event_when": "12 April 2013",
+            "event_what": "requested to attend her mother's funeral",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The Iași District Court refused the applicant's request on 23 May 2013.",
+            "event": "refused the applicant's request",
+            "event_who": "the Iași District Court",
+            "event_when": "23 May 2013",
+            "event_what": "refused the applicant's request",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant appealed the decision on 23 May 2013.",
+            "event": "appealed the decision",
+            "event_who": "the applicant",
+            "event_when": "23 May 2013",
+            "event_what": "appealed the decision",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The Iași County Court dismissed the applicant's appeal on 22 October 2013.",
+            "event": "dismissed the applicant's appeal",
+            "event_who": "the Iași County Court",
+            "event_when": "22 October 2013",
+            "event_what": "dismissed the applicant's appeal",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T15:36:06.864285",
+      "context_length": 8192,
+      "input_tokens": 1547
+    },
+    {
+      "model_name": "mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+          "event": "The case originated in an application against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms by a Romanian national, Ms Luminiţa Zamfira Solcan, on 17 April 2014.",
+          "event_who": "The applicant, Romania, the Court, Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms, a Romanian national, Ms Luminiţa Zamfira Solcan",
+          "event_when": "on 17 April 2014",
+          "event_what": "lodged",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Ms A. Diaconescu, a lawyer practising in Iaşi. The Romanian Government (“the Government”) were represented by their Agent, most recently Mr. V. Mocanu, of the Ministry of Foreign Affairs.",
+          "event": "The applicant and the Romanian Government had legal representation",
+          "event_who": "The applicant, Ms A. Diaconescu, the Romanian Government, Mr. V. Mocanu",
+          "event_when": "N/A",
+          "event_what": "were represented by",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+          "event": "The applicant alleged a breach of Article 8 of the Convention",
+          "event_who": "The applicant",
+          "event_when": "N/A",
+          "event_what": "alleged, a breach of",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible",
+          "event_who": "The Court",
+          "event_when": "On 1 September 2015",
+          "event_what": "given, declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In 2011 she lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+          "event": "The applicant lodged a request to be transferred to a similar psychiatric facility in Romania",
+          "event_who": "The applicant",
+          "event_when": "In 2011",
+          "event_what": "lodged, to be transferred",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 11 April 2013 the applicant’s mother died. On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+          "event": "The applicant's mother died and the applicant lodged a request with the Iaşi District Court for leave to attend her funeral",
+          "event_who": "The applicant, the applicant's mother",
+          "event_when": "On 11 April 2013, On 12 April 2013",
+          "event_what": "died, lodged a request",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave.",
+          "event": "The court examined the applicant's request and refused to grant her leave",
+          "event_who": "The court, the applicant",
+          "event_when": "On 23 May 2013",
+          "event_what": "examined, refused to grant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant lodged an appeal on points of law against that decision.",
+          "event": "The applicant lodged an appeal on points of law against the decision",
+          "event_who": "The applicant",
+          "event_when": "N/A",
+          "event_what": "lodged, against",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal.",
+          "event": "The Iaşi County Court dismissed the applicant's appeal",
+          "event_who": "The Iaşi County Court, the applicant",
+          "event_when": "By a final decision of 22 October 2013",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 32074/14) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Ms Luminiţa Zamfira Solcan (“the applicant”), on 17 April 2014.",
+            "event": "The case originated in an application against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms by a Romanian national, Ms Luminiţa Zamfira Solcan, on 17 April 2014.",
+            "event_who": "The applicant, Romania, the Court, Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms, a Romanian national, Ms Luminiţa Zamfira Solcan",
+            "event_when": "on 17 April 2014",
+            "event_what": "lodged",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant was represented by Ms A. Diaconescu, a lawyer practising in Iaşi. The Romanian Government (“the Government”) were represented by their Agent, most recently Mr. V. Mocanu, of the Ministry of Foreign Affairs.",
+            "event": "The applicant and the Romanian Government had legal representation",
+            "event_who": "The applicant, Ms A. Diaconescu, the Romanian Government, Mr. V. Mocanu",
+            "event_when": "N/A",
+            "event_what": "were represented by",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant alleged, in particular, a breach of Article 8 of the Convention as a result of the failure of the authorities to allow her to attend her mother’s funeral during her involuntary hospitalisation in an inpatient psychiatric facility.",
+            "event": "The applicant alleged a breach of Article 8 of the Convention",
+            "event_who": "The applicant",
+            "event_when": "N/A",
+            "event_what": "alleged, a breach of",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 1 September 2015 notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "Notice of the complaint under Article 8 of the Convention was given to the Government and the remainder of the application was declared inadmissible",
+            "event_who": "The Court",
+            "event_when": "On 1 September 2015",
+            "event_what": "given, declared inadmissible",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "In 2011 she lodged a request to be transferred to a similar psychiatric facility in Romania in order to be closer to her mother, who lived in Iaşi.",
+            "event": "The applicant lodged a request to be transferred to a similar psychiatric facility in Romania",
+            "event_who": "The applicant",
+            "event_when": "In 2011",
+            "event_what": "lodged, to be transferred",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 11 April 2013 the applicant’s mother died. On 12 April 2013 the applicant lodged a request with the Iaşi District Court for leave to attend her funeral.",
+            "event": "The applicant's mother died and the applicant lodged a request with the Iaşi District Court for leave to attend her funeral",
+            "event_who": "The applicant, the applicant's mother",
+            "event_when": "On 11 April 2013, On 12 April 2013",
+            "event_what": "died, lodged a request",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 23 May 2013 the court examined her request and refused to grant her leave.",
+            "event": "The court examined the applicant's request and refused to grant her leave",
+            "event_who": "The court, the applicant",
+            "event_when": "On 23 May 2013",
+            "event_what": "examined, refused to grant",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant lodged an appeal on points of law against that decision.",
+            "event": "The applicant lodged an appeal on points of law against the decision",
+            "event_who": "The applicant",
+            "event_when": "N/A",
+            "event_what": "lodged, against",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "By a final decision of 22 October 2013 the Iaşi County Court dismissed the applicant’s appeal.",
+            "event": "The Iaşi County Court dismissed the applicant's appeal",
+            "event_who": "The Iaşi County Court, the applicant",
+            "event_when": "By a final decision of 22 October 2013",
+            "event_what": "dismissed",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T15:44:20.460007",
+      "context_length": 8192,
+      "input_tokens": 1547
+    }
+  ],
+  "metadata": {
+    "processed_at": "2025-07-12T15:44:20.460646",
+    "total_sections": 0,
+    "total_models": 10,
+    "total_tokens": 1547
+  }
+}

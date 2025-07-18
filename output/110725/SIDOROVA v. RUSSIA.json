@@ -1,0 +1,2038 @@
+{
+  "Document": "file:/C:/Users/mnavas/CASE%20OF%20SIDOROVA%20v.%20RUSSIA.docx",
+  "sections": {
+    "procedure": "1.  The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.\n2.  The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad. The Russian Government (“the Government”) were represented initially by Mr G. Matyushkin, former Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.\n3.  On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+    "circumstances": "4.  The applicant was born in 1955 and lives in Dmitrovgrad.\n5.  Between 2012 and 2014 the applicant lodged numerous complaints with the local police department concerning the allegedly unauthorised use of the plot of land near the block of flats where her family resided. She also alleged that there had been a number of assassination attempts planned against her.\n6.  On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service:\n“Following receipt of numerous complaints, the [police department] asks you to examine (check) [the applicant] ... at her place of residence. Her behaviour is inappropriate. She constantly talks about conspiracies against her. Complaints lodged by residents and entrepreneurs about her aggressive behaviour have grown in number. [The applicant] might cause harm to others.”\n7.  On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.\n8.  On 30 January 2014 a psychiatrist visited the applicant at her place of residence.\n9.  On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.\n10.  On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful. The court established that, contrary to the applicable legislation, the psychiatrist had failed to obtain the applicant’s consent to a psychiatric examination and that the applicant had objected to such an examination.\n11.  On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful. She considered that the decision had been arbitrary and that it had amounted to an unjustified interference with her private life.\n12.  On 29 April 2014 the Town Court dismissed the applicant’s complaint. The court found that the actions of the police had had a basis in law. The court interpreted the letter of 15 January 2014 issued by the police department as a request for information from the psychiatrist as to whether the applicant suffered from any mental illness. It further reasoned that the police had not asked the psychiatric service to examine the applicant. In 2012 the police had received numerous complaints from the applicant, who had alleged that she had been persecuted by unknown persons, and complaints from owners and employees of concession stands alleging that the applicant had destroyed their property and had disrupted their activities by making scenes. The police had conducted an inquiry, which did not confirm the applicant’s allegations. Accordingly, the police had decided to obtain information about the applicant’s mental condition. Lastly, the court reasoned that the fact that, in response to the police’s request for information, the psychiatric service had examined the applicant unlawfully had no bearing on the lawfulness of the police’s actions.\n13.  On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.\n14.  On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.\n15.  On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.\nII.  RELEVANT DOMESTIC LAW\nA.  Federal Police Act in force since 7 February 2011, as amended\n16.  The Federal Police Act allows disclosure of personal data in order to prevent or detect criminal or administrative offences. The federal legislation, however, may provide for a special procedure governing such disclosure in the sphere of public health (section 13(1) (4)).\nB.  Federal Public Health Act in force since 21 November 2011, as amended\n17.  Information concerning medical consultation, an individual’s health or diagnosis and other data obtained in the course of medical examination or treatment shall be considered confidential (a medical secret) (section 13(1) of the Federal Public Health Act). Investigating authorities may request disclosure of confidential medical information, without the consent of the individual concerned, in connection with an ongoing investigation (Section 13(4)(3) of the Federal Public Health Act).\nC.  Federal Mental Health Act in force since 2 July 1992, as amended\n18.  Disclosure of information concerning mental health or the results of a psychiatric examination must be expressly allowed by federal legislation (Section 4 of the Mental Health Act).",
+    "decision": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1.   Declares the application admissible;\n2.   Holds that there has been a violation of Article 8 of the Convention;\n3.   Holds\n(a)  that the respondent State is to pay the applicant, within three months the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:\n(i)  EUR 5,000 (five thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;\n(ii)  EUR 1,140 (one thousand one hundred and forty euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;\n(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.\nDone in English, and notified in writing on 28 May 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court."
+  },
+  "combined_text_length": 6507,
+  "total_tokens": 1423,
+  "annotations": [
+    {
+      "model_name": "gemma3:1b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+          "event": "Event_who",
+          "event_who": "Ms Lidiya Pavlovna Sidorova (Applicant)",
+          "event_when": "2 July 2015",
+          "event_what": "Application lodged against the Russian Federation",
+          "event_type": "Event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad.",
+          "event": "Event_who",
+          "event_who": "Ms I. Kulakova",
+          "event_when": "2015",
+          "event_what": "Represented by Ms I. Kulakova",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Event_when",
+          "event_who": "Government",
+          "event_when": "13 March 2017",
+          "event_what": "Notice of complaint was given",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1955 and lives in Dmitrovgrad.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "1955",
+          "event_what": "Born in Dmitrovgrad",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "Between 2012 and 2014 the applicant lodged numerous complaints with the local police department concerning the allegedly unauthorised use of the plot of land near the block of flats where her family resided.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "2012-2014",
+          "event_what": "Filed numerous complaints with the local police department",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service:",
+          "event": "Event_when",
+          "event_who": "Head of the inter-municipal police department",
+          "event_when": "15 January 2014",
+          "event_what": "Forwarded letter",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "Following receipt of numerous complaints, the [police department] asks you to examine (check) [the applicant] ... at her place of residence. Her behaviour is inappropriate. She constantly talks about conspiracies against her. Complaints lodged by residents and entrepreneurs about her aggressive behaviour have grown in number.",
+          "event": "Event_when",
+          "event_who": "Police Department",
+          "event_when": "15 January 2014",
+          "event_what": "Received numerous complaints",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+          "event": "Event_when",
+          "event_who": "Sav.",
+          "event_when": "28 and 29 January 2014",
+          "event_what": "Questioned neighbours",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+          "event": "Event_when",
+          "event_who": "Sav.",
+          "event_when": "30 January 2014",
+          "event_what": "Psychiatrist visited",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+          "event": "Event_when",
+          "event_who": "Psychiatrist",
+          "event_when": "31 January 2014",
+          "event_what": "The psychiatrist informed the police",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful. The court established that, contrary to the applicable legislation, the psychiatrist had failed to obtain the applicant’s consent to a psychiatric examination and that the applicant had objected to such an examination.",
+          "event": "Event_when",
+          "event_who": "Dimitrovgrad Town Court",
+          "event_when": "12 March 2014",
+          "event_what": "Court found psychiatrist's actions unlawful",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful. She considered that the decision had been arbitrary and that it had amounted to an unjustified interference with her private life.",
+          "event": "Event_when",
+          "event_who": "Applicant",
+          "event_when": "17 March 2014",
+          "event_what": "Applicant asked the court to find the police's decision unlawful",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint. The court found that the actions of the police had had a basis in law.",
+          "event": "Event_when",
+          "event_who": "Dimitrovgrad Town Court",
+          "event_when": "29 April 2014",
+          "event_what": "Court dismissed the complaint",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+          "event": "Event_when",
+          "event_who": "Regional Court",
+          "event_when": "17 December 2014",
+          "event_what": "Regional Court refused leave to appeal",
+          "event_type": "Event_procedure"
+        },
+        {
+          "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+          "event": "Event_when",
+          "event_who": "Supreme Court of the Russian Federation",
+          "event_when": "26 March 2015",
+          "event_what": "Supreme Court issued similar decision",
+          "event_type": "Event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+            "event": "Event_who",
+            "event_who": "Ms Lidiya Pavlovna Sidorova (Applicant)",
+            "event_when": "2 July 2015",
+            "event_what": "Application lodged against the Russian Federation",
+            "event_type": "Event_circumstance"
+          },
+          {
+            "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad.",
+            "event": "Event_who",
+            "event_who": "Ms I. Kulakova",
+            "event_when": "2015",
+            "event_what": "Represented by Ms I. Kulakova",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "Event_when",
+            "event_who": "Government",
+            "event_when": "13 March 2017",
+            "event_what": "Notice of complaint was given",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "The applicant was born in 1955 and lives in Dmitrovgrad.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "1955",
+            "event_what": "Born in Dmitrovgrad",
+            "event_type": "Event_when"
+          },
+          {
+            "source_text": "Between 2012 and 2014 the applicant lodged numerous complaints with the local police department concerning the allegedly unauthorised use of the plot of land near the block of flats where her family resided.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "2012-2014",
+            "event_what": "Filed numerous complaints with the local police department",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service:",
+            "event": "Event_when",
+            "event_who": "Head of the inter-municipal police department",
+            "event_when": "15 January 2014",
+            "event_what": "Forwarded letter",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "Following receipt of numerous complaints, the [police department] asks you to examine (check) [the applicant] ... at her place of residence. Her behaviour is inappropriate. She constantly talks about conspiracies against her. Complaints lodged by residents and entrepreneurs about her aggressive behaviour have grown in number.",
+            "event": "Event_when",
+            "event_who": "Police Department",
+            "event_when": "15 January 2014",
+            "event_what": "Received numerous complaints",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+            "event": "Event_when",
+            "event_who": "Sav.",
+            "event_when": "28 and 29 January 2014",
+            "event_what": "Questioned neighbours",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+            "event": "Event_when",
+            "event_who": "Sav.",
+            "event_when": "30 January 2014",
+            "event_what": "Psychiatrist visited",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+            "event": "Event_when",
+            "event_who": "Psychiatrist",
+            "event_when": "31 January 2014",
+            "event_what": "The psychiatrist informed the police",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful. The court established that, contrary to the applicable legislation, the psychiatrist had failed to obtain the applicant’s consent to a psychiatric examination and that the applicant had objected to such an examination.",
+            "event": "Event_when",
+            "event_who": "Dimitrovgrad Town Court",
+            "event_when": "12 March 2014",
+            "event_what": "Court found psychiatrist's actions unlawful",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful. She considered that the decision had been arbitrary and that it had amounted to an unjustified interference with her private life.",
+            "event": "Event_when",
+            "event_who": "Applicant",
+            "event_when": "17 March 2014",
+            "event_what": "Applicant asked the court to find the police's decision unlawful",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint. The court found that the actions of the police had had a basis in law.",
+            "event": "Event_when",
+            "event_who": "Dimitrovgrad Town Court",
+            "event_when": "29 April 2014",
+            "event_what": "Court dismissed the complaint",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+            "event": "Event_when",
+            "event_who": "Regional Court",
+            "event_when": "17 December 2014",
+            "event_what": "Regional Court refused leave to appeal",
+            "event_type": "Event_procedure"
+          },
+          {
+            "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+            "event": "Event_when",
+            "event_who": "Supreme Court of the Russian Federation",
+            "event_when": "26 March 2015",
+            "event_what": "Supreme Court issued similar decision",
+            "event_type": "Event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T04:29:09.845007",
+      "context_length": 8192,
+      "input_tokens": 1423
+    },
+    {
+      "model_name": "gemma3:4b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+          "event": "lodged an application",
+          "event_who": "applicant",
+          "event_when": "2 July 2015",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad. The Russian Government (“the Government”) were represented initially by Mr G. Matyushkin, former Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event": "represented",
+          "event_who": "applicant",
+          "event_when": "N/A",
+          "event_what": "represented",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "declared inadmissible",
+          "event_who": "Court",
+          "event_when": "13 March 2017",
+          "event_what": "declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+          "event": "questioned",
+          "event_who": "psychiatrist",
+          "event_when": "28 and 29 January 2014",
+          "event_what": "questioned",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+          "event": "visited",
+          "event_who": "psychiatrist",
+          "event_when": "30 January 2014",
+          "event_what": "visited",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+          "event": "informed",
+          "event_who": "psychiatrist",
+          "event_when": "31 January 2014",
+          "event_what": "informed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful. The court established that, contrary to the applicable legislation, the psychiatrist had failed to obtain the applicant’s consent to a psychiatric examination and that the applicant had objected to such an examination.",
+          "event": "found unlawful",
+          "event_who": "Court",
+          "event_when": "12 March 2014",
+          "event_what": "found unlawful",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful. She considered that the decision had been arbitrary and that it had amounted to an unjustified interference with her private life.",
+          "event": "asked",
+          "event_who": "applicant",
+          "event_when": "17 March 2014",
+          "event_what": "asked",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint. The court found that the actions of the police had had a basis in law. The court interpreted the letter of 15 January 2014 issued by the police department as a request for information from the psychiatrist as to whether the applicant suffered from any mental illness. It further reasoned that the police had not asked the psychiatric service to examine the applicant.",
+          "event": "dismissed",
+          "event_who": "Court",
+          "event_when": "29 April 2014",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+          "event": "upheld",
+          "event_who": "Court",
+          "event_when": "22 July 2014",
+          "event_what": "upheld",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+          "event": "refused to grant",
+          "event_who": "Court",
+          "event_when": "17 December 2014",
+          "event_what": "refused to grant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+          "event": "issued a decision",
+          "event_who": "Supreme Court",
+          "event_when": "26 March 2015",
+          "event_what": "issued a decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "A. Federal Police Act in force since 7 February 2011, as amended\n16. The Federal Police Act allows disclosure of personal data in order to prevent or detect criminal or administrative offences. The federal legislation, however, may provide for a special procedure governing such disclosure in the sphere of public health (section 13(1) (4)).",
+          "event": "allows disclosure",
+          "event_who": "Federal Police Act",
+          "event_when": "7 February 2011",
+          "event_what": "allows disclosure",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "B. Federal Public Health Act in force since 21 November 2011, as amended\n17. Information concerning medical consultation, an individual’s health or diagnosis and other data obtained in the course of medical examination or treatment shall be considered confidential (a medical secret) (section 13(1) of the Federal Public Health Act). Investigating authorities may request disclosure of confidential medical information, without the consent of the individual concerned, in connection with an ongoing investigation (Section 13(4)(3) of the Federal Public Health Act).",
+          "event": "may request disclosure",
+          "event_who": "investigating authorities",
+          "event_when": "21 November 2011",
+          "event_what": "may request disclosure",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "C. Federal Mental Health Act in force since 2 July 1992, as amended\n18. Disclosure of information concerning mental health or the results of a psychiatric examination must be expressly allowed by federal legislation (Section 4 of the Mental Health Act). FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1. Declares the application admissible;\n2. Holds that there has been a violation of Article 8 of the Convention;\n3. Holds",
+          "event": "allows disclosure",
+          "event_who": "Federal Mental Health Act",
+          "event_when": "2 July 1992",
+          "event_what": "allows disclosure",
+          "event_type": "event_circumstance"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+            "event": "lodged an application",
+            "event_who": "applicant",
+            "event_when": "2 July 2015",
+            "event_what": "lodged an application",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad. The Russian Government (“the Government”) were represented initially by Mr G. Matyushkin, former Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+            "event": "represented",
+            "event_who": "applicant",
+            "event_when": "N/A",
+            "event_what": "represented",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "declared inadmissible",
+            "event_who": "Court",
+            "event_when": "13 March 2017",
+            "event_what": "declared inadmissible",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+            "event": "questioned",
+            "event_who": "psychiatrist",
+            "event_when": "28 and 29 January 2014",
+            "event_what": "questioned",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+            "event": "visited",
+            "event_who": "psychiatrist",
+            "event_when": "30 January 2014",
+            "event_what": "visited",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+            "event": "informed",
+            "event_who": "psychiatrist",
+            "event_when": "31 January 2014",
+            "event_what": "informed",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful. The court established that, contrary to the applicable legislation, the psychiatrist had failed to obtain the applicant’s consent to a psychiatric examination and that the applicant had objected to such an examination.",
+            "event": "found unlawful",
+            "event_who": "Court",
+            "event_when": "12 March 2014",
+            "event_what": "found unlawful",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful. She considered that the decision had been arbitrary and that it had amounted to an unjustified interference with her private life.",
+            "event": "asked",
+            "event_who": "applicant",
+            "event_when": "17 March 2014",
+            "event_what": "asked",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint. The court found that the actions of the police had had a basis in law. The court interpreted the letter of 15 January 2014 issued by the police department as a request for information from the psychiatrist as to whether the applicant suffered from any mental illness. It further reasoned that the police had not asked the psychiatric service to examine the applicant.",
+            "event": "dismissed",
+            "event_who": "Court",
+            "event_when": "29 April 2014",
+            "event_what": "dismissed",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+            "event": "upheld",
+            "event_who": "Court",
+            "event_when": "22 July 2014",
+            "event_what": "upheld",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+            "event": "refused to grant",
+            "event_who": "Court",
+            "event_when": "17 December 2014",
+            "event_what": "refused to grant",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+            "event": "issued a decision",
+            "event_who": "Supreme Court",
+            "event_when": "26 March 2015",
+            "event_what": "issued a decision",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "A. Federal Police Act in force since 7 February 2011, as amended\n16. The Federal Police Act allows disclosure of personal data in order to prevent or detect criminal or administrative offences. The federal legislation, however, may provide for a special procedure governing such disclosure in the sphere of public health (section 13(1) (4)).",
+            "event": "allows disclosure",
+            "event_who": "Federal Police Act",
+            "event_when": "7 February 2011",
+            "event_what": "allows disclosure",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "B. Federal Public Health Act in force since 21 November 2011, as amended\n17. Information concerning medical consultation, an individual’s health or diagnosis and other data obtained in the course of medical examination or treatment shall be considered confidential (a medical secret) (section 13(1) of the Federal Public Health Act). Investigating authorities may request disclosure of confidential medical information, without the consent of the individual concerned, in connection with an ongoing investigation (Section 13(4)(3) of the Federal Public Health Act).",
+            "event": "may request disclosure",
+            "event_who": "investigating authorities",
+            "event_when": "21 November 2011",
+            "event_what": "may request disclosure",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "C. Federal Mental Health Act in force since 2 July 1992, as amended\n18. Disclosure of information concerning mental health or the results of a psychiatric examination must be expressly allowed by federal legislation (Section 4 of the Mental Health Act). FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1. Declares the application admissible;\n2. Holds that there has been a violation of Article 8 of the Convention;\n3. Holds",
+            "event": "allows disclosure",
+            "event_who": "Federal Mental Health Act",
+            "event_when": "2 July 1992",
+            "event_what": "allows disclosure",
+            "event_type": "event_circumstance"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T04:29:45.602965",
+      "context_length": 8192,
+      "input_tokens": 1423
+    },
+    {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+          "event": "lodged an application",
+          "event_who": "applicant, Ms Lidiya Pavlovna Sidorova",
+          "event_when": "2 July 2015",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "was given",
+          "event_who": "notice of the complaint",
+          "event_when": "13 March 2017",
+          "event_what": "was given",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service:",
+          "event": "forwarded",
+          "event_who": "head of the inter-municipal police department",
+          "event_when": "15 January 2014",
+          "event_what": "forwarded",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+          "event": "questioned",
+          "event_who": "a psychiatrist, Sav.",
+          "event_when": "28 and 29 January 2014",
+          "event_what": "questioned",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+          "event": "visited",
+          "event_who": "a psychiatrist",
+          "event_when": "30 January 2014",
+          "event_what": "visited",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+          "event": "informed",
+          "event_who": "the psychiatrist",
+          "event_when": "31 January 2014",
+          "event_what": "informed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+          "event": "found",
+          "event_who": "the Dimitrovgrad Town Court",
+          "event_when": "12 March 2014",
+          "event_what": "found",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful.",
+          "event": "asked",
+          "event_who": "the applicant",
+          "event_when": "17 March 2014",
+          "event_what": "asked",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+          "event": "dismissed",
+          "event_who": "the Town Court",
+          "event_when": "29 April 2014",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+          "event": "upheld",
+          "event_who": "the Ulyanovsk Regional Court",
+          "event_when": "22 July 2014",
+          "event_what": "upheld",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+          "event": "refused",
+          "event_who": "the Regional Court",
+          "event_when": "17 December 2014",
+          "event_what": "refused",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+          "event": "issued",
+          "event_who": "the Supreme Court of the Russian Federation",
+          "event_when": "26 March 2015",
+          "event_what": "issued",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares the application admissible;",
+          "event": "declares",
+          "event_who": "the Court",
+          "event_when": "28 May 2019",
+          "event_what": "declares",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "holds",
+          "event_who": "the Court",
+          "event_when": "28 May 2019",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+            "event": "lodged an application",
+            "event_who": "applicant, Ms Lidiya Pavlovna Sidorova",
+            "event_when": "2 July 2015",
+            "event_what": "lodged an application",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "was given",
+            "event_who": "notice of the complaint",
+            "event_when": "13 March 2017",
+            "event_what": "was given",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service:",
+            "event": "forwarded",
+            "event_who": "head of the inter-municipal police department",
+            "event_when": "15 January 2014",
+            "event_what": "forwarded",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+            "event": "questioned",
+            "event_who": "a psychiatrist, Sav.",
+            "event_when": "28 and 29 January 2014",
+            "event_what": "questioned",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+            "event": "visited",
+            "event_who": "a psychiatrist",
+            "event_when": "30 January 2014",
+            "event_what": "visited",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+            "event": "informed",
+            "event_who": "the psychiatrist",
+            "event_when": "31 January 2014",
+            "event_what": "informed",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+            "event": "found",
+            "event_who": "the Dimitrovgrad Town Court",
+            "event_when": "12 March 2014",
+            "event_what": "found",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful.",
+            "event": "asked",
+            "event_who": "the applicant",
+            "event_when": "17 March 2014",
+            "event_what": "asked",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+            "event": "dismissed",
+            "event_who": "the Town Court",
+            "event_when": "29 April 2014",
+            "event_what": "dismissed",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+            "event": "upheld",
+            "event_who": "the Ulyanovsk Regional Court",
+            "event_when": "22 July 2014",
+            "event_what": "upheld",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+            "event": "refused",
+            "event_who": "the Regional Court",
+            "event_when": "17 December 2014",
+            "event_what": "refused",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+            "event": "issued",
+            "event_who": "the Supreme Court of the Russian Federation",
+            "event_when": "26 March 2015",
+            "event_what": "issued",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "Declares the application admissible;",
+            "event": "declares",
+            "event_who": "the Court",
+            "event_when": "28 May 2019",
+            "event_what": "declares",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+            "event": "holds",
+            "event_who": "the Court",
+            "event_when": "28 May 2019",
+            "event_what": "holds",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T04:30:36.590544",
+      "context_length": 8192,
+      "input_tokens": 1423
+    },
+    {
+      "model_name": "llama3.3:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Russian national, Ms Lidiya Pavlovna Sidorova (\"the applicant\"), on 2 July 2015.",
+          "event": "Event",
+          "event_who": "Ms Lidiya Pavlovna Sidorova",
+          "event_when": "2 July 2015",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Event",
+          "event_who": "the Government",
+          "event_when": "13 March 2017",
+          "event_what": "notice of the complaint was given and the application was declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Between 2012 and 2014 the applicant lodged numerous complaints with the local police department concerning the allegedly unauthorised use of the plot of land near the block of flats where her family resided.",
+          "event": "Event",
+          "event_who": "the applicant",
+          "event_when": "Between 2012 and 2014",
+          "event_what": "lodged numerous complaints",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service:",
+          "event": "Event",
+          "event_who": "the head of the inter-municipal police department",
+          "event_when": "15 January 2014",
+          "event_what": "forwarded a letter",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+          "event": "Event",
+          "event_who": "a psychiatrist, Sav.",
+          "event_when": "On 28 and 29 January 2014",
+          "event_what": "questioned the applicant’s neighbours",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+          "event": "Event",
+          "event_who": "a psychiatrist",
+          "event_when": "30 January 2014",
+          "event_what": "visited the applicant",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+          "event": "Event",
+          "event_who": "the psychiatrist",
+          "event_when": "31 January 2014",
+          "event_what": "informed the police",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+          "event": "Event",
+          "event_who": "the Dimitrovgrad Town Court",
+          "event_when": "12 March 2014",
+          "event_what": "found the psychiatrist’s actions unlawful",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful.",
+          "event": "Event",
+          "event_who": "the applicant",
+          "event_when": "17 March 2014",
+          "event_what": "asked the court",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+          "event": "Event",
+          "event_who": "the Town Court",
+          "event_when": "29 April 2014",
+          "event_what": "dismissed the applicant’s complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+          "event": "Event",
+          "event_who": "the Ulyanovsk Regional Court",
+          "event_when": "22 July 2014",
+          "event_what": "upheld the judgment",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+          "event": "Event",
+          "event_who": "the Regional Court",
+          "event_when": "17 December 2014",
+          "event_what": "refused to grant the applicant leave",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+          "event": "Event",
+          "event_who": "the Supreme Court of the Russian Federation",
+          "event_when": "26 March 2015",
+          "event_what": "issued a similar decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1. Declares the application admissible; 2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Event",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Declares the application admissible and holds that there has been a violation of Article 8 of the Convention",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Russian national, Ms Lidiya Pavlovna Sidorova (\"the applicant\"), on 2 July 2015.",
+            "event": "Event",
+            "event_who": "Ms Lidiya Pavlovna Sidorova",
+            "event_when": "2 July 2015",
+            "event_what": "lodged an application",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "Event",
+            "event_who": "the Government",
+            "event_when": "13 March 2017",
+            "event_what": "notice of the complaint was given and the application was declared inadmissible",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "Between 2012 and 2014 the applicant lodged numerous complaints with the local police department concerning the allegedly unauthorised use of the plot of land near the block of flats where her family resided.",
+            "event": "Event",
+            "event_who": "the applicant",
+            "event_when": "Between 2012 and 2014",
+            "event_what": "lodged numerous complaints",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service:",
+            "event": "Event",
+            "event_who": "the head of the inter-municipal police department",
+            "event_when": "15 January 2014",
+            "event_what": "forwarded a letter",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+            "event": "Event",
+            "event_who": "a psychiatrist, Sav.",
+            "event_when": "On 28 and 29 January 2014",
+            "event_what": "questioned the applicant’s neighbours",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+            "event": "Event",
+            "event_who": "a psychiatrist",
+            "event_when": "30 January 2014",
+            "event_what": "visited the applicant",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+            "event": "Event",
+            "event_who": "the psychiatrist",
+            "event_when": "31 January 2014",
+            "event_what": "informed the police",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+            "event": "Event",
+            "event_who": "the Dimitrovgrad Town Court",
+            "event_when": "12 March 2014",
+            "event_what": "found the psychiatrist’s actions unlawful",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful.",
+            "event": "Event",
+            "event_who": "the applicant",
+            "event_when": "17 March 2014",
+            "event_what": "asked the court",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+            "event": "Event",
+            "event_who": "the Town Court",
+            "event_when": "29 April 2014",
+            "event_what": "dismissed the applicant’s complaint",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+            "event": "Event",
+            "event_who": "the Ulyanovsk Regional Court",
+            "event_when": "22 July 2014",
+            "event_what": "upheld the judgment",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+            "event": "Event",
+            "event_who": "the Regional Court",
+            "event_when": "17 December 2014",
+            "event_what": "refused to grant the applicant leave",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+            "event": "Event",
+            "event_who": "the Supreme Court of the Russian Federation",
+            "event_when": "26 March 2015",
+            "event_what": "issued a similar decision",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1. Declares the application admissible; 2. Holds that there has been a violation of Article 8 of the Convention;",
+            "event": "Event",
+            "event_who": "THE COURT",
+            "event_when": "",
+            "event_what": "Declares the application admissible and holds that there has been a violation of Article 8 of the Convention",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T04:52:35.138466",
+      "context_length": 128000,
+      "input_tokens": 1423
+    },
+    {
+      "model_name": "deepseek-r1:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+          "event": "Application",
+          "event_who": "Ms Lidiya Pavlovna Sidorova",
+          "event_when": "2 July 2015",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad. The Russian Government (“the Government”) were represented initially by Mr G. Matyushkin, former Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event": "Representation",
+          "event_who": "Ms I. Kulakova",
+          "event_when": "n/a (representation)",
+          "event_what": "represented",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Notice",
+          "event_who": "Government",
+          "event_when": "13 March 2017",
+          "event_what": "given notice",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was born in 1955 and lives in Dmitrovgrad.",
+          "event": "Residency",
+          "event_who": "Ms Lidiya Pavlovna Sidorova",
+          "event_when": "n/a (residency)",
+          "event_what": "lives",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Between 2012 and 2014 the applicant lodged numerous complaints with the local police department concerning the allegedly unauthorised use of the plot of land near the block of flats where her family resided. She also alleged that there had been a number of assassination attempts planned against her.",
+          "event": "Complaint",
+          "event_who": "Ms Lidiya Pavlovna Sidorova",
+          "event_when": "2012-2014",
+          "event_what": "lodged complaints",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service: \"Following receipt of numerous complaints, the [police department] asks you to examine (check) [the applicant] ... at her place of residence. Her behaviour is inappropriate. She constantly talks about conspiracies against her. Complaints lodged by residents and entrepreneurs about her aggressive behaviour have grown in number. [The applicant] might cause harm to others.\"",
+          "event": "Request for psychiatric examination",
+          "event_who": "inter-municipal police department",
+          "event_when": "15 January 2014",
+          "event_what": "requested a psychiatric examination",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+          "event": "Interview neighbors",
+          "event_who": "Psychiatrist Sav.",
+          "event_when": "28-29 January 2014",
+          "event_what": "questioned neighbors",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+          "event": "Visit",
+          "event_who": "Psychiatrist Sav.",
+          "event_when": "30 January 2014",
+          "event_what": "visited",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+          "event": "Inform police",
+          "event_who": "Psychiatrist Sav.",
+          "event_when": "31 January 2014",
+          "event_what": "informed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful. The court established that, contrary to the applicable legislation, the psychiatrist had failed to obtain the applicant’s consent to a psychiatric examination and that the applicant had objected to such an examination.",
+          "event": "Judicial decision",
+          "event_who": "Dimitrovgrad Town Court",
+          "event_when": "12 March 2014",
+          "event_what": "found actions unlawful",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful. She considered that the decision had been arbitrary and that it had amounted to an unjustified interference with her private life.",
+          "event": "Application to court",
+          "event_who": "Ms Lidiya Pavlovna Sidorova",
+          "event_when": "17 March 2014",
+          "event_what": "applied to the court",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint. The court found that the actions of the police had had a basis in law. The court interpreted the letter of 15 January 2014 issued by the police department as a request for information from the psychiatrist as to whether the applicant suffered from any mental illness. It further reasoned that the police had not asked the psychiatric service to examine the applicant. In 2012 the police had received numerous complaints from the applicant, who had alleged that she had been persecuted by unknown persons, and complaints from owners and employees of concession stands alleging that the applicant had destroyed their property and had disrupted their activities by making scenes. The police had conducted an inquiry, which did not confirm the applicant’s allegations. Accordingly, the police had decided to obtain information about the applicant’s mental condition.",
+          "event": "Judicial decision",
+          "event_who": "Dimitrovgrad Town Court",
+          "event_when": "29 April 2014",
+          "event_what": "dismissed complaint",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+          "event": "Judicial decision",
+          "event_who": "Ulyanovsk Regional Court",
+          "event_when": "22 July 2014",
+          "event_what": "upheld",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+          "event": "Judicial decision",
+          "event_who": "Regional Court",
+          "event_when": "17 December 2014",
+          "event_what": "refused leave",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+          "event": "Judicial decision",
+          "event_who": "Supreme Court of the Russian Federation",
+          "event_when": "26 March 2015",
+          "event_what": "issued a similar decision",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1. Declares the application admissible; 2. Holds that there has been a violation of Article 8 of the Convention; 3. Holds (a) that the respondent State is to pay the applicant, within three months the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement: (i) EUR 5,000 (five thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii) EUR 1,140 (one thousand one hundred and forty euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+          "event": "Judicial decision",
+          "event_who": "Court",
+          "event_when": "n/a (judicial decision)",
+          "event_what": "declared application admissible and held violations",
+          "event_type": "event_circumstance"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+            "event": "Application",
+            "event_who": "Ms Lidiya Pavlovna Sidorova",
+            "event_when": "2 July 2015",
+            "event_what": "lodged an application",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad. The Russian Government (“the Government”) were represented initially by Mr G. Matyushkin, former Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+            "event": "Representation",
+            "event_who": "Ms I. Kulakova",
+            "event_when": "n/a (representation)",
+            "event_what": "represented",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "Notice",
+            "event_who": "Government",
+            "event_when": "13 March 2017",
+            "event_what": "given notice",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The applicant was born in 1955 and lives in Dmitrovgrad.",
+            "event": "Residency",
+            "event_who": "Ms Lidiya Pavlovna Sidorova",
+            "event_when": "n/a (residency)",
+            "event_what": "lives",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "Between 2012 and 2014 the applicant lodged numerous complaints with the local police department concerning the allegedly unauthorised use of the plot of land near the block of flats where her family resided. She also alleged that there had been a number of assassination attempts planned against her.",
+            "event": "Complaint",
+            "event_who": "Ms Lidiya Pavlovna Sidorova",
+            "event_when": "2012-2014",
+            "event_what": "lodged complaints",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service: \"Following receipt of numerous complaints, the [police department] asks you to examine (check) [the applicant] ... at her place of residence. Her behaviour is inappropriate. She constantly talks about conspiracies against her. Complaints lodged by residents and entrepreneurs about her aggressive behaviour have grown in number. [The applicant] might cause harm to others.\"",
+            "event": "Request for psychiatric examination",
+            "event_who": "inter-municipal police department",
+            "event_when": "15 January 2014",
+            "event_what": "requested a psychiatric examination",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+            "event": "Interview neighbors",
+            "event_who": "Psychiatrist Sav.",
+            "event_when": "28-29 January 2014",
+            "event_what": "questioned neighbors",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+            "event": "Visit",
+            "event_who": "Psychiatrist Sav.",
+            "event_when": "30 January 2014",
+            "event_what": "visited",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+            "event": "Inform police",
+            "event_who": "Psychiatrist Sav.",
+            "event_when": "31 January 2014",
+            "event_what": "informed",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful. The court established that, contrary to the applicable legislation, the psychiatrist had failed to obtain the applicant’s consent to a psychiatric examination and that the applicant had objected to such an examination.",
+            "event": "Judicial decision",
+            "event_who": "Dimitrovgrad Town Court",
+            "event_when": "12 March 2014",
+            "event_what": "found actions unlawful",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful. She considered that the decision had been arbitrary and that it had amounted to an unjustified interference with her private life.",
+            "event": "Application to court",
+            "event_who": "Ms Lidiya Pavlovna Sidorova",
+            "event_when": "17 March 2014",
+            "event_what": "applied to the court",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint. The court found that the actions of the police had had a basis in law. The court interpreted the letter of 15 January 2014 issued by the police department as a request for information from the psychiatrist as to whether the applicant suffered from any mental illness. It further reasoned that the police had not asked the psychiatric service to examine the applicant. In 2012 the police had received numerous complaints from the applicant, who had alleged that she had been persecuted by unknown persons, and complaints from owners and employees of concession stands alleging that the applicant had destroyed their property and had disrupted their activities by making scenes. The police had conducted an inquiry, which did not confirm the applicant’s allegations. Accordingly, the police had decided to obtain information about the applicant’s mental condition.",
+            "event": "Judicial decision",
+            "event_who": "Dimitrovgrad Town Court",
+            "event_when": "29 April 2014",
+            "event_what": "dismissed complaint",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+            "event": "Judicial decision",
+            "event_who": "Ulyanovsk Regional Court",
+            "event_when": "22 July 2014",
+            "event_what": "upheld",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+            "event": "Judicial decision",
+            "event_who": "Regional Court",
+            "event_when": "17 December 2014",
+            "event_what": "refused leave",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+            "event": "Judicial decision",
+            "event_who": "Supreme Court of the Russian Federation",
+            "event_when": "26 March 2015",
+            "event_what": "issued a similar decision",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1. Declares the application admissible; 2. Holds that there has been a violation of Article 8 of the Convention; 3. Holds (a) that the respondent State is to pay the applicant, within three months the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement: (i) EUR 5,000 (five thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii) EUR 1,140 (one thousand one hundred and forty euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+            "event": "Judicial decision",
+            "event_who": "Court",
+            "event_when": "n/a (judicial decision)",
+            "event_what": "declared application admissible and held violations",
+            "event_type": "event_circumstance"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T04:53:41.213063",
+      "context_length": 128000,
+      "input_tokens": 1423
+    },
+    {
+      "model_name": "mistral:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+          "event": "Application lodged",
+          "event_who": "The applicant (Ms. Lidiya Pavlovna Sidorova)",
+          "event_when": "2 July 2015",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad.",
+          "event": "Representation of the applicant",
+          "event_who": "Ms I. Kulakova",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Russian Government (“the Government”) were represented initially by Mr G. Matyushkin, former Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event": "Representation of the Government",
+          "event_who": "Mr G. Matyushkin and Mr M. Galperin",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Notice of complaint",
+          "event_who": "The Court",
+          "event_when": "13 March 2017",
+          "event_what": "gave notice",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded a letter to the Psychiatric and Narcological Service:",
+          "event": "Request for psychiatric examination",
+          "event_who": "The head of the inter-municipal police department",
+          "event_when": "15 January 2014",
+          "event_what": "forwarded a letter",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+          "event": "Psychiatric examination",
+          "event_who": "A psychiatrist",
+          "event_when": "30 January 2014",
+          "event_what": "visited",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+          "event": "Report of psychiatric examination results",
+          "event_who": "The psychiatrist",
+          "event_when": "31 January 2014",
+          "event_what": "informed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+          "event": "Judgment on the legality of psychiatric examination",
+          "event_who": "The Dimitrovgrad Town Court",
+          "event_when": "12 March 2014",
+          "event_what": "found unlawful",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+          "event": "Dismissal of the applicant's complaint",
+          "event_who": "The Town Court",
+          "event_when": "29 April 2014",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+          "event": "Refusal of cassation appeal",
+          "event_who": "The Regional Court",
+          "event_when": "17 December 2014",
+          "event_what": "refused",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+          "event": "Decision on cassation appeal",
+          "event_who": "The Supreme Court of the Russian Federation",
+          "event_when": "26 March 2015",
+          "event_what": "issued a decision",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+            "event": "Application lodged",
+            "event_who": "The applicant (Ms. Lidiya Pavlovna Sidorova)",
+            "event_when": "2 July 2015",
+            "event_what": "lodged an application",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad.",
+            "event": "Representation of the applicant",
+            "event_who": "Ms I. Kulakova",
+            "event_when": "",
+            "event_what": "represented",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The Russian Government (“the Government”) were represented initially by Mr G. Matyushkin, former Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+            "event": "Representation of the Government",
+            "event_who": "Mr G. Matyushkin and Mr M. Galperin",
+            "event_when": "",
+            "event_what": "represented",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "Notice of complaint",
+            "event_who": "The Court",
+            "event_when": "13 March 2017",
+            "event_what": "gave notice",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded a letter to the Psychiatric and Narcological Service:",
+            "event": "Request for psychiatric examination",
+            "event_who": "The head of the inter-municipal police department",
+            "event_when": "15 January 2014",
+            "event_what": "forwarded a letter",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+            "event": "Psychiatric examination",
+            "event_who": "A psychiatrist",
+            "event_when": "30 January 2014",
+            "event_what": "visited",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+            "event": "Report of psychiatric examination results",
+            "event_who": "The psychiatrist",
+            "event_when": "31 January 2014",
+            "event_what": "informed",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+            "event": "Judgment on the legality of psychiatric examination",
+            "event_who": "The Dimitrovgrad Town Court",
+            "event_when": "12 March 2014",
+            "event_what": "found unlawful",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+            "event": "Dismissal of the applicant's complaint",
+            "event_who": "The Town Court",
+            "event_when": "29 April 2014",
+            "event_what": "dismissed",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+            "event": "Refusal of cassation appeal",
+            "event_who": "The Regional Court",
+            "event_when": "17 December 2014",
+            "event_what": "refused",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+            "event": "Decision on cassation appeal",
+            "event_who": "The Supreme Court of the Russian Federation",
+            "event_when": "26 March 2015",
+            "event_what": "issued a decision",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T04:54:17.569084",
+      "context_length": 32768,
+      "input_tokens": 1423
+    },
+    {
+      "model_name": "incept5/llama3.1-claude:latest",
+      "events": [
+        {
+          "source_text": "1. The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+          "event": "Application",
+          "event_who": "Ms Lidiya Pavlovna Sidorova (applicant)",
+          "event_when": "2 July 2015",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3. On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Notice",
+          "event_who": "Government",
+          "event_when": "13 March 2017",
+          "event_what": "given notice",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "5. Between 2012 and 2014 the applicant lodged numerous complaints with the local police department concerning the allegedly unauthorised use of the plot of land near the block of flats where her family resided.",
+          "event": "Complaint",
+          "event_who": "applicant",
+          "event_when": "Between 2012 and 2014",
+          "event_what": "lodged complaints",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "6. On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service:",
+          "event": "Letter",
+          "event_who": "head of the inter-municipal police department",
+          "event_when": "15 January 2014",
+          "event_what": "forwarded a letter",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "7. On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+          "event": "Questioning",
+          "event_who": "psychiatrist (Sav.)",
+          "event_when": "28-29 January 2014",
+          "event_what": "questioned neighbours",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "8. On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+          "event": "Visit",
+          "event_who": "psychiatrist",
+          "event_when": "30 January 2014",
+          "event_what": "visited applicant",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "9. On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+          "event": "Notification",
+          "event_who": "psychiatrist",
+          "event_when": "31 January 2014",
+          "event_what": "informed police",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "10. On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+          "event": "Judgment",
+          "event_who": "Dimitrovgrad Town Court",
+          "event_when": "12 March 2014",
+          "event_what": "found actions unlawful",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "11. On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful.",
+          "event": "Request",
+          "event_who": "applicant",
+          "event_when": "17 March 2014",
+          "event_what": "asked court to find decision unlawful",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "12. On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+          "event": "Dismissal",
+          "event_who": "Town Court",
+          "event_when": "29 April 2014",
+          "event_what": "dismissed complaint",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "13. On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+          "event": "Upholding",
+          "event_who": "Ulyanovsk Regional Court",
+          "event_when": "22 July 2014",
+          "event_what": "upheld judgment",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "14. On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+          "event": "Refusal",
+          "event_who": "Regional Court",
+          "event_when": "17 December 2014",
+          "event_what": "refused leave to lodge appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "15. On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+          "event": "Decision",
+          "event_who": "Supreme Court of the Russian Federation",
+          "event_when": "26 March 2015",
+          "event_what": "issued decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "Judgment",
+          "event_who": "Court",
+          "event_when": "",
+          "event_what": "delivered judgment",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "1. The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+            "event": "Application",
+            "event_who": "Ms Lidiya Pavlovna Sidorova (applicant)",
+            "event_when": "2 July 2015",
+            "event_what": "lodged an application",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "3. On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "Notice",
+            "event_who": "Government",
+            "event_when": "13 March 2017",
+            "event_what": "given notice",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "5. Between 2012 and 2014 the applicant lodged numerous complaints with the local police department concerning the allegedly unauthorised use of the plot of land near the block of flats where her family resided.",
+            "event": "Complaint",
+            "event_who": "applicant",
+            "event_when": "Between 2012 and 2014",
+            "event_what": "lodged complaints",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "6. On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service:",
+            "event": "Letter",
+            "event_who": "head of the inter-municipal police department",
+            "event_when": "15 January 2014",
+            "event_what": "forwarded a letter",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "7. On 28 and 29 January 2014 a psychiatrist, Sav., questioned the applicant’s neighbours, asking them if they had observed any strange behaviour on the applicant’s part.",
+            "event": "Questioning",
+            "event_who": "psychiatrist (Sav.)",
+            "event_when": "28-29 January 2014",
+            "event_what": "questioned neighbours",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "8. On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+            "event": "Visit",
+            "event_who": "psychiatrist",
+            "event_when": "30 January 2014",
+            "event_what": "visited applicant",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "9. On 31 January 2014 the psychiatrist informed the police that the applicant did not have any psychiatric disorders.",
+            "event": "Notification",
+            "event_who": "psychiatrist",
+            "event_when": "31 January 2014",
+            "event_what": "informed police",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "10. On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+            "event": "Judgment",
+            "event_who": "Dimitrovgrad Town Court",
+            "event_when": "12 March 2014",
+            "event_what": "found actions unlawful",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "11. On 17 March 2014 the applicant asked the court to find the police’s decision to have her assessed by the psychiatrist unlawful.",
+            "event": "Request",
+            "event_who": "applicant",
+            "event_when": "17 March 2014",
+            "event_what": "asked court to find decision unlawful",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "12. On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+            "event": "Dismissal",
+            "event_who": "Town Court",
+            "event_when": "29 April 2014",
+            "event_what": "dismissed complaint",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "13. On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+            "event": "Upholding",
+            "event_who": "Ulyanovsk Regional Court",
+            "event_when": "22 July 2014",
+            "event_what": "upheld judgment",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "14. On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+            "event": "Refusal",
+            "event_who": "Regional Court",
+            "event_when": "17 December 2014",
+            "event_what": "refused leave to lodge appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "15. On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+            "event": "Decision",
+            "event_who": "Supreme Court of the Russian Federation",
+            "event_when": "26 March 2015",
+            "event_what": "issued decision",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+            "event": "Judgment",
+            "event_who": "Court",
+            "event_when": "",
+            "event_what": "delivered judgment",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T04:54:58.276445",
+      "context_length": 128000,
+      "input_tokens": 1423
+    },
+    {
+      "model_name": "chevalblanc/claude-3-haiku:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+          "event": "lodged an application",
+          "event_who": "Ms Lidiya Pavlovna Sidorova (the applicant)",
+          "event_when": "on 2 July 2015",
+          "event_what": "lodged an application against the Russian Federation under Article 34 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad. The Russian Government (“the Government”) were represented initially by Mr G. Matyushkin, former Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event": "represented",
+          "event_who": "Ms I. Kulakova (the applicant's representative), Mr G. Matyushkin (initial Government representative), Mr M. Galperin (successor Government representative)",
+          "event_when": "not specified",
+          "event_what": "represented the applicant and the Russian Government respectively",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "declared inadmissible",
+          "event_who": "the Court",
+          "event_when": "on 13 March 2017",
+          "event_what": "declared the remainder of the application inadmissible pursuant to Rule 54 § 3 of the Rules of Court",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Between 2012 and 2014 the applicant lodged numerous complaints with the local police department concerning the allegedly unauthorised use of the plot of land near the block of flats where her family resided. She also alleged that there had been a number of assassination attempts planned against her.",
+          "event": "lodged complaints",
+          "event_who": "Ms Lidiya Pavlovna Sidorova (the applicant)",
+          "event_when": "between 2012 and 2014",
+          "event_what": "lodged numerous complaints with the local police department concerning unauthorised use of land and alleged assassination attempts",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service:...",
+          "event": "forwarded a letter",
+          "event_who": "the head of the inter-municipal police department",
+          "event_when": "on 15 January 2014",
+          "event_what": "forwarded a letter to the Psychiatric and Narcological Service requesting an examination of the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+          "event": "visited the applicant",
+          "event_who": "a psychiatrist",
+          "event_when": "on 30 January 2014",
+          "event_what": "visited the applicant at her place of residence for an examination",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+          "event": "found actions unlawful",
+          "event_who": "the Dimitrovgrad Town Court",
+          "event_when": "on 12 March 2014",
+          "event_what": "found the psychiatrist's actions unlawful in response to the applicant's complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+          "event": "dismissed a complaint",
+          "event_who": "the Town Court",
+          "event_when": "on 29 April 2014",
+          "event_what": "dismissed the applicant's complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+          "event": "upheld a judgment",
+          "event_who": "the Ulyanovsk Regional Court",
+          "event_when": "on 22 July 2014",
+          "event_what": "upheld the Town Court's judgment on appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+          "event": "refused leave to lodge an appeal",
+          "event_who": "the Regional Court",
+          "event_when": "on 17 December 2014",
+          "event_what": "refused to grant the applicant leave to lodge a cassation appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+          "event": "issued a decision",
+          "event_who": "the Supreme Court of the Russian Federation",
+          "event_when": "on 26 March 2015",
+          "event_what": "issued a similar decision in response to the applicant's application to lodge a cassation appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,...",
+          "event": "made decisions",
+          "event_who": "the Court",
+          "event_when": "not specified",
+          "event_what": "declared the application admissible; held that there has been a violation of Article 8 of the Convention; and ordered the respondent State to pay the applicant certain amounts in respect of non-pecuniary damage, costs, and expenses",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+            "event": "lodged an application",
+            "event_who": "Ms Lidiya Pavlovna Sidorova (the applicant)",
+            "event_when": "on 2 July 2015",
+            "event_what": "lodged an application against the Russian Federation under Article 34 of the Convention",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad. The Russian Government (“the Government”) were represented initially by Mr G. Matyushkin, former Representative of the Russian Federation to the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+            "event": "represented",
+            "event_who": "Ms I. Kulakova (the applicant's representative), Mr G. Matyushkin (initial Government representative), Mr M. Galperin (successor Government representative)",
+            "event_when": "not specified",
+            "event_what": "represented the applicant and the Russian Government respectively",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "declared inadmissible",
+            "event_who": "the Court",
+            "event_when": "on 13 March 2017",
+            "event_what": "declared the remainder of the application inadmissible pursuant to Rule 54 § 3 of the Rules of Court",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "Between 2012 and 2014 the applicant lodged numerous complaints with the local police department concerning the allegedly unauthorised use of the plot of land near the block of flats where her family resided. She also alleged that there had been a number of assassination attempts planned against her.",
+            "event": "lodged complaints",
+            "event_who": "Ms Lidiya Pavlovna Sidorova (the applicant)",
+            "event_when": "between 2012 and 2014",
+            "event_what": "lodged numerous complaints with the local police department concerning unauthorised use of land and alleged assassination attempts",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 15 January 2014 the head of the inter-municipal police department forwarded the following letter to the Psychiatric and Narcological Service:...",
+            "event": "forwarded a letter",
+            "event_who": "the head of the inter-municipal police department",
+            "event_when": "on 15 January 2014",
+            "event_what": "forwarded a letter to the Psychiatric and Narcological Service requesting an examination of the applicant",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 30 January 2014 a psychiatrist visited the applicant at her place of residence.",
+            "event": "visited the applicant",
+            "event_who": "a psychiatrist",
+            "event_when": "on 30 January 2014",
+            "event_what": "visited the applicant at her place of residence for an examination",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+            "event": "found actions unlawful",
+            "event_who": "the Dimitrovgrad Town Court",
+            "event_when": "on 12 March 2014",
+            "event_what": "found the psychiatrist's actions unlawful in response to the applicant's complaint",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+            "event": "dismissed a complaint",
+            "event_who": "the Town Court",
+            "event_when": "on 29 April 2014",
+            "event_what": "dismissed the applicant's complaint",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+            "event": "upheld a judgment",
+            "event_who": "the Ulyanovsk Regional Court",
+            "event_when": "on 22 July 2014",
+            "event_what": "upheld the Town Court's judgment on appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+            "event": "refused leave to lodge an appeal",
+            "event_who": "the Regional Court",
+            "event_when": "on 17 December 2014",
+            "event_what": "refused to grant the applicant leave to lodge a cassation appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+            "event": "issued a decision",
+            "event_who": "the Supreme Court of the Russian Federation",
+            "event_when": "on 26 March 2015",
+            "event_what": "issued a similar decision in response to the applicant's application to lodge a cassation appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,...",
+            "event": "made decisions",
+            "event_who": "the Court",
+            "event_when": "not specified",
+            "event_what": "declared the application admissible; held that there has been a violation of Article 8 of the Convention; and ordered the respondent State to pay the applicant certain amounts in respect of non-pecuniary damage, costs, and expenses",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T04:56:29.214623",
+      "context_length": 200000,
+      "input_tokens": 1423
+    },
+    {
+      "model_name": "llama4:16x17b",
+      "events": [],
+      "structured_events": null,
+      "processed_at": "2025-07-12T10:07:34.988664",
+      "context_length": 8192,
+      "input_tokens": 1423
+    },
+    {
+      "model_name": "mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+          "event": "event_circumstance",
+          "event_who": "the applicant",
+          "event_when": "on 2 July 2015",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad.",
+          "event": "event",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "event_procedure",
+          "event_who": "",
+          "event_when": "On 13 March 2017",
+          "event_what": "notice of the complaint was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+          "event": "event_circumstance",
+          "event_who": "the Dimitrovgrad Town Court",
+          "event_when": "On 12 March 2014",
+          "event_what": "found the psychiatrist's actions unlawful in response to the applicant’s complaint",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+          "event": "event_procedure",
+          "event_who": "the Town Court",
+          "event_when": "On 29 April 2014",
+          "event_what": "dismissed the applicant’s complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+          "event": "event_procedure",
+          "event_who": "the Ulyanovsk Regional Court",
+          "event_when": "On 22 July 2014",
+          "event_what": "upheld the judgment of 29 April 2014 on appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+          "event": "event_procedure",
+          "event_who": "the Regional Court",
+          "event_when": "On 17 December 2014",
+          "event_what": "refused to grant the applicant leave to lodge a cassation appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+          "event": "event_procedure",
+          "event_who": "the Supreme Court of the Russian Federation",
+          "event_when": "On 26 March 2015",
+          "event_what": "issued a similar decision in response to the applicant’s application to lodge a cassation appeal",
+          "event_type": "event_procedure"
+        }
+      ],
+      "structured_events": {
+        "events": [
+          {
+            "source_text": "The case originated in an application (no. 35722/15) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Ms Lidiya Pavlovna Sidorova (“the applicant”), on 2 July 2015.",
+            "event": "event_circumstance",
+            "event_who": "the applicant",
+            "event_when": "on 2 July 2015",
+            "event_what": "lodged an application",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "The applicant was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad.",
+            "event": "event",
+            "event_who": "the applicant",
+            "event_when": "",
+            "event_what": "was represented by Ms I. Kulakova, a lawyer practising in Dimitrovgrad",
+            "event_type": ""
+          },
+          {
+            "source_text": "On 13 March 2017 notice of the complaint concerning the alleged interference with the applicant’s private life was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+            "event": "event_procedure",
+            "event_who": "",
+            "event_when": "On 13 March 2017",
+            "event_what": "notice of the complaint was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 12 March 2014, in response to the applicant’s complaint, the Dimitrovgrad Town Court found the psychiatrist’s actions unlawful.",
+            "event": "event_circumstance",
+            "event_who": "the Dimitrovgrad Town Court",
+            "event_when": "On 12 March 2014",
+            "event_what": "found the psychiatrist's actions unlawful in response to the applicant’s complaint",
+            "event_type": "event_circumstance"
+          },
+          {
+            "source_text": "On 29 April 2014 the Town Court dismissed the applicant’s complaint.",
+            "event": "event_procedure",
+            "event_who": "the Town Court",
+            "event_when": "On 29 April 2014",
+            "event_what": "dismissed the applicant’s complaint",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 22 July 2014 the Ulyanovsk Regional Court upheld the judgment of 29 April 2014 on appeal.",
+            "event": "event_procedure",
+            "event_who": "the Ulyanovsk Regional Court",
+            "event_when": "On 22 July 2014",
+            "event_what": "upheld the judgment of 29 April 2014 on appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 17 December 2014 the Regional Court refused to grant the applicant leave to lodge a cassation appeal.",
+            "event": "event_procedure",
+            "event_who": "the Regional Court",
+            "event_when": "On 17 December 2014",
+            "event_what": "refused to grant the applicant leave to lodge a cassation appeal",
+            "event_type": "event_procedure"
+          },
+          {
+            "source_text": "On 26 March 2015 the Supreme Court of the Russian Federation issued a similar decision in response to the applicant’s application to lodge a cassation appeal.",
+            "event": "event_procedure",
+            "event_who": "the Supreme Court of the Russian Federation",
+            "event_when": "On 26 March 2015",
+            "event_what": "issued a similar decision in response to the applicant’s application to lodge a cassation appeal",
+            "event_type": "event_procedure"
+          }
+        ]
+      },
+      "processed_at": "2025-07-12T10:15:23.814514",
+      "context_length": 8192,
+      "input_tokens": 1423
+    }
+  ],
+  "metadata": {
+    "processed_at": "2025-07-12T10:15:23.815164",
+    "total_sections": 0,
+    "total_models": 10,
+    "total_tokens": 1423
+  }
+}
