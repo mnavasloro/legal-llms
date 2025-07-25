@@ -443,27 +443,26 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
 
 # %%
 # Updated model configuration
-models = [
-    "gemma3:1b",
-    "mistral:latest"
-]
-
-# You can add more models as needed
 # models = [
 #     "gemma3:1b",
-#     "gemma3:4b",
-#     "gemma3:12b",
-#     "llama3.3:latest",
-#     "deepseek-r1:8b",
-#     "mistral:latest",
-#     "incept5/llama3.1-claude:latest", 
-#     "chevalblanc/claude-3-haiku:latest",
-#     "llama4:16x17b",
-#     "mixtral:8x7b",
-#     "dolphin3:8b",
-#     "dolphin-mixtral:8x7b",
-#     "gemma3n:e4b",
+#     "mistral:latest"
 # ]
+
+# You can add more models as needed
+models = [
+    "gemma3:1b",
+    "gemma3:4b",
+    "gemma3:12b",
+    "llama3.3:latest",
+    "deepseek-r1:8b",
+    "mistral:latest",
+    "incept5/llama3.1-claude:latest", 
+    "chevalblanc/claude-3-haiku:latest",
+    "llama4:16x17b",
+    "mixtral:8x7b",
+    "dolphin3:8b",
+    "dolphin-mixtral:8x7b"
+]
 
 def run_improved_pipeline(max_documents: int = 10, models: List[str] = None, 
                          prompt_config_name: str = None, pipeline_timestamp: str = None) -> Dict[str, Any]:
@@ -552,11 +551,11 @@ print("Running improved IE pipeline...")
 print("=" * 50)
 
 # Configure processing
-config.max_documents = 2 # Start with a small number for testing
+config.max_documents = 30 # Start with a small number for testing
 config.via_web = False    # Use local models
 config.max_retries = 3
 config.retry_delay = 2.0
-config.prompt_config = "p1"  # Use the p1 prompt configuration
+config.prompt_config = "p2"  # Use the p1 prompt configuration
 
 # Run the pipeline
 pipeline_timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
