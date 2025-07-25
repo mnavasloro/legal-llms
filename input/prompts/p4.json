@@ -1,0 +1,4 @@
+{
+    "event_definitions": "You are performing Information Extraction on legal texts. Extract these event components:\n- Event: Complete text span containing event information\n- Event_who: Subject/object (applicant, respondent, judge, witness)\n- Event_what: Main action/verb (lodged an application, decided, ordered, dismissed)\n- Event_when: Temporal reference (dates, time expressions)\n- Event_circumstance: Facts under judgment\n- Event_procedure: Procedural dimension\n\nEvents contain event_who, event_what and event_when. Classify events as event_circumstance or event_procedure.",
+    "instruction": "EXTRACT ONLY - DO NOT SUMMARIZE OR REFORMULATE\n\nRules:\n• Copy exact text spans as they appear in the source\n• Use original wording without changes\n• Do not add information not present in text\n• If information is missing, leave empty\n\nExtract legal events using exact text from the provided document. Return structured results with verbatim text spans only."
+}
