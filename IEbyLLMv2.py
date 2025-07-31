@@ -555,7 +555,7 @@ config.max_documents = 30 # Start with a small number for testing
 config.via_web = False    # Use local models
 config.max_retries = 3
 config.retry_delay = 2.0
-config.prompt_config = "p2"  # Use the p1 prompt configuration
+config.prompt_config = "p3"  # Use the p1 prompt configuration
 
 # Run the pipeline
 pipeline_timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
