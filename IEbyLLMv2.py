@@ -197,6 +197,8 @@ def askChatbotImproved(model: str, role: str, instruction: str, content: str,
         logger.warning(f"Text too long for model {model} context. Tokens: {token_counter.count_tokens(content)}")
         return None
     
+    start_time = time.time()
+    
     for attempt in range(max_retries):
         try:
             chat_headers = {
@@ -226,13 +228,18 @@ def askChatbotImproved(model: str, role: str, instruction: str, content: str,
                 try:
                     structured_response = EventList.model_validate_json(content)
                     logger.info(f"Successfully processed with {model} on attempt {attempt + 1}")
+                    end_time = time.time()
+                    runtime_seconds = end_time - start_time
                     return {
                         "content": content, 
-                        "structured": structured_response.model_dump() if hasattr(structured_response, 'model_dump') else structured_response.dict()
+                        "structured": structured_response.model_dump() if hasattr(structured_response, 'model_dump') else structured_response.dict(),
+                        "runtime_seconds": runtime_seconds
                     }
                 except Exception as validation_error:
                     logger.warning(f"Validation error with {model}: {validation_error}")
-                    return {"content": content, "structured": None}
+                    end_time = time.time()
+                    runtime_seconds = end_time - start_time
+                    return {"content": content, "structured": None, "runtime_seconds": runtime_seconds}
             else:
                 logger.warning(f"Empty response from {model}")
                 
@@ -258,6 +265,8 @@ def askChatbotLocalImproved(model: str, role: str, instruction: str, content: st
         logger.warning(f"Text too long for model {model} context. Tokens: {token_counter.count_tokens(content)}")
         return None
     
+    start_time = time.time()
+    
     for attempt in range(max_retries):
         try:
             response = ollama.chat(
@@ -276,13 +285,18 @@ def askChatbotLocalImproved(model: str, role: str, instruction: str, content: st
                 try:
                     structured_response = EventList.model_validate_json(content)
                     logger.info(f"Successfully processed with {model} on attempt {attempt + 1}")
+                    end_time = time.time()
+                    runtime_seconds = end_time - start_time
                     return {
                         "content": content, 
-                        "structured": structured_response.model_dump() if hasattr(structured_response, 'model_dump') else structured_response.dict()
+                        "structured": structured_response.model_dump() if hasattr(structured_response, 'model_dump') else structured_response.dict(),
+                        "runtime_seconds": runtime_seconds
                     }
                 except Exception as validation_error:
                     logger.warning(f"Validation error with {model}: {validation_error}")
-                    return {"content": content, "structured": None}
+                    end_time = time.time()
+                    runtime_seconds = end_time - start_time
+                    return {"content": content, "structured": None, "runtime_seconds": runtime_seconds}
             else:
                 logger.warning(f"Empty response from {model}")
                 
@@ -395,6 +409,7 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
     """
     Process a single document with multiple models
     """
+    doc_start_time = time.time()
     doc_name = doc.features.get("gate.SourceURL", "unknown")
     logger.info(f"Processing document: {doc_name}")
     
@@ -414,12 +429,14 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
         "sections": sections,
         "combined_text_length": len(combined_text),
         "total_tokens": total_tokens,
-        "annotations": []
+        "annotations": [],
+        "processing_start_time": datetime.now().isoformat()
     }
     
     # Process with each model
     for model in models:
         logger.info(f"Processing with model: {model}")
+        model_start_time = time.time()
         
         # Choose appropriate function based on configuration
         if config.via_web:
@@ -427,17 +444,40 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
         else:
             response = askChatbotLocalImproved(model, prompt_config.event_definitions, prompt_config.instruction, combined_text)
         
+        model_end_time = time.time()
+        model_runtime = model_end_time - model_start_time
+        
         if response:
             annotation = {
                 "model_name": model,
                 "events": response["content"],
                 "processed_at": datetime.now().isoformat(),
                 "context_length": model_manager.get_context_length(model),
-                "input_tokens": total_tokens
+                "input_tokens": total_tokens,
+                "model_runtime_seconds": model_runtime,
+                "llm_runtime_seconds": response.get("runtime_seconds", 0)  # Time spent in actual LLM call
             }
             doc_dict["annotations"].append(annotation)
         else:
+            # Even failed attempts should record timing
+            annotation = {
+                "model_name": model,
+                "events": None,
+                "processed_at": datetime.now().isoformat(),
+                "context_length": model_manager.get_context_length(model),
+                "input_tokens": total_tokens,
+                "model_runtime_seconds": model_runtime,
+                "llm_runtime_seconds": 0,
+                "status": "failed"
+            }
+            doc_dict["annotations"].append(annotation)
             logger.warning(f"Failed to get response from {model} for document {doc_name}")
+    
+    # Add document-level timing information
+    doc_end_time = time.time()
+    doc_runtime = doc_end_time - doc_start_time
+    doc_dict["processing_end_time"] = datetime.now().isoformat()
+    doc_dict["total_processing_time_seconds"] = doc_runtime
     
     return doc_dict
 
@@ -609,6 +649,7 @@ def analyze_results(output_dir: str = "output") -> Dict[str, Any]:
         "total_files": len(json_files),
         "models_performance": {},
         "token_statistics": {},
+        "runtime_statistics": {},
         "event_statistics": {},
         "error_analysis": {}
     }
@@ -640,24 +681,35 @@ def analyze_results(output_dir: str = "output") -> Dict[str, Any]:
                     "successful_responses": 0,
                     "failed_responses": 0,
                     "avg_tokens": 0,
-                    "total_tokens": 0
+                    "total_tokens": 0,
+                    "total_model_runtime": 0,
+                    "total_llm_runtime": 0,
+                    "avg_model_runtime": 0,
+                    "avg_llm_runtime": 0
                 }
             
             analysis["models_performance"][model_name]["total_docs"] += 1
             
-            if annotation.get("events"):
+            if annotation.get("events") and annotation.get("status") != "failed":
                 analysis["models_performance"][model_name]["successful_responses"] += 1
             else:
                 analysis["models_performance"][model_name]["failed_responses"] += 1
             
             tokens = annotation.get("input_tokens", 0)
+            model_runtime = annotation.get("model_runtime_seconds", 0)
+            llm_runtime = annotation.get("llm_runtime_seconds", 0)
+            
             analysis["models_performance"][model_name]["total_tokens"] += tokens
+            analysis["models_performance"][model_name]["total_model_runtime"] += model_runtime
+            analysis["models_performance"][model_name]["total_llm_runtime"] += llm_runtime
     
     # Calculate averages
     for model_stats in analysis["models_performance"].values():
         if model_stats["total_docs"] > 0:
             model_stats["avg_tokens"] = model_stats["total_tokens"] / model_stats["total_docs"]
             model_stats["success_rate"] = (model_stats["successful_responses"] / model_stats["total_docs"]) * 100
+            model_stats["avg_model_runtime"] = model_stats["total_model_runtime"] / model_stats["total_docs"]
+            model_stats["avg_llm_runtime"] = model_stats["total_llm_runtime"] / model_stats["total_docs"]
     
     # Token statistics
     token_counts = [doc.get("total_tokens", 0) for doc in all_docs]
@@ -668,6 +720,44 @@ def analyze_results(output_dir: str = "output") -> Dict[str, Any]:
             "max": max(token_counts),
             "total": sum(token_counts)
         }
+    
+    # Runtime statistics
+    doc_processing_times = [doc.get("total_processing_time_seconds", 0) for doc in all_docs if doc.get("total_processing_time_seconds")]
+    if doc_processing_times:
+        analysis["runtime_statistics"] = {
+            "document_level": {
+                "mean_seconds": sum(doc_processing_times) / len(doc_processing_times),
+                "min_seconds": min(doc_processing_times),
+                "max_seconds": max(doc_processing_times),
+                "total_seconds": sum(doc_processing_times)
+            }
+        }
+        
+        # Add model-level runtime aggregation
+        all_model_runtimes = []
+        all_llm_runtimes = []
+        for doc in all_docs:
+            for annotation in doc.get("annotations", []):
+                if annotation.get("model_runtime_seconds"):
+                    all_model_runtimes.append(annotation["model_runtime_seconds"])
+                if annotation.get("llm_runtime_seconds"):
+                    all_llm_runtimes.append(annotation["llm_runtime_seconds"])
+        
+        if all_model_runtimes:
+            analysis["runtime_statistics"]["model_level"] = {
+                "mean_seconds": sum(all_model_runtimes) / len(all_model_runtimes),
+                "min_seconds": min(all_model_runtimes),
+                "max_seconds": max(all_model_runtimes),
+                "total_seconds": sum(all_model_runtimes)
+            }
+        
+        if all_llm_runtimes:
+            analysis["runtime_statistics"]["llm_level"] = {
+                "mean_seconds": sum(all_llm_runtimes) / len(all_llm_runtimes),
+                "min_seconds": min(all_llm_runtimes),
+                "max_seconds": max(all_llm_runtimes),
+                "total_seconds": sum(all_llm_runtimes)
+            }
     
     return analysis
 
@@ -687,6 +777,10 @@ def display_analysis(analysis: Dict[str, Any]):
         print(f"  Documents processed: {stats['total_docs']}")
         print(f"  Success rate: {stats.get('success_rate', 0):.1f}%")
         print(f"  Average tokens: {stats['avg_tokens']:.0f}")
+        print(f"  Average model runtime: {stats.get('avg_model_runtime', 0):.2f}s")
+        print(f"  Average LLM runtime: {stats.get('avg_llm_runtime', 0):.2f}s")
+        print(f"  Total model runtime: {stats.get('total_model_runtime', 0):.2f}s")
+        print(f"  Total LLM runtime: {stats.get('total_llm_runtime', 0):.2f}s")
         print()
     
     token_stats = analysis.get("token_statistics", {})
@@ -697,6 +791,36 @@ def display_analysis(analysis: Dict[str, Any]):
         print(f"  Min tokens: {token_stats['min']}")
         print(f"  Max tokens: {token_stats['max']}")
         print(f"  Total tokens processed: {token_stats['total']:,}")
+        print()
+    
+    runtime_stats = analysis.get("runtime_statistics", {})
+    if runtime_stats:
+        print("Runtime Statistics:")
+        print("-" * 40)
+        
+        doc_stats = runtime_stats.get("document_level", {})
+        if doc_stats:
+            print("  Document Level:")
+            print(f"    Mean processing time: {doc_stats['mean_seconds']:.2f}s")
+            print(f"    Min processing time: {doc_stats['min_seconds']:.2f}s") 
+            print(f"    Max processing time: {doc_stats['max_seconds']:.2f}s")
+            print(f"    Total processing time: {doc_stats['total_seconds']:.2f}s")
+            
+        model_stats = runtime_stats.get("model_level", {})
+        if model_stats:
+            print("  Model Level:")
+            print(f"    Mean model runtime: {model_stats['mean_seconds']:.2f}s")
+            print(f"    Min model runtime: {model_stats['min_seconds']:.2f}s")
+            print(f"    Max model runtime: {model_stats['max_seconds']:.2f}s")
+            print(f"    Total model runtime: {model_stats['total_seconds']:.2f}s")
+            
+        llm_stats = runtime_stats.get("llm_level", {})
+        if llm_stats:
+            print("  LLM Level:")
+            print(f"    Mean LLM runtime: {llm_stats['mean_seconds']:.2f}s")
+            print(f"    Min LLM runtime: {llm_stats['min_seconds']:.2f}s")
+            print(f"    Max LLM runtime: {llm_stats['max_seconds']:.2f}s")
+            print(f"    Total LLM runtime: {llm_stats['total_seconds']:.2f}s")
 
 # Run analysis
 print("\nAnalyzing results...")
