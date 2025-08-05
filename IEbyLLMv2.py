@@ -42,6 +42,8 @@ class ProcessingConfig:
     batch_size: int = 1
     reserve_tokens: int = 1000
     prompt_config: str = "p4"  # Default prompt configuration
+    validate_exact_text: bool = True  # Enable exact text validation
+    validation_retries: int = 3  # Number of validation retry attempts
     
     def __post_init__(self):
         # Create output directories
@@ -98,6 +100,112 @@ class ModelManager:
 config = ProcessingConfig()
 model_manager = ModelManager()
 token_counter = TokenCounter()
+
+# Validation failure log
+validation_failures = []
+
+def log_validation_failure(document_name: str, model_name: str, source_text: str, 
+                          failed_response: Dict[str, Any], attempt: int, 
+                          field_name: str, extracted_value: str):
+    """Log validation failures for later analysis"""
+    failure_record = {
+        "timestamp": datetime.now().isoformat(),
+        "document": document_name,
+        "model": model_name,
+        "source_text": source_text,
+        "field_name": field_name,
+        "extracted_value": extracted_value,
+        "attempt": attempt,
+        "full_response": failed_response
+    }
+    validation_failures.append(failure_record)
+    logger.warning(f"Validation failure: {model_name} - {field_name} not found exactly in source text (attempt {attempt})")
+
+def validate_exact_text_extraction(events: List[Dict], source_text: str) -> Dict[str, List[str]]:
+    """
+    Validate that extracted text appears exactly in the source text.
+    Returns dict with validation results per event and field.
+    """
+    validation_results = {
+        "errors": [],
+        "valid_events": [],
+        "invalid_events": [],
+        "field_errors": {}  # event_index -> {field_name: error_message}
+    }
+    
+    for i, event in enumerate(events):
+        event_errors = {}
+        event_valid = True
+        
+        # Fields to validate for exact text match
+        text_fields = ['event', 'event_who', 'event_when', 'event_what']
+        
+        for field in text_fields:
+            extracted_value = event.get(field, "").strip()
+            if extracted_value and extracted_value not in source_text:
+                error_msg = f"'{extracted_value}' not found exactly in source text"
+                event_errors[field] = error_msg
+                validation_results["errors"].append(f"Event {i+1} - {field}: {error_msg}")
+                event_valid = False
+        
+        # Validate event_type is one of the allowed values
+        event_type = event.get('event_type', "").strip()
+        allowed_types = ['event_circumstance', 'event_procedure']
+        if event_type and event_type not in allowed_types:
+            error_msg = f"'{event_type}' must be either 'event_circumstance' or 'event_procedure'"
+            event_errors['event_type'] = error_msg
+            validation_results["errors"].append(f"Event {i+1} - event_type: {error_msg}")
+            event_valid = False
+        
+        # Store event validation results
+        if event_valid:
+            validation_results["valid_events"].append(i)
+        else:
+            validation_results["invalid_events"].append(i)
+            validation_results["field_errors"][i] = event_errors
+    
+    return validation_results
+
+def create_validation_retry_prompt(original_instruction: str, validation_results: Dict[str, Any], 
+                                 events: List[Dict]) -> str:
+    """Create a more targeted prompt for validation retry attempts"""
+    
+    errors = validation_results["errors"]
+    invalid_events = validation_results["invalid_events"]
+    field_errors = validation_results["field_errors"]
+    
+    # Create specific guidance for each problematic event
+    specific_guidance = []
+    for event_idx in invalid_events:
+        event_errors = field_errors.get(event_idx, {})
+        event_num = event_idx + 1
+        specific_guidance.append(f"\nEvent {event_num} issues:")
+        
+        for field, error in event_errors.items():
+            if field in ['event', 'event_who', 'event_when', 'event_what']:
+                current_value = events[event_idx].get(field, "")
+                specific_guidance.append(f"  - {field}: Current '{current_value}' -> {error}")
+                specific_guidance.append(f"    Find the EXACT text from source for this {field.replace('event_', '')}")
+            elif field == 'event_type':
+                specific_guidance.append(f"  - {field}: {error}")
+    
+    retry_instruction = f"""{original_instruction}
+
+CRITICAL VALIDATION REQUIREMENTS - PREVIOUS RESPONSE HAD ERRORS:
+{chr(10).join(['- ' + error for error in errors])}
+
+SPECIFIC ISSUES TO FIX:
+{''.join(specific_guidance)}
+
+IMPORTANT RULES:
+1. Extract text EXACTLY as it appears in the source - no paraphrasing or summarizing
+2. Do NOT add or remove any words, punctuation, or change capitalization
+3. event_type must be EXACTLY 'event_circumstance' or 'event_procedure'
+4. Copy the text character-by-character from the source document
+
+Re-extract ALL events with these corrections."""
+    
+    return retry_instruction
 
 # %%
 class CustomJSONEncoder(json.JSONEncoder):
@@ -186,9 +294,10 @@ except Exception as e:
 
 # %%
 def askChatbotImproved(model: str, role: str, instruction: str, content: str, 
-                      max_retries: int = 3, retry_delay: float = 1.0) -> Optional[Dict[str, Any]]:
+                      max_retries: int = 3, retry_delay: float = 1.0, 
+                      document_name: str = "unknown") -> Optional[Dict[str, Any]]:
     """
-    Improved chatbot function with better error handling and retries
+    Improved chatbot function with better error handling and text validation
     """
     chat_url = "http://localhost:11434/api/chat"
     
@@ -198,6 +307,7 @@ def askChatbotImproved(model: str, role: str, instruction: str, content: str,
         return None
     
     start_time = time.time()
+    current_instruction = instruction
     
     for attempt in range(max_retries):
         try:
@@ -213,7 +323,7 @@ def askChatbotImproved(model: str, role: str, instruction: str, content: str,
                 "temperature": config.temperature,
                 "messages": [
                     {"role": "system", "content": role},
-                    {"role": "user", "content": f"{instruction}\n\n{content}"},
+                    {"role": "user", "content": f"{current_instruction}\n\n{content}"},
                 ],
             }
             
@@ -221,25 +331,64 @@ def askChatbotImproved(model: str, role: str, instruction: str, content: str,
             response.raise_for_status()
             
             response_data = response.json()
-            content = response_data.get("message", {}).get("content", "")
+            content_response = response_data.get("message", {}).get("content", "")
             
-            if content:
+            if content_response:
                 # Validate JSON structure
                 try:
-                    structured_response = EventList.model_validate_json(content)
+                    structured_response = EventList.model_validate_json(content_response)
+                    events = structured_response.events if hasattr(structured_response, 'events') else structured_response.dict().get('events', [])
+                    
+                    # Perform exact text validation if enabled
+                    if config.validate_exact_text and attempt < config.validation_retries:
+                        if isinstance(events, list):
+                            # Convert events to dict format for validation
+                            events_dict = []
+                            for event in events:
+                                if hasattr(event, 'dict'):
+                                    events_dict.append(event.dict())
+                                elif hasattr(event, 'model_dump'):
+                                    events_dict.append(event.model_dump())
+                                else:
+                                    events_dict.append(event)
+                            
+                            validation_errors = validate_exact_text_extraction(events_dict, content)
+                            
+                            if validation_errors:
+                                # Log this validation failure
+                                log_validation_failure(
+                                    document_name, model, content, 
+                                    {"content": content_response, "structured": events_dict}, 
+                                    attempt + 1, "multiple_fields", str(validation_errors)
+                                )
+                                
+                                # If not the last validation attempt, retry with stricter prompt
+                                if attempt < config.validation_retries - 1:
+                                    current_instruction = create_validation_retry_prompt(instruction, validation_errors, events_dict)
+                                    logger.info(f"Validation failed for {model}, retrying with stricter prompt (attempt {attempt + 2})")
+                                    continue
+                                else:
+                                    logger.warning(f"Validation failed for {model} after {config.validation_retries} attempts, using response anyway")
+                    
+                    # Success - return the response
                     logger.info(f"Successfully processed with {model} on attempt {attempt + 1}")
                     end_time = time.time()
                     runtime_seconds = end_time - start_time
-                    return {
-                        "content": content, 
+                    
+                    result = {
+                        "content": content_response, 
                         "structured": structured_response.model_dump() if hasattr(structured_response, 'model_dump') else structured_response.dict(),
-                        "runtime_seconds": runtime_seconds
+                        "runtime_seconds": runtime_seconds,
+                        "validation_attempts": attempt + 1 if config.validate_exact_text else 1
                     }
+                    
+                    return result
+                    
                 except Exception as validation_error:
                     logger.warning(f"Validation error with {model}: {validation_error}")
                     end_time = time.time()
                     runtime_seconds = end_time - start_time
-                    return {"content": content, "structured": None, "runtime_seconds": runtime_seconds}
+                    return {"content": content_response, "structured": None, "runtime_seconds": runtime_seconds}
             else:
                 logger.warning(f"Empty response from {model}")
                 
@@ -256,9 +405,10 @@ def askChatbotImproved(model: str, role: str, instruction: str, content: str,
     return None
 
 def askChatbotLocalImproved(model: str, role: str, instruction: str, content: str, 
-                           max_retries: int = 3, retry_delay: float = 1.0) -> Optional[Dict[str, Any]]:
+                           max_retries: int = 3, retry_delay: float = 1.0,
+                           document_name: str = "unknown") -> Optional[Dict[str, Any]]:
     """
-    Improved local chatbot function with better error handling
+    Improved local chatbot function with better error handling and text validation
     """
     # Check if content fits in model context
     if not model_manager.can_process_text(model, f"{role}\n{instruction}\n{content}", config.reserve_tokens):
@@ -266,6 +416,7 @@ def askChatbotLocalImproved(model: str, role: str, instruction: str, content: st
         return None
     
     start_time = time.time()
+    current_instruction = instruction
     
     for attempt in range(max_retries):
         try:
@@ -275,28 +426,67 @@ def askChatbotLocalImproved(model: str, role: str, instruction: str, content: st
                 format=EventList.model_json_schema(),
                 messages=[
                     {"role": "system", "content": role},
-                    {"role": "user", "content": f"{instruction}\n\n{content}"},
+                    {"role": "user", "content": f"{current_instruction}\n\n{content}"},
                 ]
             )
             
-            content = response['message']['content']
+            content_response = response['message']['content']
             
-            if content:
+            if content_response:
                 try:
-                    structured_response = EventList.model_validate_json(content)
+                    structured_response = EventList.model_validate_json(content_response)
+                    events = structured_response.events if hasattr(structured_response, 'events') else structured_response.dict().get('events', [])
+                    
+                    # Perform exact text validation if enabled
+                    if config.validate_exact_text and attempt < config.validation_retries:
+                        if isinstance(events, list):
+                            # Convert events to dict format for validation
+                            events_dict = []
+                            for event in events:
+                                if hasattr(event, 'dict'):
+                                    events_dict.append(event.dict())
+                                elif hasattr(event, 'model_dump'):
+                                    events_dict.append(event.model_dump())
+                                else:
+                                    events_dict.append(event)
+                            
+                            validation_errors = validate_exact_text_extraction(events_dict, content)
+                            
+                            if validation_errors:
+                                # Log this validation failure
+                                log_validation_failure(
+                                    document_name, model, content, 
+                                    {"content": content_response, "structured": events_dict}, 
+                                    attempt + 1, "multiple_fields", str(validation_errors)
+                                )
+                                
+                                # If not the last validation attempt, retry with stricter prompt
+                                if attempt < config.validation_retries - 1:
+                                    current_instruction = create_validation_retry_prompt(instruction, validation_errors, events_dict)
+                                    logger.info(f"Validation failed for {model}, retrying with stricter prompt (attempt {attempt + 2})")
+                                    continue
+                                else:
+                                    logger.warning(f"Validation failed for {model} after {config.validation_retries} attempts, using response anyway")
+                    
+                    # Success - return the response
                     logger.info(f"Successfully processed with {model} on attempt {attempt + 1}")
                     end_time = time.time()
                     runtime_seconds = end_time - start_time
-                    return {
-                        "content": content, 
+                    
+                    result = {
+                        "content": content_response, 
                         "structured": structured_response.model_dump() if hasattr(structured_response, 'model_dump') else structured_response.dict(),
-                        "runtime_seconds": runtime_seconds
+                        "runtime_seconds": runtime_seconds,
+                        "validation_attempts": attempt + 1 if config.validate_exact_text else 1
                     }
+                    
+                    return result
+                    
                 except Exception as validation_error:
                     logger.warning(f"Validation error with {model}: {validation_error}")
                     end_time = time.time()
                     runtime_seconds = end_time - start_time
-                    return {"content": content, "structured": None, "runtime_seconds": runtime_seconds}
+                    return {"content": content_response, "structured": None, "runtime_seconds": runtime_seconds}
             else:
                 logger.warning(f"Empty response from {model}")
                 
@@ -440,9 +630,9 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
         
         # Choose appropriate function based on configuration
         if config.via_web:
-            response = askChatbotImproved(model, prompt_config.event_definitions, prompt_config.instruction, combined_text)
+            response = askChatbotImproved(model, prompt_config.event_definitions, prompt_config.instruction, combined_text, document_name=doc_name)
         else:
-            response = askChatbotLocalImproved(model, prompt_config.event_definitions, prompt_config.instruction, combined_text)
+            response = askChatbotLocalImproved(model, prompt_config.event_definitions, prompt_config.instruction, combined_text, document_name=doc_name)
         
         model_end_time = time.time()
         model_runtime = model_end_time - model_start_time
@@ -455,7 +645,8 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
                 "context_length": model_manager.get_context_length(model),
                 "input_tokens": total_tokens,
                 "model_runtime_seconds": model_runtime,
-                "llm_runtime_seconds": response.get("runtime_seconds", 0)  # Time spent in actual LLM call
+                "llm_runtime_seconds": response.get("runtime_seconds", 0),  # Time spent in actual LLM call
+                "validation_attempts": response.get("validation_attempts", 1)
             }
             doc_dict["annotations"].append(annotation)
         else:
@@ -468,6 +659,7 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
                 "input_tokens": total_tokens,
                 "model_runtime_seconds": model_runtime,
                 "llm_runtime_seconds": 0,
+                "validation_attempts": 0,
                 "status": "failed"
             }
             doc_dict["annotations"].append(annotation)
@@ -485,9 +677,9 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
 # Updated model configuration
 models = [
     "gemma3:1b",
-    "gemma3:4b",
-    "gemma3:12b",
-    "mistral:latest"
+   "gemma3:4b",
+   "gemma3:12b",
+   "mistral:latest"
 ]
 
 # You can add more models as needed
@@ -583,6 +775,12 @@ def run_improved_pipeline(max_documents: int = 10, models: List[str] = None,
     pipeline_results_path = pipeline_output_dir / f"pipeline_results_{pipeline_timestamp}.json"
     safe_json_dump(results, pipeline_results_path, indent=2)
     
+    # Save validation failures if any occurred
+    if validation_failures:
+        validation_log_path = pipeline_output_dir / f"validation_failures_{pipeline_timestamp}.json"
+        safe_json_dump(validation_failures, validation_log_path, indent=2)
+        logger.info(f"Saved {len(validation_failures)} validation failures to {validation_log_path}")
+    
     logger.info(f"Pipeline completed. Processed: {results['processed_documents']}, Failed: {results['failed_documents']}")
     
     return results
@@ -597,7 +795,9 @@ config.max_documents = 2 # Start with a small number for testing
 config.via_web = False    # Use local models
 config.max_retries = 3
 config.retry_delay = 2.0
-config.prompt_config = "p4"  
+config.prompt_config = "p4"
+config.validate_exact_text = False  # Enable text validation
+config.validation_retries = 3  # Maximum validation retry attempts  
 
 # Run the pipeline
 pipeline_timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
@@ -624,207 +824,3 @@ if results['documents']:
     print(f"\nProcessed documents:")
     for doc in results['documents']:
         print(f"  - {doc}")
-
-# %%
-def analyze_results(output_dir: str = "output") -> Dict[str, Any]:
-    """
-    Analyze the results from the IE pipeline
-    """
-    output_path = Path(output_dir)
-    
-    # Look for JSON files in both the main directory and subdirectories
-    json_files = []
-    
-    # Add files from main directory
-    json_files.extend(list(output_path.glob("*.json")))
-    
-    # Add files from pipeline result subdirectories
-    for subdir in output_path.glob("pipeline_results_*"):
-        if subdir.is_dir():
-            json_files.extend(list(subdir.glob("*.json")))
-    
-    if not json_files:
-        logger.warning("No result files found")
-        return {}
-    
-    analysis = {
-        "total_files": len(json_files),
-        "models_performance": {},
-        "token_statistics": {},
-        "runtime_statistics": {},
-        "event_statistics": {},
-        "error_analysis": {}
-    }
-    
-    all_docs = []
-    
-    for file_path in json_files:
-        # Skip pipeline summary files
-        if file_path.name.startswith("pipeline_results_"):
-            continue
-            
-        try:
-            with open(file_path, 'r', encoding='utf-8') as f:
-                doc_data = json.load(f)
-                all_docs.append(doc_data)
-        except Exception as e:
-            logger.error(f"Error reading {file_path}: {e}")
-    
-    if not all_docs:
-        return analysis
-    
-    # Analyze model performance
-    for doc in all_docs:
-        for annotation in doc.get("annotations", []):
-            model_name = annotation.get("model_name", "unknown")
-            if model_name not in analysis["models_performance"]:
-                analysis["models_performance"][model_name] = {
-                    "total_docs": 0,
-                    "successful_responses": 0,
-                    "failed_responses": 0,
-                    "avg_tokens": 0,
-                    "total_tokens": 0,
-                    "total_model_runtime": 0,
-                    "total_llm_runtime": 0,
-                    "avg_model_runtime": 0,
-                    "avg_llm_runtime": 0
-                }
-            
-            analysis["models_performance"][model_name]["total_docs"] += 1
-            
-            if annotation.get("events") and annotation.get("status") != "failed":
-                analysis["models_performance"][model_name]["successful_responses"] += 1
-            else:
-                analysis["models_performance"][model_name]["failed_responses"] += 1
-            
-            tokens = annotation.get("input_tokens", 0)
-            model_runtime = annotation.get("model_runtime_seconds", 0)
-            llm_runtime = annotation.get("llm_runtime_seconds", 0)
-            
-            analysis["models_performance"][model_name]["total_tokens"] += tokens
-            analysis["models_performance"][model_name]["total_model_runtime"] += model_runtime
-            analysis["models_performance"][model_name]["total_llm_runtime"] += llm_runtime
-    
-    # Calculate averages
-    for model_stats in analysis["models_performance"].values():
-        if model_stats["total_docs"] > 0:
-            model_stats["avg_tokens"] = model_stats["total_tokens"] / model_stats["total_docs"]
-            model_stats["success_rate"] = (model_stats["successful_responses"] / model_stats["total_docs"]) * 100
-            model_stats["avg_model_runtime"] = model_stats["total_model_runtime"] / model_stats["total_docs"]
-            model_stats["avg_llm_runtime"] = model_stats["total_llm_runtime"] / model_stats["total_docs"]
-    
-    # Token statistics
-    token_counts = [doc.get("total_tokens", 0) for doc in all_docs]
-    if token_counts:
-        analysis["token_statistics"] = {
-            "mean": sum(token_counts) / len(token_counts),
-            "min": min(token_counts),
-            "max": max(token_counts),
-            "total": sum(token_counts)
-        }
-    
-    # Runtime statistics
-    doc_processing_times = [doc.get("total_processing_time_seconds", 0) for doc in all_docs if doc.get("total_processing_time_seconds")]
-    if doc_processing_times:
-        analysis["runtime_statistics"] = {
-            "document_level": {
-                "mean_seconds": sum(doc_processing_times) / len(doc_processing_times),
-                "min_seconds": min(doc_processing_times),
-                "max_seconds": max(doc_processing_times),
-                "total_seconds": sum(doc_processing_times)
-            }
-        }
-        
-        # Add model-level runtime aggregation
-        all_model_runtimes = []
-        all_llm_runtimes = []
-        for doc in all_docs:
-            for annotation in doc.get("annotations", []):
-                if annotation.get("model_runtime_seconds"):
-                    all_model_runtimes.append(annotation["model_runtime_seconds"])
-                if annotation.get("llm_runtime_seconds"):
-                    all_llm_runtimes.append(annotation["llm_runtime_seconds"])
-        
-        if all_model_runtimes:
-            analysis["runtime_statistics"]["model_level"] = {
-                "mean_seconds": sum(all_model_runtimes) / len(all_model_runtimes),
-                "min_seconds": min(all_model_runtimes),
-                "max_seconds": max(all_model_runtimes),
-                "total_seconds": sum(all_model_runtimes)
-            }
-        
-        if all_llm_runtimes:
-            analysis["runtime_statistics"]["llm_level"] = {
-                "mean_seconds": sum(all_llm_runtimes) / len(all_llm_runtimes),
-                "min_seconds": min(all_llm_runtimes),
-                "max_seconds": max(all_llm_runtimes),
-                "total_seconds": sum(all_llm_runtimes)
-            }
-    
-    return analysis
-
-def display_analysis(analysis: Dict[str, Any]):
-    """
-    Display analysis results in a formatted way
-    """
-    print("ANALYSIS RESULTS")
-    print("=" * 60)
-    
-    print(f"Total files analyzed: {analysis.get('total_files', 0)}")
-    
-    print("\nModel Performance:")
-    print("-" * 40)
-    for model, stats in analysis.get("models_performance", {}).items():
-        print(f"{model}:")
-        print(f"  Documents processed: {stats['total_docs']}")
-        print(f"  Success rate: {stats.get('success_rate', 0):.1f}%")
-        print(f"  Average tokens: {stats['avg_tokens']:.0f}")
-        print(f"  Average model runtime: {stats.get('avg_model_runtime', 0):.2f}s")
-        print(f"  Average LLM runtime: {stats.get('avg_llm_runtime', 0):.2f}s")
-        print(f"  Total model runtime: {stats.get('total_model_runtime', 0):.2f}s")
-        print(f"  Total LLM runtime: {stats.get('total_llm_runtime', 0):.2f}s")
-        print()
-    
-    token_stats = analysis.get("token_statistics", {})
-    if token_stats:
-        print("Token Statistics:")
-        print("-" * 40)
-        print(f"  Mean tokens per document: {token_stats['mean']:.0f}")
-        print(f"  Min tokens: {token_stats['min']}")
-        print(f"  Max tokens: {token_stats['max']}")
-        print(f"  Total tokens processed: {token_stats['total']:,}")
-        print()
-    
-    runtime_stats = analysis.get("runtime_statistics", {})
-    if runtime_stats:
-        print("Runtime Statistics:")
-        print("-" * 40)
-        
-        doc_stats = runtime_stats.get("document_level", {})
-        if doc_stats:
-            print("  Document Level:")
-            print(f"    Mean processing time: {doc_stats['mean_seconds']:.2f}s")
-            print(f"    Min processing time: {doc_stats['min_seconds']:.2f}s") 
-            print(f"    Max processing time: {doc_stats['max_seconds']:.2f}s")
-            print(f"    Total processing time: {doc_stats['total_seconds']:.2f}s")
-            
-        model_stats = runtime_stats.get("model_level", {})
-        if model_stats:
-            print("  Model Level:")
-            print(f"    Mean model runtime: {model_stats['mean_seconds']:.2f}s")
-            print(f"    Min model runtime: {model_stats['min_seconds']:.2f}s")
-            print(f"    Max model runtime: {model_stats['max_seconds']:.2f}s")
-            print(f"    Total model runtime: {model_stats['total_seconds']:.2f}s")
-            
-        llm_stats = runtime_stats.get("llm_level", {})
-        if llm_stats:
-            print("  LLM Level:")
-            print(f"    Mean LLM runtime: {llm_stats['mean_seconds']:.2f}s")
-            print(f"    Min LLM runtime: {llm_stats['min_seconds']:.2f}s")
-            print(f"    Max LLM runtime: {llm_stats['max_seconds']:.2f}s")
-            print(f"    Total LLM runtime: {llm_stats['total_seconds']:.2f}s")
-
-# Run analysis
-print("\nAnalyzing results...")
-analysis = analyze_results()
-display_analysis(analysis)
