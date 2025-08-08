@@ -13,7 +13,7 @@ Access UI on ```localhost:8080``` (also available remote via port forwarding)
 | gemma3:1b                         | 1         | 32K                   |
 | gemma3:4b                         | 3.3       | 128K                  |
 | gemma3:12b                        | 8.1       | 128K                  |
-| llama3.3:latest                   | 42        | 8K                    |
+| llama3.3:latest                   | 42        | 128K                    |
 | deepseek-r1:8b                    | 4.9       | 128K                  |
 | mistral:latest                    | 4.1       | 32K                   |
 | incept5/llama3.1-claude:latest    | 4.7       | 128K                  |

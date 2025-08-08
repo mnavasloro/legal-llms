@@ -75,13 +75,19 @@ class ModelManager:
     """Manages model configurations and context lengths"""
     
     MODEL_CONTEXTS = {
-        "gemma3:1b": 8192,
-        "gemma3:12b": 8192,
+        "gemma3:1b": 32000,
+        "gemma3:4b": 128000,
+        "gemma3:12b": 128000,
         "mistral:latest": 32768,
         "llama3.3:latest": 128000,
         "deepseek-r1:8b": 128000,
-        "chevalblanc/claude-3-haiku:latest": 200000,
-        "incept5/llama3.1-claude:latest": 128000,
+        "chevalblanc/claude-3-haiku:latest": 128000,
+        "incept5/llama3.1-claude:latest": 1000000,
+        "llama4:16x17b": 10000000,
+        "mixtral:8x7b": 32768,
+        "dolphin3:8b": 128000,
+        "dolphin-mixtral:8x7b": 32768, 
+        "emma3n:e4b": 32768
     }
     
     def __init__(self):
@@ -422,7 +428,7 @@ def askChatbotLocalImproved(model: str, role: str, instruction: str, content: st
         try:
             response = ollama.chat(
                 model=model,
-                options={'temperature': config.temperature},
+                options={'temperature': config.temperature, 'num_ctx': 16384},
                 format=EventList.model_json_schema(),
                 messages=[
                     {"role": "system", "content": role},
@@ -675,28 +681,28 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
 
 # %%
 # Updated model configuration
-models = [
-    "gemma3:1b",
-   "gemma3:4b",
-   "gemma3:12b",
-   "mistral:latest"
-]
+#models = [
+#    "gemma3:1b",
+#   "gemma3:4b",
+#   "gemma3:12b",
+#   "mistral:latest"
+#]
 
 # You can add more models as needed
-# models = [
-#     "gemma3:1b",
-#     "gemma3:4b",
-#     "gemma3:12b",
-#     "llama3.3:latest",
-#     "deepseek-r1:8b",
-#     "mistral:latest",
-#     "incept5/llama3.1-claude:latest", 
-#     "chevalblanc/claude-3-haiku:latest",
-#     "llama4:16x17b",
-#     "mixtral:8x7b",
-#     "dolphin3:8b",
-#     "dolphin-mixtral:8x7b"
-# ]
+models = [
+     "gemma3:1b",
+     "gemma3:4b",
+     "gemma3:12b",
+     "llama3.3:latest",
+     "deepseek-r1:8b",
+     "mistral:latest",
+     "incept5/llama3.1-claude:latest", 
+     "chevalblanc/claude-3-haiku:latest",
+     "llama4:16x17b",
+     "mixtral:8x7b",
+     "dolphin3:8b",
+     "dolphin-mixtral:8x7b"
+]
 
 def run_improved_pipeline(max_documents: int = 10, models: List[str] = None, 
                          prompt_config_name: str = None, pipeline_timestamp: str = None) -> Dict[str, Any]:
@@ -791,7 +797,7 @@ print("Running improved IE pipeline...")
 print("=" * 50)
 
 # Configure processing
-config.max_documents = 2 # Start with a small number for testing
+config.max_documents = 30 # Start with a small number for testing
 config.via_web = False    # Use local models
 config.max_retries = 3
 config.retry_delay = 2.0
