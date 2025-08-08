@@ -1,0 +1,34 @@
+# Check GPU hardware
+lspci | grep -i nvidia
+
+# Install NVIDIA drivers
+sudo apt update
+sudo apt install nvidia-driver-535  # or latest version
+sudo apt install nvidia-utils-535
+
+# Install CUDA toolkit
+sudo apt install nvidia-cuda-toolkit
+
+# Reboot
+sudo reboot
+
+# Install Ollama
+curl -fsSL https://ollama.ai/install.sh | sh
+
+# Start Ollama service
+sudo systemctl start ollama
+sudo systemctl enable ollama  # Auto-start on boot
+
+# Or run manually
+ollama serve
+
+# Set environment variables
+echo 'export OLLAMA_GPU=1' >> ~/.bashrc
+echo 'export OLLAMA_GPU_LAYERS=-1' >> ~/.bashrc
+echo 'export OLLAMA_KEEP_ALIVE=5m' >> ~/.bashrc
+
+# Reload environment
+source ~/.bashrc
+
+# Restart Ollama
+sudo systemctl restart ollama
