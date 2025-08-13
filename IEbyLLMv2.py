@@ -314,7 +314,8 @@ def askChatbotImproved(model: str, role: str, instruction: str, content: str,
     
     start_time = time.time()
     current_instruction = instruction
-    
+    num_ctx = 16384
+
     for attempt in range(max_retries):
         try:
             chat_headers = {
@@ -385,7 +386,8 @@ def askChatbotImproved(model: str, role: str, instruction: str, content: str,
                         "content": content_response, 
                         "structured": structured_response.model_dump() if hasattr(structured_response, 'model_dump') else structured_response.dict(),
                         "runtime_seconds": runtime_seconds,
-                        "validation_attempts": attempt + 1 if config.validate_exact_text else 1
+                        "validation_attempts": attempt + 1 if config.validate_exact_text else 1,
+                        "num_ctx": num_ctx
                     }
                     
                     return result
@@ -423,12 +425,13 @@ def askChatbotLocalImproved(model: str, role: str, instruction: str, content: st
     
     start_time = time.time()
     current_instruction = instruction
-    
+    num_ctx = 16384
+
     for attempt in range(max_retries):
         try:
             response = ollama.chat(
                 model=model,
-                options={'temperature': config.temperature, 'num_ctx': 16384},
+                options={'temperature': config.temperature, 'num_ctx': num_ctx},
                 format=EventList.model_json_schema(),
                 messages=[
                     {"role": "system", "content": role},
@@ -483,7 +486,8 @@ def askChatbotLocalImproved(model: str, role: str, instruction: str, content: st
                         "content": content_response, 
                         "structured": structured_response.model_dump() if hasattr(structured_response, 'model_dump') else structured_response.dict(),
                         "runtime_seconds": runtime_seconds,
-                        "validation_attempts": attempt + 1 if config.validate_exact_text else 1
+                        "validation_attempts": attempt + 1 if config.validate_exact_text else 1,
+                        "num_ctx": num_ctx
                     }
                     
                     return result
@@ -649,6 +653,7 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
                 "events": response["content"],
                 "processed_at": datetime.now().isoformat(),
                 "context_length": model_manager.get_context_length(model),
+                "num_ctx": response["num_ctx"],
                 "input_tokens": total_tokens,
                 "model_runtime_seconds": model_runtime,
                 "llm_runtime_seconds": response.get("runtime_seconds", 0),  # Time spent in actual LLM call
@@ -662,6 +667,7 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
                 "events": None,
                 "processed_at": datetime.now().isoformat(),
                 "context_length": model_manager.get_context_length(model),
+                "num_ctx": response["num_ctx"],
                 "input_tokens": total_tokens,
                 "model_runtime_seconds": model_runtime,
                 "llm_runtime_seconds": 0,
@@ -681,28 +687,28 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
 
 # %%
 # Updated model configuration
-#models = [
-#    "gemma3:1b",
-#   "gemma3:4b",
-#   "gemma3:12b",
-#   "mistral:latest"
-#]
+models = [
+   "gemma3:1b",
+  "gemma3:4b",
+  "gemma3:12b",
+  "mistral:latest"
+]
 
 # You can add more models as needed
-models = [
-     "gemma3:1b",
-     "gemma3:4b",
-     "gemma3:12b",
-     "llama3.3:latest",
-     "deepseek-r1:8b",
-     "mistral:latest",
-     "incept5/llama3.1-claude:latest", 
-     "chevalblanc/claude-3-haiku:latest",
-     "llama4:16x17b",
-     "mixtral:8x7b",
-     "dolphin3:8b",
-     "dolphin-mixtral:8x7b"
-]
+# models = [
+#      "gemma3:1b",
+#      "gemma3:4b",
+#      "gemma3:12b",
+#      "llama3.3:latest",
+#      "deepseek-r1:8b",
+#      "mistral:latest",
+#      "incept5/llama3.1-claude:latest", 
+#      "chevalblanc/claude-3-haiku:latest",
+#      "llama4:16x17b",
+#      "mixtral:8x7b",
+#      "dolphin3:8b",
+#      "dolphin-mixtral:8x7b"
+# ]
 
 def run_improved_pipeline(max_documents: int = 10, models: List[str] = None, 
                          prompt_config_name: str = None, pipeline_timestamp: str = None) -> Dict[str, Any]:
@@ -797,7 +803,7 @@ print("Running improved IE pipeline...")
 print("=" * 50)
 
 # Configure processing
-config.max_documents = 30 # Start with a small number for testing
+config.max_documents = 2 # Start with a small number for testing
 config.via_web = False    # Use local models
 config.max_retries = 3
 config.retry_delay = 2.0
