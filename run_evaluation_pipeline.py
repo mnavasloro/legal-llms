@@ -778,7 +778,8 @@ def import_and_run_csv_export(pipeline_results_folder):
                 'Gold_Count', 'Predicted_Count'
             ])
             
-            models = ['gemma3:1b', 'gemma3:4b', 'gemma3:12b', 'mistral:latest']
+            # Dynamically get all models from the aggregated data
+            models = sorted(set(aggregated_lenient.keys()) | set(aggregated_strict.keys()))
             ann_types = ['Event', 'Event_who', 'Event_when', 'Event_what']
             
             for model_name in models:
