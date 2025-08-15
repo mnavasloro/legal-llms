@@ -313,8 +313,14 @@ def import_and_run_llm_evaluation(pipeline_results_folder):
 
     def is_llm_model(model_name):
         """Check if the annotation set corresponds to an LLM model."""
-        llm_models = ['gemma3:1b', 'gemma3:4b', 'gemma3:12b', 'mistral:latest']
-        return model_name in llm_models
+        # Get all models from the known model configurations
+        known_llm_models = [
+            'gemma3:1b', 'gemma3:4b', 'gemma3:12b', 'mistral:latest',
+            'llama3.3:latest', 'deepseek-r1:8b', 'chevalblanc/claude-3-haiku:latest',
+            'incept5/llama3.1-claude:latest', 'llama4:16x17b', 'mixtral:8x7b',
+            'dolphin3:8b', 'dolphin-mixtral:8x7b'
+        ]
+        return model_name in known_llm_models
 
     def evaluate_document(doc, gold_annset_name="consensus", overlap_threshold=0.5, strict_threshold=1.0):
         """Evaluate only LLM annotation sets against the gold standard for a single document."""
@@ -894,7 +900,7 @@ def main():
     """Main function to run the complete evaluation pipeline."""
     parser = argparse.ArgumentParser(description='Run complete LLM annotation evaluation pipeline')
     parser.add_argument('pipeline_folder', nargs='?', 
-                       default='output/pipeline_results_20250804_200916',
+                       default='output/pipeline_results_20250808_145025',
                        help='Path to pipeline results folder (default: output/pipeline_results_20250804_170535)')
     
     args = parser.parse_args()
