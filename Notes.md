@@ -3,6 +3,10 @@
 - attach to instance: tmux a -t <instance>
 - close tmux window: ctrl+b then d
 
+### different runs info
+- pipeline_results_20250808_145025, p4, 12 models, num_ctx = 16384
+
+
 ### 26.06.25
 
 - clarify which additional models we want to test -> how much additional disk space is required (disk currently full)
