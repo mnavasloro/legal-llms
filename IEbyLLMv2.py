@@ -314,7 +314,7 @@ def askChatbotImproved(model: str, role: str, instruction: str, content: str,
     
     start_time = time.time()
     current_instruction = instruction
-    num_ctx = 4096
+    num_ctx = 16384
 
     for attempt in range(max_retries):
         try:
@@ -425,7 +425,7 @@ def askChatbotLocalImproved(model: str, role: str, instruction: str, content: st
     
     start_time = time.time()
     current_instruction = instruction
-    num_ctx = 4096
+    num_ctx = 16384
 
     for attempt in range(max_retries):
         try:
