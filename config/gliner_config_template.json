@@ -1,0 +1,122 @@
+{
+  "_description": "GLiNER Fine-tuning Configuration Template",
+  "_usage": "Copy this file and modify values as needed. Remove comments (keys starting with _) before use.",
+  "project": {
+    "_description": "Project metadata",
+    "name": "Legal GLiNER Fine-tuning",
+    "description": "Configuration for legal document NER training"
+  },
+  "extends": {
+    "_description": "Optional: inherit from another config file",
+    "_example": "config/base_config.json",
+    "_note": "Remove this section if not using inheritance"
+  },
+  "data": {
+    "_description": "Data processing configuration",
+    "train_folder": "input/original/annotated-json/train",
+    "test_folder": "input/original/annotated-json/test",
+    "max_tokens_per_chunk": {
+      "_description": "Maximum tokens per text chunk (50-2000)",
+      "_value": 400
+    },
+    "chunk_overlap": {
+      "_description": "Overlap tokens between chunks (0-200)",
+      "_value": 50
+    },
+    "train_split": {
+      "_description": "Training/validation split ratio (0.0-1.0)",
+      "_value": 0.9
+    }
+  },
+  "model": {
+    "_description": "Model configuration",
+    "name": {
+      "_description": "Pre-trained GLiNER model name",
+      "_options": [
+        "urchade/gliner_small-v2.1",
+        "urchade/gliner_medium-v2.1",
+        "urchade/gliner_large-v2.1"
+      ],
+      "_value": "urchade/gliner_small-v2.1"
+    },
+    "entity_types": {
+      "_description": "Entity types to extract",
+      "_value": [
+        "Event",
+        "Event_who",
+        "Event_when",
+        "Event_what"
+      ]
+    }
+  },
+  "training": {
+    "_description": "Training hyperparameters",
+    "num_epochs": {
+      "_description": "Number of training epochs (1-100)",
+      "_value": 10
+    },
+    "batch_size": {
+      "_description": "Training batch size (1-128). Reduce if out of memory.",
+      "_value": 8
+    },
+    "learning_rate": {
+      "_description": "Learning rate (1e-8 to 1e-1)",
+      "_value": 5e-06
+    },
+    "weight_decay": {
+      "_description": "Weight decay for regularization",
+      "_value": 0.01
+    },
+    "warmup_ratio": {
+      "_description": "Warmup ratio for learning rate schedule",
+      "_value": 0.1
+    },
+    "save_steps": {
+      "_description": "Steps between model saves",
+      "_value": 1000
+    },
+    "eval_steps": {
+      "_description": "Steps between evaluations",
+      "_value": 1000
+    },
+    "logging_steps": {
+      "_description": "Steps between logging",
+      "_value": 100
+    }
+  },
+  "evaluation": {
+    "_description": "Evaluation configuration",
+    "threshold": {
+      "_description": "Confidence threshold for predictions (0.0-1.0)",
+      "_value": 0.5
+    },
+    "overlap_threshold": {
+      "_description": "Overlap threshold for evaluation metrics",
+      "_value": 0.5
+    }
+  },
+  "output": {
+    "_description": "Output directory configuration",
+    "base_dir": "output/gliner_pipeline",
+    "model_dir": "models",
+    "predictions_dir": "predictions",
+    "evaluation_dir": "evaluation"
+  },
+  "logging": {
+    "_description": "Logging configuration",
+    "level": {
+      "_description": "Logging level",
+      "_options": [
+        "DEBUG",
+        "INFO",
+        "WARNING",
+        "ERROR"
+      ],
+      "_value": "INFO"
+    },
+    "save_logs": {
+      "_description": "Whether to save logs to file",
+      "_value": true
+    }
+  }
+}

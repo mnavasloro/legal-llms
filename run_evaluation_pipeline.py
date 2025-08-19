@@ -318,7 +318,7 @@ def import_and_run_llm_evaluation(pipeline_results_folder):
             'gemma3:1b', 'gemma3:4b', 'gemma3:12b', 'mistral:latest',
             'llama3.3:latest', 'deepseek-r1:8b', 'chevalblanc/claude-3-haiku:latest',
             'incept5/llama3.1-claude:latest', 'llama4:16x17b', 'mixtral:8x7b',
-            'dolphin3:8b', 'dolphin-mixtral:8x7b'
+            'dolphin3:8b', 'dolphin-mixtral:8x7b', 'gliner_legal'
         ]
         return model_name in known_llm_models
 
@@ -396,7 +396,7 @@ def import_and_run_llm_evaluation(pipeline_results_folder):
         print(f"DETAILED RESULTS PER DOCUMENT AND MODEL")
         print(f"{'='*100}")
         
-        model_order = ['gemma3:1b', 'gemma3:4b', 'gemma3:12b', 'mistral:latest']
+        model_order = ['gemma3:1b', 'gemma3:4b', 'gemma3:12b', 'mistral:latest', 'gliner_legal']
         ann_type_order = ['Event', 'Event_who', 'Event_when', 'Event_what']
         
         for doc_name, doc_results in all_results.items():
