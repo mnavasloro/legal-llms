@@ -268,6 +268,34 @@ class GLiNERPipeline:
                 logger.error("CSV export failed")
                 return False
             
+            # Calculate and display overall metrics
+            logger.info("\n\n" + "="*80)
+            logger.info("STEP 5: CALCULATING OVERALL METRICS")
+            logger.info("="*80)
+            
+            try:
+                from calculate_overall_metrics import calculate_overall_metrics, print_overall_metrics
+                
+                evaluation_results_file = os.path.join(eval_pipeline_folder, 'llm_evaluation_results.json')
+                if os.path.exists(evaluation_results_file):
+                    overall_metrics = calculate_overall_metrics(evaluation_results_file)
+                    print_overall_metrics(overall_metrics)
+                    
+                    # Save overall metrics to file
+                    output_file = os.path.join(eval_pipeline_folder, 'overall_metrics.json')
+                    import json
+                    with open(output_file, 'w') as f:
+                        json.dump(overall_metrics, f, indent=2)
+                    
+                    logger.info(f"💾 Overall metrics saved to: {output_file}")
+                else:
+                    logger.warning("Evaluation results file not found - skipping overall metrics calculation")
+                    
+            except Exception as e:
+                logger.error(f"Error calculating overall metrics: {e}")
+                import traceback
+                traceback.print_exc()
+            
             logger.info("GATE evaluation completed successfully!")
             logger.info(f"Results available in: {eval_pipeline_folder}")
             

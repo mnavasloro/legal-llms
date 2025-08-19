@@ -214,38 +214,78 @@ class GLiNEREvaluator:
             # Merge predictions from all chunks
             all_predictions = self.merge_chunk_predictions(chunk_predictions)
             
+            # Log all predictions for debugging
+            logger.info(f"All predictions for {os.path.basename(json_file_path)}:")
+            for pred in all_predictions:
+                logger.info(f"  {pred['label']}: '{pred['text']}' (score: {pred.get('score', 'N/A'):.3f})")
+            
             # Convert to the format expected by the evaluation pipeline
             events = []
-            for pred in all_predictions:
-                if pred['label'] == 'Event':
-                    # Create event structure matching LLM pipeline format
+            
+            # Group predictions by proximity to create complete event structures
+            # Strategy 1: Look for explicit Event labels and associate with Event_* entities
+            event_preds = [p for p in all_predictions if p['label'] == 'Event']
+            
+            for pred in event_preds:
+                # Create event structure matching LLM pipeline format
+                event = {
+                    'source_text': pred['text'],
+                    'event_type': 'event',  # Default event type
+                    'event_who': '',
+                    'event_when': '',
+                    'event_what': ''
+                }
+                
+                # Find related who/when/what entities
+                pred_start, pred_end = pred['start'], pred['end']
+                
+                for other_pred in all_predictions:
+                    if other_pred['label'] in ['Event_who', 'Event_when', 'Event_what']:
+                        # Check if this entity is related to the event (overlaps or nearby)
+                        other_start, other_end = other_pred['start'], other_pred['end']
+                        
+                        # Consider entities that overlap or are within 200 characters
+                        if (max(pred_start, other_start) <= min(pred_end, other_end) or
+                            abs(other_start - pred_end) <= 200 or
+                            abs(pred_start - other_end) <= 200):
+                            
+                            if other_pred['label'] == 'Event_who':
+                                event['event_who'] = other_pred['text']
+                            elif other_pred['label'] == 'Event_when':
+                                event['event_when'] = other_pred['text']
+                            elif other_pred['label'] == 'Event_what':
+                                event['event_what'] = other_pred['text']
+                
+                events.append(event)
+            
+            # Strategy 2: If no explicit Event labels found, create events from Event_* entities
+            if not events:
+                logger.info("No explicit Event labels found, creating events from Event_* entities")
+                
+                # Group Event_* entities by proximity
+                event_entities = [p for p in all_predictions if p['label'].startswith('Event_')]
+                
+                if event_entities:
+                    # Create an event from the first entity and try to group others
                     event = {
-                        'source_text': pred['text'],
-                        'event_type': 'event',  # Default event type
+                        'source_text': '',
+                        'event_type': 'event',
                         'event_who': '',
                         'event_when': '',
                         'event_what': ''
                     }
                     
-                    # Find related who/when/what entities
-                    pred_start, pred_end = pred['start'], pred['end']
+                    for entity_pred in event_entities:
+                        if entity_pred['label'] == 'Event_who':
+                            event['event_who'] = entity_pred['text']
+                        elif entity_pred['label'] == 'Event_when':
+                            event['event_when'] = entity_pred['text']
+                        elif entity_pred['label'] == 'Event_what':
+                            event['event_what'] = entity_pred['text']
                     
-                    for other_pred in all_predictions:
-                        if other_pred['label'] in ['Event_who', 'Event_when', 'Event_what']:
-                            # Check if this entity is related to the event (overlaps or nearby)
-                            other_start, other_end = other_pred['start'], other_pred['end']
-                            
-                            # Consider entities that overlap or are within 100 characters
-                            if (max(pred_start, other_start) <= min(pred_end, other_end) or
-                                abs(other_start - pred_end) <= 100 or
-                                abs(pred_start - other_end) <= 100):
-                                
-                                if other_pred['label'] == 'Event_who':
-                                    event['event_who'] = other_pred['text']
-                                elif other_pred['label'] == 'Event_when':
-                                    event['event_when'] = other_pred['text']
-                                elif other_pred['label'] == 'Event_what':
-                                    event['event_what'] = other_pred['text']
+                    # Set source_text as combination of all found entities
+                    parts = [v for v in [event['event_who'], event['event_when'], event['event_what']] if v]
+                    event['source_text'] = ' '.join(parts) if parts else 'Legal event detected'
                     
                     events.append(event)
             

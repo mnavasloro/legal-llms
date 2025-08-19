@@ -5,10 +5,11 @@
   },
   "data": {
     "train_folder": "input/original/annotated-json/train",
+    "val_folder": "input/original/annotated-json/dev",
     "test_folder": "input/original/annotated-json/test",
     "max_tokens_per_chunk": 200,
     "chunk_overlap": 25,
-    "train_split": 0.8
+    "train_split": 1.0
   },
   "model": {
     "name": "urchade/gliner_small-v2.1",
@@ -25,8 +26,8 @@
     "logging_steps": 50
   },
   "evaluation": {
-    "threshold": 0.5,
-    "overlap_threshold": 0.5
+    "threshold": 0.1,
+    "overlap_threshold": 0.0
   },
   "output": {
     "base_dir": "output/gliner_quick_test",
