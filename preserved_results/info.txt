@@ -1,1 +1,2 @@
 pipeline_results_20250808_145025: 12 models, 30 documents, num_ctx 16384, prompt p4 without explicit role
+pipeline_results_20250816_104700: 10 models, 30 documents, num_ctx 16384, prompt p1 without explicit role

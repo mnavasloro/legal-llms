@@ -1,0 +1,1681 @@
+Document,Model,Annotation_Type,Evaluation_Mode,Precision,Recall,F1_Score,True_Positives,False_Positives,False_Negatives,Gold_Count,Predicted_Count
+SIDOROVA v. RUSSIA,gemma3:1b,Event,Lenient,0.182,0.154,0.167,2,9,11,13,11
+SIDOROVA v. RUSSIA,gemma3:1b,Event,Strict,0.182,0.154,0.167,2,9,11,13,11
+SIDOROVA v. RUSSIA,gemma3:1b,Event_who,Lenient,0.167,0.077,0.105,1,5,12,13,6
+SIDOROVA v. RUSSIA,gemma3:1b,Event_who,Strict,0.167,0.077,0.105,1,5,12,13,6
+SIDOROVA v. RUSSIA,gemma3:1b,Event_when,Lenient,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,gemma3:1b,Event_when,Strict,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,1,15,15,1
+SIDOROVA v. RUSSIA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,1,15,15,1
+SIDOROVA v. RUSSIA,gemma3:4b,Event,Lenient,0.500,0.154,0.235,2,2,11,13,4
+SIDOROVA v. RUSSIA,gemma3:4b,Event,Strict,0.250,0.077,0.118,1,3,12,13,4
+SIDOROVA v. RUSSIA,gemma3:4b,Event_who,Lenient,0.000,0.000,0.000,0,4,13,13,4
+SIDOROVA v. RUSSIA,gemma3:4b,Event_who,Strict,0.000,0.000,0.000,0,4,13,13,4
+SIDOROVA v. RUSSIA,gemma3:4b,Event_when,Lenient,0.333,0.077,0.125,1,2,12,13,3
+SIDOROVA v. RUSSIA,gemma3:4b,Event_when,Strict,0.333,0.077,0.125,1,2,12,13,3
+SIDOROVA v. RUSSIA,gemma3:4b,Event_what,Lenient,0.000,0.000,0.000,0,2,15,15,2
+SIDOROVA v. RUSSIA,gemma3:4b,Event_what,Strict,0.000,0.000,0.000,0,2,15,15,2
+SIDOROVA v. RUSSIA,gemma3:12b,Event,Lenient,0.667,0.308,0.421,4,2,9,13,6
+SIDOROVA v. RUSSIA,gemma3:12b,Event,Strict,0.500,0.231,0.316,3,3,10,13,6
+SIDOROVA v. RUSSIA,gemma3:12b,Event_who,Lenient,0.200,0.077,0.111,1,4,12,13,5
+SIDOROVA v. RUSSIA,gemma3:12b,Event_who,Strict,0.000,0.000,0.000,0,5,13,13,5
+SIDOROVA v. RUSSIA,gemma3:12b,Event_when,Lenient,0.500,0.231,0.316,3,3,10,13,6
+SIDOROVA v. RUSSIA,gemma3:12b,Event_when,Strict,0.333,0.154,0.211,2,4,11,13,6
+SIDOROVA v. RUSSIA,gemma3:12b,Event_what,Lenient,0.000,0.000,0.000,0,1,15,15,1
+SIDOROVA v. RUSSIA,gemma3:12b,Event_what,Strict,0.000,0.000,0.000,0,1,15,15,1
+SIDOROVA v. RUSSIA,llama3.3:latest,Event,Lenient,0.667,0.154,0.250,2,1,11,13,3
+SIDOROVA v. RUSSIA,llama3.3:latest,Event,Strict,0.667,0.154,0.250,2,1,11,13,3
+SIDOROVA v. RUSSIA,llama3.3:latest,Event_who,Lenient,0.333,0.077,0.125,1,2,12,13,3
+SIDOROVA v. RUSSIA,llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,3,13,13,3
+SIDOROVA v. RUSSIA,llama3.3:latest,Event_when,Lenient,0.500,0.077,0.133,1,1,12,13,2
+SIDOROVA v. RUSSIA,llama3.3:latest,Event_when,Strict,0.500,0.077,0.133,1,1,12,13,2
+SIDOROVA v. RUSSIA,llama3.3:latest,Event_what,Lenient,1.000,0.067,0.125,1,0,14,15,1
+SIDOROVA v. RUSSIA,llama3.3:latest,Event_what,Strict,1.000,0.067,0.125,1,0,14,15,1
+SIDOROVA v. RUSSIA,deepseek-r1:8b,Event,Lenient,1.000,0.077,0.143,1,0,12,13,1
+SIDOROVA v. RUSSIA,deepseek-r1:8b,Event,Strict,1.000,0.077,0.143,1,0,12,13,1
+SIDOROVA v. RUSSIA,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,deepseek-r1:8b,Event_when,Lenient,1.000,0.077,0.143,1,0,12,13,1
+SIDOROVA v. RUSSIA,deepseek-r1:8b,Event_when,Strict,0.000,0.000,0.000,0,1,13,13,1
+SIDOROVA v. RUSSIA,deepseek-r1:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+SIDOROVA v. RUSSIA,deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+SIDOROVA v. RUSSIA,mistral:latest,Event,Lenient,0.375,0.462,0.414,6,10,7,13,16
+SIDOROVA v. RUSSIA,mistral:latest,Event,Strict,0.312,0.385,0.345,5,11,8,13,16
+SIDOROVA v. RUSSIA,mistral:latest,Event_who,Lenient,0.000,0.000,0.000,0,9,13,13,9
+SIDOROVA v. RUSSIA,mistral:latest,Event_who,Strict,0.000,0.000,0.000,0,9,13,13,9
+SIDOROVA v. RUSSIA,mistral:latest,Event_when,Lenient,0.333,0.154,0.211,2,4,11,13,6
+SIDOROVA v. RUSSIA,mistral:latest,Event_when,Strict,0.333,0.154,0.211,2,4,11,13,6
+SIDOROVA v. RUSSIA,mistral:latest,Event_what,Lenient,0.286,0.133,0.182,2,5,13,15,7
+SIDOROVA v. RUSSIA,mistral:latest,Event_what,Strict,0.000,0.000,0.000,0,7,15,15,7
+SIDOROVA v. RUSSIA,incept5/llama3.1-claude:latest,Event,Lenient,0.333,0.077,0.125,1,2,12,13,3
+SIDOROVA v. RUSSIA,incept5/llama3.1-claude:latest,Event,Strict,0.000,0.000,0.000,0,3,13,13,3
+SIDOROVA v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,2,13,13,2
+SIDOROVA v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,2,13,13,2
+SIDOROVA v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Strict,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+SIDOROVA v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+SIDOROVA v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.600,0.231,0.333,3,2,10,13,5
+SIDOROVA v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Strict,0.400,0.154,0.222,2,3,11,13,5
+SIDOROVA v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.500,0.077,0.133,1,1,12,13,2
+SIDOROVA v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,2,13,13,2
+SIDOROVA v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,1.000,0.077,0.143,1,0,12,13,1
+SIDOROVA v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.000,0.000,0.000,0,1,13,13,1
+SIDOROVA v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+SIDOROVA v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+SIDOROVA v. RUSSIA,mixtral:8x7b,Event,Lenient,0.769,0.769,0.769,10,3,3,13,13
+SIDOROVA v. RUSSIA,mixtral:8x7b,Event,Strict,0.769,0.769,0.769,10,3,3,13,13
+SIDOROVA v. RUSSIA,mixtral:8x7b,Event_who,Lenient,0.538,0.538,0.538,7,6,6,13,13
+SIDOROVA v. RUSSIA,mixtral:8x7b,Event_who,Strict,0.154,0.154,0.154,2,11,11,13,13
+SIDOROVA v. RUSSIA,mixtral:8x7b,Event_when,Lenient,0.667,0.154,0.250,2,1,11,13,3
+SIDOROVA v. RUSSIA,mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,3,13,13,3
+SIDOROVA v. RUSSIA,mixtral:8x7b,Event_what,Lenient,0.875,0.467,0.609,7,1,8,15,8
+SIDOROVA v. RUSSIA,mixtral:8x7b,Event_what,Strict,0.500,0.267,0.348,4,4,11,15,8
+SIDOROVA v. RUSSIA,dolphin3:8b,Event,Lenient,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,13,13,0
+SIDOROVA v. RUSSIA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+SIDOROVA v. RUSSIA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:1b,Event,Lenient,0.167,0.143,0.154,2,10,12,14,12
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:1b,Event,Strict,0.167,0.143,0.154,2,10,12,14,12
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,0,13,13,0
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,0,13,13,0
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:1b,Event_when,Lenient,0.167,0.077,0.105,1,5,12,13,6
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:1b,Event_when,Strict,0.167,0.077,0.105,1,5,12,13,6
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:4b,Event,Lenient,0.500,0.214,0.300,3,3,11,14,6
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:4b,Event,Strict,0.167,0.071,0.100,1,5,13,14,6
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:4b,Event_who,Lenient,0.000,0.000,0.000,0,1,13,13,1
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:4b,Event_who,Strict,0.000,0.000,0.000,0,1,13,13,1
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:4b,Event_when,Lenient,1.000,0.231,0.375,3,0,10,13,3
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:4b,Event_when,Strict,0.333,0.077,0.125,1,2,12,13,3
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:4b,Event_what,Lenient,0.250,0.067,0.105,1,3,14,15,4
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:4b,Event_what,Strict,0.000,0.000,0.000,0,4,15,15,4
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:12b,Event,Lenient,0.875,0.500,0.636,7,1,7,14,8
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:12b,Event,Strict,0.750,0.429,0.545,6,2,8,14,8
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:12b,Event_who,Lenient,0.625,0.385,0.476,5,3,8,13,8
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:12b,Event_who,Strict,0.500,0.308,0.381,4,4,9,13,8
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:12b,Event_when,Lenient,0.857,0.462,0.600,6,1,7,13,7
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:12b,Event_when,Strict,0.714,0.385,0.500,5,2,8,13,7
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:12b,Event_what,Lenient,0.714,0.333,0.455,5,2,10,15,7
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:12b,Event_what,Strict,0.000,0.000,0.000,0,7,15,15,7
+EGILL EINARSSON v. ICELAND (No. 2),llama3.3:latest,Event,Lenient,0.727,0.571,0.640,8,3,6,14,11
+EGILL EINARSSON v. ICELAND (No. 2),llama3.3:latest,Event,Strict,0.727,0.571,0.640,8,3,6,14,11
+EGILL EINARSSON v. ICELAND (No. 2),llama3.3:latest,Event_who,Lenient,0.556,0.385,0.455,5,4,8,13,9
+EGILL EINARSSON v. ICELAND (No. 2),llama3.3:latest,Event_who,Strict,0.111,0.077,0.091,1,8,12,13,9
+EGILL EINARSSON v. ICELAND (No. 2),llama3.3:latest,Event_when,Lenient,0.889,0.615,0.727,8,1,5,13,9
+EGILL EINARSSON v. ICELAND (No. 2),llama3.3:latest,Event_when,Strict,0.667,0.462,0.545,6,3,7,13,9
+EGILL EINARSSON v. ICELAND (No. 2),llama3.3:latest,Event_what,Lenient,0.636,0.467,0.538,7,4,8,15,11
+EGILL EINARSSON v. ICELAND (No. 2),llama3.3:latest,Event_what,Strict,0.091,0.067,0.077,1,10,14,15,11
+EGILL EINARSSON v. ICELAND (No. 2),deepseek-r1:8b,Event,Lenient,1.000,0.143,0.250,2,0,12,14,2
+EGILL EINARSSON v. ICELAND (No. 2),deepseek-r1:8b,Event,Strict,1.000,0.143,0.250,2,0,12,14,2
+EGILL EINARSSON v. ICELAND (No. 2),deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,1,13,13,1
+EGILL EINARSSON v. ICELAND (No. 2),deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,1,13,13,1
+EGILL EINARSSON v. ICELAND (No. 2),deepseek-r1:8b,Event_when,Lenient,1.000,0.154,0.267,2,0,11,13,2
+EGILL EINARSSON v. ICELAND (No. 2),deepseek-r1:8b,Event_when,Strict,0.000,0.000,0.000,0,2,13,13,2
+EGILL EINARSSON v. ICELAND (No. 2),deepseek-r1:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+EGILL EINARSSON v. ICELAND (No. 2),deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+EGILL EINARSSON v. ICELAND (No. 2),mistral:latest,Event,Lenient,0.667,0.286,0.400,4,2,10,14,6
+EGILL EINARSSON v. ICELAND (No. 2),mistral:latest,Event,Strict,0.667,0.286,0.400,4,2,10,14,6
+EGILL EINARSSON v. ICELAND (No. 2),mistral:latest,Event_who,Lenient,0.000,0.000,0.000,0,3,13,13,3
+EGILL EINARSSON v. ICELAND (No. 2),mistral:latest,Event_who,Strict,0.000,0.000,0.000,0,3,13,13,3
+EGILL EINARSSON v. ICELAND (No. 2),mistral:latest,Event_when,Lenient,0.800,0.308,0.444,4,1,9,13,5
+EGILL EINARSSON v. ICELAND (No. 2),mistral:latest,Event_when,Strict,0.800,0.308,0.444,4,1,9,13,5
+EGILL EINARSSON v. ICELAND (No. 2),mistral:latest,Event_what,Lenient,0.600,0.200,0.300,3,2,12,15,5
+EGILL EINARSSON v. ICELAND (No. 2),mistral:latest,Event_what,Strict,0.000,0.000,0.000,0,5,15,15,5
+EGILL EINARSSON v. ICELAND (No. 2),incept5/llama3.1-claude:latest,Event,Lenient,0.600,0.429,0.500,6,4,8,14,10
+EGILL EINARSSON v. ICELAND (No. 2),incept5/llama3.1-claude:latest,Event,Strict,0.600,0.429,0.500,6,4,8,14,10
+EGILL EINARSSON v. ICELAND (No. 2),incept5/llama3.1-claude:latest,Event_who,Lenient,0.500,0.308,0.381,4,4,9,13,8
+EGILL EINARSSON v. ICELAND (No. 2),incept5/llama3.1-claude:latest,Event_who,Strict,0.125,0.077,0.095,1,7,12,13,8
+EGILL EINARSSON v. ICELAND (No. 2),incept5/llama3.1-claude:latest,Event_when,Lenient,0.800,0.308,0.444,4,1,9,13,5
+EGILL EINARSSON v. ICELAND (No. 2),incept5/llama3.1-claude:latest,Event_when,Strict,0.800,0.308,0.444,4,1,9,13,5
+EGILL EINARSSON v. ICELAND (No. 2),incept5/llama3.1-claude:latest,Event_what,Lenient,0.500,0.267,0.348,4,4,11,15,8
+EGILL EINARSSON v. ICELAND (No. 2),incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,8,15,15,8
+EGILL EINARSSON v. ICELAND (No. 2),chevalblanc/claude-3-haiku:latest,Event,Lenient,0.500,0.143,0.222,2,2,12,14,4
+EGILL EINARSSON v. ICELAND (No. 2),chevalblanc/claude-3-haiku:latest,Event,Strict,0.500,0.143,0.222,2,2,12,14,4
+EGILL EINARSSON v. ICELAND (No. 2),chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,2,13,13,2
+EGILL EINARSSON v. ICELAND (No. 2),chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,2,13,13,2
+EGILL EINARSSON v. ICELAND (No. 2),chevalblanc/claude-3-haiku:latest,Event_when,Lenient,0.667,0.154,0.250,2,1,11,13,3
+EGILL EINARSSON v. ICELAND (No. 2),chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.667,0.154,0.250,2,1,11,13,3
+EGILL EINARSSON v. ICELAND (No. 2),chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+EGILL EINARSSON v. ICELAND (No. 2),chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+EGILL EINARSSON v. ICELAND (No. 2),mixtral:8x7b,Event,Lenient,1.000,0.071,0.133,1,0,13,14,1
+EGILL EINARSSON v. ICELAND (No. 2),mixtral:8x7b,Event,Strict,1.000,0.071,0.133,1,0,13,14,1
+EGILL EINARSSON v. ICELAND (No. 2),mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,0,13,13,0
+EGILL EINARSSON v. ICELAND (No. 2),mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,0,13,13,0
+EGILL EINARSSON v. ICELAND (No. 2),mixtral:8x7b,Event_when,Lenient,1.000,0.077,0.143,1,0,12,13,1
+EGILL EINARSSON v. ICELAND (No. 2),mixtral:8x7b,Event_when,Strict,1.000,0.077,0.143,1,0,12,13,1
+EGILL EINARSSON v. ICELAND (No. 2),mixtral:8x7b,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+EGILL EINARSSON v. ICELAND (No. 2),mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+EGILL EINARSSON v. ICELAND (No. 2),dolphin3:8b,Event,Lenient,0.500,0.071,0.125,1,1,13,14,2
+EGILL EINARSSON v. ICELAND (No. 2),dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,2,14,14,2
+EGILL EINARSSON v. ICELAND (No. 2),dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,13,13,0
+EGILL EINARSSON v. ICELAND (No. 2),dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,13,13,0
+EGILL EINARSSON v. ICELAND (No. 2),dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,1,13,13,1
+EGILL EINARSSON v. ICELAND (No. 2),dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,1,13,13,1
+EGILL EINARSSON v. ICELAND (No. 2),dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,1,15,15,1
+EGILL EINARSSON v. ICELAND (No. 2),dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,1,15,15,1
+MOSKALEV v. RUSSIA,gemma3:1b,Event,Lenient,0.091,0.182,0.121,2,20,9,11,22
+MOSKALEV v. RUSSIA,gemma3:1b,Event,Strict,0.091,0.182,0.121,2,20,9,11,22
+MOSKALEV v. RUSSIA,gemma3:1b,Event_who,Lenient,0.050,0.091,0.065,1,19,10,11,20
+MOSKALEV v. RUSSIA,gemma3:1b,Event_who,Strict,0.050,0.091,0.065,1,19,10,11,20
+MOSKALEV v. RUSSIA,gemma3:1b,Event_when,Lenient,0.136,0.375,0.200,3,19,5,8,22
+MOSKALEV v. RUSSIA,gemma3:1b,Event_when,Strict,0.045,0.125,0.067,1,21,7,8,22
+MOSKALEV v. RUSSIA,gemma3:1b,Event_what,Lenient,0.062,0.071,0.067,1,15,13,14,16
+MOSKALEV v. RUSSIA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,16,14,14,16
+MOSKALEV v. RUSSIA,gemma3:4b,Event,Lenient,0.500,0.636,0.560,7,7,4,11,14
+MOSKALEV v. RUSSIA,gemma3:4b,Event,Strict,0.214,0.273,0.240,3,11,8,11,14
+MOSKALEV v. RUSSIA,gemma3:4b,Event_who,Lenient,0.182,0.182,0.182,2,9,9,11,11
+MOSKALEV v. RUSSIA,gemma3:4b,Event_who,Strict,0.182,0.182,0.182,2,9,9,11,11
+MOSKALEV v. RUSSIA,gemma3:4b,Event_when,Lenient,0.625,0.625,0.625,5,3,3,8,8
+MOSKALEV v. RUSSIA,gemma3:4b,Event_when,Strict,0.625,0.625,0.625,5,3,3,8,8
+MOSKALEV v. RUSSIA,gemma3:4b,Event_what,Lenient,0.200,0.071,0.105,1,4,13,14,5
+MOSKALEV v. RUSSIA,gemma3:4b,Event_what,Strict,0.200,0.071,0.105,1,4,13,14,5
+MOSKALEV v. RUSSIA,gemma3:12b,Event,Lenient,0.800,0.364,0.500,4,1,7,11,5
+MOSKALEV v. RUSSIA,gemma3:12b,Event,Strict,0.800,0.364,0.500,4,1,7,11,5
+MOSKALEV v. RUSSIA,gemma3:12b,Event_who,Lenient,0.750,0.273,0.400,3,1,8,11,4
+MOSKALEV v. RUSSIA,gemma3:12b,Event_who,Strict,0.750,0.273,0.400,3,1,8,11,4
+MOSKALEV v. RUSSIA,gemma3:12b,Event_when,Lenient,0.800,0.500,0.615,4,1,4,8,5
+MOSKALEV v. RUSSIA,gemma3:12b,Event_when,Strict,0.800,0.500,0.615,4,1,4,8,5
+MOSKALEV v. RUSSIA,gemma3:12b,Event_what,Lenient,0.500,0.143,0.222,2,2,12,14,4
+MOSKALEV v. RUSSIA,gemma3:12b,Event_what,Strict,0.000,0.000,0.000,0,4,14,14,4
+MOSKALEV v. RUSSIA,llama3.3:latest,Event,Lenient,0.000,0.000,0.000,0,0,11,11,0
+MOSKALEV v. RUSSIA,llama3.3:latest,Event,Strict,0.000,0.000,0.000,0,0,11,11,0
+MOSKALEV v. RUSSIA,llama3.3:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,11,11,0
+MOSKALEV v. RUSSIA,llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,0,11,11,0
+MOSKALEV v. RUSSIA,llama3.3:latest,Event_when,Lenient,0.000,0.000,0.000,0,0,8,8,0
+MOSKALEV v. RUSSIA,llama3.3:latest,Event_when,Strict,0.000,0.000,0.000,0,0,8,8,0
+MOSKALEV v. RUSSIA,llama3.3:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,14,14,0
+MOSKALEV v. RUSSIA,llama3.3:latest,Event_what,Strict,0.000,0.000,0.000,0,0,14,14,0
+MOSKALEV v. RUSSIA,deepseek-r1:8b,Event,Lenient,0.091,0.182,0.121,2,20,9,11,22
+MOSKALEV v. RUSSIA,deepseek-r1:8b,Event,Strict,0.045,0.091,0.061,1,21,10,11,22
+MOSKALEV v. RUSSIA,deepseek-r1:8b,Event_who,Lenient,0.071,0.091,0.080,1,13,10,11,14
+MOSKALEV v. RUSSIA,deepseek-r1:8b,Event_who,Strict,0.071,0.091,0.080,1,13,10,11,14
+MOSKALEV v. RUSSIA,deepseek-r1:8b,Event_when,Lenient,0.200,0.375,0.261,3,12,5,8,15
+MOSKALEV v. RUSSIA,deepseek-r1:8b,Event_when,Strict,0.067,0.125,0.087,1,14,7,8,15
+MOSKALEV v. RUSSIA,deepseek-r1:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,14,14,0
+MOSKALEV v. RUSSIA,deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,0,14,14,0
+MOSKALEV v. RUSSIA,mistral:latest,Event,Lenient,0.500,0.636,0.560,7,7,4,11,14
+MOSKALEV v. RUSSIA,mistral:latest,Event,Strict,0.286,0.364,0.320,4,10,7,11,14
+MOSKALEV v. RUSSIA,mistral:latest,Event_who,Lenient,0.214,0.273,0.240,3,11,8,11,14
+MOSKALEV v. RUSSIA,mistral:latest,Event_who,Strict,0.214,0.273,0.240,3,11,8,11,14
+MOSKALEV v. RUSSIA,mistral:latest,Event_when,Lenient,0.833,0.625,0.714,5,1,3,8,6
+MOSKALEV v. RUSSIA,mistral:latest,Event_when,Strict,0.833,0.625,0.714,5,1,3,8,6
+MOSKALEV v. RUSSIA,mistral:latest,Event_what,Lenient,0.455,0.357,0.400,5,6,9,14,11
+MOSKALEV v. RUSSIA,mistral:latest,Event_what,Strict,0.091,0.071,0.080,1,10,13,14,11
+MOSKALEV v. RUSSIA,incept5/llama3.1-claude:latest,Event,Lenient,0.500,0.091,0.154,1,1,10,11,2
+MOSKALEV v. RUSSIA,incept5/llama3.1-claude:latest,Event,Strict,0.000,0.000,0.000,0,2,11,11,2
+MOSKALEV v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,1,11,11,1
+MOSKALEV v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,1,11,11,1
+MOSKALEV v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.000,0.000,0.000,0,0,8,8,0
+MOSKALEV v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Strict,0.000,0.000,0.000,0,0,8,8,0
+MOSKALEV v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,14,14,0
+MOSKALEV v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,0,14,14,0
+MOSKALEV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.667,0.364,0.471,4,2,7,11,6
+MOSKALEV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Strict,0.333,0.182,0.235,2,4,9,11,6
+MOSKALEV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.600,0.273,0.375,3,2,8,11,5
+MOSKALEV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.400,0.182,0.250,2,3,9,11,5
+MOSKALEV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,1.000,0.125,0.222,1,0,7,8,1
+MOSKALEV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.000,0.000,0.000,0,1,8,8,1
+MOSKALEV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.600,0.214,0.316,3,2,11,14,5
+MOSKALEV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,5,14,14,5
+MOSKALEV v. RUSSIA,mixtral:8x7b,Event,Lenient,0.538,0.636,0.583,7,6,4,11,13
+MOSKALEV v. RUSSIA,mixtral:8x7b,Event,Strict,0.385,0.455,0.417,5,8,6,11,13
+MOSKALEV v. RUSSIA,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,7,11,11,7
+MOSKALEV v. RUSSIA,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,7,11,11,7
+MOSKALEV v. RUSSIA,mixtral:8x7b,Event_when,Lenient,0.556,0.625,0.588,5,4,3,8,9
+MOSKALEV v. RUSSIA,mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,9,8,8,9
+MOSKALEV v. RUSSIA,mixtral:8x7b,Event_what,Lenient,0.600,0.429,0.500,6,4,8,14,10
+MOSKALEV v. RUSSIA,mixtral:8x7b,Event_what,Strict,0.100,0.071,0.083,1,9,13,14,10
+MOSKALEV v. RUSSIA,dolphin3:8b,Event,Lenient,1.000,0.091,0.167,1,0,10,11,1
+MOSKALEV v. RUSSIA,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,1,11,11,1
+MOSKALEV v. RUSSIA,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,11,11,0
+MOSKALEV v. RUSSIA,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,11,11,0
+MOSKALEV v. RUSSIA,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,8,8,0
+MOSKALEV v. RUSSIA,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,8,8,0
+MOSKALEV v. RUSSIA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,14,14,0
+MOSKALEV v. RUSSIA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,14,14,0
+PANYUSHKINY v. RUSSIA,gemma3:1b,Event,Lenient,0.591,0.394,0.473,13,9,20,33,22
+PANYUSHKINY v. RUSSIA,gemma3:1b,Event,Strict,0.500,0.333,0.400,11,11,22,33,22
+PANYUSHKINY v. RUSSIA,gemma3:1b,Event_who,Lenient,0.333,0.061,0.103,2,4,31,33,6
+PANYUSHKINY v. RUSSIA,gemma3:1b,Event_who,Strict,0.333,0.061,0.103,2,4,31,33,6
+PANYUSHKINY v. RUSSIA,gemma3:1b,Event_when,Lenient,0.524,0.407,0.458,11,10,16,27,21
+PANYUSHKINY v. RUSSIA,gemma3:1b,Event_when,Strict,0.476,0.370,0.417,10,11,17,27,21
+PANYUSHKINY v. RUSSIA,gemma3:1b,Event_what,Lenient,0.667,0.056,0.103,2,1,34,36,3
+PANYUSHKINY v. RUSSIA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,3,36,36,3
+PANYUSHKINY v. RUSSIA,gemma3:4b,Event,Lenient,0.781,0.758,0.769,25,7,8,33,32
+PANYUSHKINY v. RUSSIA,gemma3:4b,Event,Strict,0.594,0.576,0.585,19,13,14,33,32
+PANYUSHKINY v. RUSSIA,gemma3:4b,Event_who,Lenient,0.143,0.030,0.050,1,6,32,33,7
+PANYUSHKINY v. RUSSIA,gemma3:4b,Event_who,Strict,0.143,0.030,0.050,1,6,32,33,7
+PANYUSHKINY v. RUSSIA,gemma3:4b,Event_when,Lenient,0.667,0.667,0.667,18,9,9,27,27
+PANYUSHKINY v. RUSSIA,gemma3:4b,Event_when,Strict,0.593,0.593,0.593,16,11,11,27,27
+PANYUSHKINY v. RUSSIA,gemma3:4b,Event_what,Lenient,0.800,0.111,0.195,4,1,32,36,5
+PANYUSHKINY v. RUSSIA,gemma3:4b,Event_what,Strict,0.000,0.000,0.000,0,5,36,36,5
+PANYUSHKINY v. RUSSIA,gemma3:12b,Event,Lenient,0.941,0.485,0.640,16,1,17,33,17
+PANYUSHKINY v. RUSSIA,gemma3:12b,Event,Strict,0.941,0.485,0.640,16,1,17,33,17
+PANYUSHKINY v. RUSSIA,gemma3:12b,Event_who,Lenient,0.312,0.152,0.204,5,11,28,33,16
+PANYUSHKINY v. RUSSIA,gemma3:12b,Event_who,Strict,0.062,0.030,0.041,1,15,32,33,16
+PANYUSHKINY v. RUSSIA,gemma3:12b,Event_when,Lenient,0.882,0.556,0.682,15,2,12,27,17
+PANYUSHKINY v. RUSSIA,gemma3:12b,Event_when,Strict,0.882,0.556,0.682,15,2,12,27,17
+PANYUSHKINY v. RUSSIA,gemma3:12b,Event_what,Lenient,1.000,0.417,0.588,15,0,21,36,15
+PANYUSHKINY v. RUSSIA,gemma3:12b,Event_what,Strict,0.600,0.250,0.353,9,6,27,36,15
+PANYUSHKINY v. RUSSIA,llama3.3:latest,Event,Lenient,1.000,0.424,0.596,14,0,19,33,14
+PANYUSHKINY v. RUSSIA,llama3.3:latest,Event,Strict,1.000,0.424,0.596,14,0,19,33,14
+PANYUSHKINY v. RUSSIA,llama3.3:latest,Event_who,Lenient,0.385,0.152,0.217,5,8,28,33,13
+PANYUSHKINY v. RUSSIA,llama3.3:latest,Event_who,Strict,0.077,0.030,0.043,1,12,32,33,13
+PANYUSHKINY v. RUSSIA,llama3.3:latest,Event_when,Lenient,0.929,0.481,0.634,13,1,14,27,14
+PANYUSHKINY v. RUSSIA,llama3.3:latest,Event_when,Strict,0.857,0.444,0.585,12,2,15,27,14
+PANYUSHKINY v. RUSSIA,llama3.3:latest,Event_what,Lenient,1.000,0.139,0.244,5,0,31,36,5
+PANYUSHKINY v. RUSSIA,llama3.3:latest,Event_what,Strict,0.800,0.111,0.195,4,1,32,36,5
+PANYUSHKINY v. RUSSIA,deepseek-r1:8b,Event,Lenient,0.700,0.212,0.326,7,3,26,33,10
+PANYUSHKINY v. RUSSIA,deepseek-r1:8b,Event,Strict,0.700,0.212,0.326,7,3,26,33,10
+PANYUSHKINY v. RUSSIA,deepseek-r1:8b,Event_who,Lenient,0.500,0.061,0.108,2,2,31,33,4
+PANYUSHKINY v. RUSSIA,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,4,33,33,4
+PANYUSHKINY v. RUSSIA,deepseek-r1:8b,Event_when,Lenient,0.750,0.111,0.194,3,1,24,27,4
+PANYUSHKINY v. RUSSIA,deepseek-r1:8b,Event_when,Strict,0.000,0.000,0.000,0,4,27,27,4
+PANYUSHKINY v. RUSSIA,deepseek-r1:8b,Event_what,Lenient,1.000,0.083,0.154,3,0,33,36,3
+PANYUSHKINY v. RUSSIA,deepseek-r1:8b,Event_what,Strict,0.667,0.056,0.103,2,1,34,36,3
+PANYUSHKINY v. RUSSIA,mistral:latest,Event,Lenient,0.528,0.848,0.651,28,25,5,33,53
+PANYUSHKINY v. RUSSIA,mistral:latest,Event,Strict,0.509,0.818,0.628,27,26,6,33,53
+PANYUSHKINY v. RUSSIA,mistral:latest,Event_who,Lenient,0.129,0.121,0.125,4,27,29,33,31
+PANYUSHKINY v. RUSSIA,mistral:latest,Event_who,Strict,0.065,0.061,0.062,2,29,31,33,31
+PANYUSHKINY v. RUSSIA,mistral:latest,Event_when,Lenient,0.688,0.815,0.746,22,10,5,27,32
+PANYUSHKINY v. RUSSIA,mistral:latest,Event_when,Strict,0.656,0.778,0.712,21,11,6,27,32
+PANYUSHKINY v. RUSSIA,mistral:latest,Event_what,Lenient,0.429,0.583,0.494,21,28,15,36,49
+PANYUSHKINY v. RUSSIA,mistral:latest,Event_what,Strict,0.061,0.083,0.071,3,46,33,36,49
+PANYUSHKINY v. RUSSIA,incept5/llama3.1-claude:latest,Event,Lenient,0.667,0.788,0.722,26,13,7,33,39
+PANYUSHKINY v. RUSSIA,incept5/llama3.1-claude:latest,Event,Strict,0.641,0.758,0.694,25,14,8,33,39
+PANYUSHKINY v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,6,33,33,6
+PANYUSHKINY v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,6,33,33,6
+PANYUSHKINY v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.810,0.630,0.708,17,4,10,27,21
+PANYUSHKINY v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Strict,0.810,0.630,0.708,17,4,10,27,21
+PANYUSHKINY v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Lenient,0.500,0.056,0.100,2,2,34,36,4
+PANYUSHKINY v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,4,36,36,4
+PANYUSHKINY v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.500,0.030,0.057,1,1,32,33,2
+PANYUSHKINY v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Strict,0.500,0.030,0.057,1,1,32,33,2
+PANYUSHKINY v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,33,33,0
+PANYUSHKINY v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,0,33,33,0
+PANYUSHKINY v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,0.500,0.037,0.069,1,1,26,27,2
+PANYUSHKINY v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.500,0.037,0.069,1,1,26,27,2
+PANYUSHKINY v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,36,36,0
+PANYUSHKINY v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,0,36,36,0
+PANYUSHKINY v. RUSSIA,mixtral:8x7b,Event,Lenient,0.000,0.000,0.000,0,0,33,33,0
+PANYUSHKINY v. RUSSIA,mixtral:8x7b,Event,Strict,0.000,0.000,0.000,0,0,33,33,0
+PANYUSHKINY v. RUSSIA,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,0,33,33,0
+PANYUSHKINY v. RUSSIA,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,0,33,33,0
+PANYUSHKINY v. RUSSIA,mixtral:8x7b,Event_when,Lenient,0.000,0.000,0.000,0,0,27,27,0
+PANYUSHKINY v. RUSSIA,mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,0,27,27,0
+PANYUSHKINY v. RUSSIA,mixtral:8x7b,Event_what,Lenient,0.000,0.000,0.000,0,0,36,36,0
+PANYUSHKINY v. RUSSIA,mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,0,36,36,0
+PANYUSHKINY v. RUSSIA,dolphin3:8b,Event,Lenient,1.000,0.030,0.059,1,0,32,33,1
+PANYUSHKINY v. RUSSIA,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,1,33,33,1
+PANYUSHKINY v. RUSSIA,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,33,33,0
+PANYUSHKINY v. RUSSIA,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,33,33,0
+PANYUSHKINY v. RUSSIA,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,27,27,0
+PANYUSHKINY v. RUSSIA,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,27,27,0
+PANYUSHKINY v. RUSSIA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,36,36,0
+PANYUSHKINY v. RUSSIA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,36,36,0
+SOLCAN v. ROMANIA,gemma3:1b,Event,Lenient,0.571,0.615,0.593,8,6,5,13,14
+SOLCAN v. ROMANIA,gemma3:1b,Event,Strict,0.571,0.615,0.593,8,6,5,13,14
+SOLCAN v. ROMANIA,gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,3,13,13,3
+SOLCAN v. ROMANIA,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,3,13,13,3
+SOLCAN v. ROMANIA,gemma3:1b,Event_when,Lenient,0.583,0.636,0.609,7,5,4,11,12
+SOLCAN v. ROMANIA,gemma3:1b,Event_when,Strict,0.583,0.636,0.609,7,5,4,11,12
+SOLCAN v. ROMANIA,gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,0,18,18,0
+SOLCAN v. ROMANIA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,0,18,18,0
+SOLCAN v. ROMANIA,gemma3:4b,Event,Lenient,0.667,0.308,0.421,4,2,9,13,6
+SOLCAN v. ROMANIA,gemma3:4b,Event,Strict,0.167,0.077,0.105,1,5,12,13,6
+SOLCAN v. ROMANIA,gemma3:4b,Event_who,Lenient,0.333,0.154,0.211,2,4,11,13,6
+SOLCAN v. ROMANIA,gemma3:4b,Event_who,Strict,0.333,0.154,0.211,2,4,11,13,6
+SOLCAN v. ROMANIA,gemma3:4b,Event_when,Lenient,1.000,0.273,0.429,3,0,8,11,3
+SOLCAN v. ROMANIA,gemma3:4b,Event_when,Strict,1.000,0.273,0.429,3,0,8,11,3
+SOLCAN v. ROMANIA,gemma3:4b,Event_what,Lenient,1.000,0.056,0.105,1,0,17,18,1
+SOLCAN v. ROMANIA,gemma3:4b,Event_what,Strict,0.000,0.000,0.000,0,1,18,18,1
+SOLCAN v. ROMANIA,gemma3:12b,Event,Lenient,0.889,0.615,0.727,8,1,5,13,9
+SOLCAN v. ROMANIA,gemma3:12b,Event,Strict,0.889,0.615,0.727,8,1,5,13,9
+SOLCAN v. ROMANIA,gemma3:12b,Event_who,Lenient,0.667,0.462,0.545,6,3,7,13,9
+SOLCAN v. ROMANIA,gemma3:12b,Event_who,Strict,0.667,0.462,0.545,6,3,7,13,9
+SOLCAN v. ROMANIA,gemma3:12b,Event_when,Lenient,0.875,0.636,0.737,7,1,4,11,8
+SOLCAN v. ROMANIA,gemma3:12b,Event_when,Strict,0.875,0.636,0.737,7,1,4,11,8
+SOLCAN v. ROMANIA,gemma3:12b,Event_what,Lenient,0.889,0.444,0.593,8,1,10,18,9
+SOLCAN v. ROMANIA,gemma3:12b,Event_what,Strict,0.667,0.333,0.444,6,3,12,18,9
+SOLCAN v. ROMANIA,llama3.3:latest,Event,Lenient,0.714,0.769,0.741,10,4,3,13,14
+SOLCAN v. ROMANIA,llama3.3:latest,Event,Strict,0.643,0.692,0.667,9,5,4,13,14
+SOLCAN v. ROMANIA,llama3.3:latest,Event_who,Lenient,0.308,0.308,0.308,4,9,9,13,13
+SOLCAN v. ROMANIA,llama3.3:latest,Event_who,Strict,0.308,0.308,0.308,4,9,9,13,13
+SOLCAN v. ROMANIA,llama3.3:latest,Event_when,Lenient,0.889,0.727,0.800,8,1,3,11,9
+SOLCAN v. ROMANIA,llama3.3:latest,Event_when,Strict,0.889,0.727,0.800,8,1,3,11,9
+SOLCAN v. ROMANIA,llama3.3:latest,Event_what,Lenient,0.857,0.333,0.480,6,1,12,18,7
+SOLCAN v. ROMANIA,llama3.3:latest,Event_what,Strict,0.429,0.167,0.240,3,4,15,18,7
+SOLCAN v. ROMANIA,deepseek-r1:8b,Event,Lenient,0.087,0.154,0.111,2,21,11,13,23
+SOLCAN v. ROMANIA,deepseek-r1:8b,Event,Strict,0.000,0.000,0.000,0,23,13,13,23
+SOLCAN v. ROMANIA,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,13,13,0
+SOLCAN v. ROMANIA,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,0,13,13,0
+SOLCAN v. ROMANIA,deepseek-r1:8b,Event_when,Lenient,0.095,0.182,0.125,2,19,9,11,21
+SOLCAN v. ROMANIA,deepseek-r1:8b,Event_when,Strict,0.095,0.182,0.125,2,19,9,11,21
+SOLCAN v. ROMANIA,deepseek-r1:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,18,18,0
+SOLCAN v. ROMANIA,deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,0,18,18,0
+SOLCAN v. ROMANIA,mistral:latest,Event,Lenient,0.364,0.923,0.522,12,21,1,13,33
+SOLCAN v. ROMANIA,mistral:latest,Event,Strict,0.333,0.846,0.478,11,22,2,13,33
+SOLCAN v. ROMANIA,mistral:latest,Event_who,Lenient,0.111,0.231,0.150,3,24,10,13,27
+SOLCAN v. ROMANIA,mistral:latest,Event_who,Strict,0.111,0.231,0.150,3,24,10,13,27
+SOLCAN v. ROMANIA,mistral:latest,Event_when,Lenient,0.800,0.727,0.762,8,2,3,11,10
+SOLCAN v. ROMANIA,mistral:latest,Event_when,Strict,0.800,0.727,0.762,8,2,3,11,10
+SOLCAN v. ROMANIA,mistral:latest,Event_what,Lenient,0.750,0.500,0.600,9,3,9,18,12
+SOLCAN v. ROMANIA,mistral:latest,Event_what,Strict,0.417,0.278,0.333,5,7,13,18,12
+SOLCAN v. ROMANIA,incept5/llama3.1-claude:latest,Event,Lenient,0.727,0.615,0.667,8,3,5,13,11
+SOLCAN v. ROMANIA,incept5/llama3.1-claude:latest,Event,Strict,0.636,0.538,0.583,7,4,6,13,11
+SOLCAN v. ROMANIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.200,0.154,0.174,2,8,11,13,10
+SOLCAN v. ROMANIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.200,0.154,0.174,2,8,11,13,10
+SOLCAN v. ROMANIA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.778,0.636,0.700,7,2,4,11,9
+SOLCAN v. ROMANIA,incept5/llama3.1-claude:latest,Event_when,Strict,0.778,0.636,0.700,7,2,4,11,9
+SOLCAN v. ROMANIA,incept5/llama3.1-claude:latest,Event_what,Lenient,0.667,0.222,0.333,4,2,14,18,6
+SOLCAN v. ROMANIA,incept5/llama3.1-claude:latest,Event_what,Strict,0.500,0.167,0.250,3,3,15,18,6
+SOLCAN v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.800,0.308,0.444,4,1,9,13,5
+SOLCAN v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event,Strict,0.800,0.308,0.444,4,1,9,13,5
+SOLCAN v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.500,0.077,0.133,1,1,12,13,2
+SOLCAN v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.500,0.077,0.133,1,1,12,13,2
+SOLCAN v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,1.000,0.273,0.429,3,0,8,11,3
+SOLCAN v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,1.000,0.273,0.429,3,0,8,11,3
+SOLCAN v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,1.000,0.167,0.286,3,0,15,18,3
+SOLCAN v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.667,0.111,0.190,2,1,16,18,3
+SOLCAN v. ROMANIA,mixtral:8x7b,Event,Lenient,0.667,0.308,0.421,4,2,9,13,6
+SOLCAN v. ROMANIA,mixtral:8x7b,Event,Strict,0.500,0.231,0.316,3,3,10,13,6
+SOLCAN v. ROMANIA,mixtral:8x7b,Event_who,Lenient,0.167,0.077,0.105,1,5,12,13,6
+SOLCAN v. ROMANIA,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,6,13,13,6
+SOLCAN v. ROMANIA,mixtral:8x7b,Event_when,Lenient,0.667,0.182,0.286,2,1,9,11,3
+SOLCAN v. ROMANIA,mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,3,11,11,3
+SOLCAN v. ROMANIA,mixtral:8x7b,Event_what,Lenient,1.000,0.167,0.286,3,0,15,18,3
+SOLCAN v. ROMANIA,mixtral:8x7b,Event_what,Strict,0.333,0.056,0.095,1,2,17,18,3
+SOLCAN v. ROMANIA,dolphin3:8b,Event,Lenient,0.000,0.000,0.000,0,0,13,13,0
+SOLCAN v. ROMANIA,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,0,13,13,0
+SOLCAN v. ROMANIA,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,13,13,0
+SOLCAN v. ROMANIA,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,13,13,0
+SOLCAN v. ROMANIA,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,11,11,0
+SOLCAN v. ROMANIA,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,11,11,0
+SOLCAN v. ROMANIA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,18,18,0
+SOLCAN v. ROMANIA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,18,18,0
+ALTAY v. TURKEY (No. 2),gemma3:1b,Event,Lenient,0.200,0.143,0.167,3,12,18,21,15
+ALTAY v. TURKEY (No. 2),gemma3:1b,Event,Strict,0.200,0.143,0.167,3,12,18,21,15
+ALTAY v. TURKEY (No. 2),gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,6,19,19,6
+ALTAY v. TURKEY (No. 2),gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,6,19,19,6
+ALTAY v. TURKEY (No. 2),gemma3:1b,Event_when,Lenient,0.250,0.143,0.182,3,9,18,21,12
+ALTAY v. TURKEY (No. 2),gemma3:1b,Event_when,Strict,0.250,0.143,0.182,3,9,18,21,12
+ALTAY v. TURKEY (No. 2),gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,0,30,30,0
+ALTAY v. TURKEY (No. 2),gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,0,30,30,0
+ALTAY v. TURKEY (No. 2),gemma3:4b,Event,Lenient,0.625,0.476,0.541,10,6,11,21,16
+ALTAY v. TURKEY (No. 2),gemma3:4b,Event,Strict,0.250,0.190,0.216,4,12,17,21,16
+ALTAY v. TURKEY (No. 2),gemma3:4b,Event_who,Lenient,0.111,0.053,0.071,1,8,18,19,9
+ALTAY v. TURKEY (No. 2),gemma3:4b,Event_who,Strict,0.111,0.053,0.071,1,8,18,19,9
+ALTAY v. TURKEY (No. 2),gemma3:4b,Event_when,Lenient,0.636,0.333,0.437,7,4,14,21,11
+ALTAY v. TURKEY (No. 2),gemma3:4b,Event_when,Strict,0.636,0.333,0.437,7,4,14,21,11
+ALTAY v. TURKEY (No. 2),gemma3:4b,Event_what,Lenient,0.250,0.067,0.105,2,6,28,30,8
+ALTAY v. TURKEY (No. 2),gemma3:4b,Event_what,Strict,0.250,0.067,0.105,2,6,28,30,8
+ALTAY v. TURKEY (No. 2),gemma3:12b,Event,Lenient,0.938,0.714,0.811,15,1,6,21,16
+ALTAY v. TURKEY (No. 2),gemma3:12b,Event,Strict,0.438,0.333,0.378,7,9,14,21,16
+ALTAY v. TURKEY (No. 2),gemma3:12b,Event_who,Lenient,0.188,0.158,0.171,3,13,16,19,16
+ALTAY v. TURKEY (No. 2),gemma3:12b,Event_who,Strict,0.125,0.105,0.114,2,14,17,19,16
+ALTAY v. TURKEY (No. 2),gemma3:12b,Event_when,Lenient,0.800,0.571,0.667,12,3,9,21,15
+ALTAY v. TURKEY (No. 2),gemma3:12b,Event_when,Strict,0.800,0.571,0.667,12,3,9,21,15
+ALTAY v. TURKEY (No. 2),gemma3:12b,Event_what,Lenient,0.600,0.300,0.400,9,6,21,30,15
+ALTAY v. TURKEY (No. 2),gemma3:12b,Event_what,Strict,0.600,0.300,0.400,9,6,21,30,15
+ALTAY v. TURKEY (No. 2),llama3.3:latest,Event,Lenient,0.000,0.000,0.000,0,0,21,21,0
+ALTAY v. TURKEY (No. 2),llama3.3:latest,Event,Strict,0.000,0.000,0.000,0,0,21,21,0
+ALTAY v. TURKEY (No. 2),llama3.3:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,19,19,0
+ALTAY v. TURKEY (No. 2),llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,0,19,19,0
+ALTAY v. TURKEY (No. 2),llama3.3:latest,Event_when,Lenient,0.000,0.000,0.000,0,0,21,21,0
+ALTAY v. TURKEY (No. 2),llama3.3:latest,Event_when,Strict,0.000,0.000,0.000,0,0,21,21,0
+ALTAY v. TURKEY (No. 2),llama3.3:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,30,30,0
+ALTAY v. TURKEY (No. 2),llama3.3:latest,Event_what,Strict,0.000,0.000,0.000,0,0,30,30,0
+ALTAY v. TURKEY (No. 2),deepseek-r1:8b,Event,Lenient,0.154,0.381,0.219,8,44,13,21,52
+ALTAY v. TURKEY (No. 2),deepseek-r1:8b,Event,Strict,0.135,0.333,0.192,7,45,14,21,52
+ALTAY v. TURKEY (No. 2),deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,19,19,0
+ALTAY v. TURKEY (No. 2),deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,0,19,19,0
+ALTAY v. TURKEY (No. 2),deepseek-r1:8b,Event_when,Lenient,0.750,0.286,0.414,6,2,15,21,8
+ALTAY v. TURKEY (No. 2),deepseek-r1:8b,Event_when,Strict,0.750,0.286,0.414,6,2,15,21,8
+ALTAY v. TURKEY (No. 2),deepseek-r1:8b,Event_what,Lenient,0.000,0.000,0.000,0,1,30,30,1
+ALTAY v. TURKEY (No. 2),deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,1,30,30,1
+ALTAY v. TURKEY (No. 2),mistral:latest,Event,Lenient,0.545,0.571,0.558,12,10,9,21,22
+ALTAY v. TURKEY (No. 2),mistral:latest,Event,Strict,0.500,0.524,0.512,11,11,10,21,22
+ALTAY v. TURKEY (No. 2),mistral:latest,Event_who,Lenient,0.100,0.105,0.103,2,18,17,19,20
+ALTAY v. TURKEY (No. 2),mistral:latest,Event_who,Strict,0.100,0.105,0.103,2,18,17,19,20
+ALTAY v. TURKEY (No. 2),mistral:latest,Event_when,Lenient,0.833,0.476,0.606,10,2,11,21,12
+ALTAY v. TURKEY (No. 2),mistral:latest,Event_when,Strict,0.833,0.476,0.606,10,2,11,21,12
+ALTAY v. TURKEY (No. 2),mistral:latest,Event_what,Lenient,0.556,0.167,0.256,5,4,25,30,9
+ALTAY v. TURKEY (No. 2),mistral:latest,Event_what,Strict,0.333,0.100,0.154,3,6,27,30,9
+ALTAY v. TURKEY (No. 2),incept5/llama3.1-claude:latest,Event,Lenient,0.786,0.524,0.629,11,3,10,21,14
+ALTAY v. TURKEY (No. 2),incept5/llama3.1-claude:latest,Event,Strict,0.786,0.524,0.629,11,3,10,21,14
+ALTAY v. TURKEY (No. 2),incept5/llama3.1-claude:latest,Event_who,Lenient,0.167,0.105,0.129,2,10,17,19,12
+ALTAY v. TURKEY (No. 2),incept5/llama3.1-claude:latest,Event_who,Strict,0.167,0.105,0.129,2,10,17,19,12
+ALTAY v. TURKEY (No. 2),incept5/llama3.1-claude:latest,Event_when,Lenient,0.786,0.524,0.629,11,3,10,21,14
+ALTAY v. TURKEY (No. 2),incept5/llama3.1-claude:latest,Event_when,Strict,0.786,0.524,0.629,11,3,10,21,14
+ALTAY v. TURKEY (No. 2),incept5/llama3.1-claude:latest,Event_what,Lenient,0.500,0.167,0.250,5,5,25,30,10
+ALTAY v. TURKEY (No. 2),incept5/llama3.1-claude:latest,Event_what,Strict,0.400,0.133,0.200,4,6,26,30,10
+ALTAY v. TURKEY (No. 2),chevalblanc/claude-3-haiku:latest,Event,Lenient,0.600,0.143,0.231,3,2,18,21,5
+ALTAY v. TURKEY (No. 2),chevalblanc/claude-3-haiku:latest,Event,Strict,0.400,0.095,0.154,2,3,19,21,5
+ALTAY v. TURKEY (No. 2),chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,4,19,19,4
+ALTAY v. TURKEY (No. 2),chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,4,19,19,4
+ALTAY v. TURKEY (No. 2),chevalblanc/claude-3-haiku:latest,Event_when,Lenient,0.750,0.143,0.240,3,1,18,21,4
+ALTAY v. TURKEY (No. 2),chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.750,0.143,0.240,3,1,18,21,4
+ALTAY v. TURKEY (No. 2),chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.500,0.033,0.062,1,1,29,30,2
+ALTAY v. TURKEY (No. 2),chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.500,0.033,0.062,1,1,29,30,2
+ALTAY v. TURKEY (No. 2),mixtral:8x7b,Event,Lenient,0.727,0.381,0.500,8,3,13,21,11
+ALTAY v. TURKEY (No. 2),mixtral:8x7b,Event,Strict,0.545,0.286,0.375,6,5,15,21,11
+ALTAY v. TURKEY (No. 2),mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,10,19,19,10
+ALTAY v. TURKEY (No. 2),mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,10,19,19,10
+ALTAY v. TURKEY (No. 2),mixtral:8x7b,Event_when,Lenient,0.778,0.333,0.467,7,2,14,21,9
+ALTAY v. TURKEY (No. 2),mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,9,21,21,9
+ALTAY v. TURKEY (No. 2),mixtral:8x7b,Event_what,Lenient,0.111,0.033,0.051,1,8,29,30,9
+ALTAY v. TURKEY (No. 2),mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,9,30,30,9
+ALTAY v. TURKEY (No. 2),dolphin3:8b,Event,Lenient,0.000,0.000,0.000,0,0,21,21,0
+ALTAY v. TURKEY (No. 2),dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,0,21,21,0
+ALTAY v. TURKEY (No. 2),dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,19,19,0
+ALTAY v. TURKEY (No. 2),dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,19,19,0
+ALTAY v. TURKEY (No. 2),dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,21,21,0
+ALTAY v. TURKEY (No. 2),dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,21,21,0
+ALTAY v. TURKEY (No. 2),dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,30,30,0
+ALTAY v. TURKEY (No. 2),dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,30,30,0
+H_INESS v. NORWAY (1),gemma3:1b,Event,Lenient,0.000,0.000,0.000,0,0,31,31,0
+H_INESS v. NORWAY (1),gemma3:1b,Event,Strict,0.000,0.000,0.000,0,0,31,31,0
+H_INESS v. NORWAY (1),gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,0,32,32,0
+H_INESS v. NORWAY (1),gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,0,32,32,0
+H_INESS v. NORWAY (1),gemma3:1b,Event_when,Lenient,0.000,0.000,0.000,0,0,29,29,0
+H_INESS v. NORWAY (1),gemma3:1b,Event_when,Strict,0.000,0.000,0.000,0,0,29,29,0
+H_INESS v. NORWAY (1),gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,0,35,35,0
+H_INESS v. NORWAY (1),gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,0,35,35,0
+H_INESS v. NORWAY (1),gemma3:4b,Event,Lenient,0.158,0.194,0.174,6,32,25,31,38
+H_INESS v. NORWAY (1),gemma3:4b,Event,Strict,0.079,0.097,0.087,3,35,28,31,38
+H_INESS v. NORWAY (1),gemma3:4b,Event_who,Lenient,0.030,0.031,0.031,1,32,31,32,33
+H_INESS v. NORWAY (1),gemma3:4b,Event_who,Strict,0.030,0.031,0.031,1,32,31,32,33
+H_INESS v. NORWAY (1),gemma3:4b,Event_when,Lenient,0.156,0.172,0.164,5,27,24,29,32
+H_INESS v. NORWAY (1),gemma3:4b,Event_when,Strict,0.156,0.172,0.164,5,27,24,29,32
+H_INESS v. NORWAY (1),gemma3:4b,Event_what,Lenient,0.500,0.086,0.146,3,3,32,35,6
+H_INESS v. NORWAY (1),gemma3:4b,Event_what,Strict,0.167,0.029,0.049,1,5,34,35,6
+H_INESS v. NORWAY (1),gemma3:12b,Event,Lenient,0.571,0.129,0.211,4,3,27,31,7
+H_INESS v. NORWAY (1),gemma3:12b,Event,Strict,0.571,0.129,0.211,4,3,27,31,7
+H_INESS v. NORWAY (1),gemma3:12b,Event_who,Lenient,0.333,0.062,0.105,2,4,30,32,6
+H_INESS v. NORWAY (1),gemma3:12b,Event_who,Strict,0.167,0.031,0.053,1,5,31,32,6
+H_INESS v. NORWAY (1),gemma3:12b,Event_when,Lenient,0.800,0.138,0.235,4,1,25,29,5
+H_INESS v. NORWAY (1),gemma3:12b,Event_when,Strict,0.800,0.138,0.235,4,1,25,29,5
+H_INESS v. NORWAY (1),gemma3:12b,Event_what,Lenient,0.500,0.086,0.146,3,3,32,35,6
+H_INESS v. NORWAY (1),gemma3:12b,Event_what,Strict,0.167,0.029,0.049,1,5,34,35,6
+H_INESS v. NORWAY (1),llama3.3:latest,Event,Lenient,0.000,0.000,0.000,0,3,31,31,3
+H_INESS v. NORWAY (1),llama3.3:latest,Event,Strict,0.000,0.000,0.000,0,3,31,31,3
+H_INESS v. NORWAY (1),llama3.3:latest,Event_who,Lenient,0.000,0.000,0.000,0,1,32,32,1
+H_INESS v. NORWAY (1),llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,1,32,32,1
+H_INESS v. NORWAY (1),llama3.3:latest,Event_when,Lenient,0.333,0.034,0.062,1,2,28,29,3
+H_INESS v. NORWAY (1),llama3.3:latest,Event_when,Strict,0.333,0.034,0.062,1,2,28,29,3
+H_INESS v. NORWAY (1),llama3.3:latest,Event_what,Lenient,0.000,0.000,0.000,0,1,35,35,1
+H_INESS v. NORWAY (1),llama3.3:latest,Event_what,Strict,0.000,0.000,0.000,0,1,35,35,1
+H_INESS v. NORWAY (1),deepseek-r1:8b,Event,Lenient,0.250,0.032,0.057,1,3,30,31,4
+H_INESS v. NORWAY (1),deepseek-r1:8b,Event,Strict,0.250,0.032,0.057,1,3,30,31,4
+H_INESS v. NORWAY (1),deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,32,32,0
+H_INESS v. NORWAY (1),deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,0,32,32,0
+H_INESS v. NORWAY (1),deepseek-r1:8b,Event_when,Lenient,1.000,0.069,0.129,2,0,27,29,2
+H_INESS v. NORWAY (1),deepseek-r1:8b,Event_when,Strict,1.000,0.069,0.129,2,0,27,29,2
+H_INESS v. NORWAY (1),deepseek-r1:8b,Event_what,Lenient,1.000,0.029,0.056,1,0,34,35,1
+H_INESS v. NORWAY (1),deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,1,35,35,1
+H_INESS v. NORWAY (1),mistral:latest,Event,Lenient,0.353,0.581,0.439,18,33,13,31,51
+H_INESS v. NORWAY (1),mistral:latest,Event,Strict,0.294,0.484,0.366,15,36,16,31,51
+H_INESS v. NORWAY (1),mistral:latest,Event_who,Lenient,0.048,0.031,0.038,1,20,31,32,21
+H_INESS v. NORWAY (1),mistral:latest,Event_who,Strict,0.048,0.031,0.038,1,20,31,32,21
+H_INESS v. NORWAY (1),mistral:latest,Event_when,Lenient,0.464,0.448,0.456,13,15,16,29,28
+H_INESS v. NORWAY (1),mistral:latest,Event_when,Strict,0.464,0.448,0.456,13,15,16,29,28
+H_INESS v. NORWAY (1),mistral:latest,Event_what,Lenient,0.467,0.200,0.280,7,8,28,35,15
+H_INESS v. NORWAY (1),mistral:latest,Event_what,Strict,0.067,0.029,0.040,1,14,34,35,15
+H_INESS v. NORWAY (1),incept5/llama3.1-claude:latest,Event,Lenient,0.500,0.065,0.114,2,2,29,31,4
+H_INESS v. NORWAY (1),incept5/llama3.1-claude:latest,Event,Strict,0.250,0.032,0.057,1,3,30,31,4
+H_INESS v. NORWAY (1),incept5/llama3.1-claude:latest,Event_who,Lenient,0.250,0.031,0.056,1,3,31,32,4
+H_INESS v. NORWAY (1),incept5/llama3.1-claude:latest,Event_who,Strict,0.250,0.031,0.056,1,3,31,32,4
+H_INESS v. NORWAY (1),incept5/llama3.1-claude:latest,Event_when,Lenient,1.000,0.103,0.188,3,0,26,29,3
+H_INESS v. NORWAY (1),incept5/llama3.1-claude:latest,Event_when,Strict,1.000,0.103,0.188,3,0,26,29,3
+H_INESS v. NORWAY (1),incept5/llama3.1-claude:latest,Event_what,Lenient,0.500,0.029,0.054,1,1,34,35,2
+H_INESS v. NORWAY (1),incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,2,35,35,2
+H_INESS v. NORWAY (1),chevalblanc/claude-3-haiku:latest,Event,Lenient,0.667,0.129,0.216,4,2,27,31,6
+H_INESS v. NORWAY (1),chevalblanc/claude-3-haiku:latest,Event,Strict,0.333,0.065,0.108,2,4,29,31,6
+H_INESS v. NORWAY (1),chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,1,32,32,1
+H_INESS v. NORWAY (1),chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,1,32,32,1
+H_INESS v. NORWAY (1),chevalblanc/claude-3-haiku:latest,Event_when,Lenient,1.000,0.172,0.294,5,0,24,29,5
+H_INESS v. NORWAY (1),chevalblanc/claude-3-haiku:latest,Event_when,Strict,1.000,0.172,0.294,5,0,24,29,5
+H_INESS v. NORWAY (1),chevalblanc/claude-3-haiku:latest,Event_what,Lenient,1.000,0.029,0.056,1,0,34,35,1
+H_INESS v. NORWAY (1),chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,1,35,35,1
+H_INESS v. NORWAY (1),mixtral:8x7b,Event,Lenient,0.200,0.032,0.056,1,4,30,31,5
+H_INESS v. NORWAY (1),mixtral:8x7b,Event,Strict,0.200,0.032,0.056,1,4,30,31,5
+H_INESS v. NORWAY (1),mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,5,32,32,5
+H_INESS v. NORWAY (1),mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,5,32,32,5
+H_INESS v. NORWAY (1),mixtral:8x7b,Event_when,Lenient,1.000,0.034,0.067,1,0,28,29,1
+H_INESS v. NORWAY (1),mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,1,29,29,1
+H_INESS v. NORWAY (1),mixtral:8x7b,Event_what,Lenient,0.000,0.000,0.000,0,3,35,35,3
+H_INESS v. NORWAY (1),mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,3,35,35,3
+H_INESS v. NORWAY (1),dolphin3:8b,Event,Lenient,0.300,0.097,0.146,3,7,28,31,10
+H_INESS v. NORWAY (1),dolphin3:8b,Event,Strict,0.200,0.065,0.098,2,8,29,31,10
+H_INESS v. NORWAY (1),dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,4,32,32,4
+H_INESS v. NORWAY (1),dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,4,32,32,4
+H_INESS v. NORWAY (1),dolphin3:8b,Event_when,Lenient,1.000,0.103,0.188,3,0,26,29,3
+H_INESS v. NORWAY (1),dolphin3:8b,Event_when,Strict,1.000,0.103,0.188,3,0,26,29,3
+H_INESS v. NORWAY (1),dolphin3:8b,Event_what,Lenient,0.500,0.057,0.103,2,2,33,35,4
+H_INESS v. NORWAY (1),dolphin3:8b,Event_what,Strict,0.500,0.057,0.103,2,2,33,35,4
+SHVIDKIYE v. RUSSIA,gemma3:1b,Event,Lenient,0.263,0.227,0.244,5,14,17,22,19
+SHVIDKIYE v. RUSSIA,gemma3:1b,Event,Strict,0.211,0.182,0.195,4,15,18,22,19
+SHVIDKIYE v. RUSSIA,gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,8,22,22,8
+SHVIDKIYE v. RUSSIA,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,8,22,22,8
+SHVIDKIYE v. RUSSIA,gemma3:1b,Event_when,Lenient,0.000,0.000,0.000,0,1,20,20,1
+SHVIDKIYE v. RUSSIA,gemma3:1b,Event_when,Strict,0.000,0.000,0.000,0,1,20,20,1
+SHVIDKIYE v. RUSSIA,gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,0,27,27,0
+SHVIDKIYE v. RUSSIA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,0,27,27,0
+SHVIDKIYE v. RUSSIA,gemma3:4b,Event,Lenient,0.737,0.636,0.683,14,5,8,22,19
+SHVIDKIYE v. RUSSIA,gemma3:4b,Event,Strict,0.316,0.273,0.293,6,13,16,22,19
+SHVIDKIYE v. RUSSIA,gemma3:4b,Event_who,Lenient,0.000,0.000,0.000,0,2,22,22,2
+SHVIDKIYE v. RUSSIA,gemma3:4b,Event_who,Strict,0.000,0.000,0.000,0,2,22,22,2
+SHVIDKIYE v. RUSSIA,gemma3:4b,Event_when,Lenient,0.909,0.500,0.645,10,1,10,20,11
+SHVIDKIYE v. RUSSIA,gemma3:4b,Event_when,Strict,0.818,0.450,0.581,9,2,11,20,11
+SHVIDKIYE v. RUSSIA,gemma3:4b,Event_what,Lenient,0.600,0.111,0.188,3,2,24,27,5
+SHVIDKIYE v. RUSSIA,gemma3:4b,Event_what,Strict,0.200,0.037,0.062,1,4,26,27,5
+SHVIDKIYE v. RUSSIA,gemma3:12b,Event,Lenient,0.600,0.273,0.375,6,4,16,22,10
+SHVIDKIYE v. RUSSIA,gemma3:12b,Event,Strict,0.600,0.273,0.375,6,4,16,22,10
+SHVIDKIYE v. RUSSIA,gemma3:12b,Event_who,Lenient,0.375,0.136,0.200,3,5,19,22,8
+SHVIDKIYE v. RUSSIA,gemma3:12b,Event_who,Strict,0.125,0.045,0.067,1,7,21,22,8
+SHVIDKIYE v. RUSSIA,gemma3:12b,Event_when,Lenient,0.750,0.300,0.429,6,2,14,20,8
+SHVIDKIYE v. RUSSIA,gemma3:12b,Event_when,Strict,0.750,0.300,0.429,6,2,14,20,8
+SHVIDKIYE v. RUSSIA,gemma3:12b,Event_what,Lenient,0.556,0.185,0.278,5,4,22,27,9
+SHVIDKIYE v. RUSSIA,gemma3:12b,Event_what,Strict,0.111,0.037,0.056,1,8,26,27,9
+SHVIDKIYE v. RUSSIA,llama3.3:latest,Event,Lenient,0.000,0.000,0.000,0,0,22,22,0
+SHVIDKIYE v. RUSSIA,llama3.3:latest,Event,Strict,0.000,0.000,0.000,0,0,22,22,0
+SHVIDKIYE v. RUSSIA,llama3.3:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,22,22,0
+SHVIDKIYE v. RUSSIA,llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,0,22,22,0
+SHVIDKIYE v. RUSSIA,llama3.3:latest,Event_when,Lenient,0.000,0.000,0.000,0,0,20,20,0
+SHVIDKIYE v. RUSSIA,llama3.3:latest,Event_when,Strict,0.000,0.000,0.000,0,0,20,20,0
+SHVIDKIYE v. RUSSIA,llama3.3:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,27,27,0
+SHVIDKIYE v. RUSSIA,llama3.3:latest,Event_what,Strict,0.000,0.000,0.000,0,0,27,27,0
+SHVIDKIYE v. RUSSIA,deepseek-r1:8b,Event,Lenient,0.667,0.091,0.160,2,1,20,22,3
+SHVIDKIYE v. RUSSIA,deepseek-r1:8b,Event,Strict,0.333,0.045,0.080,1,2,21,22,3
+SHVIDKIYE v. RUSSIA,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,22,22,0
+SHVIDKIYE v. RUSSIA,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,0,22,22,0
+SHVIDKIYE v. RUSSIA,deepseek-r1:8b,Event_when,Lenient,0.500,0.050,0.091,1,1,19,20,2
+SHVIDKIYE v. RUSSIA,deepseek-r1:8b,Event_when,Strict,0.500,0.050,0.091,1,1,19,20,2
+SHVIDKIYE v. RUSSIA,deepseek-r1:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,27,27,0
+SHVIDKIYE v. RUSSIA,deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,0,27,27,0
+SHVIDKIYE v. RUSSIA,mistral:latest,Event,Lenient,0.467,0.636,0.538,14,16,8,22,30
+SHVIDKIYE v. RUSSIA,mistral:latest,Event,Strict,0.433,0.591,0.500,13,17,9,22,30
+SHVIDKIYE v. RUSSIA,mistral:latest,Event_who,Lenient,0.000,0.000,0.000,0,26,22,22,26
+SHVIDKIYE v. RUSSIA,mistral:latest,Event_who,Strict,0.000,0.000,0.000,0,26,22,22,26
+SHVIDKIYE v. RUSSIA,mistral:latest,Event_when,Lenient,0.632,0.600,0.615,12,7,8,20,19
+SHVIDKIYE v. RUSSIA,mistral:latest,Event_when,Strict,0.579,0.550,0.564,11,8,9,20,19
+SHVIDKIYE v. RUSSIA,mistral:latest,Event_what,Lenient,0.400,0.370,0.385,10,15,17,27,25
+SHVIDKIYE v. RUSSIA,mistral:latest,Event_what,Strict,0.080,0.074,0.077,2,23,25,27,25
+SHVIDKIYE v. RUSSIA,incept5/llama3.1-claude:latest,Event,Lenient,0.733,0.500,0.595,11,4,11,22,15
+SHVIDKIYE v. RUSSIA,incept5/llama3.1-claude:latest,Event,Strict,0.733,0.500,0.595,11,4,11,22,15
+SHVIDKIYE v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,8,22,22,8
+SHVIDKIYE v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,8,22,22,8
+SHVIDKIYE v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.917,0.550,0.687,11,1,9,20,12
+SHVIDKIYE v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Strict,0.833,0.500,0.625,10,2,10,20,12
+SHVIDKIYE v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Lenient,1.000,0.259,0.412,7,0,20,27,7
+SHVIDKIYE v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Strict,0.286,0.074,0.118,2,5,25,27,7
+SHVIDKIYE v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.750,0.136,0.231,3,1,19,22,4
+SHVIDKIYE v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Strict,0.750,0.136,0.231,3,1,19,22,4
+SHVIDKIYE v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,3,22,22,3
+SHVIDKIYE v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,3,22,22,3
+SHVIDKIYE v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,0.750,0.150,0.250,3,1,17,20,4
+SHVIDKIYE v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.750,0.150,0.250,3,1,17,20,4
+SHVIDKIYE v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,27,27,0
+SHVIDKIYE v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,0,27,27,0
+SHVIDKIYE v. RUSSIA,mixtral:8x7b,Event,Lenient,0.500,0.136,0.214,3,3,19,22,6
+SHVIDKIYE v. RUSSIA,mixtral:8x7b,Event,Strict,0.500,0.136,0.214,3,3,19,22,6
+SHVIDKIYE v. RUSSIA,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,3,22,22,3
+SHVIDKIYE v. RUSSIA,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,3,22,22,3
+SHVIDKIYE v. RUSSIA,mixtral:8x7b,Event_when,Lenient,0.750,0.150,0.250,3,1,17,20,4
+SHVIDKIYE v. RUSSIA,mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,4,20,20,4
+SHVIDKIYE v. RUSSIA,mixtral:8x7b,Event_what,Lenient,0.000,0.000,0.000,0,4,27,27,4
+SHVIDKIYE v. RUSSIA,mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,4,27,27,4
+SHVIDKIYE v. RUSSIA,dolphin3:8b,Event,Lenient,1.000,0.045,0.087,1,0,21,22,1
+SHVIDKIYE v. RUSSIA,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,1,22,22,1
+SHVIDKIYE v. RUSSIA,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,22,22,0
+SHVIDKIYE v. RUSSIA,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,22,22,0
+SHVIDKIYE v. RUSSIA,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,20,20,0
+SHVIDKIYE v. RUSSIA,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,20,20,0
+SHVIDKIYE v. RUSSIA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,27,27,0
+SHVIDKIYE v. RUSSIA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,27,27,0
+VISY v. SLOVAKIA,gemma3:1b,Event,Lenient,0.067,0.067,0.067,1,14,14,15,15
+VISY v. SLOVAKIA,gemma3:1b,Event,Strict,0.067,0.067,0.067,1,14,14,15,15
+VISY v. SLOVAKIA,gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,0,14,14,0
+VISY v. SLOVAKIA,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,0,14,14,0
+VISY v. SLOVAKIA,gemma3:1b,Event_when,Lenient,0.111,0.091,0.100,1,8,10,11,9
+VISY v. SLOVAKIA,gemma3:1b,Event_when,Strict,0.111,0.091,0.100,1,8,10,11,9
+VISY v. SLOVAKIA,gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,0,21,21,0
+VISY v. SLOVAKIA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,0,21,21,0
+VISY v. SLOVAKIA,gemma3:4b,Event,Lenient,0.081,0.333,0.130,5,57,10,15,62
+VISY v. SLOVAKIA,gemma3:4b,Event,Strict,0.032,0.133,0.052,2,60,13,15,62
+VISY v. SLOVAKIA,gemma3:4b,Event_who,Lenient,0.000,0.000,0.000,0,5,14,14,5
+VISY v. SLOVAKIA,gemma3:4b,Event_who,Strict,0.000,0.000,0.000,0,5,14,14,5
+VISY v. SLOVAKIA,gemma3:4b,Event_when,Lenient,0.054,0.273,0.090,3,53,8,11,56
+VISY v. SLOVAKIA,gemma3:4b,Event_when,Strict,0.054,0.273,0.090,3,53,8,11,56
+VISY v. SLOVAKIA,gemma3:4b,Event_what,Lenient,0.000,0.000,0.000,0,1,21,21,1
+VISY v. SLOVAKIA,gemma3:4b,Event_what,Strict,0.000,0.000,0.000,0,1,21,21,1
+VISY v. SLOVAKIA,gemma3:12b,Event,Lenient,0.778,0.467,0.583,7,2,8,15,9
+VISY v. SLOVAKIA,gemma3:12b,Event,Strict,0.556,0.333,0.417,5,4,10,15,9
+VISY v. SLOVAKIA,gemma3:12b,Event_who,Lenient,0.111,0.071,0.087,1,8,13,14,9
+VISY v. SLOVAKIA,gemma3:12b,Event_who,Strict,0.000,0.000,0.000,0,9,14,14,9
+VISY v. SLOVAKIA,gemma3:12b,Event_when,Lenient,0.375,0.273,0.316,3,5,8,11,8
+VISY v. SLOVAKIA,gemma3:12b,Event_when,Strict,0.375,0.273,0.316,3,5,8,11,8
+VISY v. SLOVAKIA,gemma3:12b,Event_what,Lenient,0.556,0.238,0.333,5,4,16,21,9
+VISY v. SLOVAKIA,gemma3:12b,Event_what,Strict,0.111,0.048,0.067,1,8,20,21,9
+VISY v. SLOVAKIA,llama3.3:latest,Event,Lenient,0.769,0.667,0.714,10,3,5,15,13
+VISY v. SLOVAKIA,llama3.3:latest,Event,Strict,0.231,0.200,0.214,3,10,12,15,13
+VISY v. SLOVAKIA,llama3.3:latest,Event_who,Lenient,0.231,0.214,0.222,3,10,11,14,13
+VISY v. SLOVAKIA,llama3.3:latest,Event_who,Strict,0.154,0.143,0.148,2,11,12,14,13
+VISY v. SLOVAKIA,llama3.3:latest,Event_when,Lenient,0.636,0.636,0.636,7,4,4,11,11
+VISY v. SLOVAKIA,llama3.3:latest,Event_when,Strict,0.636,0.636,0.636,7,4,4,11,11
+VISY v. SLOVAKIA,llama3.3:latest,Event_what,Lenient,0.000,0.000,0.000,0,1,21,21,1
+VISY v. SLOVAKIA,llama3.3:latest,Event_what,Strict,0.000,0.000,0.000,0,1,21,21,1
+VISY v. SLOVAKIA,deepseek-r1:8b,Event,Lenient,0.714,0.333,0.455,5,2,10,15,7
+VISY v. SLOVAKIA,deepseek-r1:8b,Event,Strict,0.571,0.267,0.364,4,3,11,15,7
+VISY v. SLOVAKIA,deepseek-r1:8b,Event_who,Lenient,1.000,0.071,0.133,1,0,13,14,1
+VISY v. SLOVAKIA,deepseek-r1:8b,Event_who,Strict,1.000,0.071,0.133,1,0,13,14,1
+VISY v. SLOVAKIA,deepseek-r1:8b,Event_when,Lenient,0.800,0.364,0.500,4,1,7,11,5
+VISY v. SLOVAKIA,deepseek-r1:8b,Event_when,Strict,0.800,0.364,0.500,4,1,7,11,5
+VISY v. SLOVAKIA,deepseek-r1:8b,Event_what,Lenient,0.500,0.095,0.160,2,2,19,21,4
+VISY v. SLOVAKIA,deepseek-r1:8b,Event_what,Strict,0.250,0.048,0.080,1,3,20,21,4
+VISY v. SLOVAKIA,mistral:latest,Event,Lenient,0.213,0.867,0.342,13,48,2,15,61
+VISY v. SLOVAKIA,mistral:latest,Event,Strict,0.164,0.667,0.263,10,51,5,15,61
+VISY v. SLOVAKIA,mistral:latest,Event_who,Lenient,0.054,0.143,0.078,2,35,12,14,37
+VISY v. SLOVAKIA,mistral:latest,Event_who,Strict,0.054,0.143,0.078,2,35,12,14,37
+VISY v. SLOVAKIA,mistral:latest,Event_when,Lenient,0.467,0.636,0.538,7,8,4,11,15
+VISY v. SLOVAKIA,mistral:latest,Event_when,Strict,0.467,0.636,0.538,7,8,4,11,15
+VISY v. SLOVAKIA,mistral:latest,Event_what,Lenient,0.190,0.190,0.190,4,17,17,21,21
+VISY v. SLOVAKIA,mistral:latest,Event_what,Strict,0.000,0.000,0.000,0,21,21,21,21
+VISY v. SLOVAKIA,incept5/llama3.1-claude:latest,Event,Lenient,0.500,0.400,0.444,6,6,9,15,12
+VISY v. SLOVAKIA,incept5/llama3.1-claude:latest,Event,Strict,0.333,0.267,0.296,4,8,11,15,12
+VISY v. SLOVAKIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.100,0.071,0.083,1,9,13,14,10
+VISY v. SLOVAKIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.100,0.071,0.083,1,9,13,14,10
+VISY v. SLOVAKIA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.250,0.182,0.211,2,6,9,11,8
+VISY v. SLOVAKIA,incept5/llama3.1-claude:latest,Event_when,Strict,0.250,0.182,0.211,2,6,9,11,8
+VISY v. SLOVAKIA,incept5/llama3.1-claude:latest,Event_what,Lenient,0.500,0.048,0.087,1,1,20,21,2
+VISY v. SLOVAKIA,incept5/llama3.1-claude:latest,Event_what,Strict,0.500,0.048,0.087,1,1,20,21,2
+VISY v. SLOVAKIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,1.000,0.133,0.235,2,0,13,15,2
+VISY v. SLOVAKIA,chevalblanc/claude-3-haiku:latest,Event,Strict,1.000,0.133,0.235,2,0,13,15,2
+VISY v. SLOVAKIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,1,14,14,1
+VISY v. SLOVAKIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,1,14,14,1
+VISY v. SLOVAKIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,1.000,0.182,0.308,2,0,9,11,2
+VISY v. SLOVAKIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,1.000,0.182,0.308,2,0,9,11,2
+VISY v. SLOVAKIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,1.000,0.048,0.091,1,0,20,21,1
+VISY v. SLOVAKIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,1.000,0.048,0.091,1,0,20,21,1
+VISY v. SLOVAKIA,mixtral:8x7b,Event,Lenient,0.500,0.467,0.483,7,7,8,15,14
+VISY v. SLOVAKIA,mixtral:8x7b,Event,Strict,0.429,0.400,0.414,6,8,9,15,14
+VISY v. SLOVAKIA,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,8,14,14,8
+VISY v. SLOVAKIA,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,8,14,14,8
+VISY v. SLOVAKIA,mixtral:8x7b,Event_when,Lenient,0.667,0.182,0.286,2,1,9,11,3
+VISY v. SLOVAKIA,mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,3,11,11,3
+VISY v. SLOVAKIA,mixtral:8x7b,Event_what,Lenient,0.375,0.143,0.207,3,5,18,21,8
+VISY v. SLOVAKIA,mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,8,21,21,8
+VISY v. SLOVAKIA,dolphin3:8b,Event,Lenient,0.500,0.267,0.348,4,4,11,15,8
+VISY v. SLOVAKIA,dolphin3:8b,Event,Strict,0.375,0.200,0.261,3,5,12,15,8
+VISY v. SLOVAKIA,dolphin3:8b,Event_who,Lenient,0.125,0.071,0.091,1,7,13,14,8
+VISY v. SLOVAKIA,dolphin3:8b,Event_who,Strict,0.125,0.071,0.091,1,7,13,14,8
+VISY v. SLOVAKIA,dolphin3:8b,Event_when,Lenient,0.667,0.182,0.286,2,1,9,11,3
+VISY v. SLOVAKIA,dolphin3:8b,Event_when,Strict,0.667,0.182,0.286,2,1,9,11,3
+VISY v. SLOVAKIA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,2,21,21,2
+VISY v. SLOVAKIA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,2,21,21,2
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:1b,Event,Lenient,0.250,0.333,0.286,4,12,8,12,16
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:1b,Event,Strict,0.062,0.083,0.071,1,15,11,12,16
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:1b,Event_who,Lenient,0.083,0.077,0.080,1,11,12,13,12
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,12,13,13,12
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:1b,Event_when,Lenient,0.188,0.300,0.231,3,13,7,10,16
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:1b,Event_when,Strict,0.188,0.300,0.231,3,13,7,10,16
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,1,15,15,1
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,1,15,15,1
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:4b,Event,Lenient,0.400,0.333,0.364,4,6,8,12,10
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:4b,Event,Strict,0.200,0.167,0.182,2,8,10,12,10
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:4b,Event_who,Lenient,0.100,0.077,0.087,1,9,12,13,10
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:4b,Event_who,Strict,0.100,0.077,0.087,1,9,12,13,10
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:4b,Event_when,Lenient,0.400,0.200,0.267,2,3,8,10,5
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:4b,Event_when,Strict,0.400,0.200,0.267,2,3,8,10,5
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:4b,Event_what,Lenient,0.286,0.133,0.182,2,5,13,15,7
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:4b,Event_what,Strict,0.143,0.067,0.091,1,6,14,15,7
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:12b,Event,Lenient,0.435,0.833,0.571,10,13,2,12,23
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:12b,Event,Strict,0.304,0.583,0.400,7,16,5,12,23
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:12b,Event_who,Lenient,0.261,0.462,0.333,6,17,7,13,23
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:12b,Event_who,Strict,0.261,0.462,0.333,6,17,7,13,23
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:12b,Event_when,Lenient,0.750,0.600,0.667,6,2,4,10,8
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:12b,Event_when,Strict,0.750,0.600,0.667,6,2,4,10,8
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:12b,Event_what,Lenient,0.227,0.333,0.270,5,17,10,15,22
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:12b,Event_what,Strict,0.000,0.000,0.000,0,22,15,15,22
+OTGON v. THE REPUBLIC OF MOLDOVA,llama3.3:latest,Event,Lenient,1.000,0.083,0.154,1,0,11,12,1
+OTGON v. THE REPUBLIC OF MOLDOVA,llama3.3:latest,Event,Strict,0.000,0.000,0.000,0,1,12,12,1
+OTGON v. THE REPUBLIC OF MOLDOVA,llama3.3:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,13,13,0
+OTGON v. THE REPUBLIC OF MOLDOVA,llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,0,13,13,0
+OTGON v. THE REPUBLIC OF MOLDOVA,llama3.3:latest,Event_when,Lenient,0.000,0.000,0.000,0,1,10,10,1
+OTGON v. THE REPUBLIC OF MOLDOVA,llama3.3:latest,Event_when,Strict,0.000,0.000,0.000,0,1,10,10,1
+OTGON v. THE REPUBLIC OF MOLDOVA,llama3.3:latest,Event_what,Lenient,0.000,0.000,0.000,0,1,15,15,1
+OTGON v. THE REPUBLIC OF MOLDOVA,llama3.3:latest,Event_what,Strict,0.000,0.000,0.000,0,1,15,15,1
+OTGON v. THE REPUBLIC OF MOLDOVA,deepseek-r1:8b,Event,Lenient,0.667,0.500,0.571,6,3,6,12,9
+OTGON v. THE REPUBLIC OF MOLDOVA,deepseek-r1:8b,Event,Strict,0.556,0.417,0.476,5,4,7,12,9
+OTGON v. THE REPUBLIC OF MOLDOVA,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,2,13,13,2
+OTGON v. THE REPUBLIC OF MOLDOVA,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,2,13,13,2
+OTGON v. THE REPUBLIC OF MOLDOVA,deepseek-r1:8b,Event_when,Lenient,0.800,0.400,0.533,4,1,6,10,5
+OTGON v. THE REPUBLIC OF MOLDOVA,deepseek-r1:8b,Event_when,Strict,0.800,0.400,0.533,4,1,6,10,5
+OTGON v. THE REPUBLIC OF MOLDOVA,deepseek-r1:8b,Event_what,Lenient,0.000,0.000,0.000,0,2,15,15,2
+OTGON v. THE REPUBLIC OF MOLDOVA,deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,2,15,15,2
+OTGON v. THE REPUBLIC OF MOLDOVA,mistral:latest,Event,Lenient,0.304,0.583,0.400,7,16,5,12,23
+OTGON v. THE REPUBLIC OF MOLDOVA,mistral:latest,Event,Strict,0.217,0.417,0.286,5,18,7,12,23
+OTGON v. THE REPUBLIC OF MOLDOVA,mistral:latest,Event_who,Lenient,0.211,0.308,0.250,4,15,9,13,19
+OTGON v. THE REPUBLIC OF MOLDOVA,mistral:latest,Event_who,Strict,0.000,0.000,0.000,0,19,13,13,19
+OTGON v. THE REPUBLIC OF MOLDOVA,mistral:latest,Event_when,Lenient,0.800,0.400,0.533,4,1,6,10,5
+OTGON v. THE REPUBLIC OF MOLDOVA,mistral:latest,Event_when,Strict,0.800,0.400,0.533,4,1,6,10,5
+OTGON v. THE REPUBLIC OF MOLDOVA,mistral:latest,Event_what,Lenient,0.417,0.333,0.370,5,7,10,15,12
+OTGON v. THE REPUBLIC OF MOLDOVA,mistral:latest,Event_what,Strict,0.250,0.200,0.222,3,9,12,15,12
+OTGON v. THE REPUBLIC OF MOLDOVA,incept5/llama3.1-claude:latest,Event,Lenient,1.000,0.083,0.154,1,0,11,12,1
+OTGON v. THE REPUBLIC OF MOLDOVA,incept5/llama3.1-claude:latest,Event,Strict,0.000,0.000,0.000,0,1,12,12,1
+OTGON v. THE REPUBLIC OF MOLDOVA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,1,13,13,1
+OTGON v. THE REPUBLIC OF MOLDOVA,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,1,13,13,1
+OTGON v. THE REPUBLIC OF MOLDOVA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.000,0.000,0.000,0,1,10,10,1
+OTGON v. THE REPUBLIC OF MOLDOVA,incept5/llama3.1-claude:latest,Event_when,Strict,0.000,0.000,0.000,0,1,10,10,1
+OTGON v. THE REPUBLIC OF MOLDOVA,incept5/llama3.1-claude:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+OTGON v. THE REPUBLIC OF MOLDOVA,incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+OTGON v. THE REPUBLIC OF MOLDOVA,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.600,0.250,0.353,3,2,9,12,5
+OTGON v. THE REPUBLIC OF MOLDOVA,chevalblanc/claude-3-haiku:latest,Event,Strict,0.400,0.167,0.235,2,3,10,12,5
+OTGON v. THE REPUBLIC OF MOLDOVA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.333,0.077,0.125,1,2,12,13,3
+OTGON v. THE REPUBLIC OF MOLDOVA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,3,13,13,3
+OTGON v. THE REPUBLIC OF MOLDOVA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,1.000,0.100,0.182,1,0,9,10,1
+OTGON v. THE REPUBLIC OF MOLDOVA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.000,0.000,0.000,0,1,10,10,1
+OTGON v. THE REPUBLIC OF MOLDOVA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+OTGON v. THE REPUBLIC OF MOLDOVA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+OTGON v. THE REPUBLIC OF MOLDOVA,mixtral:8x7b,Event,Lenient,0.714,0.417,0.526,5,2,7,12,7
+OTGON v. THE REPUBLIC OF MOLDOVA,mixtral:8x7b,Event,Strict,0.286,0.167,0.211,2,5,10,12,7
+OTGON v. THE REPUBLIC OF MOLDOVA,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,3,13,13,3
+OTGON v. THE REPUBLIC OF MOLDOVA,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,3,13,13,3
+OTGON v. THE REPUBLIC OF MOLDOVA,mixtral:8x7b,Event_when,Lenient,0.800,0.400,0.533,4,1,6,10,5
+OTGON v. THE REPUBLIC OF MOLDOVA,mixtral:8x7b,Event_when,Strict,0.800,0.400,0.533,4,1,6,10,5
+OTGON v. THE REPUBLIC OF MOLDOVA,mixtral:8x7b,Event_what,Lenient,0.000,0.000,0.000,0,1,15,15,1
+OTGON v. THE REPUBLIC OF MOLDOVA,mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,1,15,15,1
+OTGON v. THE REPUBLIC OF MOLDOVA,dolphin3:8b,Event,Lenient,1.000,0.083,0.154,1,0,11,12,1
+OTGON v. THE REPUBLIC OF MOLDOVA,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,1,12,12,1
+OTGON v. THE REPUBLIC OF MOLDOVA,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,13,13,0
+OTGON v. THE REPUBLIC OF MOLDOVA,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,13,13,0
+OTGON v. THE REPUBLIC OF MOLDOVA,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,10,10,0
+OTGON v. THE REPUBLIC OF MOLDOVA,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,10,10,0
+OTGON v. THE REPUBLIC OF MOLDOVA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+OTGON v. THE REPUBLIC OF MOLDOVA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+RESIN v. RUSSIA,gemma3:1b,Event,Lenient,0.385,0.312,0.345,5,8,11,16,13
+RESIN v. RUSSIA,gemma3:1b,Event,Strict,0.385,0.312,0.345,5,8,11,16,13
+RESIN v. RUSSIA,gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,9,16,16,9
+RESIN v. RUSSIA,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,9,16,16,9
+RESIN v. RUSSIA,gemma3:1b,Event_when,Lenient,0.300,0.214,0.250,3,7,11,14,10
+RESIN v. RUSSIA,gemma3:1b,Event_when,Strict,0.300,0.214,0.250,3,7,11,14,10
+RESIN v. RUSSIA,gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,1,22,22,1
+RESIN v. RUSSIA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,1,22,22,1
+RESIN v. RUSSIA,gemma3:4b,Event,Lenient,0.375,0.188,0.250,3,5,13,16,8
+RESIN v. RUSSIA,gemma3:4b,Event,Strict,0.125,0.062,0.083,1,7,15,16,8
+RESIN v. RUSSIA,gemma3:4b,Event_who,Lenient,0.000,0.000,0.000,0,8,16,16,8
+RESIN v. RUSSIA,gemma3:4b,Event_who,Strict,0.000,0.000,0.000,0,8,16,16,8
+RESIN v. RUSSIA,gemma3:4b,Event_when,Lenient,1.000,0.071,0.133,1,0,13,14,1
+RESIN v. RUSSIA,gemma3:4b,Event_when,Strict,1.000,0.071,0.133,1,0,13,14,1
+RESIN v. RUSSIA,gemma3:4b,Event_what,Lenient,0.143,0.045,0.069,1,6,21,22,7
+RESIN v. RUSSIA,gemma3:4b,Event_what,Strict,0.000,0.000,0.000,0,7,22,22,7
+RESIN v. RUSSIA,gemma3:12b,Event,Lenient,0.600,0.562,0.581,9,6,7,16,15
+RESIN v. RUSSIA,gemma3:12b,Event,Strict,0.200,0.188,0.194,3,12,13,16,15
+RESIN v. RUSSIA,gemma3:12b,Event_who,Lenient,0.133,0.125,0.129,2,13,14,16,15
+RESIN v. RUSSIA,gemma3:12b,Event_who,Strict,0.067,0.062,0.065,1,14,15,16,15
+RESIN v. RUSSIA,gemma3:12b,Event_when,Lenient,0.750,0.429,0.545,6,2,8,14,8
+RESIN v. RUSSIA,gemma3:12b,Event_when,Strict,0.500,0.286,0.364,4,4,10,14,8
+RESIN v. RUSSIA,gemma3:12b,Event_what,Lenient,0.429,0.273,0.333,6,8,16,22,14
+RESIN v. RUSSIA,gemma3:12b,Event_what,Strict,0.000,0.000,0.000,0,14,22,22,14
+RESIN v. RUSSIA,llama3.3:latest,Event,Lenient,0.579,0.688,0.629,11,8,5,16,19
+RESIN v. RUSSIA,llama3.3:latest,Event,Strict,0.526,0.625,0.571,10,9,6,16,19
+RESIN v. RUSSIA,llama3.3:latest,Event_who,Lenient,0.000,0.000,0.000,0,18,16,16,18
+RESIN v. RUSSIA,llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,18,16,16,18
+RESIN v. RUSSIA,llama3.3:latest,Event_when,Lenient,0.750,0.214,0.333,3,1,11,14,4
+RESIN v. RUSSIA,llama3.3:latest,Event_when,Strict,0.750,0.214,0.333,3,1,11,14,4
+RESIN v. RUSSIA,llama3.3:latest,Event_what,Lenient,0.750,0.136,0.231,3,1,19,22,4
+RESIN v. RUSSIA,llama3.3:latest,Event_what,Strict,0.000,0.000,0.000,0,4,22,22,4
+RESIN v. RUSSIA,deepseek-r1:8b,Event,Lenient,0.625,0.312,0.417,5,3,11,16,8
+RESIN v. RUSSIA,deepseek-r1:8b,Event,Strict,0.375,0.188,0.250,3,5,13,16,8
+RESIN v. RUSSIA,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,3,16,16,3
+RESIN v. RUSSIA,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,3,16,16,3
+RESIN v. RUSSIA,deepseek-r1:8b,Event_when,Lenient,0.667,0.143,0.235,2,1,12,14,3
+RESIN v. RUSSIA,deepseek-r1:8b,Event_when,Strict,0.333,0.071,0.118,1,2,13,14,3
+RESIN v. RUSSIA,deepseek-r1:8b,Event_what,Lenient,0.000,0.000,0.000,0,1,22,22,1
+RESIN v. RUSSIA,deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,1,22,22,1
+RESIN v. RUSSIA,mistral:latest,Event,Lenient,0.480,0.750,0.585,12,13,4,16,25
+RESIN v. RUSSIA,mistral:latest,Event,Strict,0.440,0.688,0.537,11,14,5,16,25
+RESIN v. RUSSIA,mistral:latest,Event_who,Lenient,0.000,0.000,0.000,0,18,16,16,18
+RESIN v. RUSSIA,mistral:latest,Event_who,Strict,0.000,0.000,0.000,0,18,16,16,18
+RESIN v. RUSSIA,mistral:latest,Event_when,Lenient,0.857,0.429,0.571,6,1,8,14,7
+RESIN v. RUSSIA,mistral:latest,Event_when,Strict,0.857,0.429,0.571,6,1,8,14,7
+RESIN v. RUSSIA,mistral:latest,Event_what,Lenient,0.429,0.136,0.207,3,4,19,22,7
+RESIN v. RUSSIA,mistral:latest,Event_what,Strict,0.429,0.136,0.207,3,4,19,22,7
+RESIN v. RUSSIA,incept5/llama3.1-claude:latest,Event,Lenient,0.619,0.812,0.703,13,8,3,16,21
+RESIN v. RUSSIA,incept5/llama3.1-claude:latest,Event,Strict,0.476,0.625,0.541,10,11,6,16,21
+RESIN v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,16,16,0
+RESIN v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,0,16,16,0
+RESIN v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.667,0.143,0.235,2,1,12,14,3
+RESIN v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Strict,0.667,0.143,0.235,2,1,12,14,3
+RESIN v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Lenient,0.200,0.045,0.074,1,4,21,22,5
+RESIN v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,5,22,22,5
+RESIN v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.750,0.375,0.500,6,2,10,16,8
+RESIN v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Strict,0.500,0.250,0.333,4,4,12,16,8
+RESIN v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,7,16,16,7
+RESIN v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,7,16,16,7
+RESIN v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,1.000,0.143,0.250,2,0,12,14,2
+RESIN v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.000,0.000,0.000,0,2,14,14,2
+RESIN v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.667,0.091,0.160,2,1,20,22,3
+RESIN v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,3,22,22,3
+RESIN v. RUSSIA,mixtral:8x7b,Event,Lenient,0.643,0.562,0.600,9,5,7,16,14
+RESIN v. RUSSIA,mixtral:8x7b,Event,Strict,0.571,0.500,0.533,8,6,8,16,14
+RESIN v. RUSSIA,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,13,16,16,13
+RESIN v. RUSSIA,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,13,16,16,13
+RESIN v. RUSSIA,mixtral:8x7b,Event_when,Lenient,0.857,0.429,0.571,6,1,8,14,7
+RESIN v. RUSSIA,mixtral:8x7b,Event_when,Strict,0.429,0.214,0.286,3,4,11,14,7
+RESIN v. RUSSIA,mixtral:8x7b,Event_what,Lenient,0.667,0.182,0.286,4,2,18,22,6
+RESIN v. RUSSIA,mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,6,22,22,6
+RESIN v. RUSSIA,dolphin3:8b,Event,Lenient,1.000,0.062,0.118,1,0,15,16,1
+RESIN v. RUSSIA,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,1,16,16,1
+RESIN v. RUSSIA,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,16,16,0
+RESIN v. RUSSIA,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,16,16,0
+RESIN v. RUSSIA,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,14,14,0
+RESIN v. RUSSIA,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,14,14,0
+RESIN v. RUSSIA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,22,22,0
+RESIN v. RUSSIA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,22,22,0
+DOKTOROV v. BULGARIA,gemma3:1b,Event,Lenient,0.429,0.750,0.545,9,12,3,12,21
+DOKTOROV v. BULGARIA,gemma3:1b,Event,Strict,0.333,0.583,0.424,7,14,5,12,21
+DOKTOROV v. BULGARIA,gemma3:1b,Event_who,Lenient,0.053,0.091,0.067,1,18,10,11,19
+DOKTOROV v. BULGARIA,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,19,11,11,19
+DOKTOROV v. BULGARIA,gemma3:1b,Event_when,Lenient,0.200,0.500,0.286,4,16,4,8,20
+DOKTOROV v. BULGARIA,gemma3:1b,Event_when,Strict,0.200,0.500,0.286,4,16,4,8,20
+DOKTOROV v. BULGARIA,gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+DOKTOROV v. BULGARIA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+DOKTOROV v. BULGARIA,gemma3:4b,Event,Lenient,0.545,0.500,0.522,6,5,6,12,11
+DOKTOROV v. BULGARIA,gemma3:4b,Event,Strict,0.182,0.167,0.174,2,9,10,12,11
+DOKTOROV v. BULGARIA,gemma3:4b,Event_who,Lenient,0.000,0.000,0.000,0,10,11,11,10
+DOKTOROV v. BULGARIA,gemma3:4b,Event_who,Strict,0.000,0.000,0.000,0,10,11,11,10
+DOKTOROV v. BULGARIA,gemma3:4b,Event_when,Lenient,0.500,0.375,0.429,3,3,5,8,6
+DOKTOROV v. BULGARIA,gemma3:4b,Event_when,Strict,0.500,0.375,0.429,3,3,5,8,6
+DOKTOROV v. BULGARIA,gemma3:4b,Event_what,Lenient,0.400,0.267,0.320,4,6,11,15,10
+DOKTOROV v. BULGARIA,gemma3:4b,Event_what,Strict,0.100,0.067,0.080,1,9,14,15,10
+DOKTOROV v. BULGARIA,gemma3:12b,Event,Lenient,0.400,0.167,0.235,2,3,10,12,5
+DOKTOROV v. BULGARIA,gemma3:12b,Event,Strict,0.200,0.083,0.118,1,4,11,12,5
+DOKTOROV v. BULGARIA,gemma3:12b,Event_who,Lenient,0.000,0.000,0.000,0,4,11,11,4
+DOKTOROV v. BULGARIA,gemma3:12b,Event_who,Strict,0.000,0.000,0.000,0,4,11,11,4
+DOKTOROV v. BULGARIA,gemma3:12b,Event_when,Lenient,0.200,0.125,0.154,1,4,7,8,5
+DOKTOROV v. BULGARIA,gemma3:12b,Event_when,Strict,0.200,0.125,0.154,1,4,7,8,5
+DOKTOROV v. BULGARIA,gemma3:12b,Event_what,Lenient,0.000,0.000,0.000,0,1,15,15,1
+DOKTOROV v. BULGARIA,gemma3:12b,Event_what,Strict,0.000,0.000,0.000,0,1,15,15,1
+DOKTOROV v. BULGARIA,llama3.3:latest,Event,Lenient,0.750,0.250,0.375,3,1,9,12,4
+DOKTOROV v. BULGARIA,llama3.3:latest,Event,Strict,0.500,0.167,0.250,2,2,10,12,4
+DOKTOROV v. BULGARIA,llama3.3:latest,Event_who,Lenient,0.000,0.000,0.000,0,3,11,11,3
+DOKTOROV v. BULGARIA,llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,3,11,11,3
+DOKTOROV v. BULGARIA,llama3.3:latest,Event_when,Lenient,0.500,0.250,0.333,2,2,6,8,4
+DOKTOROV v. BULGARIA,llama3.3:latest,Event_when,Strict,0.500,0.250,0.333,2,2,6,8,4
+DOKTOROV v. BULGARIA,llama3.3:latest,Event_what,Lenient,0.500,0.067,0.118,1,1,14,15,2
+DOKTOROV v. BULGARIA,llama3.3:latest,Event_what,Strict,0.500,0.067,0.118,1,1,14,15,2
+DOKTOROV v. BULGARIA,deepseek-r1:8b,Event,Lenient,0.529,0.750,0.621,9,8,3,12,17
+DOKTOROV v. BULGARIA,deepseek-r1:8b,Event,Strict,0.471,0.667,0.552,8,9,4,12,17
+DOKTOROV v. BULGARIA,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,6,11,11,6
+DOKTOROV v. BULGARIA,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,6,11,11,6
+DOKTOROV v. BULGARIA,deepseek-r1:8b,Event_when,Lenient,0.750,0.375,0.500,3,1,5,8,4
+DOKTOROV v. BULGARIA,deepseek-r1:8b,Event_when,Strict,0.000,0.000,0.000,0,4,8,8,4
+DOKTOROV v. BULGARIA,deepseek-r1:8b,Event_what,Lenient,1.000,0.133,0.235,2,0,13,15,2
+DOKTOROV v. BULGARIA,deepseek-r1:8b,Event_what,Strict,0.500,0.067,0.118,1,1,14,15,2
+DOKTOROV v. BULGARIA,mistral:latest,Event,Lenient,0.444,0.667,0.533,8,10,4,12,18
+DOKTOROV v. BULGARIA,mistral:latest,Event,Strict,0.444,0.667,0.533,8,10,4,12,18
+DOKTOROV v. BULGARIA,mistral:latest,Event_who,Lenient,0.091,0.091,0.091,1,10,10,11,11
+DOKTOROV v. BULGARIA,mistral:latest,Event_who,Strict,0.091,0.091,0.091,1,10,10,11,11
+DOKTOROV v. BULGARIA,mistral:latest,Event_when,Lenient,0.600,0.375,0.462,3,2,5,8,5
+DOKTOROV v. BULGARIA,mistral:latest,Event_when,Strict,0.600,0.375,0.462,3,2,5,8,5
+DOKTOROV v. BULGARIA,mistral:latest,Event_what,Lenient,0.417,0.333,0.370,5,7,10,15,12
+DOKTOROV v. BULGARIA,mistral:latest,Event_what,Strict,0.333,0.267,0.296,4,8,11,15,12
+DOKTOROV v. BULGARIA,incept5/llama3.1-claude:latest,Event,Lenient,0.000,0.000,0.000,0,0,12,12,0
+DOKTOROV v. BULGARIA,incept5/llama3.1-claude:latest,Event,Strict,0.000,0.000,0.000,0,0,12,12,0
+DOKTOROV v. BULGARIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,11,11,0
+DOKTOROV v. BULGARIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,0,11,11,0
+DOKTOROV v. BULGARIA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.000,0.000,0.000,0,0,8,8,0
+DOKTOROV v. BULGARIA,incept5/llama3.1-claude:latest,Event_when,Strict,0.000,0.000,0.000,0,0,8,8,0
+DOKTOROV v. BULGARIA,incept5/llama3.1-claude:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+DOKTOROV v. BULGARIA,incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+DOKTOROV v. BULGARIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.700,0.583,0.636,7,3,5,12,10
+DOKTOROV v. BULGARIA,chevalblanc/claude-3-haiku:latest,Event,Strict,0.600,0.500,0.545,6,4,6,12,10
+DOKTOROV v. BULGARIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,5,11,11,5
+DOKTOROV v. BULGARIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,5,11,11,5
+DOKTOROV v. BULGARIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,1.000,0.500,0.667,4,0,4,8,4
+DOKTOROV v. BULGARIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.000,0.000,0.000,0,4,8,8,4
+DOKTOROV v. BULGARIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.667,0.133,0.222,2,1,13,15,3
+DOKTOROV v. BULGARIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.333,0.067,0.111,1,2,14,15,3
+DOKTOROV v. BULGARIA,mixtral:8x7b,Event,Lenient,0.500,0.333,0.400,4,4,8,12,8
+DOKTOROV v. BULGARIA,mixtral:8x7b,Event,Strict,0.250,0.167,0.200,2,6,10,12,8
+DOKTOROV v. BULGARIA,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,1,11,11,1
+DOKTOROV v. BULGARIA,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,1,11,11,1
+DOKTOROV v. BULGARIA,mixtral:8x7b,Event_when,Lenient,1.000,0.125,0.222,1,0,7,8,1
+DOKTOROV v. BULGARIA,mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,1,8,8,1
+DOKTOROV v. BULGARIA,mixtral:8x7b,Event_what,Lenient,0.000,0.000,0.000,0,1,15,15,1
+DOKTOROV v. BULGARIA,mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,1,15,15,1
+DOKTOROV v. BULGARIA,dolphin3:8b,Event,Lenient,1.000,0.083,0.154,1,0,11,12,1
+DOKTOROV v. BULGARIA,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,1,12,12,1
+DOKTOROV v. BULGARIA,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,11,11,0
+DOKTOROV v. BULGARIA,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,11,11,0
+DOKTOROV v. BULGARIA,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,8,8,0
+DOKTOROV v. BULGARIA,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,8,8,0
+DOKTOROV v. BULGARIA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,15,15,0
+DOKTOROV v. BULGARIA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,15,15,0
+YAKUSHEV v. UKRAINE,gemma3:1b,Event,Lenient,0.500,0.417,0.455,5,5,7,12,10
+YAKUSHEV v. UKRAINE,gemma3:1b,Event,Strict,0.500,0.417,0.455,5,5,7,12,10
+YAKUSHEV v. UKRAINE,gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,10,11,11,10
+YAKUSHEV v. UKRAINE,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,10,11,11,10
+YAKUSHEV v. UKRAINE,gemma3:1b,Event_when,Lenient,0.000,0.000,0.000,0,0,10,10,0
+YAKUSHEV v. UKRAINE,gemma3:1b,Event_when,Strict,0.000,0.000,0.000,0,0,10,10,0
+YAKUSHEV v. UKRAINE,gemma3:1b,Event_what,Lenient,0.500,0.062,0.111,1,1,15,16,2
+YAKUSHEV v. UKRAINE,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,2,16,16,2
+YAKUSHEV v. UKRAINE,gemma3:4b,Event,Lenient,1.000,0.583,0.737,7,0,5,12,7
+YAKUSHEV v. UKRAINE,gemma3:4b,Event,Strict,0.143,0.083,0.105,1,6,11,12,7
+YAKUSHEV v. UKRAINE,gemma3:4b,Event_who,Lenient,0.167,0.091,0.118,1,5,10,11,6
+YAKUSHEV v. UKRAINE,gemma3:4b,Event_who,Strict,0.167,0.091,0.118,1,5,10,11,6
+YAKUSHEV v. UKRAINE,gemma3:4b,Event_when,Lenient,1.000,0.500,0.667,5,0,5,10,5
+YAKUSHEV v. UKRAINE,gemma3:4b,Event_when,Strict,1.000,0.500,0.667,5,0,5,10,5
+YAKUSHEV v. UKRAINE,gemma3:4b,Event_what,Lenient,0.714,0.312,0.435,5,2,11,16,7
+YAKUSHEV v. UKRAINE,gemma3:4b,Event_what,Strict,0.429,0.188,0.261,3,4,13,16,7
+YAKUSHEV v. UKRAINE,gemma3:12b,Event,Lenient,0.778,0.583,0.667,7,2,5,12,9
+YAKUSHEV v. UKRAINE,gemma3:12b,Event,Strict,0.556,0.417,0.476,5,4,7,12,9
+YAKUSHEV v. UKRAINE,gemma3:12b,Event_who,Lenient,0.222,0.182,0.200,2,7,9,11,9
+YAKUSHEV v. UKRAINE,gemma3:12b,Event_who,Strict,0.222,0.182,0.200,2,7,9,11,9
+YAKUSHEV v. UKRAINE,gemma3:12b,Event_when,Lenient,0.556,0.500,0.526,5,4,5,10,9
+YAKUSHEV v. UKRAINE,gemma3:12b,Event_when,Strict,0.556,0.500,0.526,5,4,5,10,9
+YAKUSHEV v. UKRAINE,gemma3:12b,Event_what,Lenient,0.750,0.188,0.300,3,1,13,16,4
+YAKUSHEV v. UKRAINE,gemma3:12b,Event_what,Strict,0.500,0.125,0.200,2,2,14,16,4
+YAKUSHEV v. UKRAINE,llama3.3:latest,Event,Lenient,0.889,0.667,0.762,8,1,4,12,9
+YAKUSHEV v. UKRAINE,llama3.3:latest,Event,Strict,0.778,0.583,0.667,7,2,5,12,9
+YAKUSHEV v. UKRAINE,llama3.3:latest,Event_who,Lenient,0.444,0.364,0.400,4,5,7,11,9
+YAKUSHEV v. UKRAINE,llama3.3:latest,Event_who,Strict,0.111,0.091,0.100,1,8,10,11,9
+YAKUSHEV v. UKRAINE,llama3.3:latest,Event_when,Lenient,0.875,0.700,0.778,7,1,3,10,8
+YAKUSHEV v. UKRAINE,llama3.3:latest,Event_when,Strict,0.875,0.700,0.778,7,1,3,10,8
+YAKUSHEV v. UKRAINE,llama3.3:latest,Event_what,Lenient,0.857,0.375,0.522,6,1,10,16,7
+YAKUSHEV v. UKRAINE,llama3.3:latest,Event_what,Strict,0.429,0.188,0.261,3,4,13,16,7
+YAKUSHEV v. UKRAINE,deepseek-r1:8b,Event,Lenient,0.000,0.000,0.000,0,2,12,12,2
+YAKUSHEV v. UKRAINE,deepseek-r1:8b,Event,Strict,0.000,0.000,0.000,0,2,12,12,2
+YAKUSHEV v. UKRAINE,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,1,11,11,1
+YAKUSHEV v. UKRAINE,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,1,11,11,1
+YAKUSHEV v. UKRAINE,deepseek-r1:8b,Event_when,Lenient,0.000,0.000,0.000,0,1,10,10,1
+YAKUSHEV v. UKRAINE,deepseek-r1:8b,Event_when,Strict,0.000,0.000,0.000,0,1,10,10,1
+YAKUSHEV v. UKRAINE,deepseek-r1:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,16,16,0
+YAKUSHEV v. UKRAINE,deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,0,16,16,0
+YAKUSHEV v. UKRAINE,mistral:latest,Event,Lenient,0.833,0.833,0.833,10,2,2,12,12
+YAKUSHEV v. UKRAINE,mistral:latest,Event,Strict,0.667,0.667,0.667,8,4,4,12,12
+YAKUSHEV v. UKRAINE,mistral:latest,Event_who,Lenient,0.182,0.182,0.182,2,9,9,11,11
+YAKUSHEV v. UKRAINE,mistral:latest,Event_who,Strict,0.182,0.182,0.182,2,9,9,11,11
+YAKUSHEV v. UKRAINE,mistral:latest,Event_when,Lenient,0.857,0.600,0.706,6,1,4,10,7
+YAKUSHEV v. UKRAINE,mistral:latest,Event_when,Strict,0.857,0.600,0.706,6,1,4,10,7
+YAKUSHEV v. UKRAINE,mistral:latest,Event_what,Lenient,1.000,0.312,0.476,5,0,11,16,5
+YAKUSHEV v. UKRAINE,mistral:latest,Event_what,Strict,0.200,0.062,0.095,1,4,15,16,5
+YAKUSHEV v. UKRAINE,incept5/llama3.1-claude:latest,Event,Lenient,0.000,0.000,0.000,0,0,12,12,0
+YAKUSHEV v. UKRAINE,incept5/llama3.1-claude:latest,Event,Strict,0.000,0.000,0.000,0,0,12,12,0
+YAKUSHEV v. UKRAINE,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,11,11,0
+YAKUSHEV v. UKRAINE,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,0,11,11,0
+YAKUSHEV v. UKRAINE,incept5/llama3.1-claude:latest,Event_when,Lenient,0.000,0.000,0.000,0,0,10,10,0
+YAKUSHEV v. UKRAINE,incept5/llama3.1-claude:latest,Event_when,Strict,0.000,0.000,0.000,0,0,10,10,0
+YAKUSHEV v. UKRAINE,incept5/llama3.1-claude:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,16,16,0
+YAKUSHEV v. UKRAINE,incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,0,16,16,0
+YAKUSHEV v. UKRAINE,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.750,0.250,0.375,3,1,9,12,4
+YAKUSHEV v. UKRAINE,chevalblanc/claude-3-haiku:latest,Event,Strict,0.750,0.250,0.375,3,1,9,12,4
+YAKUSHEV v. UKRAINE,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,1,11,11,1
+YAKUSHEV v. UKRAINE,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,1,11,11,1
+YAKUSHEV v. UKRAINE,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,0.750,0.300,0.429,3,1,7,10,4
+YAKUSHEV v. UKRAINE,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.750,0.300,0.429,3,1,7,10,4
+YAKUSHEV v. UKRAINE,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,1.000,0.125,0.222,2,0,14,16,2
+YAKUSHEV v. UKRAINE,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.500,0.062,0.111,1,1,15,16,2
+YAKUSHEV v. UKRAINE,mixtral:8x7b,Event,Lenient,0.000,0.000,0.000,0,1,12,12,1
+YAKUSHEV v. UKRAINE,mixtral:8x7b,Event,Strict,0.000,0.000,0.000,0,1,12,12,1
+YAKUSHEV v. UKRAINE,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,0,11,11,0
+YAKUSHEV v. UKRAINE,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,0,11,11,0
+YAKUSHEV v. UKRAINE,mixtral:8x7b,Event_when,Lenient,0.000,0.000,0.000,0,1,10,10,1
+YAKUSHEV v. UKRAINE,mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,1,10,10,1
+YAKUSHEV v. UKRAINE,mixtral:8x7b,Event_what,Lenient,0.000,0.000,0.000,0,0,16,16,0
+YAKUSHEV v. UKRAINE,mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,0,16,16,0
+YAKUSHEV v. UKRAINE,dolphin3:8b,Event,Lenient,1.000,0.083,0.154,1,0,11,12,1
+YAKUSHEV v. UKRAINE,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,1,12,12,1
+YAKUSHEV v. UKRAINE,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,11,11,0
+YAKUSHEV v. UKRAINE,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,11,11,0
+YAKUSHEV v. UKRAINE,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,10,10,0
+YAKUSHEV v. UKRAINE,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,10,10,0
+YAKUSHEV v. UKRAINE,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,16,16,0
+YAKUSHEV v. UKRAINE,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,16,16,0
+STANA v. ROMANIA,gemma3:1b,Event,Lenient,0.455,0.833,0.588,5,6,1,6,11
+STANA v. ROMANIA,gemma3:1b,Event,Strict,0.364,0.667,0.471,4,7,2,6,11
+STANA v. ROMANIA,gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,7,6,6,7
+STANA v. ROMANIA,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,7,6,6,7
+STANA v. ROMANIA,gemma3:1b,Event_when,Lenient,1.000,0.250,0.400,1,0,3,4,1
+STANA v. ROMANIA,gemma3:1b,Event_when,Strict,1.000,0.250,0.400,1,0,3,4,1
+STANA v. ROMANIA,gemma3:1b,Event_what,Lenient,0.400,0.364,0.381,4,6,7,11,10
+STANA v. ROMANIA,gemma3:1b,Event_what,Strict,0.100,0.091,0.095,1,9,10,11,10
+STANA v. ROMANIA,gemma3:4b,Event,Lenient,0.600,0.500,0.545,3,2,3,6,5
+STANA v. ROMANIA,gemma3:4b,Event,Strict,0.400,0.333,0.364,2,3,4,6,5
+STANA v. ROMANIA,gemma3:4b,Event_who,Lenient,0.000,0.000,0.000,0,4,6,6,4
+STANA v. ROMANIA,gemma3:4b,Event_who,Strict,0.000,0.000,0.000,0,4,6,6,4
+STANA v. ROMANIA,gemma3:4b,Event_when,Lenient,0.667,0.500,0.571,2,1,2,4,3
+STANA v. ROMANIA,gemma3:4b,Event_when,Strict,0.667,0.500,0.571,2,1,2,4,3
+STANA v. ROMANIA,gemma3:4b,Event_what,Lenient,0.333,0.091,0.143,1,2,10,11,3
+STANA v. ROMANIA,gemma3:4b,Event_what,Strict,0.000,0.000,0.000,0,3,11,11,3
+STANA v. ROMANIA,gemma3:12b,Event,Lenient,0.444,0.667,0.533,4,5,2,6,9
+STANA v. ROMANIA,gemma3:12b,Event,Strict,0.222,0.333,0.267,2,7,4,6,9
+STANA v. ROMANIA,gemma3:12b,Event_who,Lenient,0.222,0.333,0.267,2,7,4,6,9
+STANA v. ROMANIA,gemma3:12b,Event_who,Strict,0.111,0.167,0.133,1,8,5,6,9
+STANA v. ROMANIA,gemma3:12b,Event_when,Lenient,0.600,0.750,0.667,3,2,1,4,5
+STANA v. ROMANIA,gemma3:12b,Event_when,Strict,0.600,0.750,0.667,3,2,1,4,5
+STANA v. ROMANIA,gemma3:12b,Event_what,Lenient,0.750,0.273,0.400,3,1,8,11,4
+STANA v. ROMANIA,gemma3:12b,Event_what,Strict,0.250,0.091,0.133,1,3,10,11,4
+STANA v. ROMANIA,llama3.3:latest,Event,Lenient,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,llama3.3:latest,Event,Strict,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,llama3.3:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,llama3.3:latest,Event_when,Lenient,0.000,0.000,0.000,0,0,4,4,0
+STANA v. ROMANIA,llama3.3:latest,Event_when,Strict,0.000,0.000,0.000,0,0,4,4,0
+STANA v. ROMANIA,llama3.3:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,11,11,0
+STANA v. ROMANIA,llama3.3:latest,Event_what,Strict,0.000,0.000,0.000,0,0,11,11,0
+STANA v. ROMANIA,deepseek-r1:8b,Event,Lenient,1.000,0.833,0.909,5,0,1,6,5
+STANA v. ROMANIA,deepseek-r1:8b,Event,Strict,0.800,0.667,0.727,4,1,2,6,5
+STANA v. ROMANIA,deepseek-r1:8b,Event_who,Lenient,0.250,0.167,0.200,1,3,5,6,4
+STANA v. ROMANIA,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,4,6,6,4
+STANA v. ROMANIA,deepseek-r1:8b,Event_when,Lenient,1.000,0.750,0.857,3,0,1,4,3
+STANA v. ROMANIA,deepseek-r1:8b,Event_when,Strict,1.000,0.750,0.857,3,0,1,4,3
+STANA v. ROMANIA,deepseek-r1:8b,Event_what,Lenient,1.000,0.273,0.429,3,0,8,11,3
+STANA v. ROMANIA,deepseek-r1:8b,Event_what,Strict,0.667,0.182,0.286,2,1,9,11,3
+STANA v. ROMANIA,mistral:latest,Event,Lenient,0.294,0.833,0.435,5,12,1,6,17
+STANA v. ROMANIA,mistral:latest,Event,Strict,0.176,0.500,0.261,3,14,3,6,17
+STANA v. ROMANIA,mistral:latest,Event_who,Lenient,0.125,0.167,0.143,1,7,5,6,8
+STANA v. ROMANIA,mistral:latest,Event_who,Strict,0.000,0.000,0.000,0,8,6,6,8
+STANA v. ROMANIA,mistral:latest,Event_when,Lenient,0.333,0.250,0.286,1,2,3,4,3
+STANA v. ROMANIA,mistral:latest,Event_when,Strict,0.333,0.250,0.286,1,2,3,4,3
+STANA v. ROMANIA,mistral:latest,Event_what,Lenient,0.333,0.273,0.300,3,6,8,11,9
+STANA v. ROMANIA,mistral:latest,Event_what,Strict,0.111,0.091,0.100,1,8,10,11,9
+STANA v. ROMANIA,incept5/llama3.1-claude:latest,Event,Lenient,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,incept5/llama3.1-claude:latest,Event,Strict,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.000,0.000,0.000,0,0,4,4,0
+STANA v. ROMANIA,incept5/llama3.1-claude:latest,Event_when,Strict,0.000,0.000,0.000,0,0,4,4,0
+STANA v. ROMANIA,incept5/llama3.1-claude:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,11,11,0
+STANA v. ROMANIA,incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,0,11,11,0
+STANA v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,1.000,0.333,0.500,2,0,4,6,2
+STANA v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event,Strict,1.000,0.333,0.500,2,0,4,6,2
+STANA v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,1,6,6,1
+STANA v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,1,6,6,1
+STANA v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,0.500,0.250,0.333,1,1,3,4,2
+STANA v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.000,0.000,0.000,0,2,4,4,2
+STANA v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,11,11,0
+STANA v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,0,11,11,0
+STANA v. ROMANIA,mixtral:8x7b,Event,Lenient,0.429,0.500,0.462,3,4,3,6,7
+STANA v. ROMANIA,mixtral:8x7b,Event,Strict,0.286,0.333,0.308,2,5,4,6,7
+STANA v. ROMANIA,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,6,6,6,6
+STANA v. ROMANIA,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,6,6,6,6
+STANA v. ROMANIA,mixtral:8x7b,Event_when,Lenient,0.750,0.750,0.750,3,1,1,4,4
+STANA v. ROMANIA,mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,4,4,4,4
+STANA v. ROMANIA,mixtral:8x7b,Event_what,Lenient,0.000,0.000,0.000,0,4,11,11,4
+STANA v. ROMANIA,mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,4,11,11,4
+STANA v. ROMANIA,dolphin3:8b,Event,Lenient,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,6,6,0
+STANA v. ROMANIA,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,4,4,0
+STANA v. ROMANIA,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,4,4,0
+STANA v. ROMANIA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,11,11,0
+STANA v. ROMANIA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,11,11,0
+_NODI v. HUNGARY,gemma3:1b,Event,Lenient,0.550,0.355,0.431,11,9,20,31,20
+_NODI v. HUNGARY,gemma3:1b,Event,Strict,0.400,0.258,0.314,8,12,23,31,20
+_NODI v. HUNGARY,gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,8,30,30,8
+_NODI v. HUNGARY,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,8,30,30,8
+_NODI v. HUNGARY,gemma3:1b,Event_when,Lenient,0.500,0.364,0.421,8,8,14,22,16
+_NODI v. HUNGARY,gemma3:1b,Event_when,Strict,0.500,0.364,0.421,8,8,14,22,16
+_NODI v. HUNGARY,gemma3:1b,Event_what,Lenient,1.000,0.025,0.049,1,0,39,40,1
+_NODI v. HUNGARY,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,1,40,40,1
+_NODI v. HUNGARY,gemma3:4b,Event,Lenient,0.684,0.419,0.520,13,6,18,31,19
+_NODI v. HUNGARY,gemma3:4b,Event,Strict,0.158,0.097,0.120,3,16,28,31,19
+_NODI v. HUNGARY,gemma3:4b,Event_who,Lenient,0.167,0.033,0.056,1,5,29,30,6
+_NODI v. HUNGARY,gemma3:4b,Event_who,Strict,0.167,0.033,0.056,1,5,29,30,6
+_NODI v. HUNGARY,gemma3:4b,Event_when,Lenient,0.750,0.273,0.400,6,2,16,22,8
+_NODI v. HUNGARY,gemma3:4b,Event_when,Strict,0.625,0.227,0.333,5,3,17,22,8
+_NODI v. HUNGARY,gemma3:4b,Event_what,Lenient,0.250,0.025,0.045,1,3,39,40,4
+_NODI v. HUNGARY,gemma3:4b,Event_what,Strict,0.000,0.000,0.000,0,4,40,40,4
+_NODI v. HUNGARY,gemma3:12b,Event,Lenient,0.688,0.355,0.468,11,5,20,31,16
+_NODI v. HUNGARY,gemma3:12b,Event,Strict,0.500,0.258,0.340,8,8,23,31,16
+_NODI v. HUNGARY,gemma3:12b,Event_who,Lenient,0.214,0.100,0.136,3,11,27,30,14
+_NODI v. HUNGARY,gemma3:12b,Event_who,Strict,0.143,0.067,0.091,2,12,28,30,14
+_NODI v. HUNGARY,gemma3:12b,Event_when,Lenient,0.833,0.455,0.588,10,2,12,22,12
+_NODI v. HUNGARY,gemma3:12b,Event_when,Strict,0.667,0.364,0.471,8,4,14,22,12
+_NODI v. HUNGARY,gemma3:12b,Event_what,Lenient,0.571,0.200,0.296,8,6,32,40,14
+_NODI v. HUNGARY,gemma3:12b,Event_what,Strict,0.286,0.100,0.148,4,10,36,40,14
+_NODI v. HUNGARY,llama3.3:latest,Event,Lenient,0.625,0.161,0.256,5,3,26,31,8
+_NODI v. HUNGARY,llama3.3:latest,Event,Strict,0.500,0.129,0.205,4,4,27,31,8
+_NODI v. HUNGARY,llama3.3:latest,Event_who,Lenient,0.600,0.100,0.171,3,2,27,30,5
+_NODI v. HUNGARY,llama3.3:latest,Event_who,Strict,0.400,0.067,0.114,2,3,28,30,5
+_NODI v. HUNGARY,llama3.3:latest,Event_when,Lenient,0.667,0.182,0.286,4,2,18,22,6
+_NODI v. HUNGARY,llama3.3:latest,Event_when,Strict,0.667,0.182,0.286,4,2,18,22,6
+_NODI v. HUNGARY,llama3.3:latest,Event_what,Lenient,0.625,0.125,0.208,5,3,35,40,8
+_NODI v. HUNGARY,llama3.3:latest,Event_what,Strict,0.500,0.100,0.167,4,4,36,40,8
+_NODI v. HUNGARY,deepseek-r1:8b,Event,Lenient,0.500,0.129,0.205,4,4,27,31,8
+_NODI v. HUNGARY,deepseek-r1:8b,Event,Strict,0.125,0.032,0.051,1,7,30,31,8
+_NODI v. HUNGARY,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,2,30,30,2
+_NODI v. HUNGARY,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,2,30,30,2
+_NODI v. HUNGARY,deepseek-r1:8b,Event_when,Lenient,0.667,0.182,0.286,4,2,18,22,6
+_NODI v. HUNGARY,deepseek-r1:8b,Event_when,Strict,0.667,0.182,0.286,4,2,18,22,6
+_NODI v. HUNGARY,deepseek-r1:8b,Event_what,Lenient,0.500,0.025,0.048,1,1,39,40,2
+_NODI v. HUNGARY,deepseek-r1:8b,Event_what,Strict,0.500,0.025,0.048,1,1,39,40,2
+_NODI v. HUNGARY,mistral:latest,Event,Lenient,0.595,0.710,0.647,22,15,9,31,37
+_NODI v. HUNGARY,mistral:latest,Event,Strict,0.514,0.613,0.559,19,18,12,31,37
+_NODI v. HUNGARY,mistral:latest,Event_who,Lenient,0.033,0.033,0.033,1,29,29,30,30
+_NODI v. HUNGARY,mistral:latest,Event_who,Strict,0.033,0.033,0.033,1,29,29,30,30
+_NODI v. HUNGARY,mistral:latest,Event_when,Lenient,0.579,0.500,0.537,11,8,11,22,19
+_NODI v. HUNGARY,mistral:latest,Event_when,Strict,0.474,0.409,0.439,9,10,13,22,19
+_NODI v. HUNGARY,mistral:latest,Event_what,Lenient,0.303,0.250,0.274,10,23,30,40,33
+_NODI v. HUNGARY,mistral:latest,Event_what,Strict,0.030,0.025,0.027,1,32,39,40,33
+_NODI v. HUNGARY,incept5/llama3.1-claude:latest,Event,Lenient,0.250,0.032,0.057,1,3,30,31,4
+_NODI v. HUNGARY,incept5/llama3.1-claude:latest,Event,Strict,0.000,0.000,0.000,0,4,31,31,4
+_NODI v. HUNGARY,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,4,30,30,4
+_NODI v. HUNGARY,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,4,30,30,4
+_NODI v. HUNGARY,incept5/llama3.1-claude:latest,Event_when,Lenient,0.000,0.000,0.000,0,1,22,22,1
+_NODI v. HUNGARY,incept5/llama3.1-claude:latest,Event_when,Strict,0.000,0.000,0.000,0,1,22,22,1
+_NODI v. HUNGARY,incept5/llama3.1-claude:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,40,40,0
+_NODI v. HUNGARY,incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,0,40,40,0
+_NODI v. HUNGARY,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.500,0.065,0.114,2,2,29,31,4
+_NODI v. HUNGARY,chevalblanc/claude-3-haiku:latest,Event,Strict,0.500,0.065,0.114,2,2,29,31,4
+_NODI v. HUNGARY,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,2,30,30,2
+_NODI v. HUNGARY,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,2,30,30,2
+_NODI v. HUNGARY,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,0.667,0.091,0.160,2,1,20,22,3
+_NODI v. HUNGARY,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.667,0.091,0.160,2,1,20,22,3
+_NODI v. HUNGARY,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,1.000,0.025,0.049,1,0,39,40,1
+_NODI v. HUNGARY,chevalblanc/claude-3-haiku:latest,Event_what,Strict,1.000,0.025,0.049,1,0,39,40,1
+_NODI v. HUNGARY,mixtral:8x7b,Event,Lenient,0.621,0.581,0.600,18,11,13,31,29
+_NODI v. HUNGARY,mixtral:8x7b,Event,Strict,0.448,0.419,0.433,13,16,18,31,29
+_NODI v. HUNGARY,mixtral:8x7b,Event_who,Lenient,0.133,0.067,0.089,2,13,28,30,15
+_NODI v. HUNGARY,mixtral:8x7b,Event_who,Strict,0.067,0.033,0.044,1,14,29,30,15
+_NODI v. HUNGARY,mixtral:8x7b,Event_when,Lenient,0.300,0.136,0.187,3,7,19,22,10
+_NODI v. HUNGARY,mixtral:8x7b,Event_when,Strict,0.100,0.045,0.063,1,9,21,22,10
+_NODI v. HUNGARY,mixtral:8x7b,Event_what,Lenient,0.583,0.175,0.269,7,5,33,40,12
+_NODI v. HUNGARY,mixtral:8x7b,Event_what,Strict,0.083,0.025,0.038,1,11,39,40,12
+_NODI v. HUNGARY,dolphin3:8b,Event,Lenient,1.000,0.032,0.062,1,0,30,31,1
+_NODI v. HUNGARY,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,1,31,31,1
+_NODI v. HUNGARY,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,30,30,0
+_NODI v. HUNGARY,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,30,30,0
+_NODI v. HUNGARY,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,22,22,0
+_NODI v. HUNGARY,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,22,22,0
+_NODI v. HUNGARY,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,1,40,40,1
+_NODI v. HUNGARY,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,1,40,40,1
+PAKHTUSOV v. RUSSIA,gemma3:1b,Event,Lenient,0.412,0.583,0.483,7,10,5,12,17
+PAKHTUSOV v. RUSSIA,gemma3:1b,Event,Strict,0.412,0.583,0.483,7,10,5,12,17
+PAKHTUSOV v. RUSSIA,gemma3:1b,Event_who,Lenient,0.154,0.167,0.160,2,11,10,12,13
+PAKHTUSOV v. RUSSIA,gemma3:1b,Event_who,Strict,0.077,0.083,0.080,1,12,11,12,13
+PAKHTUSOV v. RUSSIA,gemma3:1b,Event_when,Lenient,0.375,0.600,0.462,6,10,4,10,16
+PAKHTUSOV v. RUSSIA,gemma3:1b,Event_when,Strict,0.312,0.500,0.385,5,11,5,10,16
+PAKHTUSOV v. RUSSIA,gemma3:1b,Event_what,Lenient,0.250,0.062,0.100,1,3,15,16,4
+PAKHTUSOV v. RUSSIA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,4,16,16,4
+PAKHTUSOV v. RUSSIA,gemma3:4b,Event,Lenient,0.636,0.583,0.609,7,4,5,12,11
+PAKHTUSOV v. RUSSIA,gemma3:4b,Event,Strict,0.455,0.417,0.435,5,6,7,12,11
+PAKHTUSOV v. RUSSIA,gemma3:4b,Event_who,Lenient,0.364,0.333,0.348,4,7,8,12,11
+PAKHTUSOV v. RUSSIA,gemma3:4b,Event_who,Strict,0.273,0.250,0.261,3,8,9,12,11
+PAKHTUSOV v. RUSSIA,gemma3:4b,Event_when,Lenient,0.857,0.600,0.706,6,1,4,10,7
+PAKHTUSOV v. RUSSIA,gemma3:4b,Event_when,Strict,0.714,0.500,0.588,5,2,5,10,7
+PAKHTUSOV v. RUSSIA,gemma3:4b,Event_what,Lenient,0.600,0.375,0.462,6,4,10,16,10
+PAKHTUSOV v. RUSSIA,gemma3:4b,Event_what,Strict,0.500,0.312,0.385,5,5,11,16,10
+PAKHTUSOV v. RUSSIA,gemma3:12b,Event,Lenient,0.875,0.583,0.700,7,1,5,12,8
+PAKHTUSOV v. RUSSIA,gemma3:12b,Event,Strict,0.625,0.417,0.500,5,3,7,12,8
+PAKHTUSOV v. RUSSIA,gemma3:12b,Event_who,Lenient,0.750,0.500,0.600,6,2,6,12,8
+PAKHTUSOV v. RUSSIA,gemma3:12b,Event_who,Strict,0.625,0.417,0.500,5,3,7,12,8
+PAKHTUSOV v. RUSSIA,gemma3:12b,Event_when,Lenient,0.750,0.600,0.667,6,2,4,10,8
+PAKHTUSOV v. RUSSIA,gemma3:12b,Event_when,Strict,0.625,0.500,0.556,5,3,5,10,8
+PAKHTUSOV v. RUSSIA,gemma3:12b,Event_what,Lenient,0.800,0.250,0.381,4,1,12,16,5
+PAKHTUSOV v. RUSSIA,gemma3:12b,Event_what,Strict,0.200,0.062,0.095,1,4,15,16,5
+PAKHTUSOV v. RUSSIA,llama3.3:latest,Event,Lenient,0.000,0.000,0.000,0,0,12,12,0
+PAKHTUSOV v. RUSSIA,llama3.3:latest,Event,Strict,0.000,0.000,0.000,0,0,12,12,0
+PAKHTUSOV v. RUSSIA,llama3.3:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,12,12,0
+PAKHTUSOV v. RUSSIA,llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,0,12,12,0
+PAKHTUSOV v. RUSSIA,llama3.3:latest,Event_when,Lenient,0.000,0.000,0.000,0,0,10,10,0
+PAKHTUSOV v. RUSSIA,llama3.3:latest,Event_when,Strict,0.000,0.000,0.000,0,0,10,10,0
+PAKHTUSOV v. RUSSIA,llama3.3:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,16,16,0
+PAKHTUSOV v. RUSSIA,llama3.3:latest,Event_what,Strict,0.000,0.000,0.000,0,0,16,16,0
+PAKHTUSOV v. RUSSIA,deepseek-r1:8b,Event,Lenient,0.667,0.500,0.571,6,3,6,12,9
+PAKHTUSOV v. RUSSIA,deepseek-r1:8b,Event,Strict,0.444,0.333,0.381,4,5,8,12,9
+PAKHTUSOV v. RUSSIA,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,12,12,0
+PAKHTUSOV v. RUSSIA,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,0,12,12,0
+PAKHTUSOV v. RUSSIA,deepseek-r1:8b,Event_when,Lenient,0.667,0.200,0.308,2,1,8,10,3
+PAKHTUSOV v. RUSSIA,deepseek-r1:8b,Event_when,Strict,0.000,0.000,0.000,0,3,10,10,3
+PAKHTUSOV v. RUSSIA,deepseek-r1:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,16,16,0
+PAKHTUSOV v. RUSSIA,deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,0,16,16,0
+PAKHTUSOV v. RUSSIA,mistral:latest,Event,Lenient,0.323,0.833,0.465,10,21,2,12,31
+PAKHTUSOV v. RUSSIA,mistral:latest,Event,Strict,0.290,0.750,0.419,9,22,3,12,31
+PAKHTUSOV v. RUSSIA,mistral:latest,Event_who,Lenient,0.583,0.583,0.583,7,5,5,12,12
+PAKHTUSOV v. RUSSIA,mistral:latest,Event_who,Strict,0.417,0.417,0.417,5,7,7,12,12
+PAKHTUSOV v. RUSSIA,mistral:latest,Event_when,Lenient,0.556,0.500,0.526,5,4,5,10,9
+PAKHTUSOV v. RUSSIA,mistral:latest,Event_when,Strict,0.556,0.500,0.526,5,4,5,10,9
+PAKHTUSOV v. RUSSIA,mistral:latest,Event_what,Lenient,0.357,0.625,0.455,10,18,6,16,28
+PAKHTUSOV v. RUSSIA,mistral:latest,Event_what,Strict,0.250,0.438,0.318,7,21,9,16,28
+PAKHTUSOV v. RUSSIA,incept5/llama3.1-claude:latest,Event,Lenient,0.417,0.417,0.417,5,7,7,12,12
+PAKHTUSOV v. RUSSIA,incept5/llama3.1-claude:latest,Event,Strict,0.333,0.333,0.333,4,8,8,12,12
+PAKHTUSOV v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,12,12,0
+PAKHTUSOV v. RUSSIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,0,12,12,0
+PAKHTUSOV v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.500,0.300,0.375,3,3,7,10,6
+PAKHTUSOV v. RUSSIA,incept5/llama3.1-claude:latest,Event_when,Strict,0.333,0.200,0.250,2,4,8,10,6
+PAKHTUSOV v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Lenient,1.000,0.062,0.118,1,0,15,16,1
+PAKHTUSOV v. RUSSIA,incept5/llama3.1-claude:latest,Event_what,Strict,1.000,0.062,0.118,1,0,15,16,1
+PAKHTUSOV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.667,0.333,0.444,4,2,8,12,6
+PAKHTUSOV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event,Strict,0.500,0.250,0.333,3,3,9,12,6
+PAKHTUSOV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.500,0.083,0.143,1,1,11,12,2
+PAKHTUSOV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.500,0.083,0.143,1,1,11,12,2
+PAKHTUSOV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,0.750,0.300,0.429,3,1,7,10,4
+PAKHTUSOV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.750,0.300,0.429,3,1,7,10,4
+PAKHTUSOV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.667,0.125,0.211,2,1,14,16,3
+PAKHTUSOV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.333,0.062,0.105,1,2,15,16,3
+PAKHTUSOV v. RUSSIA,mixtral:8x7b,Event,Lenient,0.700,0.583,0.636,7,3,5,12,10
+PAKHTUSOV v. RUSSIA,mixtral:8x7b,Event,Strict,0.500,0.417,0.455,5,5,7,12,10
+PAKHTUSOV v. RUSSIA,mixtral:8x7b,Event_who,Lenient,0.600,0.250,0.353,3,2,9,12,5
+PAKHTUSOV v. RUSSIA,mixtral:8x7b,Event_who,Strict,0.200,0.083,0.118,1,4,11,12,5
+PAKHTUSOV v. RUSSIA,mixtral:8x7b,Event_when,Lenient,1.000,0.100,0.182,1,0,9,10,1
+PAKHTUSOV v. RUSSIA,mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,1,10,10,1
+PAKHTUSOV v. RUSSIA,mixtral:8x7b,Event_what,Lenient,0.000,0.000,0.000,0,0,16,16,0
+PAKHTUSOV v. RUSSIA,mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,0,16,16,0
+PAKHTUSOV v. RUSSIA,dolphin3:8b,Event,Lenient,1.000,0.083,0.154,1,0,11,12,1
+PAKHTUSOV v. RUSSIA,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,1,12,12,1
+PAKHTUSOV v. RUSSIA,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,12,12,0
+PAKHTUSOV v. RUSSIA,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,12,12,0
+PAKHTUSOV v. RUSSIA,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,10,10,0
+PAKHTUSOV v. RUSSIA,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,10,10,0
+PAKHTUSOV v. RUSSIA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,16,16,0
+PAKHTUSOV v. RUSSIA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,16,16,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:1b,Event,Lenient,0.250,0.054,0.089,2,6,35,37,8
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:1b,Event,Strict,0.250,0.054,0.089,2,6,35,37,8
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,4,37,37,4
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,4,37,37,4
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:1b,Event_when,Lenient,0.250,0.061,0.098,2,6,31,33,8
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:1b,Event_when,Strict,0.250,0.061,0.098,2,6,31,33,8
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,2,41,41,2
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,2,41,41,2
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:4b,Event,Lenient,0.214,0.081,0.118,3,11,34,37,14
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:4b,Event,Strict,0.000,0.000,0.000,0,14,37,37,14
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:4b,Event_who,Lenient,0.000,0.000,0.000,0,14,37,37,14
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:4b,Event_who,Strict,0.000,0.000,0.000,0,14,37,37,14
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:4b,Event_when,Lenient,0.000,0.000,0.000,0,0,33,33,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:4b,Event_when,Strict,0.000,0.000,0.000,0,0,33,33,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:4b,Event_what,Lenient,0.071,0.024,0.036,1,13,40,41,14
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:4b,Event_what,Strict,0.000,0.000,0.000,0,14,41,41,14
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:12b,Event,Lenient,1.000,0.081,0.150,3,0,34,37,3
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:12b,Event,Strict,1.000,0.081,0.150,3,0,34,37,3
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:12b,Event_who,Lenient,0.333,0.027,0.050,1,2,36,37,3
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:12b,Event_who,Strict,0.333,0.027,0.050,1,2,36,37,3
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:12b,Event_when,Lenient,1.000,0.091,0.167,3,0,30,33,3
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:12b,Event_when,Strict,1.000,0.091,0.167,3,0,30,33,3
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:12b,Event_what,Lenient,0.667,0.049,0.091,2,1,39,41,3
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:12b,Event_what,Strict,0.000,0.000,0.000,0,3,41,41,3
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,llama3.3:latest,Event,Lenient,1.000,0.054,0.103,2,0,35,37,2
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,llama3.3:latest,Event,Strict,1.000,0.054,0.103,2,0,35,37,2
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,llama3.3:latest,Event_who,Lenient,0.000,0.000,0.000,0,2,37,37,2
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,2,37,37,2
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,llama3.3:latest,Event_when,Lenient,1.000,0.061,0.114,2,0,31,33,2
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,llama3.3:latest,Event_when,Strict,1.000,0.061,0.114,2,0,31,33,2
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,llama3.3:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,41,41,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,llama3.3:latest,Event_what,Strict,0.000,0.000,0.000,0,0,41,41,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,deepseek-r1:8b,Event,Lenient,1.000,0.027,0.053,1,0,36,37,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,deepseek-r1:8b,Event,Strict,1.000,0.027,0.053,1,0,36,37,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,deepseek-r1:8b,Event_who,Lenient,1.000,0.027,0.053,1,0,36,37,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,deepseek-r1:8b,Event_who,Strict,1.000,0.027,0.053,1,0,36,37,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,deepseek-r1:8b,Event_when,Lenient,1.000,0.030,0.059,1,0,32,33,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,deepseek-r1:8b,Event_when,Strict,1.000,0.030,0.059,1,0,32,33,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,deepseek-r1:8b,Event_what,Lenient,1.000,0.024,0.048,1,0,40,41,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,deepseek-r1:8b,Event_what,Strict,1.000,0.024,0.048,1,0,40,41,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mistral:latest,Event,Lenient,0.294,0.405,0.341,15,36,22,37,51
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mistral:latest,Event,Strict,0.275,0.378,0.318,14,37,23,37,51
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mistral:latest,Event_who,Lenient,0.000,0.000,0.000,0,30,37,37,30
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mistral:latest,Event_who,Strict,0.000,0.000,0.000,0,30,37,37,30
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mistral:latest,Event_when,Lenient,0.647,0.333,0.440,11,6,22,33,17
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mistral:latest,Event_when,Strict,0.588,0.303,0.400,10,7,23,33,17
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mistral:latest,Event_what,Lenient,0.000,0.000,0.000,0,1,41,41,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mistral:latest,Event_what,Strict,0.000,0.000,0.000,0,1,41,41,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,incept5/llama3.1-claude:latest,Event,Lenient,0.143,0.027,0.045,1,6,36,37,7
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,incept5/llama3.1-claude:latest,Event,Strict,0.143,0.027,0.045,1,6,36,37,7
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,3,37,37,3
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,3,37,37,3
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,incept5/llama3.1-claude:latest,Event_when,Lenient,0.286,0.061,0.100,2,5,31,33,7
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,incept5/llama3.1-claude:latest,Event_when,Strict,0.286,0.061,0.100,2,5,31,33,7
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,incept5/llama3.1-claude:latest,Event_what,Lenient,0.200,0.024,0.043,1,4,40,41,5
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,incept5/llama3.1-claude:latest,Event_what,Strict,0.200,0.024,0.043,1,4,40,41,5
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.000,0.000,0.000,0,1,37,37,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,chevalblanc/claude-3-haiku:latest,Event,Strict,0.000,0.000,0.000,0,1,37,37,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,0,37,37,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,0,37,37,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,0.000,0.000,0.000,0,0,33,33,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.000,0.000,0.000,0,0,33,33,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,41,41,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,0,41,41,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mixtral:8x7b,Event,Lenient,0.250,0.027,0.049,1,3,36,37,4
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mixtral:8x7b,Event,Strict,0.250,0.027,0.049,1,3,36,37,4
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,2,37,37,2
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,2,37,37,2
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mixtral:8x7b,Event_when,Lenient,1.000,0.030,0.059,1,0,32,33,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mixtral:8x7b,Event_when,Strict,0.000,0.000,0.000,0,1,33,33,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mixtral:8x7b,Event_what,Lenient,0.000,0.000,0.000,0,0,41,41,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,0,41,41,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,dolphin3:8b,Event,Lenient,0.545,0.162,0.250,6,5,31,37,11
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,dolphin3:8b,Event,Strict,0.455,0.135,0.208,5,6,32,37,11
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,dolphin3:8b,Event_who,Lenient,0.111,0.027,0.043,1,8,36,37,9
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,dolphin3:8b,Event_who,Strict,0.111,0.027,0.043,1,8,36,37,9
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,dolphin3:8b,Event_when,Lenient,1.000,0.121,0.216,4,0,29,33,4
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,dolphin3:8b,Event_when,Strict,1.000,0.121,0.216,4,0,29,33,4
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,41,41,0
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,41,41,0
+S.V. v. ITALY,gemma3:1b,Event,Lenient,0.500,0.444,0.471,8,8,10,18,16
+S.V. v. ITALY,gemma3:1b,Event,Strict,0.375,0.333,0.353,6,10,12,18,16
+S.V. v. ITALY,gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,16,18,18,16
+S.V. v. ITALY,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,16,18,18,16
+S.V. v. ITALY,gemma3:1b,Event_when,Lenient,0.500,0.538,0.519,7,7,6,13,14
+S.V. v. ITALY,gemma3:1b,Event_when,Strict,0.500,0.538,0.519,7,7,6,13,14
+S.V. v. ITALY,gemma3:1b,Event_what,Lenient,0.375,0.120,0.182,3,5,22,25,8
+S.V. v. ITALY,gemma3:1b,Event_what,Strict,0.125,0.040,0.061,1,7,24,25,8
+S.V. v. ITALY,gemma3:4b,Event,Lenient,0.600,0.500,0.545,9,6,9,18,15
+S.V. v. ITALY,gemma3:4b,Event,Strict,0.333,0.278,0.303,5,10,13,18,15
+S.V. v. ITALY,gemma3:4b,Event_who,Lenient,0.000,0.000,0.000,0,15,18,18,15
+S.V. v. ITALY,gemma3:4b,Event_who,Strict,0.000,0.000,0.000,0,15,18,18,15
+S.V. v. ITALY,gemma3:4b,Event_when,Lenient,0.462,0.462,0.462,6,7,7,13,13
+S.V. v. ITALY,gemma3:4b,Event_when,Strict,0.462,0.462,0.462,6,7,7,13,13
+S.V. v. ITALY,gemma3:4b,Event_what,Lenient,0.400,0.080,0.133,2,3,23,25,5
+S.V. v. ITALY,gemma3:4b,Event_what,Strict,0.000,0.000,0.000,0,5,25,25,5
+S.V. v. ITALY,gemma3:12b,Event,Lenient,0.900,0.500,0.643,9,1,9,18,10
+S.V. v. ITALY,gemma3:12b,Event,Strict,0.800,0.444,0.571,8,2,10,18,10
+S.V. v. ITALY,gemma3:12b,Event_who,Lenient,0.000,0.000,0.000,0,10,18,18,10
+S.V. v. ITALY,gemma3:12b,Event_who,Strict,0.000,0.000,0.000,0,10,18,18,10
+S.V. v. ITALY,gemma3:12b,Event_when,Lenient,0.900,0.692,0.783,9,1,4,13,10
+S.V. v. ITALY,gemma3:12b,Event_when,Strict,0.800,0.615,0.696,8,2,5,13,10
+S.V. v. ITALY,gemma3:12b,Event_what,Lenient,0.600,0.240,0.343,6,4,19,25,10
+S.V. v. ITALY,gemma3:12b,Event_what,Strict,0.000,0.000,0.000,0,10,25,25,10
+S.V. v. ITALY,llama3.3:latest,Event,Lenient,0.900,0.500,0.643,9,1,9,18,10
+S.V. v. ITALY,llama3.3:latest,Event,Strict,0.800,0.444,0.571,8,2,10,18,10
+S.V. v. ITALY,llama3.3:latest,Event_who,Lenient,0.125,0.056,0.077,1,7,17,18,8
+S.V. v. ITALY,llama3.3:latest,Event_who,Strict,0.125,0.056,0.077,1,7,17,18,8
+S.V. v. ITALY,llama3.3:latest,Event_when,Lenient,0.714,0.385,0.500,5,2,8,13,7
+S.V. v. ITALY,llama3.3:latest,Event_when,Strict,0.714,0.385,0.500,5,2,8,13,7
+S.V. v. ITALY,llama3.3:latest,Event_what,Lenient,0.889,0.320,0.471,8,1,17,25,9
+S.V. v. ITALY,llama3.3:latest,Event_what,Strict,0.889,0.320,0.471,8,1,17,25,9
+S.V. v. ITALY,deepseek-r1:8b,Event,Lenient,0.625,0.556,0.588,10,6,8,18,16
+S.V. v. ITALY,deepseek-r1:8b,Event,Strict,0.500,0.444,0.471,8,8,10,18,16
+S.V. v. ITALY,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,3,18,18,3
+S.V. v. ITALY,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,3,18,18,3
+S.V. v. ITALY,deepseek-r1:8b,Event_when,Lenient,0.700,0.538,0.609,7,3,6,13,10
+S.V. v. ITALY,deepseek-r1:8b,Event_when,Strict,0.700,0.538,0.609,7,3,6,13,10
+S.V. v. ITALY,deepseek-r1:8b,Event_what,Lenient,0.667,0.080,0.143,2,1,23,25,3
+S.V. v. ITALY,deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,3,25,25,3
+S.V. v. ITALY,mistral:latest,Event,Lenient,0.360,0.500,0.419,9,16,9,18,25
+S.V. v. ITALY,mistral:latest,Event,Strict,0.240,0.333,0.279,6,19,12,18,25
+S.V. v. ITALY,mistral:latest,Event_who,Lenient,0.000,0.000,0.000,0,15,18,18,15
+S.V. v. ITALY,mistral:latest,Event_who,Strict,0.000,0.000,0.000,0,15,18,18,15
+S.V. v. ITALY,mistral:latest,Event_when,Lenient,0.667,0.462,0.545,6,3,7,13,9
+S.V. v. ITALY,mistral:latest,Event_when,Strict,0.667,0.462,0.545,6,3,7,13,9
+S.V. v. ITALY,mistral:latest,Event_what,Lenient,0.500,0.080,0.138,2,2,23,25,4
+S.V. v. ITALY,mistral:latest,Event_what,Strict,0.250,0.040,0.069,1,3,24,25,4
+S.V. v. ITALY,incept5/llama3.1-claude:latest,Event,Lenient,0.765,0.722,0.743,13,4,5,18,17
+S.V. v. ITALY,incept5/llama3.1-claude:latest,Event,Strict,0.588,0.556,0.571,10,7,8,18,17
+S.V. v. ITALY,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,12,18,18,12
+S.V. v. ITALY,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,12,18,18,12
+S.V. v. ITALY,incept5/llama3.1-claude:latest,Event_when,Lenient,0.727,0.615,0.667,8,3,5,13,11
+S.V. v. ITALY,incept5/llama3.1-claude:latest,Event_when,Strict,0.727,0.615,0.667,8,3,5,13,11
+S.V. v. ITALY,incept5/llama3.1-claude:latest,Event_what,Lenient,0.700,0.280,0.400,7,3,18,25,10
+S.V. v. ITALY,incept5/llama3.1-claude:latest,Event_what,Strict,0.400,0.160,0.229,4,6,21,25,10
+S.V. v. ITALY,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.667,0.333,0.444,6,3,12,18,9
+S.V. v. ITALY,chevalblanc/claude-3-haiku:latest,Event,Strict,0.556,0.278,0.370,5,4,13,18,9
+S.V. v. ITALY,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,3,18,18,3
+S.V. v. ITALY,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,3,18,18,3
+S.V. v. ITALY,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,0.857,0.462,0.600,6,1,7,13,7
+S.V. v. ITALY,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.857,0.462,0.600,6,1,7,13,7
+S.V. v. ITALY,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,25,25,0
+S.V. v. ITALY,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,0,25,25,0
+S.V. v. ITALY,mixtral:8x7b,Event,Lenient,0.571,0.222,0.320,4,3,14,18,7
+S.V. v. ITALY,mixtral:8x7b,Event,Strict,0.571,0.222,0.320,4,3,14,18,7
+S.V. v. ITALY,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,7,18,18,7
+S.V. v. ITALY,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,7,18,18,7
+S.V. v. ITALY,mixtral:8x7b,Event_when,Lenient,0.400,0.154,0.222,2,3,11,13,5
+S.V. v. ITALY,mixtral:8x7b,Event_when,Strict,0.400,0.154,0.222,2,3,11,13,5
+S.V. v. ITALY,mixtral:8x7b,Event_what,Lenient,0.400,0.080,0.133,2,3,23,25,5
+S.V. v. ITALY,mixtral:8x7b,Event_what,Strict,0.000,0.000,0.000,0,5,25,25,5
+S.V. v. ITALY,dolphin3:8b,Event,Lenient,0.571,0.667,0.615,12,9,6,18,21
+S.V. v. ITALY,dolphin3:8b,Event,Strict,0.476,0.556,0.513,10,11,8,18,21
+S.V. v. ITALY,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,18,18,0
+S.V. v. ITALY,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,18,18,0
+S.V. v. ITALY,dolphin3:8b,Event_when,Lenient,0.889,0.615,0.727,8,1,5,13,9
+S.V. v. ITALY,dolphin3:8b,Event_when,Strict,0.889,0.615,0.727,8,1,5,13,9
+S.V. v. ITALY,dolphin3:8b,Event_what,Lenient,0.750,0.240,0.364,6,2,19,25,8
+S.V. v. ITALY,dolphin3:8b,Event_what,Strict,0.625,0.200,0.303,5,3,20,25,8
+CAN v. TURKEY,gemma3:1b,Event,Lenient,0.700,0.467,0.560,7,3,8,15,10
+CAN v. TURKEY,gemma3:1b,Event,Strict,0.600,0.400,0.480,6,4,9,15,10
+CAN v. TURKEY,gemma3:1b,Event_who,Lenient,0.500,0.067,0.118,1,1,14,15,2
+CAN v. TURKEY,gemma3:1b,Event_who,Strict,0.500,0.067,0.118,1,1,14,15,2
+CAN v. TURKEY,gemma3:1b,Event_when,Lenient,0.000,0.000,0.000,0,0,15,15,0
+CAN v. TURKEY,gemma3:1b,Event_when,Strict,0.000,0.000,0.000,0,0,15,15,0
+CAN v. TURKEY,gemma3:1b,Event_what,Lenient,0.667,0.105,0.182,2,1,17,19,3
+CAN v. TURKEY,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,3,19,19,3
+CAN v. TURKEY,gemma3:4b,Event,Lenient,0.800,0.800,0.800,12,3,3,15,15
+CAN v. TURKEY,gemma3:4b,Event,Strict,0.667,0.667,0.667,10,5,5,15,15
+CAN v. TURKEY,gemma3:4b,Event_who,Lenient,0.133,0.133,0.133,2,13,13,15,15
+CAN v. TURKEY,gemma3:4b,Event_who,Strict,0.133,0.133,0.133,2,13,13,15,15
+CAN v. TURKEY,gemma3:4b,Event_when,Lenient,0.733,0.733,0.733,11,4,4,15,15
+CAN v. TURKEY,gemma3:4b,Event_when,Strict,0.733,0.733,0.733,11,4,4,15,15
+CAN v. TURKEY,gemma3:4b,Event_what,Lenient,0.800,0.421,0.552,8,2,11,19,10
+CAN v. TURKEY,gemma3:4b,Event_what,Strict,0.400,0.211,0.276,4,6,15,19,10
+CAN v. TURKEY,gemma3:12b,Event,Lenient,0.824,0.933,0.875,14,3,1,15,17
+CAN v. TURKEY,gemma3:12b,Event,Strict,0.706,0.800,0.750,12,5,3,15,17
+CAN v. TURKEY,gemma3:12b,Event_who,Lenient,0.176,0.200,0.188,3,14,12,15,17
+CAN v. TURKEY,gemma3:12b,Event_who,Strict,0.176,0.200,0.188,3,14,12,15,17
+CAN v. TURKEY,gemma3:12b,Event_when,Lenient,0.706,0.800,0.750,12,5,3,15,17
+CAN v. TURKEY,gemma3:12b,Event_when,Strict,0.706,0.800,0.750,12,5,3,15,17
+CAN v. TURKEY,gemma3:12b,Event_what,Lenient,0.692,0.474,0.562,9,4,10,19,13
+CAN v. TURKEY,gemma3:12b,Event_what,Strict,0.231,0.158,0.187,3,10,16,19,13
+CAN v. TURKEY,llama3.3:latest,Event,Lenient,0.800,0.800,0.800,12,3,3,15,15
+CAN v. TURKEY,llama3.3:latest,Event,Strict,0.733,0.733,0.733,11,4,4,15,15
+CAN v. TURKEY,llama3.3:latest,Event_who,Lenient,0.143,0.133,0.138,2,12,13,15,14
+CAN v. TURKEY,llama3.3:latest,Event_who,Strict,0.071,0.067,0.069,1,13,14,15,14
+CAN v. TURKEY,llama3.3:latest,Event_when,Lenient,0.750,0.600,0.667,9,3,6,15,12
+CAN v. TURKEY,llama3.3:latest,Event_when,Strict,0.750,0.600,0.667,9,3,6,15,12
+CAN v. TURKEY,llama3.3:latest,Event_what,Lenient,0.800,0.211,0.333,4,1,15,19,5
+CAN v. TURKEY,llama3.3:latest,Event_what,Strict,0.200,0.053,0.083,1,4,18,19,5
+CAN v. TURKEY,deepseek-r1:8b,Event,Lenient,0.833,0.667,0.741,10,2,5,15,12
+CAN v. TURKEY,deepseek-r1:8b,Event,Strict,0.750,0.600,0.667,9,3,6,15,12
+CAN v. TURKEY,deepseek-r1:8b,Event_who,Lenient,0.333,0.133,0.190,2,4,13,15,6
+CAN v. TURKEY,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,6,15,15,6
+CAN v. TURKEY,deepseek-r1:8b,Event_when,Lenient,0.889,0.533,0.667,8,1,7,15,9
+CAN v. TURKEY,deepseek-r1:8b,Event_when,Strict,0.889,0.533,0.667,8,1,7,15,9
+CAN v. TURKEY,deepseek-r1:8b,Event_what,Lenient,0.727,0.421,0.533,8,3,11,19,11
+CAN v. TURKEY,deepseek-r1:8b,Event_what,Strict,0.455,0.263,0.333,5,6,14,19,11
+CAN v. TURKEY,mistral:latest,Event,Lenient,0.560,0.933,0.700,14,11,1,15,25
+CAN v. TURKEY,mistral:latest,Event,Strict,0.480,0.800,0.600,12,13,3,15,25
+CAN v. TURKEY,mistral:latest,Event_who,Lenient,0.000,0.000,0.000,0,5,15,15,5
+CAN v. TURKEY,mistral:latest,Event_who,Strict,0.000,0.000,0.000,0,5,15,15,5
+CAN v. TURKEY,mistral:latest,Event_when,Lenient,0.769,0.667,0.714,10,3,5,15,13
+CAN v. TURKEY,mistral:latest,Event_when,Strict,0.769,0.667,0.714,10,3,5,15,13
+CAN v. TURKEY,mistral:latest,Event_what,Lenient,0.818,0.474,0.600,9,2,10,19,11
+CAN v. TURKEY,mistral:latest,Event_what,Strict,0.455,0.263,0.333,5,6,14,19,11
+CAN v. TURKEY,incept5/llama3.1-claude:latest,Event,Lenient,0.200,0.067,0.100,1,4,14,15,5
+CAN v. TURKEY,incept5/llama3.1-claude:latest,Event,Strict,0.000,0.000,0.000,0,5,15,15,5
+CAN v. TURKEY,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,5,15,15,5
+CAN v. TURKEY,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,5,15,15,5
+CAN v. TURKEY,incept5/llama3.1-claude:latest,Event_when,Lenient,0.200,0.067,0.100,1,4,14,15,5
+CAN v. TURKEY,incept5/llama3.1-claude:latest,Event_when,Strict,0.200,0.067,0.100,1,4,14,15,5
+CAN v. TURKEY,incept5/llama3.1-claude:latest,Event_what,Lenient,0.000,0.000,0.000,0,1,19,19,1
+CAN v. TURKEY,incept5/llama3.1-claude:latest,Event_what,Strict,0.000,0.000,0.000,0,1,19,19,1
+CAN v. TURKEY,chevalblanc/claude-3-haiku:latest,Event,Lenient,1.000,0.733,0.846,11,0,4,15,11
+CAN v. TURKEY,chevalblanc/claude-3-haiku:latest,Event,Strict,1.000,0.733,0.846,11,0,4,15,11
+CAN v. TURKEY,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,2,15,15,2
+CAN v. TURKEY,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,2,15,15,2
+CAN v. TURKEY,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,1.000,0.733,0.846,11,0,4,15,11
+CAN v. TURKEY,chevalblanc/claude-3-haiku:latest,Event_when,Strict,1.000,0.733,0.846,11,0,4,15,11
+CAN v. TURKEY,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,1.000,0.105,0.190,2,0,17,19,2
+CAN v. TURKEY,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.500,0.053,0.095,1,1,18,19,2
+CAN v. TURKEY,mixtral:8x7b,Event,Lenient,0.867,0.867,0.867,13,2,2,15,15
+CAN v. TURKEY,mixtral:8x7b,Event,Strict,0.800,0.800,0.800,12,3,3,15,15
+CAN v. TURKEY,mixtral:8x7b,Event_who,Lenient,0.071,0.067,0.069,1,13,14,15,14
+CAN v. TURKEY,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,14,15,15,14
+CAN v. TURKEY,mixtral:8x7b,Event_when,Lenient,0.846,0.733,0.786,11,2,4,15,13
+CAN v. TURKEY,mixtral:8x7b,Event_when,Strict,0.846,0.733,0.786,11,2,4,15,13
+CAN v. TURKEY,mixtral:8x7b,Event_what,Lenient,0.833,0.263,0.400,5,1,14,19,6
+CAN v. TURKEY,mixtral:8x7b,Event_what,Strict,0.500,0.158,0.240,3,3,16,19,6
+CAN v. TURKEY,dolphin3:8b,Event,Lenient,0.500,0.067,0.118,1,1,14,15,2
+CAN v. TURKEY,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,2,15,15,2
+CAN v. TURKEY,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,15,15,0
+CAN v. TURKEY,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,15,15,0
+CAN v. TURKEY,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,1,15,15,1
+CAN v. TURKEY,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,1,15,15,1
+CAN v. TURKEY,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,19,19,0
+CAN v. TURKEY,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,0,19,19,0
+O.C.I. AND OTHERS v. ROMANIA,gemma3:1b,Event,Lenient,0.278,0.217,0.244,5,13,18,23,18
+O.C.I. AND OTHERS v. ROMANIA,gemma3:1b,Event,Strict,0.278,0.217,0.244,5,13,18,23,18
+O.C.I. AND OTHERS v. ROMANIA,gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,15,23,23,15
+O.C.I. AND OTHERS v. ROMANIA,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,15,23,23,15
+O.C.I. AND OTHERS v. ROMANIA,gemma3:1b,Event_when,Lenient,0.278,0.227,0.250,5,13,17,22,18
+O.C.I. AND OTHERS v. ROMANIA,gemma3:1b,Event_when,Strict,0.278,0.227,0.250,5,13,17,22,18
+O.C.I. AND OTHERS v. ROMANIA,gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,0,29,29,0
+O.C.I. AND OTHERS v. ROMANIA,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,0,29,29,0
+O.C.I. AND OTHERS v. ROMANIA,gemma3:4b,Event,Lenient,0.636,0.304,0.412,7,4,16,23,11
+O.C.I. AND OTHERS v. ROMANIA,gemma3:4b,Event,Strict,0.182,0.087,0.118,2,9,21,23,11
+O.C.I. AND OTHERS v. ROMANIA,gemma3:4b,Event_who,Lenient,0.000,0.000,0.000,0,7,23,23,7
+O.C.I. AND OTHERS v. ROMANIA,gemma3:4b,Event_who,Strict,0.000,0.000,0.000,0,7,23,23,7
+O.C.I. AND OTHERS v. ROMANIA,gemma3:4b,Event_when,Lenient,1.000,0.182,0.308,4,0,18,22,4
+O.C.I. AND OTHERS v. ROMANIA,gemma3:4b,Event_when,Strict,0.750,0.136,0.231,3,1,19,22,4
+O.C.I. AND OTHERS v. ROMANIA,gemma3:4b,Event_what,Lenient,0.500,0.034,0.065,1,1,28,29,2
+O.C.I. AND OTHERS v. ROMANIA,gemma3:4b,Event_what,Strict,0.500,0.034,0.065,1,1,28,29,2
+O.C.I. AND OTHERS v. ROMANIA,gemma3:12b,Event,Lenient,0.857,0.261,0.400,6,1,17,23,7
+O.C.I. AND OTHERS v. ROMANIA,gemma3:12b,Event,Strict,0.857,0.261,0.400,6,1,17,23,7
+O.C.I. AND OTHERS v. ROMANIA,gemma3:12b,Event_who,Lenient,0.143,0.043,0.067,1,6,22,23,7
+O.C.I. AND OTHERS v. ROMANIA,gemma3:12b,Event_who,Strict,0.143,0.043,0.067,1,6,22,23,7
+O.C.I. AND OTHERS v. ROMANIA,gemma3:12b,Event_when,Lenient,1.000,0.227,0.370,5,0,17,22,5
+O.C.I. AND OTHERS v. ROMANIA,gemma3:12b,Event_when,Strict,1.000,0.227,0.370,5,0,17,22,5
+O.C.I. AND OTHERS v. ROMANIA,gemma3:12b,Event_what,Lenient,0.857,0.207,0.333,6,1,23,29,7
+O.C.I. AND OTHERS v. ROMANIA,gemma3:12b,Event_what,Strict,0.000,0.000,0.000,0,7,29,29,7
+O.C.I. AND OTHERS v. ROMANIA,llama3.3:latest,Event,Lenient,0.818,0.391,0.529,9,2,14,23,11
+O.C.I. AND OTHERS v. ROMANIA,llama3.3:latest,Event,Strict,0.727,0.348,0.471,8,3,15,23,11
+O.C.I. AND OTHERS v. ROMANIA,llama3.3:latest,Event_who,Lenient,0.000,0.000,0.000,0,10,23,23,10
+O.C.I. AND OTHERS v. ROMANIA,llama3.3:latest,Event_who,Strict,0.000,0.000,0.000,0,10,23,23,10
+O.C.I. AND OTHERS v. ROMANIA,llama3.3:latest,Event_when,Lenient,1.000,0.318,0.483,7,0,15,22,7
+O.C.I. AND OTHERS v. ROMANIA,llama3.3:latest,Event_when,Strict,1.000,0.318,0.483,7,0,15,22,7
+O.C.I. AND OTHERS v. ROMANIA,llama3.3:latest,Event_what,Lenient,0.889,0.276,0.421,8,1,21,29,9
+O.C.I. AND OTHERS v. ROMANIA,llama3.3:latest,Event_what,Strict,0.778,0.241,0.368,7,2,22,29,9
+O.C.I. AND OTHERS v. ROMANIA,deepseek-r1:8b,Event,Lenient,0.556,0.217,0.312,5,4,18,23,9
+O.C.I. AND OTHERS v. ROMANIA,deepseek-r1:8b,Event,Strict,0.333,0.130,0.188,3,6,20,23,9
+O.C.I. AND OTHERS v. ROMANIA,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,5,23,23,5
+O.C.I. AND OTHERS v. ROMANIA,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,5,23,23,5
+O.C.I. AND OTHERS v. ROMANIA,deepseek-r1:8b,Event_when,Lenient,1.000,0.182,0.308,4,0,18,22,4
+O.C.I. AND OTHERS v. ROMANIA,deepseek-r1:8b,Event_when,Strict,1.000,0.182,0.308,4,0,18,22,4
+O.C.I. AND OTHERS v. ROMANIA,deepseek-r1:8b,Event_what,Lenient,0.500,0.034,0.065,1,1,28,29,2
+O.C.I. AND OTHERS v. ROMANIA,deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,2,29,29,2
+O.C.I. AND OTHERS v. ROMANIA,mistral:latest,Event,Lenient,0.429,0.130,0.200,3,4,20,23,7
+O.C.I. AND OTHERS v. ROMANIA,mistral:latest,Event,Strict,0.429,0.130,0.200,3,4,20,23,7
+O.C.I. AND OTHERS v. ROMANIA,mistral:latest,Event_who,Lenient,0.000,0.000,0.000,0,6,23,23,6
+O.C.I. AND OTHERS v. ROMANIA,mistral:latest,Event_who,Strict,0.000,0.000,0.000,0,6,23,23,6
+O.C.I. AND OTHERS v. ROMANIA,mistral:latest,Event_when,Lenient,1.000,0.091,0.167,2,0,20,22,2
+O.C.I. AND OTHERS v. ROMANIA,mistral:latest,Event_when,Strict,1.000,0.091,0.167,2,0,20,22,2
+O.C.I. AND OTHERS v. ROMANIA,mistral:latest,Event_what,Lenient,0.500,0.103,0.171,3,3,26,29,6
+O.C.I. AND OTHERS v. ROMANIA,mistral:latest,Event_what,Strict,0.000,0.000,0.000,0,6,29,29,6
+O.C.I. AND OTHERS v. ROMANIA,incept5/llama3.1-claude:latest,Event,Lenient,0.846,0.478,0.611,11,2,12,23,13
+O.C.I. AND OTHERS v. ROMANIA,incept5/llama3.1-claude:latest,Event,Strict,0.462,0.261,0.333,6,7,17,23,13
+O.C.I. AND OTHERS v. ROMANIA,incept5/llama3.1-claude:latest,Event_who,Lenient,0.000,0.000,0.000,0,10,23,23,10
+O.C.I. AND OTHERS v. ROMANIA,incept5/llama3.1-claude:latest,Event_who,Strict,0.000,0.000,0.000,0,10,23,23,10
+O.C.I. AND OTHERS v. ROMANIA,incept5/llama3.1-claude:latest,Event_when,Lenient,1.000,0.409,0.581,9,0,13,22,9
+O.C.I. AND OTHERS v. ROMANIA,incept5/llama3.1-claude:latest,Event_when,Strict,1.000,0.409,0.581,9,0,13,22,9
+O.C.I. AND OTHERS v. ROMANIA,incept5/llama3.1-claude:latest,Event_what,Lenient,0.900,0.310,0.462,9,1,20,29,10
+O.C.I. AND OTHERS v. ROMANIA,incept5/llama3.1-claude:latest,Event_what,Strict,0.600,0.207,0.308,6,4,23,29,10
+O.C.I. AND OTHERS v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.857,0.261,0.400,6,1,17,23,7
+O.C.I. AND OTHERS v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event,Strict,0.714,0.217,0.333,5,2,18,23,7
+O.C.I. AND OTHERS v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,4,23,23,4
+O.C.I. AND OTHERS v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,4,23,23,4
+O.C.I. AND OTHERS v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,1.000,0.227,0.370,5,0,17,22,5
+O.C.I. AND OTHERS v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_when,Strict,1.000,0.227,0.370,5,0,17,22,5
+O.C.I. AND OTHERS v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,1.000,0.138,0.242,4,0,25,29,4
+O.C.I. AND OTHERS v. ROMANIA,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.250,0.034,0.061,1,3,28,29,4
+O.C.I. AND OTHERS v. ROMANIA,mixtral:8x7b,Event,Lenient,1.000,0.174,0.296,4,0,19,23,4
+O.C.I. AND OTHERS v. ROMANIA,mixtral:8x7b,Event,Strict,0.750,0.130,0.222,3,1,20,23,4
+O.C.I. AND OTHERS v. ROMANIA,mixtral:8x7b,Event_who,Lenient,0.000,0.000,0.000,0,3,23,23,3
+O.C.I. AND OTHERS v. ROMANIA,mixtral:8x7b,Event_who,Strict,0.000,0.000,0.000,0,3,23,23,3
+O.C.I. AND OTHERS v. ROMANIA,mixtral:8x7b,Event_when,Lenient,1.000,0.136,0.240,3,0,19,22,3
+O.C.I. AND OTHERS v. ROMANIA,mixtral:8x7b,Event_when,Strict,1.000,0.136,0.240,3,0,19,22,3
+O.C.I. AND OTHERS v. ROMANIA,mixtral:8x7b,Event_what,Lenient,1.000,0.103,0.188,3,0,26,29,3
+O.C.I. AND OTHERS v. ROMANIA,mixtral:8x7b,Event_what,Strict,0.333,0.034,0.062,1,2,28,29,3
+O.C.I. AND OTHERS v. ROMANIA,dolphin3:8b,Event,Lenient,0.778,0.304,0.438,7,2,16,23,9
+O.C.I. AND OTHERS v. ROMANIA,dolphin3:8b,Event,Strict,0.444,0.174,0.250,4,5,19,23,9
+O.C.I. AND OTHERS v. ROMANIA,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,7,23,23,7
+O.C.I. AND OTHERS v. ROMANIA,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,7,23,23,7
+O.C.I. AND OTHERS v. ROMANIA,dolphin3:8b,Event_when,Lenient,1.000,0.227,0.370,5,0,17,22,5
+O.C.I. AND OTHERS v. ROMANIA,dolphin3:8b,Event_when,Strict,1.000,0.227,0.370,5,0,17,22,5
+O.C.I. AND OTHERS v. ROMANIA,dolphin3:8b,Event_what,Lenient,1.000,0.276,0.432,8,0,21,29,8
+O.C.I. AND OTHERS v. ROMANIA,dolphin3:8b,Event_what,Strict,0.500,0.138,0.216,4,4,25,29,8
+CABUCAK v. GERMANY,gemma3:1b,Event,Lenient,0.280,0.171,0.212,7,18,34,41,25
+CABUCAK v. GERMANY,gemma3:1b,Event,Strict,0.280,0.171,0.212,7,18,34,41,25
+CABUCAK v. GERMANY,gemma3:1b,Event_who,Lenient,0.000,0.000,0.000,0,5,40,40,5
+CABUCAK v. GERMANY,gemma3:1b,Event_who,Strict,0.000,0.000,0.000,0,5,40,40,5
+CABUCAK v. GERMANY,gemma3:1b,Event_when,Lenient,0.292,0.184,0.226,7,17,31,38,24
+CABUCAK v. GERMANY,gemma3:1b,Event_when,Strict,0.250,0.158,0.194,6,18,32,38,24
+CABUCAK v. GERMANY,gemma3:1b,Event_what,Lenient,0.000,0.000,0.000,0,3,43,43,3
+CABUCAK v. GERMANY,gemma3:1b,Event_what,Strict,0.000,0.000,0.000,0,3,43,43,3
+CABUCAK v. GERMANY,gemma3:4b,Event,Lenient,0.706,0.293,0.414,12,5,29,41,17
+CABUCAK v. GERMANY,gemma3:4b,Event,Strict,0.235,0.098,0.138,4,13,37,41,17
+CABUCAK v. GERMANY,gemma3:4b,Event_who,Lenient,0.235,0.100,0.140,4,13,36,40,17
+CABUCAK v. GERMANY,gemma3:4b,Event_who,Strict,0.176,0.075,0.105,3,14,37,40,17
+CABUCAK v. GERMANY,gemma3:4b,Event_when,Lenient,0.727,0.211,0.327,8,3,30,38,11
+CABUCAK v. GERMANY,gemma3:4b,Event_when,Strict,0.727,0.211,0.327,8,3,30,38,11
+CABUCAK v. GERMANY,gemma3:4b,Event_what,Lenient,0.467,0.163,0.241,7,8,36,43,15
+CABUCAK v. GERMANY,gemma3:4b,Event_what,Strict,0.000,0.000,0.000,0,15,43,43,15
+CABUCAK v. GERMANY,gemma3:12b,Event,Lenient,0.923,0.293,0.444,12,1,29,41,13
+CABUCAK v. GERMANY,gemma3:12b,Event,Strict,0.923,0.293,0.444,12,1,29,41,13
+CABUCAK v. GERMANY,gemma3:12b,Event_who,Lenient,0.500,0.150,0.231,6,6,34,40,12
+CABUCAK v. GERMANY,gemma3:12b,Event_who,Strict,0.500,0.150,0.231,6,6,34,40,12
+CABUCAK v. GERMANY,gemma3:12b,Event_when,Lenient,0.923,0.316,0.471,12,1,26,38,13
+CABUCAK v. GERMANY,gemma3:12b,Event_when,Strict,0.923,0.316,0.471,12,1,26,38,13
+CABUCAK v. GERMANY,gemma3:12b,Event_what,Lenient,0.667,0.093,0.163,4,2,39,43,6
+CABUCAK v. GERMANY,gemma3:12b,Event_what,Strict,0.167,0.023,0.041,1,5,42,43,6
+CABUCAK v. GERMANY,llama3.3:latest,Event,Lenient,0.923,0.585,0.716,24,2,17,41,26
+CABUCAK v. GERMANY,llama3.3:latest,Event,Strict,0.885,0.561,0.687,23,3,18,41,26
+CABUCAK v. GERMANY,llama3.3:latest,Event_who,Lenient,0.476,0.250,0.328,10,11,30,40,21
+CABUCAK v. GERMANY,llama3.3:latest,Event_who,Strict,0.190,0.100,0.131,4,17,36,40,21
+CABUCAK v. GERMANY,llama3.3:latest,Event_when,Lenient,0.960,0.632,0.762,24,1,14,38,25
+CABUCAK v. GERMANY,llama3.3:latest,Event_when,Strict,0.920,0.605,0.730,23,2,15,38,25
+CABUCAK v. GERMANY,llama3.3:latest,Event_what,Lenient,0.867,0.302,0.448,13,2,30,43,15
+CABUCAK v. GERMANY,llama3.3:latest,Event_what,Strict,0.600,0.209,0.310,9,6,34,43,15
+CABUCAK v. GERMANY,deepseek-r1:8b,Event,Lenient,0.500,0.073,0.128,3,3,38,41,6
+CABUCAK v. GERMANY,deepseek-r1:8b,Event,Strict,0.500,0.073,0.128,3,3,38,41,6
+CABUCAK v. GERMANY,deepseek-r1:8b,Event_who,Lenient,0.000,0.000,0.000,0,1,40,40,1
+CABUCAK v. GERMANY,deepseek-r1:8b,Event_who,Strict,0.000,0.000,0.000,0,1,40,40,1
+CABUCAK v. GERMANY,deepseek-r1:8b,Event_when,Lenient,0.750,0.079,0.143,3,1,35,38,4
+CABUCAK v. GERMANY,deepseek-r1:8b,Event_when,Strict,0.750,0.079,0.143,3,1,35,38,4
+CABUCAK v. GERMANY,deepseek-r1:8b,Event_what,Lenient,0.000,0.000,0.000,0,0,43,43,0
+CABUCAK v. GERMANY,deepseek-r1:8b,Event_what,Strict,0.000,0.000,0.000,0,0,43,43,0
+CABUCAK v. GERMANY,mistral:latest,Event,Lenient,0.250,0.049,0.082,2,6,39,41,8
+CABUCAK v. GERMANY,mistral:latest,Event,Strict,0.125,0.024,0.041,1,7,40,41,8
+CABUCAK v. GERMANY,mistral:latest,Event_who,Lenient,0.000,0.000,0.000,0,1,40,40,1
+CABUCAK v. GERMANY,mistral:latest,Event_who,Strict,0.000,0.000,0.000,0,1,40,40,1
+CABUCAK v. GERMANY,mistral:latest,Event_when,Lenient,0.000,0.000,0.000,0,1,38,38,1
+CABUCAK v. GERMANY,mistral:latest,Event_when,Strict,0.000,0.000,0.000,0,1,38,38,1
+CABUCAK v. GERMANY,mistral:latest,Event_what,Lenient,0.000,0.000,0.000,0,6,43,43,6
+CABUCAK v. GERMANY,mistral:latest,Event_what,Strict,0.000,0.000,0.000,0,6,43,43,6
+CABUCAK v. GERMANY,incept5/llama3.1-claude:latest,Event,Lenient,0.710,0.537,0.611,22,9,19,41,31
+CABUCAK v. GERMANY,incept5/llama3.1-claude:latest,Event,Strict,0.710,0.537,0.611,22,9,19,41,31
+CABUCAK v. GERMANY,incept5/llama3.1-claude:latest,Event_who,Lenient,0.214,0.150,0.176,6,22,34,40,28
+CABUCAK v. GERMANY,incept5/llama3.1-claude:latest,Event_who,Strict,0.143,0.100,0.118,4,24,36,40,28
+CABUCAK v. GERMANY,incept5/llama3.1-claude:latest,Event_when,Lenient,0.917,0.579,0.710,22,2,16,38,24
+CABUCAK v. GERMANY,incept5/llama3.1-claude:latest,Event_when,Strict,0.875,0.553,0.677,21,3,17,38,24
+CABUCAK v. GERMANY,incept5/llama3.1-claude:latest,Event_what,Lenient,0.455,0.116,0.185,5,6,38,43,11
+CABUCAK v. GERMANY,incept5/llama3.1-claude:latest,Event_what,Strict,0.091,0.023,0.037,1,10,42,43,11
+CABUCAK v. GERMANY,chevalblanc/claude-3-haiku:latest,Event,Lenient,0.400,0.049,0.087,2,3,39,41,5
+CABUCAK v. GERMANY,chevalblanc/claude-3-haiku:latest,Event,Strict,0.200,0.024,0.043,1,4,40,41,5
+CABUCAK v. GERMANY,chevalblanc/claude-3-haiku:latest,Event_who,Lenient,0.000,0.000,0.000,0,2,40,40,2
+CABUCAK v. GERMANY,chevalblanc/claude-3-haiku:latest,Event_who,Strict,0.000,0.000,0.000,0,2,40,40,2
+CABUCAK v. GERMANY,chevalblanc/claude-3-haiku:latest,Event_when,Lenient,0.500,0.026,0.050,1,1,37,38,2
+CABUCAK v. GERMANY,chevalblanc/claude-3-haiku:latest,Event_when,Strict,0.500,0.026,0.050,1,1,37,38,2
+CABUCAK v. GERMANY,chevalblanc/claude-3-haiku:latest,Event_what,Lenient,0.000,0.000,0.000,0,0,43,43,0
+CABUCAK v. GERMANY,chevalblanc/claude-3-haiku:latest,Event_what,Strict,0.000,0.000,0.000,0,0,43,43,0
+CABUCAK v. GERMANY,mixtral:8x7b,Event,Lenient,0.794,0.659,0.720,27,7,14,41,34
+CABUCAK v. GERMANY,mixtral:8x7b,Event,Strict,0.765,0.634,0.693,26,8,15,41,34
+CABUCAK v. GERMANY,mixtral:8x7b,Event_who,Lenient,0.382,0.325,0.351,13,21,27,40,34
+CABUCAK v. GERMANY,mixtral:8x7b,Event_who,Strict,0.294,0.250,0.270,10,24,30,40,34
+CABUCAK v. GERMANY,mixtral:8x7b,Event_when,Lenient,0.875,0.737,0.800,28,4,10,38,32
+CABUCAK v. GERMANY,mixtral:8x7b,Event_when,Strict,0.844,0.711,0.771,27,5,11,38,32
+CABUCAK v. GERMANY,mixtral:8x7b,Event_what,Lenient,0.786,0.512,0.620,22,6,21,43,28
+CABUCAK v. GERMANY,mixtral:8x7b,Event_what,Strict,0.357,0.233,0.282,10,18,33,43,28
+CABUCAK v. GERMANY,dolphin3:8b,Event,Lenient,0.000,0.000,0.000,0,1,41,41,1
+CABUCAK v. GERMANY,dolphin3:8b,Event,Strict,0.000,0.000,0.000,0,1,41,41,1
+CABUCAK v. GERMANY,dolphin3:8b,Event_who,Lenient,0.000,0.000,0.000,0,0,40,40,0
+CABUCAK v. GERMANY,dolphin3:8b,Event_who,Strict,0.000,0.000,0.000,0,0,40,40,0
+CABUCAK v. GERMANY,dolphin3:8b,Event_when,Lenient,0.000,0.000,0.000,0,0,38,38,0
+CABUCAK v. GERMANY,dolphin3:8b,Event_when,Strict,0.000,0.000,0.000,0,0,38,38,0
+CABUCAK v. GERMANY,dolphin3:8b,Event_what,Lenient,0.000,0.000,0.000,0,1,43,43,1
+CABUCAK v. GERMANY,dolphin3:8b,Event_what,Strict,0.000,0.000,0.000,0,1,43,43,1

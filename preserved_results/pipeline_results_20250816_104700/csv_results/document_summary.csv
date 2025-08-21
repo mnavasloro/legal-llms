@@ -1,0 +1,421 @@
+Document,Model,Evaluation_Mode,Overall_Precision,Overall_Recall,Overall_F1,Total_TP,Total_FP,Total_FN,Total_Gold,Total_Predicted
+SIDOROVA v. RUSSIA,gemma3:1b,Lenient,0.167,0.056,0.083,3,15,51,54,18
+SIDOROVA v. RUSSIA,gemma3:1b,Strict,0.167,0.056,0.083,3,15,51,54,18
+SIDOROVA v. RUSSIA,gemma3:4b,Lenient,0.231,0.056,0.090,3,10,51,54,13
+SIDOROVA v. RUSSIA,gemma3:4b,Strict,0.154,0.037,0.060,2,11,52,54,13
+SIDOROVA v. RUSSIA,gemma3:12b,Lenient,0.444,0.148,0.222,8,10,46,54,18
+SIDOROVA v. RUSSIA,gemma3:12b,Strict,0.278,0.093,0.139,5,13,49,54,18
+SIDOROVA v. RUSSIA,llama3.3:latest,Lenient,0.556,0.093,0.159,5,4,49,54,9
+SIDOROVA v. RUSSIA,llama3.3:latest,Strict,0.444,0.074,0.127,4,5,50,54,9
+SIDOROVA v. RUSSIA,deepseek-r1:8b,Lenient,1.000,0.037,0.071,2,0,52,54,2
+SIDOROVA v. RUSSIA,deepseek-r1:8b,Strict,0.500,0.019,0.036,1,1,53,54,2
+SIDOROVA v. RUSSIA,mistral:latest,Lenient,0.263,0.185,0.217,10,28,44,54,38
+SIDOROVA v. RUSSIA,mistral:latest,Strict,0.184,0.130,0.152,7,31,47,54,38
+SIDOROVA v. RUSSIA,incept5/llama3.1-claude:latest,Lenient,0.200,0.019,0.034,1,4,53,54,5
+SIDOROVA v. RUSSIA,incept5/llama3.1-claude:latest,Strict,0.000,0.000,0.000,0,5,54,54,5
+SIDOROVA v. RUSSIA,chevalblanc/claude-3-haiku:latest,Lenient,0.625,0.093,0.161,5,3,49,54,8
+SIDOROVA v. RUSSIA,chevalblanc/claude-3-haiku:latest,Strict,0.250,0.037,0.065,2,6,52,54,8
+SIDOROVA v. RUSSIA,mixtral:8x7b,Lenient,0.703,0.481,0.571,26,11,28,54,37
+SIDOROVA v. RUSSIA,mixtral:8x7b,Strict,0.432,0.296,0.352,16,21,38,54,37
+SIDOROVA v. RUSSIA,dolphin3:8b,Lenient,0.000,0.000,0.000,0,0,54,54,0
+SIDOROVA v. RUSSIA,dolphin3:8b,Strict,0.000,0.000,0.000,0,0,54,54,0
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:1b,Lenient,0.167,0.055,0.082,3,15,52,55,18
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:1b,Strict,0.167,0.055,0.082,3,15,52,55,18
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:4b,Lenient,0.500,0.127,0.203,7,7,48,55,14
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:4b,Strict,0.143,0.036,0.058,2,12,53,55,14
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:12b,Lenient,0.767,0.418,0.541,23,7,32,55,30
+EGILL EINARSSON v. ICELAND (No. 2),gemma3:12b,Strict,0.500,0.273,0.353,15,15,40,55,30
+EGILL EINARSSON v. ICELAND (No. 2),llama3.3:latest,Lenient,0.700,0.509,0.589,28,12,27,55,40
+EGILL EINARSSON v. ICELAND (No. 2),llama3.3:latest,Strict,0.400,0.291,0.337,16,24,39,55,40
+EGILL EINARSSON v. ICELAND (No. 2),deepseek-r1:8b,Lenient,0.800,0.073,0.133,4,1,51,55,5
+EGILL EINARSSON v. ICELAND (No. 2),deepseek-r1:8b,Strict,0.400,0.036,0.067,2,3,53,55,5
+EGILL EINARSSON v. ICELAND (No. 2),mistral:latest,Lenient,0.579,0.200,0.297,11,8,44,55,19
+EGILL EINARSSON v. ICELAND (No. 2),mistral:latest,Strict,0.421,0.145,0.216,8,11,47,55,19
+EGILL EINARSSON v. ICELAND (No. 2),incept5/llama3.1-claude:latest,Lenient,0.581,0.327,0.419,18,13,37,55,31
+EGILL EINARSSON v. ICELAND (No. 2),incept5/llama3.1-claude:latest,Strict,0.355,0.200,0.256,11,20,44,55,31
+EGILL EINARSSON v. ICELAND (No. 2),chevalblanc/claude-3-haiku:latest,Lenient,0.444,0.073,0.125,4,5,51,55,9
+EGILL EINARSSON v. ICELAND (No. 2),chevalblanc/claude-3-haiku:latest,Strict,0.444,0.073,0.125,4,5,51,55,9
+EGILL EINARSSON v. ICELAND (No. 2),mixtral:8x7b,Lenient,1.000,0.036,0.070,2,0,53,55,2
+EGILL EINARSSON v. ICELAND (No. 2),mixtral:8x7b,Strict,1.000,0.036,0.070,2,0,53,55,2
+EGILL EINARSSON v. ICELAND (No. 2),dolphin3:8b,Lenient,0.250,0.018,0.034,1,3,54,55,4
+EGILL EINARSSON v. ICELAND (No. 2),dolphin3:8b,Strict,0.000,0.000,0.000,0,4,55,55,4
+MOSKALEV v. RUSSIA,gemma3:1b,Lenient,0.087,0.159,0.113,7,73,37,44,80
+MOSKALEV v. RUSSIA,gemma3:1b,Strict,0.050,0.091,0.065,4,76,40,44,80
+MOSKALEV v. RUSSIA,gemma3:4b,Lenient,0.395,0.341,0.366,15,23,29,44,38
+MOSKALEV v. RUSSIA,gemma3:4b,Strict,0.289,0.250,0.268,11,27,33,44,38
+MOSKALEV v. RUSSIA,gemma3:12b,Lenient,0.722,0.295,0.419,13,5,31,44,18
+MOSKALEV v. RUSSIA,gemma3:12b,Strict,0.611,0.250,0.355,11,7,33,44,18
+MOSKALEV v. RUSSIA,llama3.3:latest,Lenient,0.000,0.000,0.000,0,0,44,44,0
+MOSKALEV v. RUSSIA,llama3.3:latest,Strict,0.000,0.000,0.000,0,0,44,44,0
+MOSKALEV v. RUSSIA,deepseek-r1:8b,Lenient,0.118,0.136,0.126,6,45,38,44,51
+MOSKALEV v. RUSSIA,deepseek-r1:8b,Strict,0.059,0.068,0.063,3,48,41,44,51
+MOSKALEV v. RUSSIA,mistral:latest,Lenient,0.444,0.455,0.449,20,25,24,44,45
+MOSKALEV v. RUSSIA,mistral:latest,Strict,0.289,0.295,0.292,13,32,31,44,45
+MOSKALEV v. RUSSIA,incept5/llama3.1-claude:latest,Lenient,0.333,0.023,0.043,1,2,43,44,3
+MOSKALEV v. RUSSIA,incept5/llama3.1-claude:latest,Strict,0.000,0.000,0.000,0,3,44,44,3
+MOSKALEV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Lenient,0.647,0.250,0.361,11,6,33,44,17
+MOSKALEV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Strict,0.235,0.091,0.131,4,13,40,44,17
+MOSKALEV v. RUSSIA,mixtral:8x7b,Lenient,0.462,0.409,0.434,18,21,26,44,39
+MOSKALEV v. RUSSIA,mixtral:8x7b,Strict,0.154,0.136,0.145,6,33,38,44,39
+MOSKALEV v. RUSSIA,dolphin3:8b,Lenient,1.000,0.023,0.044,1,0,43,44,1
+MOSKALEV v. RUSSIA,dolphin3:8b,Strict,0.000,0.000,0.000,0,1,44,44,1
+PANYUSHKINY v. RUSSIA,gemma3:1b,Lenient,0.538,0.217,0.309,28,24,101,129,52
+PANYUSHKINY v. RUSSIA,gemma3:1b,Strict,0.442,0.178,0.254,23,29,106,129,52
+PANYUSHKINY v. RUSSIA,gemma3:4b,Lenient,0.676,0.372,0.480,48,23,81,129,71
+PANYUSHKINY v. RUSSIA,gemma3:4b,Strict,0.507,0.279,0.360,36,35,93,129,71
+PANYUSHKINY v. RUSSIA,gemma3:12b,Lenient,0.785,0.395,0.526,51,14,78,129,65
+PANYUSHKINY v. RUSSIA,gemma3:12b,Strict,0.631,0.318,0.423,41,24,88,129,65
+PANYUSHKINY v. RUSSIA,llama3.3:latest,Lenient,0.804,0.287,0.423,37,9,92,129,46
+PANYUSHKINY v. RUSSIA,llama3.3:latest,Strict,0.674,0.240,0.354,31,15,98,129,46
+PANYUSHKINY v. RUSSIA,deepseek-r1:8b,Lenient,0.714,0.116,0.200,15,6,114,129,21
+PANYUSHKINY v. RUSSIA,deepseek-r1:8b,Strict,0.429,0.070,0.120,9,12,120,129,21
+PANYUSHKINY v. RUSSIA,mistral:latest,Lenient,0.455,0.581,0.510,75,90,54,129,165
+PANYUSHKINY v. RUSSIA,mistral:latest,Strict,0.321,0.411,0.361,53,112,76,129,165
+PANYUSHKINY v. RUSSIA,incept5/llama3.1-claude:latest,Lenient,0.643,0.349,0.452,45,25,84,129,70
+PANYUSHKINY v. RUSSIA,incept5/llama3.1-claude:latest,Strict,0.600,0.326,0.422,42,28,87,129,70
+PANYUSHKINY v. RUSSIA,chevalblanc/claude-3-haiku:latest,Lenient,0.500,0.016,0.030,2,2,127,129,4
+PANYUSHKINY v. RUSSIA,chevalblanc/claude-3-haiku:latest,Strict,0.500,0.016,0.030,2,2,127,129,4
+PANYUSHKINY v. RUSSIA,mixtral:8x7b,Lenient,0.000,0.000,0.000,0,0,129,129,0
+PANYUSHKINY v. RUSSIA,mixtral:8x7b,Strict,0.000,0.000,0.000,0,0,129,129,0
+PANYUSHKINY v. RUSSIA,dolphin3:8b,Lenient,1.000,0.008,0.015,1,0,128,129,1
+PANYUSHKINY v. RUSSIA,dolphin3:8b,Strict,0.000,0.000,0.000,0,1,129,129,1
+SOLCAN v. ROMANIA,gemma3:1b,Lenient,0.517,0.273,0.357,15,14,40,55,29
+SOLCAN v. ROMANIA,gemma3:1b,Strict,0.517,0.273,0.357,15,14,40,55,29
+SOLCAN v. ROMANIA,gemma3:4b,Lenient,0.625,0.182,0.282,10,6,45,55,16
+SOLCAN v. ROMANIA,gemma3:4b,Strict,0.375,0.109,0.169,6,10,49,55,16
+SOLCAN v. ROMANIA,gemma3:12b,Lenient,0.829,0.527,0.644,29,6,26,55,35
+SOLCAN v. ROMANIA,gemma3:12b,Strict,0.771,0.491,0.600,27,8,28,55,35
+SOLCAN v. ROMANIA,llama3.3:latest,Lenient,0.651,0.509,0.571,28,15,27,55,43
+SOLCAN v. ROMANIA,llama3.3:latest,Strict,0.558,0.436,0.490,24,19,31,55,43
+SOLCAN v. ROMANIA,deepseek-r1:8b,Lenient,0.091,0.073,0.081,4,40,51,55,44
+SOLCAN v. ROMANIA,deepseek-r1:8b,Strict,0.045,0.036,0.040,2,42,53,55,44
+SOLCAN v. ROMANIA,mistral:latest,Lenient,0.390,0.582,0.467,32,50,23,55,82
+SOLCAN v. ROMANIA,mistral:latest,Strict,0.329,0.491,0.394,27,55,28,55,82
+SOLCAN v. ROMANIA,incept5/llama3.1-claude:latest,Lenient,0.583,0.382,0.462,21,15,34,55,36
+SOLCAN v. ROMANIA,incept5/llama3.1-claude:latest,Strict,0.528,0.345,0.418,19,17,36,55,36
+SOLCAN v. ROMANIA,chevalblanc/claude-3-haiku:latest,Lenient,0.846,0.200,0.324,11,2,44,55,13
+SOLCAN v. ROMANIA,chevalblanc/claude-3-haiku:latest,Strict,0.769,0.182,0.294,10,3,45,55,13
+SOLCAN v. ROMANIA,mixtral:8x7b,Lenient,0.556,0.182,0.274,10,8,45,55,18
+SOLCAN v. ROMANIA,mixtral:8x7b,Strict,0.222,0.073,0.110,4,14,51,55,18
+SOLCAN v. ROMANIA,dolphin3:8b,Lenient,0.000,0.000,0.000,0,0,55,55,0
+SOLCAN v. ROMANIA,dolphin3:8b,Strict,0.000,0.000,0.000,0,0,55,55,0
+ALTAY v. TURKEY (No. 2),gemma3:1b,Lenient,0.182,0.066,0.097,6,27,85,91,33
+ALTAY v. TURKEY (No. 2),gemma3:1b,Strict,0.182,0.066,0.097,6,27,85,91,33
+ALTAY v. TURKEY (No. 2),gemma3:4b,Lenient,0.455,0.220,0.296,20,24,71,91,44
+ALTAY v. TURKEY (No. 2),gemma3:4b,Strict,0.318,0.154,0.207,14,30,77,91,44
+ALTAY v. TURKEY (No. 2),gemma3:12b,Lenient,0.629,0.429,0.510,39,23,52,91,62
+ALTAY v. TURKEY (No. 2),gemma3:12b,Strict,0.484,0.330,0.392,30,32,61,91,62
+ALTAY v. TURKEY (No. 2),llama3.3:latest,Lenient,0.000,0.000,0.000,0,0,91,91,0
+ALTAY v. TURKEY (No. 2),llama3.3:latest,Strict,0.000,0.000,0.000,0,0,91,91,0
+ALTAY v. TURKEY (No. 2),deepseek-r1:8b,Lenient,0.230,0.154,0.184,14,47,77,91,61
+ALTAY v. TURKEY (No. 2),deepseek-r1:8b,Strict,0.213,0.143,0.171,13,48,78,91,61
+ALTAY v. TURKEY (No. 2),mistral:latest,Lenient,0.460,0.319,0.377,29,34,62,91,63
+ALTAY v. TURKEY (No. 2),mistral:latest,Strict,0.413,0.286,0.338,26,37,65,91,63
+ALTAY v. TURKEY (No. 2),incept5/llama3.1-claude:latest,Lenient,0.580,0.319,0.411,29,21,62,91,50
+ALTAY v. TURKEY (No. 2),incept5/llama3.1-claude:latest,Strict,0.560,0.308,0.397,28,22,63,91,50
+ALTAY v. TURKEY (No. 2),chevalblanc/claude-3-haiku:latest,Lenient,0.467,0.077,0.132,7,8,84,91,15
+ALTAY v. TURKEY (No. 2),chevalblanc/claude-3-haiku:latest,Strict,0.400,0.066,0.113,6,9,85,91,15
+ALTAY v. TURKEY (No. 2),mixtral:8x7b,Lenient,0.410,0.176,0.246,16,23,75,91,39
+ALTAY v. TURKEY (No. 2),mixtral:8x7b,Strict,0.154,0.066,0.092,6,33,85,91,39
+ALTAY v. TURKEY (No. 2),dolphin3:8b,Lenient,0.000,0.000,0.000,0,0,91,91,0
+ALTAY v. TURKEY (No. 2),dolphin3:8b,Strict,0.000,0.000,0.000,0,0,91,91,0
+H_INESS v. NORWAY (1),gemma3:1b,Lenient,0.000,0.000,0.000,0,0,127,127,0
+H_INESS v. NORWAY (1),gemma3:1b,Strict,0.000,0.000,0.000,0,0,127,127,0
+H_INESS v. NORWAY (1),gemma3:4b,Lenient,0.138,0.118,0.127,15,94,112,127,109
+H_INESS v. NORWAY (1),gemma3:4b,Strict,0.092,0.079,0.085,10,99,117,127,109
+H_INESS v. NORWAY (1),gemma3:12b,Lenient,0.542,0.102,0.172,13,11,114,127,24
+H_INESS v. NORWAY (1),gemma3:12b,Strict,0.417,0.079,0.132,10,14,117,127,24
+H_INESS v. NORWAY (1),llama3.3:latest,Lenient,0.125,0.008,0.015,1,7,126,127,8
+H_INESS v. NORWAY (1),llama3.3:latest,Strict,0.125,0.008,0.015,1,7,126,127,8
+H_INESS v. NORWAY (1),deepseek-r1:8b,Lenient,0.571,0.031,0.060,4,3,123,127,7
+H_INESS v. NORWAY (1),deepseek-r1:8b,Strict,0.429,0.024,0.045,3,4,124,127,7
+H_INESS v. NORWAY (1),mistral:latest,Lenient,0.339,0.307,0.322,39,76,88,127,115
+H_INESS v. NORWAY (1),mistral:latest,Strict,0.261,0.236,0.248,30,85,97,127,115
+H_INESS v. NORWAY (1),incept5/llama3.1-claude:latest,Lenient,0.538,0.055,0.100,7,6,120,127,13
+H_INESS v. NORWAY (1),incept5/llama3.1-claude:latest,Strict,0.385,0.039,0.071,5,8,122,127,13
+H_INESS v. NORWAY (1),chevalblanc/claude-3-haiku:latest,Lenient,0.769,0.079,0.143,10,3,117,127,13
+H_INESS v. NORWAY (1),chevalblanc/claude-3-haiku:latest,Strict,0.538,0.055,0.100,7,6,120,127,13
+H_INESS v. NORWAY (1),mixtral:8x7b,Lenient,0.143,0.016,0.028,2,12,125,127,14
+H_INESS v. NORWAY (1),mixtral:8x7b,Strict,0.071,0.008,0.014,1,13,126,127,14
+H_INESS v. NORWAY (1),dolphin3:8b,Lenient,0.381,0.063,0.108,8,13,119,127,21
+H_INESS v. NORWAY (1),dolphin3:8b,Strict,0.333,0.055,0.095,7,14,120,127,21
+SHVIDKIYE v. RUSSIA,gemma3:1b,Lenient,0.179,0.055,0.084,5,23,86,91,28
+SHVIDKIYE v. RUSSIA,gemma3:1b,Strict,0.143,0.044,0.067,4,24,87,91,28
+SHVIDKIYE v. RUSSIA,gemma3:4b,Lenient,0.730,0.297,0.422,27,10,64,91,37
+SHVIDKIYE v. RUSSIA,gemma3:4b,Strict,0.432,0.176,0.250,16,21,75,91,37
+SHVIDKIYE v. RUSSIA,gemma3:12b,Lenient,0.571,0.220,0.317,20,15,71,91,35
+SHVIDKIYE v. RUSSIA,gemma3:12b,Strict,0.400,0.154,0.222,14,21,77,91,35
+SHVIDKIYE v. RUSSIA,llama3.3:latest,Lenient,0.000,0.000,0.000,0,0,91,91,0
+SHVIDKIYE v. RUSSIA,llama3.3:latest,Strict,0.000,0.000,0.000,0,0,91,91,0
+SHVIDKIYE v. RUSSIA,deepseek-r1:8b,Lenient,0.600,0.033,0.062,3,2,88,91,5
+SHVIDKIYE v. RUSSIA,deepseek-r1:8b,Strict,0.400,0.022,0.042,2,3,89,91,5
+SHVIDKIYE v. RUSSIA,mistral:latest,Lenient,0.360,0.396,0.377,36,64,55,91,100
+SHVIDKIYE v. RUSSIA,mistral:latest,Strict,0.260,0.286,0.272,26,74,65,91,100
+SHVIDKIYE v. RUSSIA,incept5/llama3.1-claude:latest,Lenient,0.690,0.319,0.436,29,13,62,91,42
+SHVIDKIYE v. RUSSIA,incept5/llama3.1-claude:latest,Strict,0.548,0.253,0.346,23,19,68,91,42
+SHVIDKIYE v. RUSSIA,chevalblanc/claude-3-haiku:latest,Lenient,0.545,0.066,0.118,6,5,85,91,11
+SHVIDKIYE v. RUSSIA,chevalblanc/claude-3-haiku:latest,Strict,0.545,0.066,0.118,6,5,85,91,11
+SHVIDKIYE v. RUSSIA,mixtral:8x7b,Lenient,0.353,0.066,0.111,6,11,85,91,17
+SHVIDKIYE v. RUSSIA,mixtral:8x7b,Strict,0.176,0.033,0.056,3,14,88,91,17
+SHVIDKIYE v. RUSSIA,dolphin3:8b,Lenient,1.000,0.011,0.022,1,0,90,91,1
+SHVIDKIYE v. RUSSIA,dolphin3:8b,Strict,0.000,0.000,0.000,0,1,91,91,1
+VISY v. SLOVAKIA,gemma3:1b,Lenient,0.083,0.033,0.047,2,22,59,61,24
+VISY v. SLOVAKIA,gemma3:1b,Strict,0.083,0.033,0.047,2,22,59,61,24
+VISY v. SLOVAKIA,gemma3:4b,Lenient,0.065,0.131,0.086,8,116,53,61,124
+VISY v. SLOVAKIA,gemma3:4b,Strict,0.040,0.082,0.054,5,119,56,61,124
+VISY v. SLOVAKIA,gemma3:12b,Lenient,0.457,0.262,0.333,16,19,45,61,35
+VISY v. SLOVAKIA,gemma3:12b,Strict,0.257,0.148,0.187,9,26,52,61,35
+VISY v. SLOVAKIA,llama3.3:latest,Lenient,0.526,0.328,0.404,20,18,41,61,38
+VISY v. SLOVAKIA,llama3.3:latest,Strict,0.316,0.197,0.242,12,26,49,61,38
+VISY v. SLOVAKIA,deepseek-r1:8b,Lenient,0.706,0.197,0.308,12,5,49,61,17
+VISY v. SLOVAKIA,deepseek-r1:8b,Strict,0.588,0.164,0.256,10,7,51,61,17
+VISY v. SLOVAKIA,mistral:latest,Lenient,0.194,0.426,0.267,26,108,35,61,134
+VISY v. SLOVAKIA,mistral:latest,Strict,0.142,0.311,0.195,19,115,42,61,134
+VISY v. SLOVAKIA,incept5/llama3.1-claude:latest,Lenient,0.312,0.164,0.215,10,22,51,61,32
+VISY v. SLOVAKIA,incept5/llama3.1-claude:latest,Strict,0.250,0.131,0.172,8,24,53,61,32
+VISY v. SLOVAKIA,chevalblanc/claude-3-haiku:latest,Lenient,0.833,0.082,0.149,5,1,56,61,6
+VISY v. SLOVAKIA,chevalblanc/claude-3-haiku:latest,Strict,0.833,0.082,0.149,5,1,56,61,6
+VISY v. SLOVAKIA,mixtral:8x7b,Lenient,0.364,0.197,0.255,12,21,49,61,33
+VISY v. SLOVAKIA,mixtral:8x7b,Strict,0.182,0.098,0.128,6,27,55,61,33
+VISY v. SLOVAKIA,dolphin3:8b,Lenient,0.333,0.115,0.171,7,14,54,61,21
+VISY v. SLOVAKIA,dolphin3:8b,Strict,0.286,0.098,0.146,6,15,55,61,21
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:1b,Lenient,0.178,0.160,0.168,8,37,42,50,45
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:1b,Strict,0.089,0.080,0.084,4,41,46,50,45
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:4b,Lenient,0.281,0.180,0.220,9,23,41,50,32
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:4b,Strict,0.188,0.120,0.146,6,26,44,50,32
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:12b,Lenient,0.355,0.540,0.429,27,49,23,50,76
+OTGON v. THE REPUBLIC OF MOLDOVA,gemma3:12b,Strict,0.250,0.380,0.302,19,57,31,50,76
+OTGON v. THE REPUBLIC OF MOLDOVA,llama3.3:latest,Lenient,0.333,0.020,0.038,1,2,49,50,3
+OTGON v. THE REPUBLIC OF MOLDOVA,llama3.3:latest,Strict,0.000,0.000,0.000,0,3,50,50,3
+OTGON v. THE REPUBLIC OF MOLDOVA,deepseek-r1:8b,Lenient,0.556,0.200,0.294,10,8,40,50,18
+OTGON v. THE REPUBLIC OF MOLDOVA,deepseek-r1:8b,Strict,0.500,0.180,0.265,9,9,41,50,18
+OTGON v. THE REPUBLIC OF MOLDOVA,mistral:latest,Lenient,0.339,0.400,0.367,20,39,30,50,59
+OTGON v. THE REPUBLIC OF MOLDOVA,mistral:latest,Strict,0.203,0.240,0.220,12,47,38,50,59
+OTGON v. THE REPUBLIC OF MOLDOVA,incept5/llama3.1-claude:latest,Lenient,0.333,0.020,0.038,1,2,49,50,3
+OTGON v. THE REPUBLIC OF MOLDOVA,incept5/llama3.1-claude:latest,Strict,0.000,0.000,0.000,0,3,50,50,3
+OTGON v. THE REPUBLIC OF MOLDOVA,chevalblanc/claude-3-haiku:latest,Lenient,0.556,0.100,0.169,5,4,45,50,9
+OTGON v. THE REPUBLIC OF MOLDOVA,chevalblanc/claude-3-haiku:latest,Strict,0.222,0.040,0.068,2,7,48,50,9
+OTGON v. THE REPUBLIC OF MOLDOVA,mixtral:8x7b,Lenient,0.562,0.180,0.273,9,7,41,50,16
+OTGON v. THE REPUBLIC OF MOLDOVA,mixtral:8x7b,Strict,0.375,0.120,0.182,6,10,44,50,16
+OTGON v. THE REPUBLIC OF MOLDOVA,dolphin3:8b,Lenient,1.000,0.020,0.039,1,0,49,50,1
+OTGON v. THE REPUBLIC OF MOLDOVA,dolphin3:8b,Strict,0.000,0.000,0.000,0,1,50,50,1
+RESIN v. RUSSIA,gemma3:1b,Lenient,0.242,0.118,0.158,8,25,60,68,33
+RESIN v. RUSSIA,gemma3:1b,Strict,0.242,0.118,0.158,8,25,60,68,33
+RESIN v. RUSSIA,gemma3:4b,Lenient,0.208,0.074,0.109,5,19,63,68,24
+RESIN v. RUSSIA,gemma3:4b,Strict,0.083,0.029,0.043,2,22,66,68,24
+RESIN v. RUSSIA,gemma3:12b,Lenient,0.442,0.338,0.383,23,29,45,68,52
+RESIN v. RUSSIA,gemma3:12b,Strict,0.154,0.118,0.133,8,44,60,68,52
+RESIN v. RUSSIA,llama3.3:latest,Lenient,0.378,0.250,0.301,17,28,51,68,45
+RESIN v. RUSSIA,llama3.3:latest,Strict,0.289,0.191,0.230,13,32,55,68,45
+RESIN v. RUSSIA,deepseek-r1:8b,Lenient,0.467,0.103,0.169,7,8,61,68,15
+RESIN v. RUSSIA,deepseek-r1:8b,Strict,0.267,0.059,0.096,4,11,64,68,15
+RESIN v. RUSSIA,mistral:latest,Lenient,0.368,0.309,0.336,21,36,47,68,57
+RESIN v. RUSSIA,mistral:latest,Strict,0.351,0.294,0.320,20,37,48,68,57
+RESIN v. RUSSIA,incept5/llama3.1-claude:latest,Lenient,0.552,0.235,0.330,16,13,52,68,29
+RESIN v. RUSSIA,incept5/llama3.1-claude:latest,Strict,0.414,0.176,0.247,12,17,56,68,29
+RESIN v. RUSSIA,chevalblanc/claude-3-haiku:latest,Lenient,0.500,0.147,0.227,10,10,58,68,20
+RESIN v. RUSSIA,chevalblanc/claude-3-haiku:latest,Strict,0.200,0.059,0.091,4,16,64,68,20
+RESIN v. RUSSIA,mixtral:8x7b,Lenient,0.475,0.279,0.352,19,21,49,68,40
+RESIN v. RUSSIA,mixtral:8x7b,Strict,0.275,0.162,0.204,11,29,57,68,40
+RESIN v. RUSSIA,dolphin3:8b,Lenient,1.000,0.015,0.029,1,0,67,68,1
+RESIN v. RUSSIA,dolphin3:8b,Strict,0.000,0.000,0.000,0,1,68,68,1
+DOKTOROV v. BULGARIA,gemma3:1b,Lenient,0.233,0.304,0.264,14,46,32,46,60
+DOKTOROV v. BULGARIA,gemma3:1b,Strict,0.183,0.239,0.208,11,49,35,46,60
+DOKTOROV v. BULGARIA,gemma3:4b,Lenient,0.351,0.283,0.313,13,24,33,46,37
+DOKTOROV v. BULGARIA,gemma3:4b,Strict,0.162,0.130,0.145,6,31,40,46,37
+DOKTOROV v. BULGARIA,gemma3:12b,Lenient,0.200,0.065,0.098,3,12,43,46,15
+DOKTOROV v. BULGARIA,gemma3:12b,Strict,0.133,0.043,0.066,2,13,44,46,15
+DOKTOROV v. BULGARIA,llama3.3:latest,Lenient,0.462,0.130,0.203,6,7,40,46,13
+DOKTOROV v. BULGARIA,llama3.3:latest,Strict,0.385,0.109,0.169,5,8,41,46,13
+DOKTOROV v. BULGARIA,deepseek-r1:8b,Lenient,0.483,0.304,0.373,14,15,32,46,29
+DOKTOROV v. BULGARIA,deepseek-r1:8b,Strict,0.310,0.196,0.240,9,20,37,46,29
+DOKTOROV v. BULGARIA,mistral:latest,Lenient,0.370,0.370,0.370,17,29,29,46,46
+DOKTOROV v. BULGARIA,mistral:latest,Strict,0.348,0.348,0.348,16,30,30,46,46
+DOKTOROV v. BULGARIA,incept5/llama3.1-claude:latest,Lenient,0.000,0.000,0.000,0,0,46,46,0
+DOKTOROV v. BULGARIA,incept5/llama3.1-claude:latest,Strict,0.000,0.000,0.000,0,0,46,46,0
+DOKTOROV v. BULGARIA,chevalblanc/claude-3-haiku:latest,Lenient,0.591,0.283,0.382,13,9,33,46,22
+DOKTOROV v. BULGARIA,chevalblanc/claude-3-haiku:latest,Strict,0.318,0.152,0.206,7,15,39,46,22
+DOKTOROV v. BULGARIA,mixtral:8x7b,Lenient,0.455,0.109,0.175,5,6,41,46,11
+DOKTOROV v. BULGARIA,mixtral:8x7b,Strict,0.182,0.043,0.070,2,9,44,46,11
+DOKTOROV v. BULGARIA,dolphin3:8b,Lenient,1.000,0.022,0.043,1,0,45,46,1
+DOKTOROV v. BULGARIA,dolphin3:8b,Strict,0.000,0.000,0.000,0,1,46,46,1
+YAKUSHEV v. UKRAINE,gemma3:1b,Lenient,0.273,0.122,0.169,6,16,43,49,22
+YAKUSHEV v. UKRAINE,gemma3:1b,Strict,0.227,0.102,0.141,5,17,44,49,22
+YAKUSHEV v. UKRAINE,gemma3:4b,Lenient,0.720,0.367,0.486,18,7,31,49,25
+YAKUSHEV v. UKRAINE,gemma3:4b,Strict,0.400,0.204,0.270,10,15,39,49,25
+YAKUSHEV v. UKRAINE,gemma3:12b,Lenient,0.548,0.347,0.425,17,14,32,49,31
+YAKUSHEV v. UKRAINE,gemma3:12b,Strict,0.452,0.286,0.350,14,17,35,49,31
+YAKUSHEV v. UKRAINE,llama3.3:latest,Lenient,0.758,0.510,0.610,25,8,24,49,33
+YAKUSHEV v. UKRAINE,llama3.3:latest,Strict,0.545,0.367,0.439,18,15,31,49,33
+YAKUSHEV v. UKRAINE,deepseek-r1:8b,Lenient,0.000,0.000,0.000,0,4,49,49,4
+YAKUSHEV v. UKRAINE,deepseek-r1:8b,Strict,0.000,0.000,0.000,0,4,49,49,4
+YAKUSHEV v. UKRAINE,mistral:latest,Lenient,0.657,0.469,0.548,23,12,26,49,35
+YAKUSHEV v. UKRAINE,mistral:latest,Strict,0.486,0.347,0.405,17,18,32,49,35
+YAKUSHEV v. UKRAINE,incept5/llama3.1-claude:latest,Lenient,0.000,0.000,0.000,0,0,49,49,0
+YAKUSHEV v. UKRAINE,incept5/llama3.1-claude:latest,Strict,0.000,0.000,0.000,0,0,49,49,0
+YAKUSHEV v. UKRAINE,chevalblanc/claude-3-haiku:latest,Lenient,0.727,0.163,0.267,8,3,41,49,11
+YAKUSHEV v. UKRAINE,chevalblanc/claude-3-haiku:latest,Strict,0.636,0.143,0.233,7,4,42,49,11
+YAKUSHEV v. UKRAINE,mixtral:8x7b,Lenient,0.000,0.000,0.000,0,2,49,49,2
+YAKUSHEV v. UKRAINE,mixtral:8x7b,Strict,0.000,0.000,0.000,0,2,49,49,2
+YAKUSHEV v. UKRAINE,dolphin3:8b,Lenient,1.000,0.020,0.040,1,0,48,49,1
+YAKUSHEV v. UKRAINE,dolphin3:8b,Strict,0.000,0.000,0.000,0,1,49,49,1
+STANA v. ROMANIA,gemma3:1b,Lenient,0.345,0.370,0.357,10,19,17,27,29
+STANA v. ROMANIA,gemma3:1b,Strict,0.207,0.222,0.214,6,23,21,27,29
+STANA v. ROMANIA,gemma3:4b,Lenient,0.400,0.222,0.286,6,9,21,27,15
+STANA v. ROMANIA,gemma3:4b,Strict,0.267,0.148,0.190,4,11,23,27,15
+STANA v. ROMANIA,gemma3:12b,Lenient,0.444,0.444,0.444,12,15,15,27,27
+STANA v. ROMANIA,gemma3:12b,Strict,0.259,0.259,0.259,7,20,20,27,27
+STANA v. ROMANIA,llama3.3:latest,Lenient,0.000,0.000,0.000,0,0,27,27,0
+STANA v. ROMANIA,llama3.3:latest,Strict,0.000,0.000,0.000,0,0,27,27,0
+STANA v. ROMANIA,deepseek-r1:8b,Lenient,0.800,0.444,0.571,12,3,15,27,15
+STANA v. ROMANIA,deepseek-r1:8b,Strict,0.600,0.333,0.429,9,6,18,27,15
+STANA v. ROMANIA,mistral:latest,Lenient,0.270,0.370,0.312,10,27,17,27,37
+STANA v. ROMANIA,mistral:latest,Strict,0.135,0.185,0.156,5,32,22,27,37
+STANA v. ROMANIA,incept5/llama3.1-claude:latest,Lenient,0.000,0.000,0.000,0,0,27,27,0
+STANA v. ROMANIA,incept5/llama3.1-claude:latest,Strict,0.000,0.000,0.000,0,0,27,27,0
+STANA v. ROMANIA,chevalblanc/claude-3-haiku:latest,Lenient,0.600,0.111,0.188,3,2,24,27,5
+STANA v. ROMANIA,chevalblanc/claude-3-haiku:latest,Strict,0.400,0.074,0.125,2,3,25,27,5
+STANA v. ROMANIA,mixtral:8x7b,Lenient,0.286,0.222,0.250,6,15,21,27,21
+STANA v. ROMANIA,mixtral:8x7b,Strict,0.095,0.074,0.083,2,19,25,27,21
+STANA v. ROMANIA,dolphin3:8b,Lenient,0.000,0.000,0.000,0,0,27,27,0
+STANA v. ROMANIA,dolphin3:8b,Strict,0.000,0.000,0.000,0,0,27,27,0
+_NODI v. HUNGARY,gemma3:1b,Lenient,0.444,0.163,0.238,20,25,103,123,45
+_NODI v. HUNGARY,gemma3:1b,Strict,0.356,0.130,0.190,16,29,107,123,45
+_NODI v. HUNGARY,gemma3:4b,Lenient,0.568,0.171,0.263,21,16,102,123,37
+_NODI v. HUNGARY,gemma3:4b,Strict,0.243,0.073,0.112,9,28,114,123,37
+_NODI v. HUNGARY,gemma3:12b,Lenient,0.571,0.260,0.358,32,24,91,123,56
+_NODI v. HUNGARY,gemma3:12b,Strict,0.393,0.179,0.246,22,34,101,123,56
+_NODI v. HUNGARY,llama3.3:latest,Lenient,0.630,0.138,0.227,17,10,106,123,27
+_NODI v. HUNGARY,llama3.3:latest,Strict,0.519,0.114,0.187,14,13,109,123,27
+_NODI v. HUNGARY,deepseek-r1:8b,Lenient,0.500,0.073,0.128,9,9,114,123,18
+_NODI v. HUNGARY,deepseek-r1:8b,Strict,0.333,0.049,0.085,6,12,117,123,18
+_NODI v. HUNGARY,mistral:latest,Lenient,0.370,0.358,0.364,44,75,79,123,119
+_NODI v. HUNGARY,mistral:latest,Strict,0.252,0.244,0.248,30,89,93,123,119
+_NODI v. HUNGARY,incept5/llama3.1-claude:latest,Lenient,0.111,0.008,0.015,1,8,122,123,9
+_NODI v. HUNGARY,incept5/llama3.1-claude:latest,Strict,0.000,0.000,0.000,0,9,123,123,9
+_NODI v. HUNGARY,chevalblanc/claude-3-haiku:latest,Lenient,0.500,0.041,0.075,5,5,118,123,10
+_NODI v. HUNGARY,chevalblanc/claude-3-haiku:latest,Strict,0.500,0.041,0.075,5,5,118,123,10
+_NODI v. HUNGARY,mixtral:8x7b,Lenient,0.455,0.244,0.317,30,36,93,123,66
+_NODI v. HUNGARY,mixtral:8x7b,Strict,0.242,0.130,0.169,16,50,107,123,66
+_NODI v. HUNGARY,dolphin3:8b,Lenient,0.500,0.008,0.016,1,1,122,123,2
+_NODI v. HUNGARY,dolphin3:8b,Strict,0.000,0.000,0.000,0,2,123,123,2
+PAKHTUSOV v. RUSSIA,gemma3:1b,Lenient,0.320,0.320,0.320,16,34,34,50,50
+PAKHTUSOV v. RUSSIA,gemma3:1b,Strict,0.260,0.260,0.260,13,37,37,50,50
+PAKHTUSOV v. RUSSIA,gemma3:4b,Lenient,0.590,0.460,0.517,23,16,27,50,39
+PAKHTUSOV v. RUSSIA,gemma3:4b,Strict,0.462,0.360,0.404,18,21,32,50,39
+PAKHTUSOV v. RUSSIA,gemma3:12b,Lenient,0.793,0.460,0.582,23,6,27,50,29
+PAKHTUSOV v. RUSSIA,gemma3:12b,Strict,0.552,0.320,0.405,16,13,34,50,29
+PAKHTUSOV v. RUSSIA,llama3.3:latest,Lenient,0.000,0.000,0.000,0,0,50,50,0
+PAKHTUSOV v. RUSSIA,llama3.3:latest,Strict,0.000,0.000,0.000,0,0,50,50,0
+PAKHTUSOV v. RUSSIA,deepseek-r1:8b,Lenient,0.667,0.160,0.258,8,4,42,50,12
+PAKHTUSOV v. RUSSIA,deepseek-r1:8b,Strict,0.333,0.080,0.129,4,8,46,50,12
+PAKHTUSOV v. RUSSIA,mistral:latest,Lenient,0.400,0.640,0.492,32,48,18,50,80
+PAKHTUSOV v. RUSSIA,mistral:latest,Strict,0.325,0.520,0.400,26,54,24,50,80
+PAKHTUSOV v. RUSSIA,incept5/llama3.1-claude:latest,Lenient,0.474,0.180,0.261,9,10,41,50,19
+PAKHTUSOV v. RUSSIA,incept5/llama3.1-claude:latest,Strict,0.368,0.140,0.203,7,12,43,50,19
+PAKHTUSOV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Lenient,0.667,0.200,0.308,10,5,40,50,15
+PAKHTUSOV v. RUSSIA,chevalblanc/claude-3-haiku:latest,Strict,0.533,0.160,0.246,8,7,42,50,15
+PAKHTUSOV v. RUSSIA,mixtral:8x7b,Lenient,0.688,0.220,0.333,11,5,39,50,16
+PAKHTUSOV v. RUSSIA,mixtral:8x7b,Strict,0.375,0.120,0.182,6,10,44,50,16
+PAKHTUSOV v. RUSSIA,dolphin3:8b,Lenient,1.000,0.020,0.039,1,0,49,50,1
+PAKHTUSOV v. RUSSIA,dolphin3:8b,Strict,0.000,0.000,0.000,0,1,50,50,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:1b,Lenient,0.182,0.027,0.047,4,18,144,148,22
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:1b,Strict,0.182,0.027,0.047,4,18,144,148,22
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:4b,Lenient,0.095,0.027,0.042,4,38,144,148,42
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:4b,Strict,0.000,0.000,0.000,0,42,148,148,42
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:12b,Lenient,0.750,0.061,0.113,9,3,139,148,12
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,gemma3:12b,Strict,0.583,0.047,0.088,7,5,141,148,12
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,llama3.3:latest,Lenient,0.667,0.027,0.052,4,2,144,148,6
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,llama3.3:latest,Strict,0.667,0.027,0.052,4,2,144,148,6
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,deepseek-r1:8b,Lenient,1.000,0.027,0.053,4,0,144,148,4
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,deepseek-r1:8b,Strict,1.000,0.027,0.053,4,0,144,148,4
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mistral:latest,Lenient,0.263,0.176,0.211,26,73,122,148,99
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mistral:latest,Strict,0.242,0.162,0.194,24,75,124,148,99
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,incept5/llama3.1-claude:latest,Lenient,0.182,0.027,0.047,4,18,144,148,22
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,incept5/llama3.1-claude:latest,Strict,0.182,0.027,0.047,4,18,144,148,22
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,chevalblanc/claude-3-haiku:latest,Lenient,0.000,0.000,0.000,0,1,148,148,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,chevalblanc/claude-3-haiku:latest,Strict,0.000,0.000,0.000,0,1,148,148,1
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mixtral:8x7b,Lenient,0.286,0.014,0.026,2,5,146,148,7
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,mixtral:8x7b,Strict,0.143,0.007,0.013,1,6,147,148,7
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,dolphin3:8b,Lenient,0.458,0.074,0.128,11,13,137,148,24
+KOSAITE - CYPIENE AND OTHERS v. LITHUANIA,dolphin3:8b,Strict,0.417,0.068,0.116,10,14,138,148,24
+S.V. v. ITALY,gemma3:1b,Lenient,0.333,0.243,0.281,18,36,56,74,54
+S.V. v. ITALY,gemma3:1b,Strict,0.259,0.189,0.219,14,40,60,74,54
+S.V. v. ITALY,gemma3:4b,Lenient,0.354,0.230,0.279,17,31,57,74,48
+S.V. v. ITALY,gemma3:4b,Strict,0.229,0.149,0.180,11,37,63,74,48
+S.V. v. ITALY,gemma3:12b,Lenient,0.600,0.324,0.421,24,16,50,74,40
+S.V. v. ITALY,gemma3:12b,Strict,0.400,0.216,0.281,16,24,58,74,40
+S.V. v. ITALY,llama3.3:latest,Lenient,0.676,0.311,0.426,23,11,51,74,34
+S.V. v. ITALY,llama3.3:latest,Strict,0.647,0.297,0.407,22,12,52,74,34
+S.V. v. ITALY,deepseek-r1:8b,Lenient,0.594,0.257,0.358,19,13,55,74,32
+S.V. v. ITALY,deepseek-r1:8b,Strict,0.469,0.203,0.283,15,17,59,74,32
+S.V. v. ITALY,mistral:latest,Lenient,0.321,0.230,0.268,17,36,57,74,53
+S.V. v. ITALY,mistral:latest,Strict,0.245,0.176,0.205,13,40,61,74,53
+S.V. v. ITALY,incept5/llama3.1-claude:latest,Lenient,0.560,0.378,0.452,28,22,46,74,50
+S.V. v. ITALY,incept5/llama3.1-claude:latest,Strict,0.440,0.297,0.355,22,28,52,74,50
+S.V. v. ITALY,chevalblanc/claude-3-haiku:latest,Lenient,0.632,0.162,0.258,12,7,62,74,19
+S.V. v. ITALY,chevalblanc/claude-3-haiku:latest,Strict,0.579,0.149,0.237,11,8,63,74,19
+S.V. v. ITALY,mixtral:8x7b,Lenient,0.333,0.108,0.163,8,16,66,74,24
+S.V. v. ITALY,mixtral:8x7b,Strict,0.250,0.081,0.122,6,18,68,74,24
+S.V. v. ITALY,dolphin3:8b,Lenient,0.684,0.351,0.464,26,12,48,74,38
+S.V. v. ITALY,dolphin3:8b,Strict,0.605,0.311,0.411,23,15,51,74,38
+CAN v. TURKEY,gemma3:1b,Lenient,0.667,0.156,0.253,10,5,54,64,15
+CAN v. TURKEY,gemma3:1b,Strict,0.467,0.109,0.177,7,8,57,64,15
+CAN v. TURKEY,gemma3:4b,Lenient,0.600,0.516,0.555,33,22,31,64,55
+CAN v. TURKEY,gemma3:4b,Strict,0.491,0.422,0.454,27,28,37,64,55
+CAN v. TURKEY,gemma3:12b,Lenient,0.594,0.594,0.594,38,26,26,64,64
+CAN v. TURKEY,gemma3:12b,Strict,0.469,0.469,0.469,30,34,34,64,64
+CAN v. TURKEY,llama3.3:latest,Lenient,0.587,0.422,0.491,27,19,37,64,46
+CAN v. TURKEY,llama3.3:latest,Strict,0.478,0.344,0.400,22,24,42,64,46
+CAN v. TURKEY,deepseek-r1:8b,Lenient,0.737,0.438,0.549,28,10,36,64,38
+CAN v. TURKEY,deepseek-r1:8b,Strict,0.579,0.344,0.431,22,16,42,64,38
+CAN v. TURKEY,mistral:latest,Lenient,0.611,0.516,0.559,33,21,31,64,54
+CAN v. TURKEY,mistral:latest,Strict,0.500,0.422,0.458,27,27,37,64,54
+CAN v. TURKEY,incept5/llama3.1-claude:latest,Lenient,0.125,0.031,0.050,2,14,62,64,16
+CAN v. TURKEY,incept5/llama3.1-claude:latest,Strict,0.062,0.016,0.025,1,15,63,64,16
+CAN v. TURKEY,chevalblanc/claude-3-haiku:latest,Lenient,0.923,0.375,0.533,24,2,40,64,26
+CAN v. TURKEY,chevalblanc/claude-3-haiku:latest,Strict,0.885,0.359,0.511,23,3,41,64,26
+CAN v. TURKEY,mixtral:8x7b,Lenient,0.625,0.469,0.536,30,18,34,64,48
+CAN v. TURKEY,mixtral:8x7b,Strict,0.542,0.406,0.464,26,22,38,64,48
+CAN v. TURKEY,dolphin3:8b,Lenient,0.333,0.016,0.030,1,2,63,64,3
+CAN v. TURKEY,dolphin3:8b,Strict,0.000,0.000,0.000,0,3,64,64,3
+O.C.I. AND OTHERS v. ROMANIA,gemma3:1b,Lenient,0.196,0.103,0.135,10,41,87,97,51
+O.C.I. AND OTHERS v. ROMANIA,gemma3:1b,Strict,0.196,0.103,0.135,10,41,87,97,51
+O.C.I. AND OTHERS v. ROMANIA,gemma3:4b,Lenient,0.500,0.124,0.198,12,12,85,97,24
+O.C.I. AND OTHERS v. ROMANIA,gemma3:4b,Strict,0.250,0.062,0.099,6,18,91,97,24
+O.C.I. AND OTHERS v. ROMANIA,gemma3:12b,Lenient,0.692,0.186,0.293,18,8,79,97,26
+O.C.I. AND OTHERS v. ROMANIA,gemma3:12b,Strict,0.462,0.124,0.195,12,14,85,97,26
+O.C.I. AND OTHERS v. ROMANIA,llama3.3:latest,Lenient,0.649,0.247,0.358,24,13,73,97,37
+O.C.I. AND OTHERS v. ROMANIA,llama3.3:latest,Strict,0.595,0.227,0.328,22,15,75,97,37
+O.C.I. AND OTHERS v. ROMANIA,deepseek-r1:8b,Lenient,0.500,0.103,0.171,10,10,87,97,20
+O.C.I. AND OTHERS v. ROMANIA,deepseek-r1:8b,Strict,0.350,0.072,0.120,7,13,90,97,20
+O.C.I. AND OTHERS v. ROMANIA,mistral:latest,Lenient,0.381,0.082,0.136,8,13,89,97,21
+O.C.I. AND OTHERS v. ROMANIA,mistral:latest,Strict,0.238,0.052,0.085,5,16,92,97,21
+O.C.I. AND OTHERS v. ROMANIA,incept5/llama3.1-claude:latest,Lenient,0.690,0.299,0.417,29,13,68,97,42
+O.C.I. AND OTHERS v. ROMANIA,incept5/llama3.1-claude:latest,Strict,0.500,0.216,0.302,21,21,76,97,42
+O.C.I. AND OTHERS v. ROMANIA,chevalblanc/claude-3-haiku:latest,Lenient,0.750,0.155,0.256,15,5,82,97,20
+O.C.I. AND OTHERS v. ROMANIA,chevalblanc/claude-3-haiku:latest,Strict,0.550,0.113,0.188,11,9,86,97,20
+O.C.I. AND OTHERS v. ROMANIA,mixtral:8x7b,Lenient,0.769,0.103,0.182,10,3,87,97,13
+O.C.I. AND OTHERS v. ROMANIA,mixtral:8x7b,Strict,0.538,0.072,0.127,7,6,90,97,13
+O.C.I. AND OTHERS v. ROMANIA,dolphin3:8b,Lenient,0.690,0.206,0.317,20,9,77,97,29
+O.C.I. AND OTHERS v. ROMANIA,dolphin3:8b,Strict,0.448,0.134,0.206,13,16,84,97,29
+CABUCAK v. GERMANY,gemma3:1b,Lenient,0.246,0.086,0.128,14,43,148,162,57
+CABUCAK v. GERMANY,gemma3:1b,Strict,0.228,0.080,0.119,13,44,149,162,57
+CABUCAK v. GERMANY,gemma3:4b,Lenient,0.517,0.191,0.279,31,29,131,162,60
+CABUCAK v. GERMANY,gemma3:4b,Strict,0.250,0.093,0.135,15,45,147,162,60
+CABUCAK v. GERMANY,gemma3:12b,Lenient,0.773,0.210,0.330,34,10,128,162,44
+CABUCAK v. GERMANY,gemma3:12b,Strict,0.705,0.191,0.301,31,13,131,162,44
+CABUCAK v. GERMANY,llama3.3:latest,Lenient,0.816,0.438,0.570,71,16,91,162,87
+CABUCAK v. GERMANY,llama3.3:latest,Strict,0.678,0.364,0.474,59,28,103,162,87
+CABUCAK v. GERMANY,deepseek-r1:8b,Lenient,0.545,0.037,0.069,6,5,156,162,11
+CABUCAK v. GERMANY,deepseek-r1:8b,Strict,0.545,0.037,0.069,6,5,156,162,11
+CABUCAK v. GERMANY,mistral:latest,Lenient,0.125,0.012,0.022,2,14,160,162,16
+CABUCAK v. GERMANY,mistral:latest,Strict,0.062,0.006,0.011,1,15,161,162,16
+CABUCAK v. GERMANY,incept5/llama3.1-claude:latest,Lenient,0.585,0.340,0.430,55,39,107,162,94
+CABUCAK v. GERMANY,incept5/llama3.1-claude:latest,Strict,0.511,0.296,0.375,48,46,114,162,94
+CABUCAK v. GERMANY,chevalblanc/claude-3-haiku:latest,Lenient,0.333,0.019,0.035,3,6,159,162,9
+CABUCAK v. GERMANY,chevalblanc/claude-3-haiku:latest,Strict,0.222,0.012,0.023,2,7,160,162,9
+CABUCAK v. GERMANY,mixtral:8x7b,Lenient,0.703,0.556,0.621,90,38,72,162,128
+CABUCAK v. GERMANY,mixtral:8x7b,Strict,0.570,0.451,0.503,73,55,89,162,128
+CABUCAK v. GERMANY,dolphin3:8b,Lenient,0.000,0.000,0.000,0,2,162,162,2
+CABUCAK v. GERMANY,dolphin3:8b,Strict,0.000,0.000,0.000,0,2,162,162,2
