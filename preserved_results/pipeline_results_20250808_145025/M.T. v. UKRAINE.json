@@ -1,0 +1,1848 @@
+{
+  "Document": "file:/C:/Users/mnavas/CASE%20OF%20M.T.%20v.%20UKRAINE.docx",
+  "sections": {
+    "procedure": "1.  The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2016. The Vice-President of the Section decided that the applicant’s name should not be disclosed (Rule 47 § 4 of the Rules of Court).\n2.  The applicant was represented by Mr L. Drozdovskyy, a lawyer practising in Kyiv. The Ukrainian Government (“the Government”) were represented by their Agent, Mr I. Lishchyna.\n3.   The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.\n4.  On 20 March 2017 notice of the application was given to the Government.",
+    "circumstances": "5.  The applicant was born in 1946 and currently lives in Berlin, Germany.\n6.  In 2005 he was an English teacher in a school in Kyiv, Ukraine. At that time he entered into private relations with a married woman living in Kyiv. In 2006 the woman gave birth to a child. Her husband was indicated as the father in the child’s birth certificate. In 2007 a DNA test was performed proving that the applicant was in fact the father of the child. The applicant was not prevented from having access to the child by her mother, who accepted financial support from him on a monthly basis. The applicant bought a car for the child’s mother. In 2011 he wrote a will bequeathing all his property to the child.\n7.  The applicant had regular contact with the child until 2015 when the mother informed the applicant that she had divorced her husband and that she had decided to marry a German national and move with the child to Germany. As the applicant opposed the decision to emigrate to Germany, the mother denied him access to the child and prevented him from communicating with the child.\n8.  In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (“the District Court”) seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.\n9.  During the hearing the mother of the child admitted that the applicant had provided regular financial support and had taken part in the upbringing and education of the child. However, she submitted that the applicant’s claims were time-barred under Article 129 § 2 of the Family Code, which provided a one-year time-limit for such claims (see paragraph 15 below). The applicant contended that he had delayed his lawsuit because he had not wished to disturb the child’s family situation and he had not been prevented from communicating with the child on a regular basis until 2015. Only when the child’s mother had decided to emigrate to another country with the child had he decided to seek formal recognition of his paternity.\n10.  On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate. The District Court considered that the applicant had missed the time-limit for valid reasons. It took into account the applicant’s argument that he had not wished to disturb the family and cause any harm to the child with a lawsuit during the long period when the mother had in fact assisted him in having regular access to the child.\n11.  On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred. The appellate court stated that Article 129 § 2 of the Family Code provided a one-year time-limit, which had started to run from the moment the applicant had found out or should have found out about his paternity. The applicant had become aware of his paternity in 2007 when the DNA test had been performed (see paragraph 6 above); however he had applied to the court in 2015 (see paragraph 8 above), which had been too late.\n12.  The applicant appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child’s interests.\n13.  On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.\nII.  RELEVANT DOMESTIC LAW\nA.  Family Code of 10 January 2002\n14.  Under Article 129 § 1 of the Family Code, an individual, who considers that he has fathered a child with a woman who is married to another man, is entitled to submit a claim against the woman’s husband to have his paternity recognised if the latter has been registered as the child’s father.\n15.  Article 129 § 2 of the Family Code provides that the limitation period of one year applies to the claims for establishing paternity of a child and starts to run from the day when the claimant found out or should have found out about his paternity.\nB.  Civil Code of 16 January 2003\n16.  Article 267 § 5 of the Civil Code provides that if a court finds that the limitation period has been missed for a valid reason, the right violated should be subject to protection.",
+    "decision": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1.   Declares the application admissible;\n2.   Holds that there has been a violation of Article 8 of the Convention;\n3.   Holds that there is no need to examine the complaint under Article 6 § 1 of the Convention;\n4.   Holds\n(a)  that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:\n(i)  EUR 4,500 (four thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;\n(ii)  EUR 1,500 (one thousand five hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;\n(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;\n5.   Dismisses the remainder of the applicant’s claim for just satisfaction.\nDone in English, and notified in writing on 19 March 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court."
+  },
+  "combined_text_length": 6540,
+  "total_tokens": 1479,
+  "annotations": [
+    {
+      "model_name": "gemma3:1b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a national of the United States of America, Mr M.T (\"the applicant”), on 20 December 2016. The Vice-President of the Section decided that the applicant’s name should not be disclosed (Rule 47 § 4 of the Rules of Court).",
+          "event": "Event_who",
+          "event_who": "Mr M.T (\"the applicant\")",
+          "event_when": "20 December 2016",
+          "event_what": "The applicant’s name should not be disclosed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Mr L. Drozdovskyy, a lawyer practising in Kyiv. The Ukrainian Government (\"the Government\") were represented by their Agent, Mr I. Lishchyna.",
+          "event": "Event_who",
+          "event_who": "Mr L. Drozdovskyy",
+          "event_when": "20 December 2016",
+          "event_what": "The applicant was represented by Mr L. Drozdovskyy",
+          "event_type": "event_who"
+        },
+        {
+          "source_text": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event": "Event_who",
+          "event_who": "The applicant",
+          "event_when": "20 December 2016",
+          "event_what": "The applicant complained under Articles 6 and 8 of the Convention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 March 2017 notice of the application was given to the Government.",
+          "event": "Event_when",
+          "event_who": "The Government",
+          "event_when": "20 March 2017",
+          "event_what": "Notice of the application was given to the Government",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "5. The applicant was born in 1946 and currently lives in Berlin, Germany.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "1946",
+          "event_what": "The applicant was born in 1946",
+          "event_type": "event_when"
+        },
+        {
+          "source_text": "In 2005 he was an English teacher in a school in Kyiv, Ukraine. At that time he entered into private relations with a married woman living in Kyiv.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2005",
+          "event_what": "The applicant was an English teacher",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In 2006 the woman gave birth to a child. Her husband was indicated as the father in the child’s birth certificate.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2006",
+          "event_what": "The woman gave birth to a child",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In 2007 a DNA test was performed proving that the applicant was in fact the father of the child.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2007",
+          "event_what": "A DNA test was performed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was not prevented from having access to the child by her mother, who accepted financial support from him on a monthly basis.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2007",
+          "event_what": "The applicant was not prevented from having access to the child",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant bought a car for the child’s mother.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2011",
+          "event_what": "The applicant bought a car for the child's mother",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In 2015 he wrote a will bequeathing all his property to the child.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2015",
+          "event_what": "The applicant wrote a will",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant had regular contact with the child until 2015 when the mother informed him that she had divorced her husband and that she had decided to marry a German national and move with the child to Germany.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2015",
+          "event_what": "The applicant had regular contact with the child",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "As the applicant opposed the decision to emigrate to Germany, the mother denied him access to the child and prevented him from communicating with the child.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2015",
+          "event_what": "The applicant opposed the decision to emigrate",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event": "Event_when",
+          "event_who": "The District Court",
+          "event_when": "17 November 2015",
+          "event_what": "The District Court allowed the claims",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The District Court considered that the applicant had missed the time-limit for valid reasons.",
+          "event": "Event_when",
+          "event_who": "The District Court",
+          "event_when": "2015",
+          "event_what": "The District Court considered that the applicant had missed the time-limit",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It took into account the applicant’s argument that he had not wished to disturb the family and he had not been prevented from communicating with the child on a regular basis until 2015.",
+          "event": "Event_when",
+          "event_who": "The District Court",
+          "event_when": "2015",
+          "event_what": "The District Court considered the applicant's argument",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Only when the child’s mother had decided to emigrate to another country with the child had he decided to seek formal recognition of his paternity.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2015",
+          "event_what": "The applicant decided to seek formal recognition",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event": "Event_when",
+          "event_who": "The Kyiv Court of Appeal",
+          "event_when": "3 February 2016",
+          "event_what": "The Kyiv Court of Appeal overturned the District Court's decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The appellate court stated that Article 129 § 2 of the Family Code provided a one-year time-limit, which had started to run from the moment the applicant had found out or should have found out about his paternity.",
+          "event": "Event_when",
+          "event_who": "The Appellate Court",
+          "event_when": "3 February 2016",
+          "event_what": "The appellate court stated that the time-limit had started running",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant had become aware of his paternity in 2007 when the DNA test had been performed (see paragraph 6 above); however he had applied to the court in 2015 (see paragraph 8 above), which had been too late.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2007",
+          "event_what": "The applicant became aware of his paternity",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Only when the child’s mother had decided to emigrate to another country with the child had he decided to seek formal recognition of his paternity.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2015",
+          "event_what": "The applicant decided to seek formal recognition",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event": "Event_when",
+          "event_who": "The Higher Specialised Civil and Criminal Court",
+          "event_when": "13 July 2016",
+          "event_what": "The Higher Specialised Civil and Criminal Court dismissed the appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event": "Event_when",
+          "event_who": "The Higher Specialised Civil and Criminal Court",
+          "event_when": "13 July 2016",
+          "event_what": "The Higher Specialised Civil and Criminal Court dismissed the appeal",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T19:11:10.264492",
+      "context_length": 32000,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 47.07863998413086,
+      "llm_runtime_seconds": 47.07763385772705,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:4b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2016.",
+          "event": "lodged an application",
+          "event_who": "Mr M.T. (\"the applicant\")",
+          "event_when": "20 December 2016",
+          "event_what": "lodged an application",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The Vice-President of the Section decided that the applicant’s name should not be disclosed (Rule 47 § 4 of the Rules of Court).",
+          "event": "decided",
+          "event_who": "Vice-President of the Section",
+          "event_when": "unspecified",
+          "event_what": "decided",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr L. Drozdovskyy, a lawyer practising in Kyiv. The Ukrainian Government (“the Government”) were represented by their Agent, Mr I. Lishchyna.",
+          "event": "represented",
+          "event_who": "Mr L. Drozdovskyy, Mr I. Lishchyna",
+          "event_when": "unspecified",
+          "event_what": "represented",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event": "complained",
+          "event_who": "applicant",
+          "event_when": "unspecified",
+          "event_what": "complained",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 20 March 2017 notice of the application was given to the Government.",
+          "event": "given notice",
+          "event_who": "unspecified",
+          "event_when": "20 March 2017",
+          "event_what": "given notice",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant was born in 1946 and currently lives in Berlin, Germany.",
+          "event": "born",
+          "event_who": "applicant",
+          "event_when": "1946",
+          "event_what": "born",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "In 2005 he was an English teacher in a school in Kyiv, Ukraine. At that time he entered into private relations with a married woman living in Kyiv. In 2006 the woman gave birth to a child. Her husband was indicated as the father in the child’s birth certificate.",
+          "event": "entered into relations",
+          "event_who": "applicant, married woman",
+          "event_when": "2005, 2006",
+          "event_what": "entered into private relations",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "In 2007 a DNA test was performed proving that the applicant was in fact the father of the child.",
+          "event": "performed DNA test",
+          "event_who": "unspecified",
+          "event_when": "2007",
+          "event_what": "performed DNA test",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant was not prevented from having access to the child by her mother, who accepted financial support from him on a monthly basis.",
+          "event": "accepted financial support",
+          "event_who": "mother, applicant",
+          "event_when": "unspecified",
+          "event_what": "accepted financial support",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant bought a car for the child’s mother.",
+          "event": "bought a car",
+          "event_who": "applicant",
+          "event_when": "unspecified",
+          "event_what": "bought a car",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "In 2011 he wrote a will bequeathing all his property to the child.",
+          "event": "wrote a will",
+          "event_who": "applicant",
+          "event_when": "2011",
+          "event_what": "wrote a will",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant had regular contact with the child until 2015 when the mother informed the applicant that she had divorced her husband and that she had decided to marry a German national and move with the child to Germany.",
+          "event": "informed",
+          "event_who": "mother",
+          "event_when": "2015",
+          "event_what": "informed",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "As the applicant opposed the decision to emigrate to Germany, the mother denied him access to the child and prevented him from communicating with the child.",
+          "event": "denied access",
+          "event_who": "mother",
+          "event_when": "unspecified",
+          "event_what": "denied access",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (“the District Court”) seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.",
+          "event": "initiated proceedings",
+          "event_who": "applicant",
+          "event_when": "June 2015",
+          "event_what": "initiated proceedings",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "During the hearing the mother of the child admitted that the applicant had provided regular financial support and had taken part in the upbringing and education of the child. However, she submitted that the applicant’s claims were time-barred under Article 129 § 2 of the Family Code, which provided a one-year time-limit for such claims (see paragraph 15 below).",
+          "event": "admitted",
+          "event_who": "mother",
+          "event_when": "unspecified",
+          "event_what": "admitted",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant contended that he had delayed his lawsuit because he had not wished to disturb the child’s family situation and he had not been prevented from communicating with the child on a regular basis until 2015.",
+          "event": "contended",
+          "event_who": "applicant",
+          "event_when": "unspecified",
+          "event_what": "contended",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "Only when the child’s mother had decided to emigrate to another country with the child had he decided to seek formal recognition of his paternity.",
+          "event": "decided",
+          "event_who": "applicant",
+          "event_when": "unspecified",
+          "event_what": "decided",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event": "allowed claims",
+          "event_who": "District Court",
+          "event_when": "17 November 2015",
+          "event_what": "allowed claims",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The District Court considered that the applicant had missed the time-limit for valid reasons. It took into account the applicant’s argument that he had not wished to disturb the child’s family and cause any harm to the child with a lawsuit during the long period when the mother had in fact assisted him in having regular access to the child.",
+          "event": "considered",
+          "event_who": "District Court",
+          "event_when": "unspecified",
+          "event_what": "considered",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event": "overturned decision",
+          "event_who": "Kyiv Court of Appeal",
+          "event_when": "3 February 2016",
+          "event_what": "overturned decision",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The appellate court stated that Article 129 § 2 of the Family Code provided a one-year time-limit, which had started to run from the moment the applicant had found out or should have found out about his paternity. The applicant had become aware of his paternity in 2007 when the DNA test had been performed (see paragraph 6 above); however he had applied to the court in 2015 (see paragraph 8 above), which had been too late.",
+          "event": "stated",
+          "event_who": "Kyiv Court of Appeal",
+          "event_when": "unspecified",
+          "event_what": "stated",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child’s interests.",
+          "event": "argued",
+          "event_who": "applicant",
+          "event_when": "unspecified",
+          "event_what": "argued",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event": "dismissed appeal",
+          "event_who": "Higher Specialised Civil and Criminal Court",
+          "event_when": "13 July 2016",
+          "event_what": "dismissed appeal",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Under Article 129 § 1 of the Family Code, an individual, who considers that he has fathered a child with a woman who is married to another man, is entitled to submit a claim against the woman’s husband to have his paternity recognised if the latter has been registered as the child’s father.",
+          "event": "entitled to submit claim",
+          "event_who": "individual",
+          "event_when": "unspecified",
+          "event_what": "entitled to submit claim",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "Article 129 § 2 of the Family Code provides that the limitation period of one year applies to the claims for establishing paternity of a child and starts to run from the day when the claimant found out or should have found out about his paternity.",
+          "event": "provides limitation period",
+          "event_who": "unspecified",
+          "event_when": "unspecified",
+          "event_what": "provides limitation period",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event": "allowed claims",
+          "event_who": "District Court",
+          "event_when": "17 November 2015",
+          "event_what": "allowed claims",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 19 March 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "notified",
+          "event_who": "unspecified",
+          "event_when": "19 March 2019",
+          "event_what": "notified",
+          "event_type": "circumstance"
+        }
+      ],
+      "processed_at": "2025-08-12T19:12:03.679062",
+      "context_length": 128000,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 53.41450023651123,
+      "llm_runtime_seconds": 53.41246581077576,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2016",
+          "event": "lodged an application",
+          "event_who": "Mr M.T. (the applicant)",
+          "event_when": "20 December 2016",
+          "event_what": "application (no. 950/17)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Vice-President of the Section decided that the applicant’s name should not be disclosed (Rule 47 § 4 of the Rules of Court).",
+          "event": "decided",
+          "event_who": "Vice-President of the Section",
+          "event_when": " ",
+          "event_what": "applicant’s name should not be disclosed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 20 March 2017 notice of the application was given to the Government.",
+          "event": "was given",
+          "event_who": "notice of the application",
+          "event_when": "20 March 2017",
+          "event_what": " ",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In 2007 a DNA test was performed proving that the applicant was in fact the father of the child.",
+          "event": "was performed",
+          "event_who": "DNA test",
+          "event_when": "2007",
+          "event_what": "proving that the applicant was in fact the father of the child",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2011 he wrote a will bequeathing all his property to the child.",
+          "event": "wrote a will",
+          "event_who": "he (the applicant)",
+          "event_when": "2011",
+          "event_what": "bequeathing all his property to the child",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (“the District Court”) seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.",
+          "event": "initiated proceedings",
+          "event_who": "the applicant",
+          "event_when": "June 2015",
+          "event_what": "seeking recognition of his paternity and to have the child’s birth certificate amended accordingly",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event": "allowed",
+          "event_who": "the District Court",
+          "event_when": "17 November 2015",
+          "event_what": "the applicant’s claims",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event": "overturned",
+          "event_who": "the Kyiv Court of Appeal",
+          "event_when": "3 February 2016",
+          "event_what": "the District Court’s decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law.",
+          "event": "dismissed",
+          "event_who": "the Higher Specialised Civil and Criminal Court",
+          "event_when": "13 July 2016",
+          "event_what": "the applicant’s appeal on points of law",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares the application admissible;",
+          "event": "declares",
+          "event_who": "the Court",
+          "event_when": " ",
+          "event_what": "the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "holds",
+          "event_who": "the Court",
+          "event_when": " ",
+          "event_what": "there has been a violation of Article 8 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that the respondent State is to pay the applicant, within three months, the following amounts…",
+          "event": "is to pay",
+          "event_who": "the respondent State",
+          "event_when": "within three months",
+          "event_what": "the following amounts",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T19:12:50.999073",
+      "context_length": 128000,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 47.31994152069092,
+      "llm_runtime_seconds": 47.317882776260376,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama3.3:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2016.",
+          "event": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2016.",
+          "event_who": "a national of the United States of America, Mr M.T. (“the applicant”)",
+          "event_when": "on 20 December 2016",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": ""
+        },
+        {
+          "source_text": "The Vice-President of the Section decided that the applicant’s name should not be disclosed (Rule 47 § 4 of the Rules of Court).",
+          "event": "The Vice-President of the Section decided that the applicant’s name should not be disclosed (Rule 47 § 4 of the Rules of Court).",
+          "event_who": "The Vice-President of the Section",
+          "event_when": "",
+          "event_what": "decided that the applicant’s name should not be disclosed",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 20 March 2017 notice of the application was given to the Government.",
+          "event": "On 20 March 2017 notice of the application was given to the Government.",
+          "event_who": "",
+          "event_when": "On 20 March 2017",
+          "event_what": "notice of the application was given to the Government",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained under Articles 6 and 8 of the Convention",
+          "event_type": ""
+        },
+        {
+          "source_text": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (“the District Court”) seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.",
+          "event": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (“the District Court”) seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.",
+          "event_who": "the applicant",
+          "event_when": "In June 2015",
+          "event_what": "initiated proceedings before the Darnytskyy District Court of Kyiv",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event_who": "the District Court",
+          "event_when": "On 17 November 2015",
+          "event_what": "allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event_who": "the Kyiv Court of Appeal",
+          "event_when": "On 3 February 2016",
+          "event_what": "overturned the District Court’s decision and dismissed the applicant’s claim as time-barred",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child’s interests.",
+          "event": "The applicant appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child’s interests.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "appealed on points of law",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event_who": "the Higher Specialised Civil and Criminal Court",
+          "event_when": "On 13 July 2016",
+          "event_what": "dismissed the applicant’s appeal on points of law",
+          "event_type": ""
+        },
+        {
+          "source_text": "Declares the application admissible;",
+          "event": "Declares the application admissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Declares the application admissible",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Holds that there has been a violation of Article 8 of the Convention",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds that there is no need to examine the complaint under Article 6 § 1 of the Convention;",
+          "event": "Holds that there is no need to examine the complaint under Article 6 § 1 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Holds that there is no need to examine the complaint under Article 6 § 1 of the Convention",
+          "event_type": ""
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_type": ""
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 19 March 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 19 March 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 19 March 2019",
+          "event_what": "notified in writing",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-12T19:44:59.850711",
+      "context_length": 128000,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 1928.8515603542328,
+      "llm_runtime_seconds": 1928.8478257656097,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "deepseek-r1:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2016.",
+          "event": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2族016.",
+          "event_who": "a national of the United States of America, Mr M.T. (“the applicant”)",
+          "event_when": "on 20 December 2016",
+          "event_what": "lodged an application",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The Vice-President of the Section decided that the applicant’s name should not be disclosed (Rule 47 § 4 of the Rules of Court).",
+          "event": "The Vice-President of the Section decided that the applicant’s name should not be披露.",
+          "event_who": "The Vice-President of the Section",
+          "event_when": "",
+          "event_what": "decided",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 20 March 2017 notice of the application was given to the Government.",
+          "event": "On 20 March 2017 notice of the application was given to the Government.",
+          "event_who": "",
+          "event_when": "On 20 March 2017",
+          "event_what": "notice of the application was given",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant was born in 1946 and currently lives in Berlin, Germany.",
+          "event": "The applicant was born in 1946 and currently lives in Berlin, Germany.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event_who": "the Kyiv Court of Appeal",
+          "event_when": "On 3 February 2016",
+          "event_what": "overturned the District Court’s decision and dismissed the applicant’s claim",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The appellate court stated that Article 129 § 2 of the Family Code provided a one-year time-limit, which had started to run from the day when the claimant found out or should have found out about his paternity.",
+          "event": "The appellate court stated that Article 129 § 2 of the Family Code provided a one-year time-limit, which had started to run from the day when the claimant found out or should have found out about his paternity.",
+          "event_who": "the appellate court",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law.",
+          "event": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law.",
+          "event_who": "the Higher Specialised Civil and Criminal Court",
+          "event_when": "On 13 July 2016",
+          "event_what": "dismissed the applicant’s appeal on points of law",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 19 March 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 19 March 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 19 March 2019",
+          "event_what": "notified in writing",
+          "event_type": "procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T19:45:53.861938",
+      "context_length": 128000,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 54.01116919517517,
+      "llm_runtime_seconds": 53.997379302978516,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mistral:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a national of the United States of America, Mr M.T. (\"the applicant\"), on 20 December 2016.",
+          "event": "The case originated in an application against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms by a national of the United States of America, Mr M.T. (the applicant), on 20 December 2016.",
+          "event_who": "Mr M.T. (the applicant)",
+          "event_when": "20 December 2016",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Mr L. Drozdovskyy, a lawyer practising in Kyiv.",
+          "event": "The applicant was represented by Mr L. Drozdovskyy, a lawyer practising in Kyiv.",
+          "event_who": "Mr L. Drozdovskyy",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Ukrainian Government (\"the Government\") were represented by their Agent, Mr I. Lishchyna.",
+          "event": "The Ukrainian Government (the Government) were represented by their Agent, Mr I. Lishchyna.",
+          "event_who": "Mr I. Lishchyna",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 March 2017 notice of the application was given to the Government.",
+          "event": "On 20 March 2017 notice of the application was given to the Government.",
+          "event_who": "",
+          "event_when": "20 March 2017",
+          "event_what": "notice was given",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1946 and currently lives in Berlin, Germany.",
+          "event": "The applicant was born in 1946 and currently lives in Berlin, Germany.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "was born",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2005 he was an English teacher in a school in Kyiv, Ukraine.",
+          "event": "In 2005 he was an English teacher in a school in Kyiv, Ukraine.",
+          "event_who": "the applicant",
+          "event_when": "2005",
+          "event_what": "was an English teacher",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "At that time he entered into private relations with a married woman living in Kyiv.",
+          "event": "At that time he entered into private relations with a married woman living in Kyiv.",
+          "event_who": "the applicant",
+          "event_when": "at that time",
+          "event_what": "entered into private relations",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2006 the woman gave birth to a child. Her husband was indicated as the father in the child’s birth certificate.",
+          "event": "In 2006 the woman gave birth to a child. Her husband was indicated as the father in the child’s birth certificate.",
+          "event_who": "",
+          "event_when": "2006",
+          "event_what": "gave birth",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2007 a DNA test was performed proving that the applicant was in fact the father of the child.",
+          "event": "In 2007 a DNA test was performed proving that the applicant was in fact the father of the child.",
+          "event_who": "",
+          "event_when": "2007",
+          "event_what": "DNA test was performed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was not prevented from having access to the child by her mother, who accepted financial support from him on a monthly basis.",
+          "event": "The applicant was not prevented from having access to the child by her mother, who accepted financial support from him on a monthly basis.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "was not prevented",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant bought a car for the child’s mother.",
+          "event": "The applicant bought a car for the child’s mother.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "bought",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2011 he wrote a will bequeathing all his property to the child.",
+          "event": "In 2011 he wrote a will bequeathing all his property to the child.",
+          "event_who": "the applicant",
+          "event_when": "2011",
+          "event_what": "wrote a will",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant had regular contact with the child until 2015 when the mother informed the applicant that she had divorced her husband and that she had decided to marry a German national and move with the child to Germany.",
+          "event": "The applicant had regular contact with the child until 2015 when the mother informed the applicant that she had divorced her husband and that she had decided to marry a German national and move with the child to Germany.",
+          "event_who": "",
+          "event_when": "2015",
+          "event_what": "informed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "As the applicant opposed the decision to emigrate to Germany, the mother denied him access to the child and prevented him from communicating with the child.",
+          "event": "As the applicant opposed the decision to emigrate to Germany, the mother denied him access to the child and prevented him from communicating with the child.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "denied access",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (\"the District Court\") seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.",
+          "event": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (the District Court) seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.",
+          "event_who": "the applicant",
+          "event_when": "June 2015",
+          "event_what": "initiated proceedings",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "During the hearing the mother of the child admitted that the applicant had provided regular financial support and had taken part in the upbringing and education of the child.",
+          "event": "During the hearing the mother of the child admitted that the applicant had provided regular financial support and had taken part in the upbringing and education of the child.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "admitted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "However, she submitted that the applicant’s claims were time-barred under Article 129 § 2 of the Family Code, which provided a one-year time-limit for such claims (see paragraph 15 below).",
+          "event": "However, she submitted that the applicant’s claims were time-barred under Article 129 § 2 of the Family Code, which provided a one-year time-limit for such claims (see paragraph 15 below).",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "submitted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant contended that he had delayed his lawsuit because he had not wished to disturb the child’s family situation and he had not been prevented from communicating with the child on a regular basis until 2015.",
+          "event": "The applicant contended that he had delayed his lawsuit because he had not wished to disturb the child’s family situation and he had not been prevented from communicating with the child on a regular basis until 2015.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "contended",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Only when the child’s mother had decided to emigrate to another country with the child had he decided to seek formal recognition of his paternity.",
+          "event": "Only when the child’s mother had decided to emigrate to another country with the child had he decided to seek formal recognition of his paternity.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "decided",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event_who": "",
+          "event_when": "17 November 2015",
+          "event_what": "allowed the claims",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The District Court considered that the applicant had missed the time-limit for valid reasons.",
+          "event": "The District Court considered that the applicant had missed the time-limit for valid reasons.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "considered",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "It took into account the applicant’s argument that he had not wished to disturb the family and cause any harm to the child with a lawsuit during the long period when the mother had in fact assisted him in having regular access to the child.",
+          "event": "It took into account the applicant’s argument that he had not wished to disturb the family and cause any harm to the child with a lawsuit during the long period when the mother had in fact assisted him in having regular access to the child.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "took into account",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event_who": "",
+          "event_when": "3 February 2016",
+          "event_what": "overturned the decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The appellate court stated that Article 129 § 2 of the Family Code provided a one-year time-limit, which had started to run from the moment the applicant had found out or should have found out about his paternity.",
+          "event": "The appellate court stated that Article 129 § 2 of the Family Code provided a one-year time-limit, which had started to run from the moment the applicant had found out or should have found out about his paternity.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant had become aware of his paternity in 2007 when the DNA test had been performed (see paragraph 6 above); however he had applied to the court in 2015 (see paragraph 8 above), which had been too late.",
+          "event": "The applicant had become aware of his paternity in 2007 when the DNA test had been performed (see paragraph 6 above); however he had applied to the court in 2015 (see paragraph 8 above), which had been too late.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "had become aware",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child’s interests.",
+          "event": "The applicant appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child’s interests.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event_who": "",
+          "event_when": "13 July 2016",
+          "event_what": "dismissed the appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "II.  RELEVANT DOMESTIC LAW",
+          "event": "II.  RELEVANT DOMESTIC LAW",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "A.  Family Code of 10 January 2002",
+          "event": "A.  Family Code of 10 January 2002",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Under Article 129 § 1 of the Family Code, an individual, who considers that he has fathered a child with a woman who is married to another man, is entitled to submit a claim against the woman’s husband to have his paternity recognised if the latter has been registered as the child’s father.",
+          "event": "Under Article 129 § 1 of the Family Code, an individual, who considers that he has fathered a child with a woman who is married to another man, is entitled to submit a claim against the woman’s husband to have his paternity recognised if the latter has been registered as the child’s father.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "is entitled",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Article 129 § 2 of the Family Code provides that the limitation period of one year applies to the claims for establishing paternity of a child and starts to run from the day when the claimant found out or should have found out about his paternity.",
+          "event": "Article 129 § 2 of the Family Code provides that the limitation period of one year applies to the claims for establishing paternity of a child and starts to run from the day when the claimant found out or should have found out about his paternity.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "provides",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "B.  Civil Code of 16 January 2003",
+          "event": "B.  Civil Code of 16 January 2003",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Article 267 § 5 of the Civil Code provides that if a court finds that the limitation period has been missed for a valid reason, the right violated should be subject to protection.",
+          "event": "Article 267 § 5 of the Civil Code provides that if a court finds that the limitation period has been missed for a valid reason, the right violated should be subject to protection.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "provides",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "1.   Declares the application admissible;",
+          "event": "1.   Declares the application admissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declares",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2.   Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "2.   Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3.   Holds that there is no need to examine the complaint under Article 6 § 1 of the Convention;",
+          "event": "3.   Holds that there is no need to examine the complaint under Article 6 § 1 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "4.   Holds",
+          "event": "4.   Holds",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+          "event": "(a)  that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(i)  EUR 4,500 (four thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+          "event": "(i)  EUR 4,500 (four thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(ii)  EUR 1,500 (one thousand five hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "(ii)  EUR 1,500 (one thousand five hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "5.   Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "5.   Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 19 March 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 19 March 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T19:47:53.522841",
+      "context_length": 32768,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 119.66083359718323,
+      "llm_runtime_seconds": 119.65885543823242,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "incept5/llama3.1-claude:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2016.",
+          "event": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2016.",
+          "event_who": "Mr M.T. (applicant)",
+          "event_when": "on 20 December 2016",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Vice-President of the Section decided that the applicant’s name should not be disclosed (Rule 47 § 4 of the Rules of Court).",
+          "event": "The Vice-President of the Section decided that the applicant’s name should not be disclosed (Rule 47 § 4 of the Rules of Court).",
+          "event_who": "Vice-President of the Section",
+          "event_when": "",
+          "event_what": "decided that the applicant’s name should not be disclosed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr L. Drozdovskyy, a lawyer practising in Kyiv.",
+          "event": "The applicant was represented by Mr L. Drozdovskyy, a lawyer practising in Kyiv.",
+          "event_who": "Mr L. Drozdovskyy",
+          "event_when": "",
+          "event_what": "represented the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Ukrainian Government (“the Government”) were represented by their Agent, Mr I. Lishchyna.",
+          "event": "The Ukrainian Government (“the Government”) were represented by their Agent, Mr I. Lishchyna.",
+          "event_who": "Mr I. Lishchyna",
+          "event_when": "",
+          "event_what": "represented the Ukrainian Government",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event_who": "Mr M.T. (applicant)",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 March 2017 notice of the application was given to the Government.",
+          "event": "On 20 March 2017 notice of the application was given to the Government.",
+          "event_who": "",
+          "event_when": "on 20 March 2017",
+          "event_what": "notice of the application was given",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1946 and currently lives in Berlin, Germany.",
+          "event": "The applicant was born in 1946 and currently lives in Berlin, Germany.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "was born",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2005 he was an English teacher in a school in Kyiv, Ukraine. At that time he entered into private relations with a married woman living in Kyiv.",
+          "event": "In 2005 he was an English teacher in a school in Kyiv, Ukraine. At that time he entered into private relations with a married woman living in Kyiv.",
+          "event_who": "",
+          "event_when": "in 2005",
+          "event_what": "entered into private relations",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2006 the woman gave birth to a child. Her husband was indicated as the father in the child’s birth certificate.",
+          "event": "In 2006 the woman gave birth to a child. Her husband was indicated as the father in the child’s birth certificate.",
+          "event_who": "",
+          "event_when": "in 2006",
+          "event_what": "gave birth to a child",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2007 a DNA test was performed proving that the applicant was in fact the father of the child.",
+          "event": "In 2007 a DNA test was performed proving that the applicant was in fact the father of the child.",
+          "event_who": "",
+          "event_when": "in 2007",
+          "event_what": "a DNA test was performed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant had regular contact with the child until 2015 when the mother informed the applicant that she had divorced her husband and that she had decided to marry a German national and move with the child to Germany.",
+          "event": "The applicant had regular contact with the child until 2015 when the mother informed the applicant that she had divorced her husband and that she had decided to marry a German national and move with the child to Germany.",
+          "event_who": "",
+          "event_when": "until 2015",
+          "event_what": "had regular contact with the child",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "As the applicant opposed the decision to emigrate to Germany, the mother denied him access to the child and prevented him from communicating with the child.",
+          "event": "As the applicant opposed the decision to emigrate to Germany, the mother denied him access to the child and prevented him from communicating with the child.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "denied him access to the child",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (“the District Court”) seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.",
+          "event": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (“the District Court”) seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.",
+          "event_who": "Mr M.T. (applicant)",
+          "event_when": "in June 2015",
+          "event_what": "initiated proceedings",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "During the hearing the mother of the child admitted that the applicant had provided regular financial support and had taken part in the upbringing and education of the child.",
+          "event": "During the hearing the mother of the child admitted that the applicant had provided regular financial support and had taken part in the upbringing and education of the child.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "had provided regular financial support",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "However, she submitted that the applicant’s claims were time-barred under Article 129 § 2 of the Family Code.",
+          "event": "However, she submitted that the applicant’s claims were time-barred under Article 129 § 2 of the Family Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "submitted",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant contended that he had delayed his lawsuit because he had not wished to disturb the child’s family situation and he had not been prevented from communicating with the child on a regular basis until 2015.",
+          "event": "The applicant contended that he had delayed his lawsuit because he had not wished to disturb the child’s family situation and he had not been prevented from communicating with the child on a regular basis until 2015.",
+          "event_who": "",
+          "event_when": "until 2015",
+          "event_what": "had delayed his lawsuit",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Only when the child’s mother had decided to emigrate to another country with the child had he decided to seek formal recognition of his paternity.",
+          "event": "Only when the child’s mother had decided to emigrate to another country with the child had he decided to seek formal recognition of his paternity.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "decided to seek formal recognition of his paternity",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event_who": "",
+          "event_when": "on 17 November 2015",
+          "event_what": "allowed the applicant’s claims",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The District Court considered that the applicant had missed the time-limit for valid reasons.",
+          "event": "The District Court considered that the applicant had missed the time-limit for valid reasons.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "considered",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It took into account the applicant’s argument that he had not wished to disturb the family and cause any harm to the child with a lawsuit during the long period when the mother had in fact assisted him in having regular access to the child.",
+          "event": "It took into account the applicant’s argument that he had not wished to disturb the family and cause any harm to the child with a lawsuit during the long period when the mother had in fact assisted him in having regular access to the child.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "took into account",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event_who": "",
+          "event_when": "on 3 February 2016",
+          "event_what": "overturned the District Court’s decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The appellate court stated that Article 129 § 2 of the Family Code provided a one-year time-limit, which had started to run from the moment the applicant had found out or should have found out about his paternity.",
+          "event": "The appellate court stated that Article 129 § 2 of the Family Code provided a one-year time-limit, which had started to run from the moment the applicant had found out or should have found out about his paternity.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child’s interests.",
+          "event": "The applicant appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child’s interests.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event_who": "",
+          "event_when": "on 13 July 2016",
+          "event_what": "dismissed the applicant’s appeal on points of law",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "unanimously",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "1. Declares the application admissible;",
+          "event": "1. Declares the application admissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declares the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3. Holds that there is no need to examine the complaint under Article 6 § 1 of the Convention;",
+          "event": "3. Holds that there is no need to examine the complaint under Article 6 § 1 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "4. Holds (a) that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+          "event": "4. Holds (a) that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "5. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "5. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "dismisses",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 19 March 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 19 March 2019, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 19 March 2019",
+          "event_what": "notified in writing",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T19:49:16.237351",
+      "context_length": 1000000,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 82.71443724632263,
+      "llm_runtime_seconds": 82.71243572235107,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "chevalblanc/claude-3-haiku:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2016.",
+          "event": "The case originated in an application against Ukraine lodged with the Court under Article 34 of the Convention by Mr M.T., a national of the United States of America, on 20 December 2016.",
+          "event_who": "Mr M.T., a national of the United States of America",
+          "event_when": "on 20 December 2016",
+          "event_what": "lodged with the Court under Article 34 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event": "The applicant complained that the domestic courts had failed to establish his paternity, restricting his right of access to a court.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained that the domestic courts had failed to establish his paternity, restricting his right of access to a court",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2007 a DNA test was performed proving that the applicant was in fact the father of the child.",
+          "event": "a DNA test was performed proving that the applicant was the father of the child",
+          "event_who": "",
+          "event_when": "in 2007",
+          "event_what": "proving that the applicant was the father of the child",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (“the District Court”) seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.",
+          "event": "the applicant initiated proceedings before the District Court seeking recognition of his paternity",
+          "event_who": "the applicant",
+          "event_when": "in June 2015",
+          "event_what": "initiated proceedings before the District Court seeking recognition of his paternity",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event": "the District Court allowed the applicant’s claims, declaring him the father of the child",
+          "event_who": "",
+          "event_when": "on 17 November 2015",
+          "event_what": "allowed the applicant’s claims, declaring him the father of the child",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event": "the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred",
+          "event_who": "",
+          "event_when": "on 3 February 2016",
+          "event_what": "overturned the District Court’s decision and dismissed the applicant’s claim as time-barred",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event": "the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law",
+          "event_who": "",
+          "event_when": "on 13 July 2016",
+          "event_what": "dismissed the applicant’s appeal on points of law",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that there is no need to examine the complaint under Article 6 § 1 of the Convention; Holds (a) that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement: (i) EUR 4,500 (four thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii) EUR 1,500 (one thousand five hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "The Court declared the application admissible, held that there has been a violation of Article 8 of the Convention, and ordered the respondent State to pay the applicant within three months",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declared the application admissible, held that there has been a violation of Article 8 of the Convention, and ordered the respondent State to pay the applicant within three months",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T19:50:44.826786",
+      "context_length": 128000,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 88.58936142921448,
+      "llm_runtime_seconds": 88.58740448951721,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama4:16x17b",
+      "events": [
+        {
+          "source_text": "The applicant lodged an application against Ukraine with the Court under Article 34 of the Convention.",
+          "event": "lodged an application",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "lodged an application",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 20 December 2016, he lodged an application with the Court.",
+          "event": "lodged an application",
+          "event_who": "the applicant",
+          "event_when": "20 December 2016",
+          "event_what": "lodged an application",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant complained under Articles 6 and 8 of the Convention.",
+          "event": "complained",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 20 March 2017 notice of the application was given to the Government.",
+          "event": "gave notice",
+          "event_who": "",
+          "event_when": "20 March 2017",
+          "event_what": "gave notice",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant initiated proceedings before the Darnytskyy District Court of Kyiv.",
+          "event": "initiated proceedings",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "initiated proceedings",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 17 November 2015 the District Court allowed the applicant’s claims.",
+          "event": "allowed the claims",
+          "event_who": "the District Court",
+          "event_when": "17 November 2015",
+          "event_what": "allowed the claims",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision.",
+          "event": "overturned the decision",
+          "event_who": "the Kyiv Court of Appeal",
+          "event_when": "3 February 2016",
+          "event_what": "overturned the decision",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal.",
+          "event": "dismissed the appeal",
+          "event_who": "the Higher Specialised Civil and Criminal Court",
+          "event_when": "13 July 2016",
+          "event_what": "dismissed the appeal",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-12T20:01:07.954797",
+      "context_length": 10000000,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 623.1279249191284,
+      "llm_runtime_seconds": 623.1240835189819,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2016.",
+          "event": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a national of the United States of America, Mr M.T. (“the applicant”), on 20 December 2016.",
+          "event_who": "The case originated in an application by a national of the United States of America, Mr M.T. ('the applicant')",
+          "event_when": "on 20 December 2016",
+          "event_what": "lodged an application against Ukraine with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms”, ­",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In 2005 he was an English teacher in a school in Kyiv, Ukraine. At that time he entered into private relations with a married woman living in Kyiv. In 2006 the woman gave birth to a child. Her husband was indicated as the father in the child’s birth certificate.",
+          "event": "In 2005 he was an English teacher in a school in Kyiv, Ukraine. At that time he entered into private relations with a married woman living in Kyiv. In 2006 the woman gave birth to a child. Her husband was indicated as the father in the child’s birth certificate.",
+          "event_who": "he",
+          "event_when": "In 2005 and 2006",
+          "event_what": "was an English teacher, entered into private relations with a married woman, she gave birth to a child, her husband was indicated as the father in the child’s birth certificate",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2007 a DNA test was performed proving that the applicant was in fact the father of the child. The applicant was not prevented from having access to the child by her mother, who accepted financial support from him on a monthly basis.",
+          "event": "In 2007 a DNA test was performed proving that the applicant was in fact the father of the child. The applicant was not prevented from having access to the child by her mother, who accepted financial support from him on a monthly basis.",
+          "event_who": "a DNA test, the applicant, her mother",
+          "event_when": "In 2007",
+          "event_what": "a DNA test was performed proving that the applicant was in fact the father of the child, he was not prevented from having access to the child by her mother",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In 2011 he wrote a will bequeathing all his property to the child.",
+          "event": "In 2011 he wrote a will bequeathing all his property to the child.",
+          "event_who": "he",
+          "event_when": "In 2011",
+          "event_what": "wrote a will bequeathing all his property to the child",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant had regular contact with the child until 2015 when the mother informed the applicant that she had divorced her husband and that she had decided to marry a German national and move with the child to Germany.",
+          "event": "The applicant had regular contact with the child until 2015 when the mother informed the applicant that she had divorced her husband and that she had decided to marry a German national and move with the child to Germany.",
+          "event_who": "The applicant, the mother",
+          "event_when": "until 2015",
+          "event_what": "had regular contact with the child, informed the applicant of her decision to marry and move to Germany",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (“the District Court”) seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.",
+          "event": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv (“the District Court”) seeking recognition of his paternity and to have the child’s birth certificate amended accordingly.",
+          "event_who": "The applicant",
+          "event_when": "In June 2015",
+          "event_what": "initiated proceedings before the Darnytskyy District Court of Kyiv seeking recognition of his paternity and to have the child’s birth certificate amended accordingly",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event": "On 17 November 2015 the District Court allowed the applicant’s claims, declaring him the father of the child and ordering the amendment of the child’s birth certificate.",
+          "event_who": "The District Court",
+          "event_when": "On 17 November 2015",
+          "event_what": "allowed the applicant’s claims, declared him the father of the child and ordered the amendment of the child’s birth certificate",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court’s decision and dismissed the applicant’s claim as time-barred.",
+          "event_who": "The Kyiv Court of Appeal",
+          "event_when": "On 3 February 2016",
+          "event_what": "overturned the District Court’s decision and dismissed the applicant’s claim as time-barred",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child’s interests.",
+          "event": "The applicant appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child’s interests.",
+          "event_who": "The applicant",
+          "event_when": "after the Kyiv Court of Appeal's decision",
+          "event_what": "appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child’s interests",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code.",
+          "event_who": "The Higher Specialised Civil and Criminal Court",
+          "event_when": "On 13 July 2016",
+          "event_what": "dismissed the applicant’s appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 § 2 of the Family Code",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T20:21:05.373769",
+      "context_length": 32768,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 1197.418910741806,
+      "llm_runtime_seconds": 1197.4110236167908,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin3:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 950/17) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms ('the Convention') by a national of the United States of America, Mr M.T. ('the applicant'), on 20 December 2016.",
+          "event": "The case originated in an application",
+          "event_who": "Mr M.T. (the applicant)",
+          "event_when": "on 20 December 2016",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Vice-President of the Section decided that the applicant's name should not be disclosed (Rule 47 µ1 of the Rules of Court).",
+          "event": "The Vice-President of the Section decided",
+          "event_who": "Vice-President of the Section",
+          "event_when": "",
+          "event_what": "that the applicant's name should not be disclosed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr L. Drozdovskyy, a lawyer practising in Kyiv.",
+          "event": "The applicant was represented",
+          "event_who": "Mr L. Drozdovskyy (lawyer)",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Ukrainian Government ('the Government') were represented by their Agent, Mr I. Lishchyna.",
+          "event": "The Ukrainian Government was represented",
+          "event_who": "Mr I. Lishchyna (Agent)",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained under Articles 6 and 8 of the Convention that the domestic courts had failed to establish his paternity restricting thereby his right of access to a court.",
+          "event": "The applicant complained",
+          "event_who": "applicant",
+          "event_when": "",
+          "event_what": "under Articles 6 and 8 of the Convention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 March 2017 notice of the application was given to the Government.",
+          "event": "notice of the application was given",
+          "event_who": "Government",
+          "event_when": "on 20 March 2017",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1946 and currently lives in Berlin, Germany.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "In 2005 he was an English teacher in a school in Kyiv, Ukraine. At that time he entered into private relations with a married woman living in Kyiv.",
+          "event": "",
+          "event_who": "",
+          "event_when": "In 2005",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant had regular contact with the child until 2015 when the mother informed the applicant that she had divorced her husband and that she had decided to marry a German national and move with the child to Germany.",
+          "event": "",
+          "event_who": "",
+          "event_when": "until 2015",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "In June 2015 the applicant initiated proceedings before the Darnytskyy District Court of Kyiv ('the District Court') seeking recognition of his paternity and to have the child's birth certificate amended accordingly.",
+          "event": "The applicant initiated proceedings",
+          "event_who": "applicant",
+          "event_when": "In June 2015",
+          "event_what": "seeking recognition of his paternity",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 November 2015 the District Court allowed the applicant's claims, declaring him the father of the child and ordering the amendment of the child's birth certificate.",
+          "event": "The District Court allowed the applicant's claims",
+          "event_who": "District Court",
+          "event_when": "On 17 November 2015",
+          "event_what": "declaring him the father of the child and ordering the amendment",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 3 February 2016 the Kyiv Court of Appeal overturned the District Court's decision and dismissed the applicant's claim as time-barred.",
+          "event": "The Kyiv Court of Appeal overturned",
+          "event_who": "Kyiv Court of Appeal",
+          "event_when": "On 3 February 2016",
+          "event_what": "dismissed the applicant's claim",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant appealed on points of law, arguing that the Court of Appeal had applied the statute of limitations without duly taking into account the reasons for which he had delayed his action and without examining the child's interests.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 13 July 2016 the Higher Specialised Civil and Criminal Court dismissed the applicant's appeal on points of law, without examining whether the applicant had provided valid reasons which could justify his non-compliance with the time-limit set out in Article 129 µ1 of the Family Code.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 13 July 2016",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "1. Declares the application admissible;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "3. Holds that there is no need to examine the complaint under Article 6 µ1 of the Convention;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "4. Holds",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(a) that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(i) EUR 4,500 (four thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(ii) EUR 1,500 (one thousand five hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "5. Dismisses the remainder of the applicant's claim for just satisfaction.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 19 March 2019, pursuant to Rule 77 µ1 and 3 of the Rules of Court.",
+          "event": "",
+          "event_who": "",
+          "event_when": "on 19 March 2019",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-12T20:22:07.728339",
+      "context_length": 128000,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 62.35452198982239,
+      "llm_runtime_seconds": 62.35324192047119,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin-mixtral:8x7b",
+      "events": [],
+      "processed_at": "2025-08-13T17:53:27.445096",
+      "context_length": 32768,
+      "input_tokens": 1479,
+      "model_runtime_seconds": 77479.71667766571,
+      "llm_runtime_seconds": 77479.7147963047,
+      "validation_attempts": 1
+    }
+  ],
+  "processing_start_time": "2025-08-12T19:10:23.185805",
+  "processing_end_time": "2025-08-13T17:53:27.445108",
+  "total_processing_time_seconds": 81784.26062989235,
+  "metadata": {
+    "processed_at": "2025-08-13T17:53:27.449451",
+    "total_sections": 0,
+    "total_models": 12,
+    "total_tokens": 1479
+  }
+}

@@ -1,0 +1,1593 @@
+{
+  "Document": "file:/C:/Users/mnavas/CASE%20OF%20YAKUSHEV%20v.%20UKRAINE.docx",
+  "sections": {
+    "procedure": "1.  The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.\n2.  The applicant, who had been granted legal aid, was represented by Mr A. Kristenko a lawyer practising in Kharkiv. The Ukrainian Government (“the Government”) were represented by their Agent, most recently, Mr I. Lishchyna.\n3.  On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+    "circumstances": "4.  The applicant was born in 1971 and lives in Malyn, Zhytomyr Region.\n5.  On 17 November 1993 M. gave birth to a baby girl, K. Given that the applicant had had relations with M. at the relevant time, on 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.\n6.  On 23 March 2000 the applicant married M. They divorced in 2006.\n7.  In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K. The applicant claimed that, even though he had been married to another woman at the relevant time, he had had relations with M. and he had been sure that he was the father of the child and so accepted the paternity. However, in 2005 he had reason to doubt his paternity.\n8.  On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father. The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity of K.\n9.  M. appealed, stating that from January 1993 she and the applicant had lived together without being married and that she had never had any doubts about the applicant’s paternity of K. She argued, inter alia , that the genetic expert’s opinion was not reliable.\n10.  On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father. In support of that finding the Court of Appeal noted that before K.’s birth, the applicant and M. had not been married, they had not lived together (noting, in particular, that between February and April 1993 the applicant lived in another town), and the applicant had been married to another woman at the relevant time.\n11.  The applicant appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child. No such evidence was available in the file and the Regional Court of Appeal had exceeded its powers in drawing such a conclusion.\n12.  On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.\nII.  RELEVANT DOMESTIC LAW\n13.  Article 56 § 2 of the Marriage and Family Code of Ukraine, in force at the material time, provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+    "decision": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1.   Declares the application admissible;\n2.   Holds that there has been a violation of Article 8 of the Convention;\n3.   Holds\n(a)  that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:\n(i)  EUR 4,500 (four thousand and five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;\n(ii)  EUR 1,000 (one thousand euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;\n(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;\n4.   Dismisses the remainder of the applicant’s claim for just satisfaction.\nDone in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court."
+  },
+  "combined_text_length": 4852,
+  "total_tokens": 1143,
+  "annotations": [
+    {
+      "model_name": "gemma3:1b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Ukrainian national, Mr Igor Viktorovych Yakushev (\"the applicant”), on 7 March 2009.",
+          "event": "Complete text span",
+          "event_who": "Ukrainian national, Mr Igor Viktorovych Yakushev (\"the applicant\")",
+          "event_when": "7 March 2009",
+          "event_what": "lodged an application",
+          "event_type": "Application"
+        },
+        {
+          "source_text": "The applicant, who had been granted legal aid, was represented by Mr. A. Kristenko a lawyer practicing in Kharkiv.",
+          "event": "Complete text span",
+          "event_who": "Mr. A. Kristenko (lawyer)",
+          "event_when": "2009",
+          "event_what": "represented the applicant",
+          "event_type": "Representation"
+        },
+        {
+          "source_text": "The Ukrainian Government (\"the Government\") were represented by their Agent, most recently, Mr. I. Lishchyna.",
+          "event": "Complete text span",
+          "event_who": "Ukrainian Government (\"the Government\")",
+          "event_when": "2013",
+          "event_what": "represented by Agent",
+          "event_type": "Representation"
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Complete text span",
+          "event_who": "Government",
+          "event_when": "9 December 2013",
+          "event_what": "Notice of complaint",
+          "event_type": "Procedural"
+        },
+        {
+          "source_text": "The applicant was born in 1971 and lives in Malyn, Zhytomyr Region.",
+          "event": "Complete text span",
+          "event_who": "Applicant",
+          "event_when": "1971",
+          "event_what": "Born",
+          "event_type": "Personal Information"
+        },
+        {
+          "source_text": "On 17 November 1993 M. gave birth to a baby girl, K.",
+          "event": "Complete text span",
+          "event_who": "M.",
+          "event_when": "1993",
+          "event_what": "Baby girl",
+          "event_type": "Event"
+        },
+        {
+          "source_text": "Given that the applicant had relations with M. at the relevant time, on 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event": "Complete text span",
+          "event_who": "Applicant",
+          "event_when": "2 December 1993",
+          "event_what": "Accepted paternity",
+          "event_type": "Event"
+        },
+        {
+          "source_text": "On 23 March 2000 the applicant married M.",
+          "event": "Complete text span",
+          "event_who": "Applicant",
+          "event_when": "2000",
+          "event_what": "Married",
+          "event_type": "Event"
+        },
+        {
+          "source_text": "They divorced in 2006.",
+          "event": "Complete text span",
+          "event_who": "Applicant",
+          "event_when": "2006",
+          "event_what": "Divorced",
+          "event_type": "Event"
+        },
+        {
+          "source_text": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event": "Complete text span",
+          "event_who": "Applicant",
+          "event_when": "2008",
+          "event_what": "Found for",
+          "event_type": "Legal Outcome"
+        },
+        {
+          "source_text": "The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity of K.",
+          "event": "Complete text span",
+          "event_who": "Applicant",
+          "event_when": "2005",
+          "event_what": "Had a right to challenge",
+          "event_type": "Legal Principle"
+        },
+        {
+          "source_text": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father.",
+          "event": "Complete text span",
+          "event_who": "Applicant",
+          "event_when": "2008",
+          "event_what": "Quashed the decision",
+          "event_type": "Legal Outcome"
+        },
+        {
+          "source_text": "In support of that finding the Court of Appeal noted that before K.’s birth, the applicant and M. had not been married, they had not lived together (noting, in particular, that between February and April 1993 the applicant lived in another town), and the applicant had been married to another woman at the relevant time.",
+          "event": "Complete text span",
+          "event_who": "Applicant",
+          "event_when": "February and April 1993",
+          "event_what": "Had not been married",
+          "event_type": "Legal Finding"
+        },
+        {
+          "source_text": "The applicant appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child.",
+          "event": "Complete text span",
+          "event_who": "Applicant",
+          "event_when": "2008",
+          "event_what": "Contended",
+          "event_type": "Legal Argument"
+        },
+        {
+          "source_text": "No such evidence was available in the file and the Regional Court of Appeal had exceeded its powers in drawing such a conclusion.",
+          "event": "Complete text span",
+          "event_who": "Regional Court of Appeal",
+          "event_when": "2008",
+          "event_what": "Exceeded its powers",
+          "event_type": "Legal Criticism"
+        },
+        {
+          "source_text": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event": "Complete text span",
+          "event_who": "Supreme Court of Ukraine",
+          "event_when": "2008",
+          "event_what": "Rejected the appeal",
+          "event_type": "Legal Outcome"
+        }
+      ],
+      "processed_at": "2025-08-12T17:22:58.609342",
+      "context_length": 32000,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 30.7404522895813,
+      "llm_runtime_seconds": 30.739623546600342,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:4b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event": "lodged an application",
+          "event_who": "Mr Igor Viktorovych Yakushev",
+          "event_when": "7 March 2009",
+          "event_what": "lodged an application",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "declared inadmissible",
+          "event_who": "the Government",
+          "event_when": "9 December 2013",
+          "event_what": "declared inadmissible",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event": "accepted paternity",
+          "event_who": "Mr Igor Viktorovych Yakushev",
+          "event_when": "2 December 1993",
+          "event_what": "accepted paternity",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 23 March 2000 the applicant married M. They divorced in 2006.",
+          "event": "married",
+          "event_who": "the applicant and M.",
+          "event_when": "23 March 2000",
+          "event_what": "married",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event": "instituted proceedings",
+          "event_who": "the applicant",
+          "event_when": "July 2006",
+          "event_what": "instituted proceedings",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant claimed that, even though he had been married to another woman at the relevant time, he had had relations with M. and he had been sure that he was the father of the child and so accepted the paternity.",
+          "event": "claimed",
+          "event_who": "the applicant",
+          "event_when": "2006",
+          "event_what": "challenged paternity",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event": "found for the applicant",
+          "event_who": "the District Court",
+          "event_when": "24 March 2008",
+          "event_what": "found for the applicant",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity of K.",
+          "event": "noted",
+          "event_who": "the District Court",
+          "event_when": "2008",
+          "event_what": "challenged paternity",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "M. appealed, stating that from January 1993 she and the applicant had lived together without being married and that she had never had any doubts about the applicant’s paternity of K. She argued, inter alia , that the genetic expert’s opinion was not reliable.",
+          "event": "appealed",
+          "event_who": "M.",
+          "event_when": "1993",
+          "event_what": "challenged paternity",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not the father.",
+          "event": "quashed the first-instance court’s decision",
+          "event_who": "the Zhytomyr Regional Court of Appeal",
+          "event_when": "29 May 2008",
+          "event_what": "quashed the first-instance court’s decision",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "In support of that finding the Court of Appeal noted that before K.’s birth, the applicant and M. had not been married, they had not lived together (noting, in particular, that between February and April 1993 the applicant lived in another town), and the applicant had been married to another woman at the relevant time.",
+          "event": "noted",
+          "event_who": "the Zhytomyr Regional Court of Appeal",
+          "event_when": "2008",
+          "event_what": "challenged paternity",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child.",
+          "event": "appealed",
+          "event_who": "the applicant",
+          "event_when": "2008",
+          "event_what": "challenged paternity",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "No such evidence was available in the file and the Regional Court of Appeal had exceeded its powers in drawing such a conclusion.",
+          "event": "exceeded its powers",
+          "event_who": "the Zhytomyr Regional Court of Appeal",
+          "event_when": "2008",
+          "event_what": "challenged paternity",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event": "rejected the appeal by the applicant as unfounded",
+          "event_who": "the Supreme Court of Ukraine",
+          "event_when": "9 September 2008",
+          "event_what": "rejected the appeal by the applicant as unfounded",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "Article 56 § 2 of the Marriage and Family Code of Ukraine, in force at the material time, provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+          "event": "provided that",
+          "event_who": "Article 56 § 2 of the Marriage and Family Code of Ukraine",
+          "event_when": "at the material time",
+          "event_what": "provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+          "event_type": "circumstance"
+        }
+      ],
+      "processed_at": "2025-08-12T17:23:36.336760",
+      "context_length": 128000,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 37.727344274520874,
+      "llm_runtime_seconds": 37.72570824623108,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event": "lodged an application",
+          "event_who": "Mr Igor Viktorovych Yakushev",
+          "event_when": "7 March 2009",
+          "event_what": "application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "given",
+          "event_who": "the Government",
+          "event_when": "9 December 2013",
+          "event_what": "notice of the complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 November 1993 M. gave birth to a baby girl, K.",
+          "event": "gave birth",
+          "event_who": "M.",
+          "event_when": "17 November 1993",
+          "event_what": "a baby girl, K.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "on 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event": "accepted paternity",
+          "event_who": "he",
+          "event_when": "2 December 1993",
+          "event_what": "paternity of K.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 23 March 2000 the applicant married M.",
+          "event": "married",
+          "event_who": "the applicant",
+          "event_when": "23 March 2000",
+          "event_what": "M.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "They divorced in 2006.",
+          "event": "divorced",
+          "event_who": "They",
+          "event_when": "2006",
+          "event_what": "divorced",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event": "instituted proceedings",
+          "event_who": "the applicant",
+          "event_when": "July 2006",
+          "event_what": "proceedings",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event": "found",
+          "event_who": "the District Court",
+          "event_when": "24 March 2008",
+          "event_what": "for the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "M. appealed, stating that from January 1993 she and the applicant had lived together without being married.",
+          "event": "appealed",
+          "event_who": "M.",
+          "event_when": "January 1993",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father.",
+          "event": "quashed",
+          "event_who": "the Zhytomyr Regional Court of Appeal",
+          "event_when": "29 May 2008",
+          "event_what": "the first-instance court’s decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event": "rejected",
+          "event_who": "the Supreme Court of Ukraine",
+          "event_when": "9 September 2008",
+          "event_what": "the appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares the application admissible;",
+          "event": "Declares",
+          "event_who": "THE COURT",
+          "event_when": "4 December 2018",
+          "event_what": "the application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds",
+          "event_who": "THE COURT",
+          "event_when": "4 December 2018",
+          "event_what": "a violation of Article 8 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, the following amounts",
+          "event": "Holds",
+          "event_who": "THE COURT",
+          "event_when": "4 December 2018",
+          "event_what": "amounts",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses",
+          "event_who": "THE COURT",
+          "event_when": "4 December 2018",
+          "event_what": "the remainder of the applicant’s claim",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T17:24:34.527268",
+      "context_length": 128000,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 58.190441608428955,
+      "llm_runtime_seconds": 58.18880081176758,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama3.3:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event_who": "a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”)",
+          "event_when": "on 7 March 2009",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "the Government",
+          "event_when": "On 9 December 2013",
+          "event_what": "notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 17 November 1993 M. gave birth to a baby girl, K.",
+          "event": "On 17 November 1993 M. gave birth to a baby girl, K.",
+          "event_who": "M.",
+          "event_when": "On 17 November 1993",
+          "event_what": "gave birth to a baby girl, K.",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event": "On 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event_who": "he",
+          "event_when": "On 2 December 1993",
+          "event_what": "accepted paternity of K. by submitting the relevant declaration to the authorities",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 23 March 2000 the applicant married M.",
+          "event": "On 23 March 2000 the applicant married M.",
+          "event_who": "the applicant",
+          "event_when": "On 23 March 2000",
+          "event_what": "married M.",
+          "event_type": ""
+        },
+        {
+          "source_text": "They divorced in 2006.",
+          "event": "They divorced in 2006.",
+          "event_who": "",
+          "event_when": "in 2006",
+          "event_what": "divorced",
+          "event_type": ""
+        },
+        {
+          "source_text": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event_who": "the applicant",
+          "event_when": "In July 2006",
+          "event_what": "instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event_who": "the District Court",
+          "event_when": "On 24 March 2008",
+          "event_what": "found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father",
+          "event_type": ""
+        },
+        {
+          "source_text": "M. appealed, stating that from January 1993 she and the applicant had lived together without being married and that she had never had any doubts about the applicant’s paternity of K.",
+          "event": "M. appealed, stating that from January 1993 she and the applicant had lived together without being married and that she had never had any doubts about the applicant’s paternity of K.",
+          "event_who": "M.",
+          "event_when": "",
+          "event_what": "appealed",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father.",
+          "event": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father.",
+          "event_who": "the Zhytomyr Regional Court of Appeal",
+          "event_when": "On 29 May 2008",
+          "event_what": "quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child.",
+          "event": "The applicant appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event_who": "the Supreme Court of Ukraine",
+          "event_when": "On 9 September 2008",
+          "event_what": "rejected the appeal by the applicant as unfounded",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1. Declares the application admissible; 2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1. Declares the application admissible; 2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention",
+          "event_type": ""
+        },
+        {
+          "source_text": "3. Holds (a) that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement: (i) EUR 4,500 (four thousand and five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii) EUR 1,000 (one thousand euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "3. Holds (a) that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement: (i) EUR 4,500 (four thousand and five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii) EUR 1,000 (one thousand euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event_who": "the respondent State",
+          "event_when": "within three months",
+          "event_what": "is to pay the applicant... the following amounts",
+          "event_type": ""
+        },
+        {
+          "source_text": "(b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "from the expiry of the above-mentioned three months until settlement",
+          "event_what": "simple interest shall be payable on the above amounts",
+          "event_type": ""
+        },
+        {
+          "source_text": "4. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "4. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_type": ""
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 4 December 2018",
+          "event_what": "notified in writing",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-12T18:09:47.514153",
+      "context_length": 128000,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 2712.986791610718,
+      "llm_runtime_seconds": 2712.9832162857056,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "deepseek-r1:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_who": "a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”)",
+          "event_when": "on 7 March 2009",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant, who had been granted legal aid, was represented by Mr A. Kristenko a lawyer practising in Kharkiv. The Ukrainian Government (“the Government”) were represented by their Agent, most recently, Mr I. Lishchyna.",
+          "event": "The applicant, who had been granted legal aid, was represented",
+          "event_who": "Mr A. Kristenko",
+          "event_when": "",
+          "event_what": "represented the applicant",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given",
+          "event_who": "",
+          "event_when": "On 9 December 2013",
+          "event_what": "notice of the complaint was given to the Government and the remainder of the application was declared inadmissible",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-12T18:10:28.594881",
+      "context_length": 128000,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 41.0806610584259,
+      "llm_runtime_seconds": 41.067543029785156,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mistral:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Ukrainian national, Mr Igor Viktorovych Yakushev (\"the applicant\"), on 7 March 2009.",
+          "event": "The case originated in an application against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms by a Ukrainian national, Mr Igor Viktorovych Yakushev on 7 March 2009.",
+          "event_who": "Mr Igor Viktorovych Yakushev",
+          "event_when": "7 March 2009",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant, who had been granted legal aid, was represented by Mr A. Kristenko a lawyer practising in Kharkiv.",
+          "event": "The applicant was represented by Mr A. Kristenko a lawyer practising in Kharkiv.",
+          "event_who": "Mr A. Kristenko",
+          "event_when": "",
+          "event_what": "was represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Ukrainian Government (\"the Government\") were represented by their Agent, most recently, Mr I. Lishchyna.",
+          "event": "The Ukrainian Government were represented by their Agent, Mr I. Lishchyna.",
+          "event_who": "Mr I. Lishchyna",
+          "event_when": "",
+          "event_what": "was represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "9 December 2013",
+          "event_what": "notice of complaint was given and the remainder of the application was declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1971 and lives in Malyn, Zhytomyr Region.",
+          "event": "The applicant was born in 1971 and lives in Malyn, Zhytomyr Region.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "was born and lives",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 17 November 1993 M. gave birth to a baby girl, K.",
+          "event": "On 17 November 1993 M. gave birth to a baby girl, K.",
+          "event_who": "M.",
+          "event_when": "17 November 1993",
+          "event_what": "gave birth",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Given that the applicant had had relations with M. at the relevant time, on 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event": "Given that the applicant had had relations with M. at the relevant time, on 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event_who": "the applicant",
+          "event_when": "2 December 1993",
+          "event_what": "accepted paternity",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 23 March 2000 the applicant married M. They divorced in 2006.",
+          "event": "On 23 March 2000 the applicant married M. They divorced in 2006.",
+          "event_who": "the applicant and M.",
+          "event_when": "23 March 2000 and 2006",
+          "event_what": "married and divorced",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event_who": "the applicant",
+          "event_when": "July 2006",
+          "event_what": "instituted proceedings",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant claimed that, even though he had been married to another woman at the relevant time, he had had relations with M. and he had been sure that he was the father of the child and so accepted paternity.",
+          "event": "The applicant claimed that, even though he had been married to another woman at the relevant time, he had had relations with M. and he had been sure that he was the father of the child and so accepted paternity.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "claimed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "However, in 2005 he had reason to doubt his paternity.",
+          "event": "However, in 2005 he had reason to doubt his paternity.",
+          "event_who": "the applicant",
+          "event_when": "2005",
+          "event_what": "had reason to doubt",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event_who": "the District Court",
+          "event_when": "24 March 2008",
+          "event_what": "found for the applicant",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity.",
+          "event": "The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity.",
+          "event_who": "the District Court",
+          "event_when": "",
+          "event_what": "noted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "M. appealed, stating that from January 1993 she and the applicant had lived together without being married and that she had never had any doubts about the applicant’s paternity of K.",
+          "event": "M. appealed, stating that from January 1993 she and the applicant had lived together without being married and that she had never had any doubts about the applicant’s paternity of K.",
+          "event_who": "M.",
+          "event_when": "",
+          "event_what": "appealed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "She argued, inter alia , that the genetic expert’s opinion was not reliable.",
+          "event": "She argued, inter alia , that the genetic expert’s opinion was not reliable.",
+          "event_who": "M.",
+          "event_when": "",
+          "event_what": "argued",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father.",
+          "event": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father.",
+          "event_who": "the Zhytomyr Regional Court of Appeal",
+          "event_when": "29 May 2008",
+          "event_what": "quashed the first-instance court’s decision and held",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In support of that finding the Court of Appeal noted that before K.’s birth, the applicant and M. had not been married, they had not lived together (noting, in particular, that between February and April 1993 the applicant lived in another town), and the applicant had been married to another woman at the relevant time.",
+          "event": "In support of that finding the Court of Appeal noted that before K.’s birth, the applicant and M. had not been married, they had not lived together (noting, in particular, that between February and April 1993 the applicant lived in another town), and the applicant had been married to another woman at the relevant time.",
+          "event_who": "the Zhytomyr Regional Court of Appeal",
+          "event_when": "",
+          "event_what": "noted",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child.",
+          "event": "The applicant appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "appealed on a point of law",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "No such evidence was available in the file and the Regional Court of Appeal had exceeded its powers in drawing such a conclusion.",
+          "event": "No such evidence was available in the file and the Regional Court of Appeal had exceeded its powers in drawing such a conclusion.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "no such evidence was available and the Regional Court of Appeal had exceeded its powers",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event_who": "the Supreme Court of Ukraine",
+          "event_when": "9 September 2008",
+          "event_what": "rejected the appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "II.  RELEVANT DOMESTIC LAW",
+          "event": "II.  RELEVANT DOMESTIC LAW",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "relevant domestic law",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Article 56 § 2 of the Marriage and Family Code of Ukraine, in force at the material time, provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+          "event": "Article 56 § 2 of the Marriage and Family Code of Ukraine, in force at the material time, provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "provided",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "1.   Declares the application admissible;",
+          "event": "Declares the application admissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declares",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2.   Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3.   Holds",
+          "event": "Holds",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+          "event": "(a)  that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(i)  EUR 4,500 (four thousand and five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+          "event": "(i)  EUR 4,500 (four thousand and five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(ii)  EUR 1,000 (one thousand euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "(ii)  EUR 1,000 (one thousand euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "4.   Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "4 December 2018",
+          "event_what": "done and notified",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T18:12:01.376839",
+      "context_length": 32768,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 92.78188633918762,
+      "llm_runtime_seconds": 92.78006172180176,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "incept5/llama3.1-claude:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event_who": "Mr Igor Viktorovych Yakushev",
+          "event_when": "on 7 March 2009",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "the Government",
+          "event_when": "on 9 December 2013",
+          "event_what": "notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 November 1993 M. gave birth to a baby girl, K.",
+          "event": "On 17 November 1993 M. gave birth to a baby girl, K.",
+          "event_who": "M.",
+          "event_when": "on 17 November 1993",
+          "event_what": "gave birth to a baby girl, K.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event": "On 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event_who": "he",
+          "event_when": "on 2 December 1993",
+          "event_what": "accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 23 March 2000 the applicant married M.",
+          "event": "On 23 March 2000 the applicant married M.",
+          "event_who": "the applicant",
+          "event_when": "on 23 March 2000",
+          "event_what": "married M.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event_who": "the applicant",
+          "event_when": "in July 2006",
+          "event_what": "instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event_who": "the District Court",
+          "event_when": "on 24 March 2008",
+          "event_what": "found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father.",
+          "event": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father.",
+          "event_who": "the Zhytomyr Regional Court of Appeal",
+          "event_when": "on 29 May 2008",
+          "event_what": "quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event_who": "the Supreme Court of Ukraine",
+          "event_when": "on 9 September 2008",
+          "event_what": "rejected the appeal by the applicant as unfounded.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Article 56 § 2 of the Marriage and Family Code of Ukraine, in force at the material time, provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+          "event": "Article 56 § 2 of the Marriage and Family Code of Ukraine, in force at the material time, provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "FOR THESE REASONS, THE COURT, UNANIMOUSLY",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "1. Declares the application admissible;",
+          "event": "1. Declares the application admissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Declares the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Holds that there has been a violation of Article 8 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3. Holds (a) that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+          "event": "3. Holds (a) that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Holds (a) that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 4 December 2018",
+          "event_what": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T18:13:01.647174",
+      "context_length": 1000000,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 60.270246267318726,
+      "llm_runtime_seconds": 60.26847529411316,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "chevalblanc/claude-3-haiku:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event_who": "a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”)",
+          "event_when": "on 7 March 2009",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant, who had been granted legal aid, was represented by Mr A. Kristenko a lawyer practising in Kharkiv. The Ukrainian Government (“the Government”) were represented by their Agent, most recently, Mr I. Lishchyna.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "the Government",
+          "event_when": "On 9 December 2013",
+          "event_what": "was given notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity and declared the remainder of the application inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1971 and lives in Malyn, Zhytomyr Region.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 17 November 1993 M. gave birth to a baby girl, K. Given that the applicant had had relations with M. at the relevant time, on 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event": "On 17 November 1993 M. gave birth to a baby girl, K. Given that the applicant had had relations with M. at the relevant time, on 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event_who": "the applicant",
+          "event_when": "on 2 December 1993",
+          "event_what": "accepted paternity of K. by submitting the relevant declaration to the authorities",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 23 March 2000 the applicant married M. They divorced in 2006.",
+          "event": "On 23 March 2000 the applicant married M. They divorced in 2006.",
+          "event_who": "the applicant, M.",
+          "event_when": "On 23 March 2000, They divorced in 2006",
+          "event_what": "married, divorced",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K. The applicant claimed that, even though he had been married to another woman at the relevant time, he had had relations with M. and he had been sure that he was the father of the child and so accepted the paternity. However, in 2005 he had reason to doubt his paternity.",
+          "event": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event_who": "the applicant, M.",
+          "event_when": "In July 2006",
+          "event_what": "instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father. The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity of K.",
+          "event": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father. The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity of K.",
+          "event_who": "the District Court, the applicant",
+          "event_when": "On 24 March 2008",
+          "event_what": "found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father and noted that the applicant had a right to challenge his paternity",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "M. appealed, stating that from January 1993 she and the applicant had lived together without being married and that she had never had any doubts about the applicant’s paternity of K. She argued, inter alia , that the genetic expert’s opinion was not reliable.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father. In support of that finding the Court of Appeal noted that before K.’s birth, the applicant and M. had not been married, they had not lived together (noting, in particular, that between February and April 1993 the applicant lived in another town), and the applicant had been married to another woman at the relevant time.",
+          "event": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father.",
+          "event_who": "the Zhytomyr Regional Court of Appeal, the applicant",
+          "event_when": "On 29 May 2008",
+          "event_what": "quashed the first-instance court’s decision and held that the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child. No such evidence was available in the file and the Regional Court of Appeal had exceeded its powers in drawing such a conclusion.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event_who": "the Supreme Court of Ukraine, the applicant",
+          "event_when": "On 9 September 2008",
+          "event_what": "rejected the appeal by the applicant as unfounded",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "II. RELEVANT DOMESTIC LAW",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "13. Article 56 § 2 of the Marriage and Family Code of Ukraine, in force at the material time, provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "1. Declares the application admissible;",
+          "event": "Declares the application admissible",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "admits the application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 8 of the Convention",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "finds a violation of Article 8 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3. Holds (a) that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement: (i) EUR 4,500 (four thousand and five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii) EUR 1,000 (one thousand euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "4. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T18:15:11.666638",
+      "context_length": 128000,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 130.01939511299133,
+      "llm_runtime_seconds": 130.01776576042175,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama4:16x17b",
+      "events": [
+        {
+          "source_text": "The applicant lodged an application against Ukraine with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms.",
+          "event": "lodged an application",
+          "event_who": "the applicant",
+          "event_when": "on 7 March 2009",
+          "event_what": "lodged an application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible.",
+          "event": "declared inadmissible",
+          "event_who": "the Court",
+          "event_when": "on 9 December 2013",
+          "event_what": "declared inadmissible",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1971 and lives in Malyn, Zhytomyr Region.",
+          "event": "was born",
+          "event_who": "the applicant",
+          "event_when": "in 1971",
+          "event_what": "was born",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 17 November 1993 M. gave birth to a baby girl, K.",
+          "event": "gave birth",
+          "event_who": "M.",
+          "event_when": "on 17 November 1993",
+          "event_what": "gave birth",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event": "accepted paternity",
+          "event_who": "the applicant",
+          "event_when": "on 2 December 1993",
+          "event_what": "accepted paternity",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 23 March 2000 the applicant married M.",
+          "event": "married",
+          "event_who": "the applicant and M.",
+          "event_when": "on 23 March 2000",
+          "event_what": "married",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K.",
+          "event": "instituted proceedings",
+          "event_who": "the applicant",
+          "event_when": "in July 2006",
+          "event_what": "instituted proceedings",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 24 March 2008 the District Court found for the applicant.",
+          "event": "found for the applicant",
+          "event_who": "the District Court",
+          "event_when": "on 24 March 2008",
+          "event_what": "found for the applicant",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision.",
+          "event": "quashed",
+          "event_who": "the Zhytomyr Regional Court of Appeal",
+          "event_when": "on 29 May 2008",
+          "event_what": "quashed",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event": "rejected",
+          "event_who": "the Supreme Court of Ukraine",
+          "event_when": "on 9 September 2008",
+          "event_what": "rejected",
+          "event_type": "procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T18:28:11.552714",
+      "context_length": 10000000,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 779.8845970630646,
+      "llm_runtime_seconds": 779.8829939365387,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event_who": "The case",
+          "event_when": "on 7 March 2009",
+          "event_what": "originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant, who had been granted legal aid, was represented by Mr A. Kristenko a lawyer practising in Kharkiv. The Ukrainian Government (“the Government”) were represented by their Agent, most recently, Mr I. Lishchyna.",
+          "event": "The applicant, who had been granted legal aid, was represented by Mr A. Kristenko a lawyer practising in Kharkiv. The Ukrainian Government (“the Government”) were represented by their Agent, most recently, Mr I. Lishchyna.",
+          "event_who": "The applicant and the Ukrainian Government",
+          "event_when": "N/A",
+          "event_what": "were represented by lawyers in the case",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "The Court",
+          "event_when": "On 9 December 2013",
+          "event_what": "gave notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity and declared the remainder of the application inadmissible pursuant to Rule 54 § 3 of the Rules of Court",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father.",
+          "event_who": "The District Court",
+          "event_when": "On 24 March 2008",
+          "event_what": "found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time of that declaration, he had been aware that he was not K.’s father.",
+          "event": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time of that declaration, he had been aware that he was not K.’s father.",
+          "event_who": "The Zhytomyr Regional Court of Appeal",
+          "event_when": "On 29 May 2008",
+          "event_what": "quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time of that declaration, he had been aware that he was not K.’s father",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event_who": "The Supreme Court of Ukraine",
+          "event_when": "On 9 September 2008",
+          "event_what": "rejected the appeal by the applicant as unfounded",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T18:41:24.633845",
+      "context_length": 32768,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 793.0810787677765,
+      "llm_runtime_seconds": 793.0799090862274,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin3:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Ukrainian national, Mr Igor Viktorovych Yakushev (\"the applicant\"), on 7 March 2009.",
+          "event": "The case originated in an application",
+          "event_who": "a Ukrainian national, Mr Igor Viktorovych Yakushev",
+          "event_when": "on 7 March 2009",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant, who had been granted legal aid, was represented by Mr A. Kristenko a lawyer practising in Kharkiv. The Ukrainian Government (\"the Government\") were represented by their Agent, most recently, Mr I. Lishchyna.",
+          "event": "The applicant was represented",
+          "event_who": "Mr A. Kristenko",
+          "event_when": "",
+          "event_what": "represented by Mr A. Kristenko a lawyer practising in Kharkiv",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant's claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 × 3 of the Rules of Court.",
+          "event": "notice of the complaint under Article 8 of the Convention",
+          "event_who": "the Government",
+          "event_when": "On 9 December 2013",
+          "event_what": "concerning the dismissal of the applicant's claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 × 3 of the Rules of Court",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was born in 1971 and lives in Malyn, Zhytomyr Region.",
+          "event": "",
+          "event_who": "",
+          "event_when": "The applicant was born in 1971",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 17 November 1993 M. gave birth to a baby girl, K. Given that the applicant had had relations with M. at the relevant time, on 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 17 November 1993",
+          "event_what": "M. gave birth to a baby girl, K",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant claimed that, even though he had been married to another woman at the relevant time, he had had relations with M. and he had been sure that he was the father of the child and so accepted the paternity. However, in 2005 he had reason to doubt his paternity.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert's opinion which excluded the possibility of the applicant being K.'s biological father. The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity of K.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 24 March 2008",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "M. appealed, stating that from January 1993 she and the applicant had lived together without being married and that she had never had any doubts about the applicant's paternity of K. She argued, inter alia, that the genetic expert's opinion was not reliable.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court's decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.'s father. In support of that finding the Court of Appeal noted that before K.'s birth, the applicant and M. had not been married, they had not lived together (noting, in particular, that between February and April 1993 the applicant lived in another town), and the applicant had been married to another woman at the relevant time.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 29 May 2008",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child. No such evidence was available in the file and the Regional Court of Appeal had exceeded its powers in drawing such a conclusion.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 9 September 2008",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Declares the application admissible;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "that the respondent State is to pay the applicant, within three months, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement: (i) EUR 4,500 (four thousand and five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii) EUR 1,000 (one thousand euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant's claim for just satisfaction.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-12T18:42:22.675275",
+      "context_length": 128000,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 58.04134774208069,
+      "llm_runtime_seconds": 58.03938293457031,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin-mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event": "The case originated in an application (no. 15978/09) against Ukraine lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Ukrainian national, Mr Igor Viktorovych Yakushev (“the applicant”), on 7 March 2009.",
+          "event_who": "Mr Igor Viktorovych Yakushev",
+          "event_when": "7 March 2009",
+          "event_what": "lodged an application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 9 December 2013 notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "9 December 2013",
+          "event_what": "notice of the complaint under Article 8 of the Convention concerning the dismissal of the applicant’s claim challenging his paternity was given to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father. The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity of K.",
+          "event": "On 24 March 2008 the District Court found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father. The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity of K.",
+          "event_who": "",
+          "event_when": "24 March 2008",
+          "event_what": "found for the applicant, relying on a genetic expert’s opinion which excluded the possibility of the applicant being K.’s biological father. The court noted that the applicant had a right to challenge his paternity given that there was no evidence in the file to suggest that he had known that he was not the father of the child when accepting paternity of K.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father. In support of that finding the Court of Appeal noted that before K.’s birth, the applicant and M. had not been married, they had not lived together (noting, in particular, that between February and April 1993 the applicant lived in another town), and the applicant had been married to another woman at the relevant time.",
+          "event": "On 29 May 2008 the Zhytomyr Regional Court of Appeal quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father. In support of that finding the Court of Appeal noted that before K.’s birth, the applicant and M. had not been married, they had not lived together (noting, in particular, that between February and April 1993 the applicant lived in another town), and the applicant had been married to another woman at the relevant time.",
+          "event_who": "",
+          "event_when": "29 May 2008",
+          "event_what": "quashed the first-instance court’s decision and held that, under Article 56 of the Family and Marriage Code, the applicant had not had a right to challenge his paternity because at the time that he accepted paternity of K., he was aware that he was not K.’s father. In support of that finding the Court of Appeal noted that before K.’s birth, the applicant and M. had not been married, they had not lived together (noting, in particular, that between February and April 1993 the applicant lived in another town), and the applicant had been married to another woman at the relevant time.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event": "On 9 September 2008 the Supreme Court of Ukraine rejected the appeal by the applicant as unfounded.",
+          "event_who": "",
+          "event_when": "9 September 2008",
+          "event_what": "rejected the appeal by the applicant as unfounded.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 17 November 1993 M. gave birth to a baby girl, K. Given that the applicant had had relations with M. at the relevant time, on 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event": "On 17 November 1993 M. gave birth to a baby girl, K. Given that the applicant had had relations with M. at the relevant time, on 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event_who": "",
+          "event_when": "17 November 1993",
+          "event_what": "M. gave birth to a baby girl, K. Given that the applicant had had relations with M. at the relevant time, on 2 December 1993 he accepted paternity of K. by submitting the relevant declaration to the authorities.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 23 March 2000 the applicant married M. They divorced in 2006.",
+          "event": "On 23 March 2000 the applicant married M. They divorced in 2006.",
+          "event_who": "",
+          "event_when": "23 March 2000",
+          "event_what": "married M. They divorced in 2006.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K. The applicant claimed that, even though he had been married to another woman at the relevant time, he had had relations with M. and he had been sure that he was the father of the child and so accepted the paternity. However, in 2005 he had reason to doubt his paternity.",
+          "event": "In July 2006 the applicant instituted proceedings in the Malyn District Court against M., challenging the paternity of K. The applicant claimed that, even though he had been married to another woman at the relevant time, he had had relations with M. and he had been sure that he was the father of the child and so accepted the paternity. However, in 2005 he had reason to doubt his paternity.",
+          "event_who": "",
+          "event_when": "July 2006",
+          "event_what": "instituted proceedings in the Malyn District Court against M., challenging the paternity of K. The applicant claimed that, even though he had been married to another woman at the relevant time, he had had relations with M. and he had been sure that he was the father of the child and so accepted the paternity. However, in 2005 he had reason to doubt his paternity.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child. No such evidence was available in the file and the Regional Court of Appeal had exceeded its powers in drawing such a conclusion.",
+          "event": "The applicant appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child. No such evidence was available in the file and the Regional Court of Appeal had exceeded its powers in drawing such a conclusion.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "appealed on a point of law, contending that there were no grounds for the Court of Appeal to find that at the material time he was aware that he was not the biological father of the child. No such evidence was available in the file and the Regional Court of Appeal had exceeded its powers in drawing such a conclusion.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "On 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "4 December 2018",
+          "event_what": "pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Article 56 § 2 of the Marriage and Family Code of Ukraine, in force at the material time, provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+          "event": "Article 56 § 2 of the Marriage and Family Code of Ukraine, in force at the material time, provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Article 56 § 2 of the Marriage and Family Code of Ukraine, in force at the material time, provided that a person who was registered as a child’s father on the basis of his own declaration (or a joint declaration submitted with the child’s mother) did not have a right to challenge his paternity if, at the time of that declaration, he had been aware that he was not the child’s father.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1971 and lives in Malyn, Zhytomyr Region.",
+          "event": "The applicant was born in 1971 and lives in Malyn, Zhytomyr Region.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "born in 1971 and lives in Malyn, Zhytomyr Region.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "On 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "4 December 2018",
+          "event_what": "pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_type": "procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T19:10:23.162036",
+      "context_length": 32768,
+      "input_tokens": 1143,
+      "model_runtime_seconds": 1680.4866499900818,
+      "llm_runtime_seconds": 1680.4845447540283,
+      "validation_attempts": 1
+    }
+  ],
+  "processing_start_time": "2025-08-12T17:22:27.868842",
+  "processing_end_time": "2025-08-12T19:10:23.162049",
+  "total_processing_time_seconds": 6475.294300079346,
+  "metadata": {
+    "processed_at": "2025-08-12T19:10:23.162682",
+    "total_sections": 0,
+    "total_models": 12,
+    "total_tokens": 1143
+  }
+}

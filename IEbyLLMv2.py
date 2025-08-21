@@ -41,7 +41,6 @@ class ProcessingConfig:
     via_web: bool = False
     batch_size: int = 1
     reserve_tokens: int = 1000
-    prompt_config: str = "p4"  # Default prompt configuration
     validate_exact_text: bool = True  # Enable exact text validation
     validation_retries: int = 3  # Number of validation retry attempts
     
@@ -266,7 +265,7 @@ for prompt in available_prompts:
 
 # Note: Prompt configuration will be loaded when the pipeline runs
 # This allows for runtime configuration overrides
-print(f"\nDefault prompt configuration: {config.prompt_config}")
+#print(f"\nDefault prompt configuration: {config.prompt_config}")
 
 # Remove hardcoded definitions - now loaded from JSON files
 # event_definitions and instruction are now loaded from the prompt configuration
@@ -299,7 +298,7 @@ except Exception as e:
     pass
 
 # %%
-def askChatbotImproved(model: str, role: str, instruction: str, content: str, 
+def askChatbotImproved(model: str, role: str, instruction: str, content: str, event_definitions: str,
                       max_retries: int = 3, retry_delay: float = 1.0, 
                       document_name: str = "unknown") -> Optional[Dict[str, Any]]:
     """
@@ -330,6 +329,7 @@ def askChatbotImproved(model: str, role: str, instruction: str, content: str,
                 "temperature": config.temperature,
                 "messages": [
                     {"role": "system", "content": role},
+                    {"role": "user", "content": f"{event_definitions}"},
                     {"role": "user", "content": f"{current_instruction}\n\n{content}"},
                 ],
             }
@@ -412,7 +412,7 @@ def askChatbotImproved(model: str, role: str, instruction: str, content: str,
     logger.error(f"Failed to get response from {model} after {max_retries} attempts")
     return None
 
-def askChatbotLocalImproved(model: str, role: str, instruction: str, content: str, 
+def askChatbotLocalImproved(model: str, role: str, instruction: str, content: str, event_definitions: str,
                            max_retries: int = 3, retry_delay: float = 1.0,
                            document_name: str = "unknown") -> Optional[Dict[str, Any]]:
     """
@@ -427,6 +427,11 @@ def askChatbotLocalImproved(model: str, role: str, instruction: str, content: st
     current_instruction = instruction
     num_ctx = 16384
 
+    # print(f"Using role: {role}")
+    # print(f"Using event definitions: {event_definitions}")
+    # print(f"Using instruction: {current_instruction}")
+    # print(f"Using content: {content}")
+
     for attempt in range(max_retries):
         try:
             response = ollama.chat(
@@ -435,6 +440,7 @@ def askChatbotLocalImproved(model: str, role: str, instruction: str, content: st
                 format=EventList.model_json_schema(),
                 messages=[
                     {"role": "system", "content": role},
+                    {"role": "user", "content": f"{event_definitions}"},
                     {"role": "user", "content": f"{current_instruction}\n\n{content}"},
                 ]
             )
@@ -640,9 +646,9 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
         
         # Choose appropriate function based on configuration
         if config.via_web:
-            response = askChatbotImproved(model, prompt_config.event_definitions, prompt_config.instruction, combined_text, document_name=doc_name)
+            response = askChatbotImproved(model, prompt_config.role, prompt_config.instruction, combined_text, prompt_config.event_definitions, document_name=doc_name)
         else:
-            response = askChatbotLocalImproved(model, prompt_config.event_definitions, prompt_config.instruction, combined_text, document_name=doc_name)
+            response = askChatbotLocalImproved(model, prompt_config.role, prompt_config.instruction, combined_text, prompt_config.event_definitions, document_name=doc_name)
         
         model_end_time = time.time()
         model_runtime = model_end_time - model_start_time
@@ -688,27 +694,27 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
 # %%
 # Updated model configuration
 models = [
-#   "gemma3:1b",
+   "gemma3:1b",
 #  "gemma3:4b",
 #  "gemma3:12b",
 #  "mistral:latest"
-#]
+]
 
 # You can add more models as needed
 # models = [
-      "gemma3:1b",
-      "gemma3:4b",
-      "gemma3:12b",
-      "llama3.3:latest",
-      "deepseek-r1:8b",
-      "mistral:latest",
-      "incept5/llama3.1-claude:latest", 
-      "chevalblanc/claude-3-haiku:latest",
-      "llama4:16x17b",
-      "mixtral:8x7b",
-      "dolphin3:8b",
-      "dolphin-mixtral:8x7b"
-]
+#       "gemma3:1b",
+#       "gemma3:4b",
+#       "gemma3:12b",
+#       "llama3.3:latest",
+#       "deepseek-r1:8b",
+#       "mistral:latest",
+#       "incept5/llama3.1-claude:latest", 
+#       "chevalblanc/claude-3-haiku:latest",
+#       "llama4:16x17b",
+#       "mixtral:8x7b",
+#       "dolphin3:8b",
+#       "dolphin-mixtral:8x7b"
+# ]
 
 def run_improved_pipeline(max_documents: int = 10, models: List[str] = None, 
                          prompt_config_name: str = None, pipeline_timestamp: str = None) -> Dict[str, Any]:
@@ -803,11 +809,11 @@ print("Running improved IE pipeline...")
 print("=" * 50)
 
 # Configure processing
-config.max_documents = 30 # Start with a small number for testing
+config.max_documents = 1 # Start with a small number for testing
 config.via_web = False    # Use local models
 config.max_retries = 3
 config.retry_delay = 2.0
-config.prompt_config = "p4"
+config.prompt_config = "p1"
 config.validate_exact_text = False  # Enable text validation
 config.validation_retries = 3  # Maximum validation retry attempts  
 

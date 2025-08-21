@@ -1,0 +1,1648 @@
+{
+  "Document": "file:/C:/Users/mnavas/Desktop/CASE%20OF%20OTGON%20v.%20THE%20REPUBLIC%20OF%20MOLDOVA.docx",
+  "sections": {
+    "procedure": "1.  The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.\n2.  The Moldovan Government (“the Government”) were represented by their Agent, Mr V. Grosu.\n3.  The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.\n4.  On 30 November 2009 the application was communicated to the Government.",
+    "circumstances": "5.  The applicant was born in 1963 and lives in Călărași.\n6.  On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell. On 29 October 2005 the applicant’s daughter, who was twelve at the time, was admitted to hospital with a diagnosis of “serious acute dysentery”. The applicant was admitted to hospital with the same diagnosis on 31 October 2005. She was released from hospital on 13 November 2005, a day later than her daughter.\n7.  The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.\n8.  On 1 March 2006 the Călăraşi District Court found in her favour. It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking. The water pipe had cracked on 26 October 2005 and sewage water had infiltrated the drinking water pipe. The court also established that the pipes had been used since 1977 and that their expected lifespan was fifteen years. A total of five people, all of whom had drunk water from taps connected to the same water pipe, had been admitted to hospital with the same diagnosis at approximately the same time as the applicant. Taking into consideration such elements as the amount of physical and mental suffering caused to the applicant and her daughter, the court awarded her MDL 10,000 (approximately EUR 648 at the time).\n9.  The parties appealed. On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal. It reduced the award to MDL 5,000 (EUR 310) because it found exaggerated “both the sum claimed by [the applicant] and that awarded to [her]”.\n10.  The parties appealed. On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006. It found that the lower court had taken into consideration the nature and seriousness of the mental suffering caused to the applicant, as well as the degree of guilt of the defendant. That judgment was final.",
+    "decision": "FOR THESE REASONS, THE COURT\n1.   Declares , by a majority, the application admissible;\n2.   Holds , by six votes to one, that there has been a violation of Article 8 of the Convention;\n3.   Holds , by six votes to one\n(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement;\n(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;\n4.   Dismisses , unanimously, the remainder of the applicant’s claim for just satisfaction.\nDone in English, and notified in writing on 25 October 2016, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court."
+  },
+  "combined_text_length": 3992,
+  "total_tokens": 915,
+  "annotations": [
+    {
+      "model_name": "gemma3:1b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Moldovan national, Ms Svetlana Otgon (\"the applicant”), on 20 April 2007.",
+          "event": "Event_who",
+          "event_who": "Svetlana Otgon (the applicant)",
+          "event_when": "20 April 2007",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Moldovan Government (\"the Government\") were represented by their Agent, Mr V. Grosu.",
+          "event": "Event_who",
+          "event_who": "Mr V. Grosu (the Government’s Agent)",
+          "event_when": "20 April 2007",
+          "event_what": "represented by their Agent",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event": "Event_who",
+          "event_who": "the applicant",
+          "event_when": "20 April 2007",
+          "event_what": "alleged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 November 2009 the application was communicated to the Government.",
+          "event": "Event_when",
+          "event_who": "the Government",
+          "event_when": "30 November 2009",
+          "event_what": "communicated to the Government",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1963 and lives in Călărași.",
+          "event": "Event_who",
+          "event_who": "the applicant",
+          "event_when": "1963",
+          "event_what": "born in Călărași",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell.",
+          "event": "Event_when",
+          "event_who": "the applicant and her daughter",
+          "event_when": "26 October 2005",
+          "event_what": "drank water from taps",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 29 October 2005 the applicant’s daughter, who was twelve at the time, was admitted to hospital with a diagnosis of \"serious acute dysentery\".",
+          "event": "Event_when",
+          "event_who": "the applicant's daughter",
+          "event_when": "29 October 2005",
+          "event_what": "admitted to hospital with a diagnosis of \"serious acute dysentery\"",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was released from hospital on 13 November 2005, a day later than her daughter.",
+          "event": "Event_when",
+          "event_who": "the applicant",
+          "event_when": "13 November 2005",
+          "event_what": "released from hospital",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The parties appealed.",
+          "event": "Event_when",
+          "event_who": "the parties",
+          "event_when": "26 April 2006",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event": "Event_when",
+          "event_who": "the Chişinău Court of Appeal",
+          "event_when": "26 April 2006",
+          "event_what": "rejected the applicant’s appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking.",
+          "event": "Event_when",
+          "event_who": "the court",
+          "event_when": "26 April 2006",
+          "event_what": "established that the sewage pipe was leaking",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The water pipe had cracked on 26 October 2005 and sewage water had infiltrated the drinking water pipe.",
+          "event": "Event_when",
+          "event_who": "the water pipe",
+          "event_when": "26 October 2005",
+          "event_what": "cracked",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The court also established that the pipes had been used since 1977 and that their expected lifespan was fifteen years.",
+          "event": "Event_when",
+          "event_who": "the court",
+          "event_when": "1977",
+          "event_what": "expected lifespan of 15 years",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "A total of five people, all of whom had drunk water from taps connected to the same water pipe, had been admitted to hospital with the same diagnosis at approximately the same time as the applicant.",
+          "event": "Event_when",
+          "event_who": "the five people",
+          "event_when": "approximately the same time",
+          "event_what": "five people",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Taking into consideration such elements as the amount of physical and mental suffering caused to the applicant and her daughter, the court awarded her MDL 10,000 (approximately EUR 648 at the time).",
+          "event": "Event_when",
+          "event_who": "the court",
+          "event_when": "13 November 2005",
+          "event_what": "awarded MDL 10,000",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The parties appealed.",
+          "event": "Event_when",
+          "event_who": "the parties",
+          "event_when": "26 April 2006",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event": "Event_when",
+          "event_who": "the Chişinău Court of Appeal",
+          "event_when": "26 April 2006",
+          "event_what": "rejected the applicant’s appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It reduced the award to MDL 5,000 (EUR 310) because it found exaggerated ‘both the sum claimed by [the applicant] and that awarded to [her]’.",
+          "event": "Event_when",
+          "event_who": "the Chişinău Court of Appeal",
+          "event_when": "26 April 2006",
+          "event_what": "reduced the award to MDL 5,000",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The parties appealed.",
+          "event": "Event_when",
+          "event_who": "the parties",
+          "event_when": "25 October 2006",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It found that the lower court had taken into consideration the nature and seriousness of the mental suffering caused to the applicant, as well as the degree of guilt of the defendant.",
+          "event": "Event_when",
+          "event_who": "the lower court",
+          "event_when": "25 October 2006",
+          "event_what": "took into consideration the nature and seriousness of the mental suffering caused to the applicant",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "That judgment was final.",
+          "event": "Event_when",
+          "event_who": "the court",
+          "event_when": "25 October 2006",
+          "event_what": "final judgment",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T18:00:19.570289",
+      "context_length": 32000,
+      "input_tokens": 915,
+      "model_runtime_seconds": 43.72136974334717,
+      "llm_runtime_seconds": 43.72063899040222,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:4b",
+      "events": [],
+      "processed_at": "2025-08-09T18:43:55.963799",
+      "context_length": 128000,
+      "input_tokens": 915,
+      "model_runtime_seconds": 2616.3933968544006,
+      "llm_runtime_seconds": 2616.3914902210236,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "lodged an application",
+          "event_who": "Ms Svetlana Otgon",
+          "event_when": "20 April 2007",
+          "event_what": "application (no. 22743/07)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Moldovan Government (“the Government”) were represented by their Agent, Mr V. Grosu.",
+          "event": "were represented",
+          "event_who": "the Government",
+          "event_when": "",
+          "event_what": "Agent, Mr V. Grosu",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event": "alleged",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "insufficient compensation for an established violation of her rights under Article 8 of the Convention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 November 2009 the application was communicated to the Government.",
+          "event": "was communicated",
+          "event_who": "the application",
+          "event_when": "30 November 2009",
+          "event_what": "to the Government",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell.",
+          "event": "drank water",
+          "event_who": "the applicant and her daughter",
+          "event_when": "26 October 2005",
+          "event_what": "water from taps",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 29 October 2005 the applicant’s daughter, who was twelve at the time, was admitted to hospital with a diagnosis of “serious acute dysentery”.",
+          "event": "was admitted",
+          "event_who": "the applicant’s daughter",
+          "event_when": "29 October 2005",
+          "event_what": "hospital with a diagnosis of “serious acute dysentery”, 12 years old",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was admitted to hospital with the same diagnosis on 31 October 2005.",
+          "event": "was admitted",
+          "event_who": "the applicant",
+          "event_when": "31 October 2005",
+          "event_what": "hospital with the same diagnosis",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "She was released from hospital on 13 November 2005, a day later than her daughter.",
+          "event": "was released",
+          "event_who": "the applicant",
+          "event_when": "13 November 2005",
+          "event_what": "hospital",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event": "lodged",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "court action",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event": "found",
+          "event_who": "the Călăraşi District Court",
+          "event_when": "1 March 2006",
+          "event_what": "in her favour",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking.",
+          "event": "had established",
+          "event_who": "various sanitary, medical and technical reports",
+          "event_when": "",
+          "event_what": "sewage pipe was situated above the drinking water pipe and was leaking",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The water pipe had cracked on 26 October 2005 and sewage water had infiltrated the drinking water pipe.",
+          "event": "cracked",
+          "event_who": "The water pipe",
+          "event_when": "26 October 2005",
+          "event_what": "sewage water had infiltrated the drinking water pipe",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The court also established that the pipes had been used since 1977 and that their expected lifespan was fifteen years.",
+          "event": "established",
+          "event_who": "The court",
+          "event_when": "",
+          "event_what": "the pipes had been used since 1977 and that their expected lifespan was fifteen years",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "A total of five people, all of whom had drunk water from taps connected to the same water pipe, had been admitted to hospital with the same diagnosis at approximately the same time as the applicant.",
+          "event": "had been admitted",
+          "event_who": "five people",
+          "event_when": "",
+          "event_what": "hospital with the same diagnosis",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Taking into consideration such elements as the amount of physical and mental suffering caused to the applicant and her daughter, the court awarded her MDL 10,000 (approximately EUR 648 at the time).",
+          "event": "awarded",
+          "event_who": "the court",
+          "event_when": "",
+          "event_what": "MDL 10,000 (approximately EUR 648 at the time)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The parties appealed. On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event": "rejected",
+          "event_who": "the Chişinău Court of Appeal",
+          "event_when": "26 April 2006",
+          "event_what": "the applicant’s appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It reduced the award to MDL 5,000 (EUR 310) because it found exaggerated “both the sum claimed by [the applicant] and that awarded to [her]”.",
+          "event": "reduced",
+          "event_who": "It",
+          "event_when": "",
+          "event_what": "the award to MDL 5,000 (EUR 310)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The parties appealed. On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006.",
+          "event": "upheld",
+          "event_who": "the Supreme Court of Justice",
+          "event_when": "25 October 2006",
+          "event_what": "the judgment of 26 April 2006",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It found that the lower court had taken into consideration the nature and seriousness of the mental suffering caused to the applicant, as well as the degree of guilt of the defendant.",
+          "event": "found",
+          "event_who": "It",
+          "event_when": "",
+          "event_what": "the lower court had taken into consideration the nature and seriousness of the mental suffering caused to the applicant, as well as the degree of guilt of the defendant",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "That judgment was final.",
+          "event": "was final",
+          "event_who": "That judgment",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares , by a majority, the application admissible;",
+          "event": "Declares",
+          "event_who": "a majority",
+          "event_when": "",
+          "event_what": "the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds , by six votes to one, that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds",
+          "event_who": "six votes to one",
+          "event_when": "",
+          "event_what": "there has been a violation of Article 8 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds , by six votes to one (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement;",
+          "event": "Holds",
+          "event_who": "six votes to one",
+          "event_when": "",
+          "event_what": "the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses , unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses",
+          "event_who": "unanimously",
+          "event_when": "",
+          "event_what": "the remainder of the applicant’s claim for just satisfaction",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T18:45:21.807725",
+      "context_length": 128000,
+      "input_tokens": 915,
+      "model_runtime_seconds": 85.84380197525024,
+      "llm_runtime_seconds": 85.84114813804626,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama3.3:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "a Moldovan national, Ms Svetlana Otgon (“the applicant”)",
+          "event_when": "on 20 April 2007",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 30 November 2009 the application was communicated to the Government.",
+          "event": "On 30 November 2009 the application was communicated to the Government.",
+          "event_who": "the Government",
+          "event_when": "On 30 November 2009",
+          "event_what": "was communicated",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell.",
+          "event": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell.",
+          "event_who": "the applicant and her daughter",
+          "event_when": "On 26 October 2005",
+          "event_what": "drank water",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "lodged a court action",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event_who": "the Călăraşi District Court",
+          "event_when": "On 1 March 2006",
+          "event_what": "found in her favour",
+          "event_type": ""
+        },
+        {
+          "source_text": "The parties appealed. On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event": "The parties appealed. On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event_who": "the parties",
+          "event_when": "On 26 April 2006",
+          "event_what": "appealed",
+          "event_type": ""
+        },
+        {
+          "source_text": "The Supreme Court of Justice upheld the judgment of 26 April 2006. It found that the lower court had taken into consideration the nature and seriousness of the mental suffering caused to the applicant, as well as the degree of guilt of the defendant.",
+          "event": "The Supreme Court of Justice upheld the judgment of 26 April 2006. It found that the lower court had taken into consideration the nature and seriousness of the mental suffering caused to the applicant, as well as the degree of guilt of the defendant.",
+          "event_who": "the Supreme Court of Justice",
+          "event_when": "",
+          "event_what": "upheld the judgment",
+          "event_type": ""
+        },
+        {
+          "source_text": "Declares , by a majority, the application admissible;",
+          "event": "Declares , by a majority, the application admissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Declares",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds , by six votes to one, that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds , by six votes to one, that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Holds",
+          "event_type": ""
+        },
+        {
+          "source_text": "that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement;",
+          "event": "that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement;",
+          "event_who": "the respondent State",
+          "event_when": "within three months from the date on which the judgment becomes final",
+          "event_what": "is to pay",
+          "event_type": ""
+        },
+        {
+          "source_text": "Dismisses , unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses , unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Dismisses",
+          "event_type": ""
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 25 October 2016, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 25 October 2016, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 25 October 2016",
+          "event_what": "notified",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-09T19:14:11.791670",
+      "context_length": 128000,
+      "input_tokens": 915,
+      "model_runtime_seconds": 1729.9838540554047,
+      "llm_runtime_seconds": 1729.975397825241,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "deepseek-r1:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/9) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "a Moldovan national, Ms Svetlana Otgon (“the applicant”)",
+          "event_when": "on 20 April 2007",
+          "event_what": "lodged an application",
+          "event_type": ""
+        },
+        {
+          "source_text": "The Moldovan Government (“the Government”) were represented by their Agent, Mr V. Grosu.",
+          "event": "The Moldovan Government (“the Government”) were represented by their Agent, Mr V. Grosu.",
+          "event_who": "The Moldovan Government",
+          "event_when": "",
+          "event_what": "were represented",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 30 November 2009 the application was communicated to the Government.",
+          "event": "On 30 November 2009 the application was communicated to the Government.",
+          "event_who": "",
+          "event_when": "On 30 November 2009",
+          "event_what": "the application was communicated",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant was born in 1963 and lives in Călărași.",
+          "event": "The applicant was born in 1963 and lives in Călărași.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell.",
+          "event": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell.",
+          "event_who": "the applicant and her daughter",
+          "event_when": "On 26 October 2005",
+          "event_what": "drank water from taps",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 29 October 2005 the applicant’s daughter, who was twelve at the time, was admitted to hospital with a diagnosis of “serious acute dysentery”.",
+          "event": "On 29 October 2005 the applicant’s daughter, who was twelve at the time, was admitted to hospital with a diagnosis of “serious acute dysentery”.",
+          "event_who": "the applicant’s daughter",
+          "event_when": "On 29 October 2005",
+          "event_what": "was admitted to hospital",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant was admitted to hospital with the same diagnosis on 31 October 2005.",
+          "event": "The applicant was admitted to hospital with the same diagnosis on 31 October 2005.",
+          "event_who": "the applicant",
+          "event_when": "on 31 October 2005",
+          "event_what": "was admitted to hospital",
+          "event_type": ""
+        },
+        {
+          "source_text": "She was released from hospital on 13 November 2005, a day later than her daughter.",
+          "event": "She was released from hospital on 13 November 2005, a day later than her daughter.",
+          "event_who": "the applicant",
+          "event_when": "on 13 November 2005",
+          "event_what": "was released from hospital",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming MDL 100,000 Moldovan lei (“MDL”, approximately EUR 6,700 at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming MDL 100,000 Moldovan lei (“MDL”, approximately EUR 6,700 at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "lodged a court action",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event_who": "The Călăraşi District Court",
+          "event_when": "On 1 March 2007",
+          "event_what": "found in her favour",
+          "event_type": ""
+        },
+        {
+          "source_text": "It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking. The water pipe had cracked on 26 October 2005 and sewage water had infiltrated the drinking water pipe.",
+          "event": "It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking. The water pipe had cracked on 26 October 2005 and sewage water had infiltrated the drinking water pipe.",
+          "event_who": "",
+          "event_when": "The water pipe had cracked on 26 October 2005",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The court also established that the pipes had been used since 1977 and that their expected lifespan was fifteen years.",
+          "event": "The court also established that the pipes had been used since 1977 and that their expected lifespan was fifteen years.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "A total of five people, all of whom had drunk water from taps connected to the same water pipe, had been admitted to hospital with the same diagnosis at approximately the same time as the applicant.",
+          "event": "A total of five people, all of whom had drunk water from taps connected to the same water pipe, had been admitted to hospital with the same diagnosis at approximately the same time as the applicant.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event": "On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event_who": "",
+          "event_when": "On 26 April 2006",
+          "event_what": "rejected the applicant’s appeal and partly accepted the provider’s appeal",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006.",
+          "event": "On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006.",
+          "event_who": "",
+          "event_when": "On 25 October 2006",
+          "event_what": "upheld the judgment",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 69 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-09T19:16:45.345220",
+      "context_length": 128000,
+      "input_tokens": 915,
+      "model_runtime_seconds": 153.55348253250122,
+      "llm_runtime_seconds": 153.54265975952148,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mistral:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Moldovan national, Ms Svetlana Otgon (\"the applicant\"), on 20 April 2007.",
+          "event": "The case originated in an application against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms by a Moldovan national, Ms Svetlana Otgon on 20 April 2007.",
+          "event_who": "Ms Svetlana Otgon",
+          "event_when": "20 April 2007",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Moldovan Government (\"the Government\") were represented by their Agent, Mr V. Grosu.",
+          "event": "The Moldovan Government were represented by their Agent, Mr V. Grosu.",
+          "event_who": "Mr V. Grosu",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event": "The applicant alleged that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 November 2009 the application was communicated to the Government.",
+          "event": "On 30 November 2009 the application was communicated to the Government.",
+          "event_who": "",
+          "event_when": "30 November 2009",
+          "event_what": "communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1963 and lives in Călărași.",
+          "event": "The applicant was born in 1963 and lives in Călărași.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "born and lives",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell.",
+          "event": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell.",
+          "event_who": "the applicant and her daughter",
+          "event_when": "26 October 2005",
+          "event_what": "drank water and felt unwell",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 29 October 2005 the applicant’s daughter, who was twelve at the time, was admitted to hospital with a diagnosis of “serious acute dysentery”. The applicant was admitted to hospital with the same diagnosis on 31 October 2005.",
+          "event": "On 29 October 2005 the applicant’s daughter was admitted to hospital with a diagnosis of ‘serious acute dysentery’. The applicant was admitted to hospital with the same diagnosis on 31 October 2005.",
+          "event_who": "the applicant's daughter",
+          "event_when": "29 October 2005 and 31 October 2005",
+          "event_what": "admitted to hospital",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant lodged a court action against the local utilities provider (\"the provider\"), a State-owned company, claiming 100,000 Moldovan lei (\"MDL\", approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event": "The applicant lodged a court action against the local utilities provider, a State-owned company, claiming 100,000 Moldovan lei in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "lodged a court action",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event_who": "the Călăraşi District Court",
+          "event_when": "1 March 2006",
+          "event_what": "found in her favour",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking. The water pipe had cracked on 26 October 2005 and sewage water had infiltrated the drinking water pipe.",
+          "event": "It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking. The water pipe had cracked on 26 October 2005 and sewage water had infiltrated the drinking water pipe.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The court also established that the pipes had been used since 1977 and that their expected lifespan was fifteen years.",
+          "event": "The court also established that the pipes had been used since 1977 and that their expected lifespan was fifteen years.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "established",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "A total of five people, all of whom had drunk water from taps connected to the same water pipe, had been admitted to hospital with the same diagnosis at approximately the same time as the applicant.",
+          "event": "A total of five people, all of whom had drunk water from taps connected to the same water pipe, had been admitted to hospital with the same diagnosis at approximately the same time as the applicant.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "had been admitted to hospital",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Taking into consideration such elements as the amount of physical and mental suffering caused to the applicant and her daughter, the court awarded her MDL 10,000 (approximately EUR 648 at the time).",
+          "event": "Taking into consideration such elements as the amount of physical and mental suffering caused to the applicant and her daughter, the court awarded her MDL 10,000 (approximately EUR 648 at the time).",
+          "event_who": "the court",
+          "event_when": "",
+          "event_what": "awarded",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The parties appealed.",
+          "event": "The parties appealed.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event": "On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event_who": "the Chişinău Court of Appeal",
+          "event_when": "26 April 2006",
+          "event_what": "rejected the applicant’s appeal and partly accepted the provider’s appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It reduced the award to MDL 5,000 (EUR 310) because it found exaggerated “both the sum claimed by [the applicant] and that awarded to [her]”.",
+          "event": "It reduced the award to MDL 5,000 (EUR 310) because it found exaggerated ‘both the sum claimed by [the applicant] and that awarded to [her]’.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "reduced the award",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The parties appealed.",
+          "event": "The parties appealed.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006.",
+          "event": "On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006.",
+          "event_who": "the Supreme Court of Justice",
+          "event_when": "25 October 2006",
+          "event_what": "upheld the judgment of 26 April 2006",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It found that the lower court had taken into consideration the nature and seriousness of the mental suffering caused to the applicant, as well as the degree of guilt of the defendant.",
+          "event": "It found that the lower court had taken into consideration the nature and seriousness of the mental suffering caused to the applicant, as well as the degree of guilt of the defendant.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT",
+          "event": "FOR THESE REASONS, THE COURT",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares , by a majority, the application admissible;",
+          "event": "Declares, by a majority, the application admissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declares the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds , by six votes to one, that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds, by six votes to one, that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds that there has been a violation of Article 8 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds , by six votes to one",
+          "event": "Holds, by six votes to one",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement;",
+          "event": "(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "that the respondent State is to pay the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "that simple interest shall be payable",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses , unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses, unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T19:18:05.186204",
+      "context_length": 32768,
+      "input_tokens": 915,
+      "model_runtime_seconds": 79.84090852737427,
+      "llm_runtime_seconds": 79.83936142921448,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "incept5/llama3.1-claude:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "Ms Svetlana Otgon",
+          "event_when": "20 April 2007",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 November 2009 the application was communicated to the Government.",
+          "event": "On 30 November 2009 the application was communicated to the Government.",
+          "event_who": "the Government",
+          "event_when": "30 November 2009",
+          "event_what": "was communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell.",
+          "event": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell.",
+          "event_who": "the applicant and her daughter",
+          "event_when": "26 October 2005",
+          "event_what": "drank water",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 29 October 2005 the applicant’s daughter, who was twelve at the time, was admitted to hospital with a diagnosis of “serious acute dysentery”.",
+          "event": "On 29 October 2005 the applicant’s daughter, who was twelve at the time, was admitted to hospital with a diagnosis of “serious acute dysentery”.",
+          "event_who": "the applicant’s daughter",
+          "event_when": "29 October 2005",
+          "event_what": "was admitted to hospital",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "lodged a court action",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event_who": "the Călăraşi District Court",
+          "event_when": "1 March 2006",
+          "event_what": "found in her favour",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event": "On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event_who": "the Chişinău Court of Appeal",
+          "event_when": "26 April 2006",
+          "event_what": "rejected the applicant’s appeal and partly accepted the provider’s appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006.",
+          "event": "On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006.",
+          "event_who": "the Supreme Court of Justice",
+          "event_when": "25 October 2006",
+          "event_what": "upheld the judgment",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT",
+          "event": "FOR THESE REASONS, THE COURT",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Declares, by a majority, the application admissible;",
+          "event": "Declares, by a majority, the application admissible;",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "declared the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds, by six votes to one, that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds, by six votes to one, that there has been a violation of Article 8 of the Convention;",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "held that there had been a violation of Article 8 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds, by six votes to one",
+          "event": "Holds, by six votes to one",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement;",
+          "event": "(a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement;",
+          "event_who": "the respondent State",
+          "event_when": "",
+          "event_what": "is to pay the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses, unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses, unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "dismissed the remainder of the applicant’s claim",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T19:18:59.581200",
+      "context_length": 1000000,
+      "input_tokens": 915,
+      "model_runtime_seconds": 54.3949134349823,
+      "llm_runtime_seconds": 54.39332818984985,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "chevalblanc/claude-3-haiku:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "a Moldovan national, Ms Svetlana Otgon",
+          "event_when": "on 20 April 2007",
+          "event_what": "lodged with the Court under Article 34 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 November 2009 the application was communicated to the Government.",
+          "event": "On 30 November 2009 the application was communicated to the Government.",
+          "event_who": "",
+          "event_when": "on 30 November 2009",
+          "event_what": "was communicated to the Government",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "lodged a court action",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 March 2006 the Călăraşi District Court found in her favour. It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking. The water pipe had cracked on 26 October 2005 and sewage water had infiltrated the drinking water pipe. The court also established that the pipes had been used since 1977 and that their expected lifespan was fifteen years. A total of five people, all of whom had drunk water from taps connected to the same water pipe, had been admitted to hospital with the same diagnosis at approximately the same time as the applicant. Taking into consideration such elements as the amount of physical and mental suffering caused to the applicant and her daughter, the court awarded her MDL 10,000 (approximately EUR 648 at the time).",
+          "event": "On 1 March 2006 the Călăraşi District Court found in her favour. It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking. The water pipe had cracked on 26 October 2005 and sewage water had infiltrated the drinking water pipe. The court also established that the pipes had been used since 1977 and that their expected lifespan was fifteen years. A total of five people, all of whom had drunk water from taps connected to the same water pipe, had been admitted to hospital with the same diagnosis at approximately the same time as the applicant. Taking into consideration such elements as the amount of physical and mental suffering caused to the applicant and her daughter, the court awarded her MDL 10,000 (approximately EUR 648 at the time).",
+          "event_who": "The Călăraşi District Court",
+          "event_when": "On 1 March 2006",
+          "event_what": "found in her favour",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT Declares , by a majority, the application admissible; Holds , by six votes to one, that there has been a violation of Article 8 of the Convention; Holds , by six votes to one (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses , unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event": "FOR THESE REASONS, THE COURT Declares , by a majority, the application admissible; Holds , by six votes to one, that there has been a violation of Article 8 of the Convention; Holds , by six votes to one (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses , unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Declares, Holds, Dismisses",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T19:20:36.512170",
+      "context_length": 128000,
+      "input_tokens": 915,
+      "model_runtime_seconds": 96.93090271949768,
+      "llm_runtime_seconds": 96.92940139770508,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama4:16x17b",
+      "events": [
+        {
+          "source_text": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event": "lodged a court action",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "lodged a court action",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event": "found in her favour",
+          "event_who": "the Călăraşi District Court",
+          "event_when": "1 March 2006",
+          "event_what": "found in her favour",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event": "alleged",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 November 2009 the application was communicated to the Government.",
+          "event": "communicated",
+          "event_who": "",
+          "event_when": "30 November 2009",
+          "event_what": "communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The parties appealed.",
+          "event": "appealed",
+          "event_who": "the parties",
+          "event_when": "",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event": "rejected",
+          "event_who": "the Chişinău Court of Appeal",
+          "event_when": "26 April 2006",
+          "event_what": "rejected",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006.",
+          "event": "upheld",
+          "event_who": "the Supreme Court of Justice",
+          "event_when": "25 October 2006",
+          "event_what": "upheld",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Court declares , by a majority, the application admissible;",
+          "event": "declares",
+          "event_who": "The Court",
+          "event_when": "",
+          "event_what": "declares",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Court holds , by six votes to one, that there has been a violation of Article 8 of the Convention;",
+          "event": "holds",
+          "event_who": "The Court",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T19:31:23.013012",
+      "context_length": 10000000,
+      "input_tokens": 915,
+      "model_runtime_seconds": 646.5007674694061,
+      "llm_runtime_seconds": 646.4992971420288,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "The case originated in an application by a Moldovan national, Ms Svetlana Otgon”,  // optional, as not explicitly mentioned who lodged the application with the Court  but it can be inferred that it was the applicant.  The other entities are not performing actions here.  If you want to include them, you could say ",
+          "event_when": "on 20 April 2007 by a Moldovan national, Ms Svetlana Otgon and the Republic of Moldova",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event": "The applicant alleged that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event_who": "The applicant",
+          "event_when": " ",
+          "event_what": "alleged that she had received insufficient compensation for an established violation of her rights",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 November 2009 the application was communicated to the Government.",
+          "event": "On 30 November 2009 the application was communicated to the Government.",
+          "event_who": " ",
+          "event_when": "On 30 November 2009",
+          "event_what": "the application was communicated to the Government",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event_who": "The applicant",
+          "event_when": " ",
+          "event_what": "lodged a court action against the local utilities provider”,  // optional, as not explicitly mentioned what kind of action was lodged but it can be inferred that it was a court action.  If you want to include it, you could say ",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event": "On 1 March 2006 the Călăraşi District Court found in her favour.",
+          "event_who": "The Călăraşi District Court",
+          "event_when": "On 1 March 2006",
+          "event_what": "found in her favour",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event": "On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event_who": "The Chişinău Court of Appeal",
+          "event_when": "On 26 April 2006",
+          "event_what": "rejected the applicant’s appeal and partly accepted the provider’s appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006.",
+          "event": "On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006.",
+          "event_who": "The Supreme Court of Justice",
+          "event_when": "On 25 October 2006",
+          "event_what": "upheld the judgment of 26 April 2006",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Court Declares , by a majority, the application admissible;",
+          "event": "The Court Declares , by a majority, the application admissible;",
+          "event_who": "The Court",
+          "event_when": " ",
+          "event_what": "Declares the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds , by six votes to one, that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds , by six votes to one, that there has been a violation of Article 8 of the Convention;",
+          "event_who": "The Court",
+          "event_when": " ",
+          "event_what": "Holds that there has been a violation of Article 8 of the Convention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Holds , by six votes to one (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement;",
+          "event": "Holds , by six votes to one (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement;",
+          "event_who": "The Court",
+          "event_when": " ",
+          "event_what": "Holds that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T19:44:53.643902",
+      "context_length": 32768,
+      "input_tokens": 915,
+      "model_runtime_seconds": 810.6308374404907,
+      "llm_runtime_seconds": 810.6298587322235,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin3:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Moldovan national, Ms Svetlana Otgon (\"the applicant\"), on 20 April 2007.",
+          "event": "The case originated in an application",
+          "event_who": "Ms Svetlana Otgon",
+          "event_when": "on 20 April 2007",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Moldovan Government (\"the Government\") were represented by their Agent, Mr V. Grosu.",
+          "event": "The Moldovan Government were represented",
+          "event_who": "Mr V. Grosu",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 November 2009 the application was communicated to the Government.",
+          "event": "The application was communicated",
+          "event_who": "the Government",
+          "event_when": "on 30 November 2009",
+          "event_what": "communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event": "",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell. On 29 October 2005 the applicant’s daughter, who was twelve at the time, was admitted to hospital with a diagnosis of \"serious acute dysentery\". The applicant was admitted to hospital with the same diagnosis on 31 October 2005.",
+          "event": "",
+          "event_who": "the applicant and her daughter",
+          "event_when": "On 26 October 2005",
+          "event_what": "drank water from taps",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant lodged a court action against the local utilities provider (\"the provider\"), a State-owned company, claiming 100,000 Moldovan lei (\"MDL\", approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event": "The applicant lodged a court action",
+          "event_who": "the local utilities provider",
+          "event_when": "",
+          "event_what": "lodged a court action",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 March 2006 the Călăraşi District Court found in her favour. It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking.",
+          "event": "",
+          "event_who": "the Călăraşi District Court",
+          "event_when": "On 1 March 2006",
+          "event_what": "found in her favour",
+          "event_type": ""
+        },
+        {
+          "source_text": "The parties appealed. On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal.",
+          "event": "",
+          "event_who": "the parties",
+          "event_when": "On 26 April 2006",
+          "event_what": "appealed",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant was born in 1963 and lives in Călărași.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006.",
+          "event": "",
+          "event_who": "the Supreme Court of Justice",
+          "event_when": "On 25 October 2006",
+          "event_what": "upheld the judgment",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "1.   Declares, by a majority, the application admissible;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "2.   Holds, by six votes to one, that there has been a violation of Article 8 of the Convention;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "3.   Holds, by six votes to one",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement;",
+          "event": "",
+          "event_who": "the respondent State",
+          "event_when": "within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention",
+          "event_what": "to pay the applicant",
+          "event_type": ""
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "4.   Dismisses, unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-09T19:45:46.618336",
+      "context_length": 128000,
+      "input_tokens": 915,
+      "model_runtime_seconds": 52.97438406944275,
+      "llm_runtime_seconds": 52.973435163497925,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin-mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event": "The case originated in an application (no. 22743/07) against the Republic of Moldova lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Moldovan national, Ms Svetlana Otgon (“the applicant”), on 20 April 2007.",
+          "event_who": "Moldovan national, Ms Svetlana Otgon",
+          "event_when": "20 April 2007",
+          "event_what": "lodged an application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The Moldovan Government (“the Government”) were represented by their Agent, Mr V. Grosu.",
+          "event": "The Moldovan Government (“the Government”) were represented by their Agent, Mr V. Grosu.",
+          "event_who": "Moldovan Government",
+          "event_when": "",
+          "event_what": "were represented",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event": "The applicant alleged, in particular, that she had received insufficient compensation for an established violation of her rights under Article 8 of the Convention.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 30 November 2009 the application was communicated to the Government.",
+          "event": "On 30 November 2009 the application was communicated to the Government.",
+          "event_who": "",
+          "event_when": "30 November 2009",
+          "event_what": "communicated an application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1963 and lives in Călărași.",
+          "event": "The applicant was born in 1963 and lives in Călărași.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "was born",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell. On 29 October 2005 the applicant’s daughter, who was twelve at the time, was admitted to hospital with a diagnosis of “serious acute dysentery”. The applicant was admitted to hospital with the same diagnosis on 31 October 2005. She was released from hospital on 13 November 2005, a day later than her daughter.",
+          "event": "On 26 October 2005 the applicant and her daughter drank water from taps in their apartment and shortly thereafter they felt unwell. On 29 October 2005 the applicant’s daughter, who was twelve at the time, was admitted to hospital with a diagnosis of “serious acute dysentery”. The applicant was admitted to hospital with the same diagnosis on 31 October 2005. She was released from hospital on 13 November 2005, a day later than her daughter.",
+          "event_who": "",
+          "event_when": "On 26 October 2005",
+          "event_what": "drank water from taps in their apartment and shortly thereafter they felt unwell",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event": "The applicant lodged a court action against the local utilities provider (“the provider”), a State-owned company, claiming 100,000 Moldovan lei (“MDL”, approximately 6,700 euros (EUR) at the time) in compensation for the harm caused to her health and for the related inconveniences, including subsequent investigations and disinfection.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "lodged a court action",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 1 March 2006 the Călăraşi District Court found in her favour. It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking. The water pipe had cracked on 26 October 2005 and sewage water had infiltrated the drinking water pipe. The court also established that the pipes had been used since 1977 and that their expected lifespan was fifteen years. A total of five people, all of whom had drunk water from taps connected to the same water pipe, had been admitted to hospital with the same diagnosis at approximately the same time as the applicant. Taking into consideration such elements as the amount of physical and mental suffering caused to the applicant and her daughter, the court awarded her MDL 10,000 (approximately EUR 648 at the time).",
+          "event": "On 1 March 2006 the Călăraşi District Court found in her favour. It found that various sanitary, medical and technical reports had established that in the vicinity of the applicant’s apartment block the sewage pipe was situated above the drinking water pipe and was leaking. The water pipe had cracked on 26 October 2005 and sewage water had infiltrated the drinking water pipe. The court also established that the pipes had been used since 1977 and that their expected lifespan was fifteen years. A total of five people, all of whom had drunk water from taps connected to the same water pipe, had been admitted to hospital with the same diagnosis at approximately the same time as the applicant. Taking into consideration such elements as the amount of physical and mental suffering caused to the applicant and her daughter, the court awarded her MDL 10,000 (approximately EUR 648 at the time).",
+          "event_who": "",
+          "event_when": "On 1 March 2006",
+          "event_what": "found in her favour",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The parties appealed. On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal. It reduced the award to MDL 5,000 (EUR 310) because it found exaggerated “both the sum claimed by [the applicant] and that awarded to [her]”.",
+          "event": "The parties appealed. On 26 April 2006 the Chişinău Court of Appeal rejected the applicant’s appeal and partly accepted the provider’s appeal. It reduced the award to MDL 5,000 (EUR 310) because it found exaggerated “both the sum claimed by [the applicant] and that awarded to [her]”.",
+          "event_who": "",
+          "event_when": "On 26 April 2006",
+          "event_what": "rejected the applicant’s appeal and partly accepted the provider’s appeal",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The parties appealed. On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006. It found that the lower court had taken into consideration the nature and seriousness of the mental suffering caused to the applicant, as well as the degree of guilt of the defendant. That judgment was final.",
+          "event": "The parties appealed. On 25 October 2006 the Supreme Court of Justice upheld the judgment of 26 April 2006. It found that the lower court had taken into consideration the nature and seriousness of the mental suffering caused to the applicant, as well as the degree of guilt of the defendant. That judgment was final.",
+          "event_who": "",
+          "event_when": "On 25 October 2006",
+          "event_what": "upheld the judgment of 26 April 2006",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT Declares , by a majority, the application admissible; Holds , by six votes to one, that there has been a violation of Article 8 of the Convention; Holds , by six votes to one (a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement; (b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses , unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event": "FOR THESE REASONS, THE COURT Declares , by a majority, the application admissible; Holds , by six votes to one, that there has been a violation of Article 8 of the Convention; Holds , by six votes to one (a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the sum of EUR 4,000 (four thousand euros), to be converted into Moldovan lei at the rate applicable at the date of settlement; (b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses , unanimously, the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Declares , by a majority, the application admissible",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 25 October 2016, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 25 October 2016, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "25 October 2016",
+          "event_what": "notified in writing",
+          "event_type": "procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T20:09:51.952784",
+      "context_length": 32768,
+      "input_tokens": 915,
+      "model_runtime_seconds": 1445.3343787193298,
+      "llm_runtime_seconds": 1445.3329906463623,
+      "validation_attempts": 1
+    }
+  ],
+  "processing_start_time": "2025-08-09T17:59:35.848865",
+  "processing_end_time": "2025-08-09T20:09:51.952796",
+  "total_processing_time_seconds": 7816.105715274811,
+  "metadata": {
+    "processed_at": "2025-08-09T20:09:51.958791",
+    "total_sections": 0,
+    "total_models": 12,
+    "total_tokens": 915
+  }
+}

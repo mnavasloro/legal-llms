@@ -29,10 +29,10 @@ class PromptConfig:
                 config = json.load(f)
             
             # Validate required fields
-            required_fields = ['event_definitions', 'instruction']
-            for field in required_fields:
-                if field not in config:
-                    raise ValueError(f"Missing required field '{field}' in prompt configuration")
+            # required_fields = ['role', 'instruction', 'event_definitions']
+            # for field in required_fields:
+            #     if field not in config:
+            #         raise ValueError(f"Missing required field '{field}' in prompt configuration")
             
             logger.info(f"Successfully loaded prompt configuration: {self.config_name}")
             return config
@@ -52,6 +52,11 @@ class PromptConfig:
         """Get instruction from the configuration"""
         return self.config_data['instruction']
     
+    @property
+    def role(self) -> str:
+        """Get role from the configuration"""
+        return self.config_data['role']
+    
     def get_config_dict(self) -> Dict[str, Any]:
         """Get the full configuration as a dictionary"""
         return self.config_data.copy()
@@ -62,7 +67,8 @@ class PromptConfig:
             'config_name': self.config_name,
             'config_path': str(self.config_path),
             'event_definitions': self.event_definitions,
-            'instruction': self.instruction
+            'instruction': self.instruction,
+            'role': self.role
         }
 
 def list_available_prompts(prompts_dir: str = "input/prompts") -> List[str]:
@@ -89,7 +95,7 @@ def validate_prompt_config(config_path: str) -> bool:
         with open(config_path, 'r', encoding='utf-8') as f:
             config = json.load(f)
         
-        required_fields = ['event_definitions', 'instruction']
+        required_fields = ['event_definitions', 'instruction', 'role']
         for field in required_fields:
             if field not in config:
                 logger.error(f"Missing required field '{field}' in {config_path}")
@@ -118,5 +124,6 @@ if __name__ == "__main__":
     if available_prompts:
         config = load_prompt_config(available_prompts[0])
         print(f"Loaded configuration: {config.config_name}")
-        print(f"Event definitions: {config.event_definitions[:100]}...")
+        print(f"Role: {config.role[:100]}...")
         print(f"Instruction: {config.instruction[:100]}...")
+        print(f"Event definitions: {config.event_definitions[:100]}...")

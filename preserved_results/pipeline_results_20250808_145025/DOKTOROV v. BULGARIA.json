@@ -1,0 +1,1408 @@
+{
+  "Document": "file:/C:/Users/mnavas/CASE%20OF%20DOKTOROV%20v.%20BULGARIA.docx",
+  "sections": {
+    "procedure": "1.  The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.\n2.  The applicant was represented by Mr T. Valchev, a lawyer practising in Varna. The Bulgarian Government (“the Government”) were represented by their Agent, Ms R. Nikolova, of the Ministry of Justice.\n3.  The applicant alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage to the child’s mother.\n4.  On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+    "circumstances": "5.  The applicant was born in 1973 and lives in Varna.\n6.  The applicant and his wife divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them. Under the terms of this agreement, the applicant undertook to pay child support to the two children born during the marriage and agreed to his wife’s keeping his family name after the divorce.\n7.  Subsequently, the applicant learned that his former wife had conceived their second child, born in 2003, as a result of a relationship with another man during her marriage to the applicant. The applicant underwent a DNA test to determine whether he was the father of the younger child. The DNA test ‒ the result of which the applicant received on 15 January 2007 ‒ established that he was not the biological father of the second child. The results of this DNA test were never considered by a court.\n8.  Shortly thereafter, in February 2007, the applicant brought a civil claim in court, seeking to contest his paternity of the child in question. On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof (see the section “Relevant domestic law and practice” below”). This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.\n9.  The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).\nII.  RELEVANT DOMESTIC LAW AND PRACTICE\n10.  The applicable law at the time was the 1985 Code. According to its Article 32 (1), the husband of a child’s mother was considered to be the father of any child born during the marriage or before the expiry of three hundred days from its dissolution. According to its Article 33 (1), the husband of a child’s mother could contest his paternity of the child by proving that the child could not have been fathered by him. Such a claim could be brought within a year of the date on which the father learned of the child’s birth.\n11.  Article 303 (1) (7) of the Code of Civil Procedure 2007 (CCP 2007) provides that civil proceedings may be reopened when a judgment of the European Court of Human Rights has established that the Convention had been violated and where a fresh examination of the case is necessary in order to eliminate the consequences of the violation. The interested party may make the request for reopening no later than six months after the judgment has become final (Article 305 (2) of the CCP 2007). The request is examined by the Supreme Court of Cassation (Article 307 of the CCP 2007).",
+    "decision": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1.   Declares the application admissible;\n2.   Holds that there has been a violation of Article 8 of the Convention;\n3.   Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8;\n4.   Dismisses the applicant’s claim for just satisfaction.\nDone in English, and notified in writing on 5 April 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court."
+  },
+  "combined_text_length": 4307,
+  "total_tokens": 997,
+  "annotations": [
+    {
+      "model_name": "gemma3:1b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Bulgarian national, Mr Tsanko Todorov Doktorov (\"the applicant\") on 18 February 2008.",
+          "event": "lodged_application",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "18 February 2008",
+          "event_what": "lodged_application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr T. Valchev, a lawyer practising in Varna.",
+          "event": "represented_by",
+          "event_who": "T. Valchev",
+          "event_when": "Varna",
+          "event_what": "represented",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The Bulgarian Government (\"the Government\") were represented by their Agent, Ms R. Nikolova, of the Ministry of Justice.",
+          "event": "represented_by",
+          "event_who": "R. Nikolova",
+          "event_when": "Ministry of Justice",
+          "event_what": "represented",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage to the child’s mother.",
+          "event": "alleged_impossible_to_contest_paternity",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2008",
+          "event_what": "impossible_to_contest_paternity",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "declared_ inadmissible",
+          "event_who": "Applicant",
+          "event_when": "7 December 2016",
+          "event_what": "declared_ inadmissible",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1973 and lives in Varna.",
+          "event": "born_in",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "1973",
+          "event_what": "born_in",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant and his wife divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them.",
+          "event": "divorced",
+          "event_who": "Tsanko Todorov Doktorov and his wife",
+          "event_when": "21 August 2006",
+          "event_what": "divorced",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Under the terms of this agreement, the applicant undertook to pay child support to the two children born during the marriage and agreed to his wife’s keeping his family name after the divorce.",
+          "event": "undertook_child_support",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2006",
+          "event_what": "undertook_child_support",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Subsequently, the applicant learned that his former wife had conceived their second child, born in 2003, as a result of a relationship with another man during her marriage to the applicant.",
+          "event": "learned_second_child",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2003",
+          "event_what": "learned_second_child",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant underwent a DNA test to determine whether he was the father of the younger child.",
+          "event": "DNA_test",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2007",
+          "event_what": "DNA_test",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The DNA test ‒ the result of which the applicant received on 15 January 2007 ‒ established that he was not the biological father of the second child.",
+          "event": "DNA_test_result",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2007",
+          "event_what": "DNA_test_result",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The results of this DNA test were never considered by a court.",
+          "event": "DNA_test_not_considered",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2007",
+          "event_what": "DNA_test_not_considered",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "Shortly thereafter, in February 2007, the applicant brought a civil claim in court, seeking to contest his paternity of the child in question.",
+          "event": "civil_claim_brought",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2007",
+          "event_what": "civil_claim_brought",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof (see the section ‘Relevant domestic law and practice’ below).",
+          "event": "dismissed_request",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2007",
+          "event_what": "dismissed_request",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.",
+          "event": "final_decision",
+          "event_who": "Supreme Court of Cassation",
+          "event_when": "2007",
+          "event_what": "final_decision",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child.",
+          "event": "brought_civil_claim",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2008",
+          "event_what": "brought_civil_claim",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (\"the 1985 Code)\".), 5.    The applicant was born in 1973 and lives in Varna.",
+          "event": "rejected_claim",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2008",
+          "event_what": "rejected_claim",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The results of this DNA test ‒ the result of which the applicant received on 15 January 2007 ‒ established that he was not the biological father of the second child.",
+          "event": "DNA_test_result",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2007",
+          "event_what": "DNA_test_result",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The results of this DNA test were never considered by a court.",
+          "event": "DNA_test_not_considered",
+          "event_who": "Tsanko Todorov Doktorov",
+          "event_when": "2007",
+          "event_what": "DNA_test_not_considered",
+          "event_type": "circumstance"
+        }
+      ],
+      "processed_at": "2025-08-12T16:08:48.015927",
+      "context_length": 32000,
+      "input_tokens": 997,
+      "model_runtime_seconds": 35.51243305206299,
+      "llm_runtime_seconds": 35.51170825958252,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:4b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.",
+          "event": "lodged an application",
+          "event_who": "Mr Tsanko Todorov Doktorov",
+          "event_when": "18 February 2008",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "declared inadmissible",
+          "event_who": "the Government",
+          "event_when": "7 December 2016",
+          "event_what": "declared inadmissible",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Shortly thereafter, in February 2007, the applicant brought a civil claim in court, seeking to contest his paternity of the child in question. On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof (see the section “Relevant domestic law and practice” below).",
+          "event": "dismissed his request",
+          "event_who": "the applicant",
+          "event_when": "1 March 2007",
+          "event_what": "dismissed his request",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant and his wife divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them. Under the terms of this agreement, the applicant undertook to pay child support to the two children born during the marriage and agreed to his wife’s keeping his family name after the divorce.",
+          "event": "divorced",
+          "event_who": "the applicant and his wife",
+          "event_when": "21 August 2006",
+          "event_what": "divorced",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant underwent a DNA test to determine whether he was the father of the younger child. The DNA test ‒ the result of which the applicant received on 15 January 2007 ‒ established that he was not the biological father of the second child. The results of this DNA test were never considered by a court.",
+          "event": "underwent a DNA test",
+          "event_who": "the applicant",
+          "event_when": "15 January 2007",
+          "event_what": "underwent a DNA test",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event": "rejected his claim",
+          "event_who": "the applicant",
+          "event_when": "20 May 2008",
+          "event_what": "rejected his claim",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicable law at the time was the 1985 Code. According to its Article 32 (1), the husband of a child’s mother was considered to be the father of any child born during the marriage or before the expiry of three hundred days from its dissolution. According to its Article 33 (1), the husband of a child’s mother could contest his paternity of the child by proving that the child could not have been fathered by him. Such a claim could be brought within a year of the date on which the father learned of the child’s birth.",
+          "event": "considered to be the father",
+          "event_who": "the husband of a child’s mother",
+          "event_when": "at the time",
+          "event_what": "considered to be the father",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event": "rejected his claim",
+          "event_who": "the applicant",
+          "event_when": "20 May 2008",
+          "event_what": "rejected his claim",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event": "rejected his claim",
+          "event_who": "the applicant",
+          "event_when": "20 May 2008",
+          "event_what": "rejected his claim",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event": "rejected his claim",
+          "event_who": "the applicant",
+          "event_when": "20 May 2008",
+          "event_what": "rejected his claim",
+          "event_type": "event_circumstance"
+        }
+      ],
+      "processed_at": "2025-08-12T16:09:22.452989",
+      "context_length": 128000,
+      "input_tokens": 997,
+      "model_runtime_seconds": 34.436991930007935,
+      "llm_runtime_seconds": 34.43540954589844,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.",
+          "event": "lodged an application",
+          "event_who": "Mr Tsanko Todorov Doktorov",
+          "event_when": "18 February 2008",
+          "event_what": "application (no. 15074/08)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "was communicated",
+          "event_who": "this complaint",
+          "event_when": "7 December 2016",
+          "event_what": "communicated to the Government",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the applicant divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them.",
+          "event": "divorced",
+          "event_who": "the applicant",
+          "event_when": "21 August 2006",
+          "event_what": "divorced",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the applicant learned that his former wife had conceived their second child, born in 2003",
+          "event": "learned",
+          "event_who": "the applicant",
+          "event_when": "Subsequently",
+          "event_what": "learned",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "the applicant received on 15 January 2007",
+          "event": "received",
+          "event_who": "the applicant",
+          "event_when": "15 January 2007",
+          "event_what": "result",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "the applicant brought a civil claim in court, seeking to contest his paternity of the child in question. On 1 March 2007 the Varna Regional Court dismissed his request",
+          "event": "brought",
+          "event_who": "the applicant",
+          "event_when": "Shortly thereafter, in February 2007",
+          "event_what": "civil claim",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period",
+          "event": "dismissed",
+          "event_who": "the Varna Regional Court",
+          "event_when": "1 March 2007",
+          "event_what": "request",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007",
+          "event": "being pronounced",
+          "event_who": "the Supreme Court of Cassation",
+          "event_when": "19 September 2007",
+          "event_what": "final decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the applicant brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected",
+          "event": "was rejected",
+          "event_who": "his claim",
+          "event_when": "20 May 2008",
+          "event_what": "rejected",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the applicant contest his paternity of the child",
+          "event": "contest",
+          "event_who": "the applicant",
+          "event_when": "Shortly thereafter, in February 2007",
+          "event_what": "paternity",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Declares the application admissible;",
+          "event": "declares",
+          "event_who": "THE COURT",
+          "event_when": "UNANIMOUSLY",
+          "event_what": "admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds",
+          "event_who": "THE COURT",
+          "event_when": "UNANIMOUSLY",
+          "event_what": "violation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the applicant’s claim for just satisfaction.",
+          "event": "dismisses",
+          "event_who": "THE COURT",
+          "event_when": "UNANIMOUSLY",
+          "event_what": "claim",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T16:10:13.141614",
+      "context_length": 128000,
+      "input_tokens": 997,
+      "model_runtime_seconds": 50.68854475021362,
+      "llm_runtime_seconds": 50.6868793964386,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama3.3:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.",
+          "event": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.",
+          "event_who": "a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”)",
+          "event_when": "on 18 February 2008",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "the Government",
+          "event_when": "On 7 December 2016",
+          "event_what": "was communicated to the Government and the remainder of the application was declared inadmissible",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant and his wife divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them.",
+          "event": "The applicant and his wife divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them.",
+          "event_who": "The applicant and his wife",
+          "event_when": "on 21 August 2006",
+          "event_what": "divorced",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant underwent a DNA test to determine whether he was the father of the younger child. The DNA test ‒ the result of which the applicant received on 15 January 2007 ‒ established that he was not the biological father of the second child.",
+          "event": "The applicant underwent a DNA test to determine whether he was the father of the younger child. The DNA test ‒ the result of which the applicant received on 15 January 2007 ‒ established that he was not the biological father of the second child.",
+          "event_who": "the applicant",
+          "event_when": "on 15 January 2007",
+          "event_what": "underwent a DNA test",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof",
+          "event": "On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof",
+          "event_who": "the Varna Regional Court",
+          "event_when": "On 1 March 2007",
+          "event_what": "dismissed his request",
+          "event_type": ""
+        },
+        {
+          "source_text": "This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.",
+          "event": "This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.",
+          "event_who": "the Supreme Court of Cassation",
+          "event_when": "on 19 September 2007",
+          "event_what": "pronounced the final decision",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event": "On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event_who": "the Varna District Court",
+          "event_when": "On 20 May 2008",
+          "event_what": "rejected his claim",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1.   Declares the application admissible; 2.   Holds that there has been a violation of Article 8 of the Convention; 3.   Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; 4.   Dismisses the applicant’s claim for just satisfaction.",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1.   Declares the application admissible; 2.   Holds that there has been a violation of Article 8 of the Convention; 3.   Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; 4.   Dismisses the applicant’s claim for just satisfaction.",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; Dismisses the applicant’s claim for just satisfaction",
+          "event_type": ""
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 5 April 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 5 April 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 5 April 2018",
+          "event_what": "notified in writing",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-12T16:39:26.591477",
+      "context_length": 128000,
+      "input_tokens": 997,
+      "model_runtime_seconds": 1753.449784040451,
+      "llm_runtime_seconds": 1753.4464218616486,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "deepseek-r1:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.",
+          "event": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_who": "Mr Tsanko Todorov Doktorov (“the applicant”)",
+          "event_when": "on 18 February 2008",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental (Constitutional?) Freedoms (“the Convention”) an application against the Republic of Bulgaria.",
+          "event_type": "Application lodged"
+        },
+        {
+          "source_text": "The applicant was represented by Mr T. Valchev, a lawyer practising in Varna. The Bulgarian Government (“the Government”) were represented by their Agent, Ms R. Nikolova, of the Ministry of Justice.",
+          "event": "The applicant was represented by Mr T. Valchev, a lawyer practising in Varna",
+          "event_who": "Mr T. Valchev",
+          "event_when": "",
+          "event_what": "was represented",
+          "event_type": "Representation"
+        },
+        {
+          "source_text": "The Bulgarian Government (“the Government”) were represented by their Agent, Ms R. Nikolova, of the Ministry of Justice.",
+          "event": "The Bulgarian Government (“the Government”) were represented by their Agent, Ms R. Nikolova",
+          "event_who": "Bulgarian Government (“the Government”)",
+          "event_when": "",
+          "event_what": "were represented",
+          "event_type": "Representation"
+        },
+        {
+          "source_text": "The applicant alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage to the child’s mother.",
+          "event": "The applicant alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child",
+          "event_who": "the applicant (him)",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": "Allegation"
+        },
+        {
+          "source_text": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "this complaint was communicated to the Government",
+          "event_who": "",
+          "event_when": "On 7 December 2016",
+          "event_what": "was communicated",
+          "event_type": "Communication"
+        },
+        {
+          "source_text": "and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "the remainder of the application was declared inadmissible",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "was declared inadmissible",
+          "event_type": "Declaration"
+        },
+        {
+          "source_text": "On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof",
+          "event": "the Varna Regional Court dismissed his request",
+          "event_who": "Varna Regional Court",
+          "event_when": "On 1 March 2007",
+          "event_what": "dismissed",
+          "event_type": "Dismissal"
+        },
+        {
+          "source_text": "This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.",
+          "event": "two higher judicial instances confirmed this finding",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "confirmed this finding",
+          "event_type": "Confirmation"
+        },
+        {
+          "source_text": "On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof",
+          "event": "the remainder of the application was declared inadmissible",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "was declared inadmissible",
+          "event_type": "Declaration"
+        },
+        {
+          "source_text": "On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”)",
+          "event": "On 20 May 2008 his claim was rejected by the Varna District Court",
+          "event_who": "Varna District Court",
+          "event_when": "On 20 May 2008",
+          "event_what": "rejected",
+          "event_type": "Rejection"
+        },
+        {
+          "source_text": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child.",
+          "event": "the applicant sought to stop paying child support to the second child",
+          "event_who": "the applicant (he)",
+          "event_when": "",
+          "event_what": "sought to stop paying child support",
+          "event_type": "Request"
+        },
+        {
+          "source_text": "On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”)",
+          "event": "On 20 May 2008 his claim was rejected by the Varna District Court",
+          "event_who": "Varna District Court",
+          "event_when": "On 20 May 2008",
+          "event_what": "rejected",
+          "event_type": "Rejection"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; Dismisses the applicant’s claim for just satisfaction.",
+          "event": "The Court declared the application admissible",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "declared the application admissible",
+          "event_type": "Declaration"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; Dismisses the applicant’s claim for just satisfaction.",
+          "event": "The Court held that there has been a violation of Article 8 of the Convention",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "held that there has been a violation",
+          "event_type": "Finding"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; Dismisses the applicant’s claim for just satisfaction.",
+          "event": "The Court held that no separate issue arises under Article 13 of the Convention",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "held that no separate issue arises",
+          "event_type": "Holding"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; Dismisses the applicant’s claim for just satisfaction.",
+          "event": "The Court dismissed the applicant’s claim for just satisfaction",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "dismissed the applicant’s claim for just satisfaction",
+          "event_type": "Dismissal"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 5 April 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "the application was notified in writing",
+          "event_who": "",
+          "event_when": "on 5 April 2018",
+          "event_what": "was notified",
+          "event_type": "Notification"
+        }
+      ],
+      "processed_at": "2025-08-12T16:40:40.510005",
+      "context_length": 128000,
+      "input_tokens": 997,
+      "model_runtime_seconds": 73.918461561203,
+      "llm_runtime_seconds": 73.90018224716187,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mistral:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Bulgarian national, Mr Tsanko Todorov Doktorov (\"the applicant\"), on 18 February 2008.",
+          "event": "The case originated in an application against the Republic of Bulgaria",
+          "event_who": "Mr Tsanko Todorov Doktorov (the applicant)",
+          "event_when": "18 February 2008",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr T. Valchev, a lawyer practising in Varna.",
+          "event": "The applicant was represented by Mr T. Valchev",
+          "event_who": "Mr T. Valchev",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Bulgarian Government (\"the Government\") were represented by their Agent, Ms R. Nikolova, of the Ministry of Justice.",
+          "event": "The Bulgarian Government were represented by Ms R. Nikolova",
+          "event_who": "Ms R. Nikolova",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage to the child’s mother.",
+          "event": "The applicant alleged that it was impossible to contest the paternity",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "This complaint was communicated to the Government",
+          "event_who": "",
+          "event_when": "7 December 2016",
+          "event_what": "communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1973 and lives in Varna.",
+          "event": "The applicant was born in 1973 and lives in Varna",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "born and lives",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant and his wife divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them.",
+          "event": "The applicant and his wife divorced",
+          "event_who": "the applicant and his wife",
+          "event_when": "21 August 2006",
+          "event_what": "divorced",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Under the terms of this agreement, the applicant undertook to pay child support to the two children born during the marriage and agreed to his wife’s keeping his family name after the divorce.",
+          "event": "The applicant undertook to pay child support",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "undertook",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Subsequently, the applicant learned that his former wife had conceived their second child, born in 2003, as a result of a relationship with another man during her marriage to the applicant.",
+          "event": "The applicant learned that his former wife had conceived their second child",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "learned",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant underwent a DNA test to determine whether he was the father of the younger child. The DNA test ‒ the result of which the applicant received on 15 January 2007 ‒ established that he was not the biological father of the second child.",
+          "event": "The applicant underwent a DNA test",
+          "event_who": "the applicant",
+          "event_when": "15 January 2007",
+          "event_what": "underwent a DNA test",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The results of this DNA test were never considered by a court.",
+          "event": "The results of the DNA test were never considered by a court",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "considered",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Shortly thereafter, in February 2007, the applicant brought a civil claim in court, seeking to contest his paternity of the child in question.",
+          "event": "The applicant brought a civil claim",
+          "event_who": "the applicant",
+          "event_when": "February 2007",
+          "event_what": "brought a civil claim",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof (see the section ‘Relevant domestic law and practice’ below).",
+          "event": "The Varna Regional Court dismissed his request",
+          "event_who": "the Varna Regional Court",
+          "event_when": "1 March 2007",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.",
+          "event": "The finding was confirmed by two higher judicial instances",
+          "event_who": "two higher judicial instances",
+          "event_when": "19 September 2007",
+          "event_what": "confirmed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child.",
+          "event": "The applicant brought subsequent proceedings",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "brought",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (\"the 1985 Code\").",
+          "event": "His claim was rejected by the Varna District Court",
+          "event_who": "his claim",
+          "event_when": "20 May 2008",
+          "event_what": "rejected",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "II.  RELEVANT DOMESTIC LAW AND PRACTICE",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "section_header"
+        },
+        {
+          "source_text": "The applicable law at the time was the 1985 Code.",
+          "event": "The applicable law at the time was the 1985 Code",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "applicable law",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "According to its Article 32 (1), the husband of a child’s mother was considered to be the father of any child born during the marriage or before the expiry of three hundred days from its dissolution.",
+          "event": "The husband of a child’s mother was considered to be the father",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "considered",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "According to its Article 33 (1), the husband of a child’s mother could contest his paternity of the child by proving that the child could not have been fathered by him.",
+          "event": "The husband of a child’s mother could contest his paternity",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "contest",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Such a claim could be brought within a year of the date on which the father learned of the child’s birth.",
+          "event": "Such a claim could be brought within a year",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "brought",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Article 303 (1) (7) of the Code of Civil Procedure 2007 (CCP 2007) provides that civil proceedings may be reopened when a judgment of the European Court of Human Rights has established that the Convention had been violated and where a fresh examination of the case is necessary in order to eliminate the consequences of the violation.",
+          "event": "Civil proceedings may be reopened",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "reopened",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The interested party may make the request for reopening no later than six months after the judgment has become final (Article 305 (2) of the CCP 2007).",
+          "event": "The interested party may make the request for reopening",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "request",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The request is examined by the Supreme Court of Cassation (Article 307 of the CCP 2007).",
+          "event": "The request is examined by the Supreme Court of Cassation",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "examined",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "section_header"
+        },
+        {
+          "source_text": "1.   Declares the application admissible;",
+          "event": "Declares the application admissible",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declared",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2.   Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 8 of the Convention",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3.   Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8;",
+          "event": "Holds that no separate issue arises under Article 13 of the Convention",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "4.   Dismisses the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the applicant’s claim for just satisfaction",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 5 April 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "",
+          "event_who": "",
+          "event_when": "5 April 2018",
+          "event_what": "",
+          "event_type": "section_header"
+        }
+      ],
+      "processed_at": "2025-08-12T16:41:53.222374",
+      "context_length": 32768,
+      "input_tokens": 997,
+      "model_runtime_seconds": 72.7122962474823,
+      "llm_runtime_seconds": 72.71079683303833,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "incept5/llama3.1-claude:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.",
+          "event": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.",
+          "event_who": "Mr Tsanko Todorov Doktorov",
+          "event_when": "18 February 2008",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr T. Valchev, a lawyer practising in Varna.",
+          "event": "The applicant was represented by Mr T. Valchev, a lawyer practising in Varna.",
+          "event_who": "Mr T. Valchev",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Bulgarian Government (“the Government”) were represented by their Agent, Ms R. Nikolova, of the Ministry of Justice.",
+          "event": "The Bulgarian Government (“the Government”) were represented by their Agent, Ms R. Nikolova, of the Ministry of Justice.",
+          "event_who": "Ms R. Nikolova",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage to the child’s mother.",
+          "event": "The applicant alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage to the child’s mother.",
+          "event_who": "Mr Tsanko Todorov Doktorov",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "7 December 2016",
+          "event_what": "declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1973 and lives in Varna.",
+          "event": "The applicant was born in 1973 and lives in Varna.",
+          "event_who": "Mr Tsanko Todorov Doktorov",
+          "event_when": "",
+          "event_what": "born",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant and his wife divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them.",
+          "event": "The applicant and his wife divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them.",
+          "event_who": "Mr Tsanko Todorov Doktorov",
+          "event_when": "21 August 2006",
+          "event_what": "divorced",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant underwent a DNA test to determine whether he was the father of the younger child.",
+          "event": "The applicant underwent a DNA test to determine whether he was the father of the younger child.",
+          "event_who": "Mr Tsanko Todorov Doktorov",
+          "event_when": "",
+          "event_what": "underwent a DNA test",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The results of this DNA test were never considered by a court.",
+          "event": "The results of this DNA test were never considered by a court.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "were never considered",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Shortly thereafter, in February 2007, the applicant brought a civil claim in court, seeking to contest his paternity of the child in question.",
+          "event": "Shortly thereafter, in February 2007, the applicant brought a civil claim in court, seeking to contest his paternity of the child in question.",
+          "event_who": "Mr Tsanko Todorov Doktorov",
+          "event_when": "February 2007",
+          "event_what": "brought a civil claim",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof.",
+          "event": "On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof.",
+          "event_who": "",
+          "event_when": "1 March 2007",
+          "event_what": "dismissed his request",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.",
+          "event": "This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.",
+          "event_who": "",
+          "event_when": "19 September 2007",
+          "event_what": "pronounced a decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child.",
+          "event": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child.",
+          "event_who": "Mr Tsanko Todorov Doktorov",
+          "event_when": "",
+          "event_what": "brought proceedings",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event": "On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event_who": "",
+          "event_when": "20 May 2008",
+          "event_what": "rejected his claim",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declared the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "1.   Declares the application admissible;",
+          "event": "1.   Declares the application admissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declared the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2.   Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "2.   Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "held that there had been a violation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3.   Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8;",
+          "event": "3.   Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "held that no separate issue arose",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "4.   Dismisses the applicant’s claim for just satisfaction.",
+          "event": "4.   Dismisses the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "dismissed his claim",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 5 April 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in written on 5 April 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "5 April 2018",
+          "event_what": "notified",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T16:42:51.789863",
+      "context_length": 1000000,
+      "input_tokens": 997,
+      "model_runtime_seconds": 58.5674090385437,
+      "llm_runtime_seconds": 58.56590461730957,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "chevalblanc/claude-3-haiku:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.",
+          "event": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.",
+          "event_who": "a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”)",
+          "event_when": "on 18 February 2008",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was born in 1973 and lives in Varna.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant and his wife divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them. Under the terms of this agreement, the applicant undertook to pay child support to the two children born during the marriage and agreed to his wife’s keeping his family name after the divorce.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant learned that his former wife had conceived their second child, born in 2003, as a result of a relationship with another man during her marriage to the applicant. The applicant underwent a DNA test to determine whether he was the father of the younger child. The DNA test ‒ the result of which the applicant received on 15 January 2007 ‒ established that he was not the biological father of the second child. The results of this DNA test were never considered by a court.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Shortly thereafter, in February 2007, the applicant brought a civil claim in court, seeking to contest his paternity of the child in question. On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof (see the section “Relevant domestic law and practice” below”). This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.",
+          "event": "The applicant brought a civil claim in court, seeking to contest his paternity of the child in question. On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof (see the section “Relevant domestic law and practice” below'). This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.",
+          "event_who": "the applicant",
+          "event_when": "in February 2007, On 1 March 2007, on 19 September 2007",
+          "event_what": "brought a civil claim in court, seeking to contest his paternity of the child in question. dismissed his request, finding that it was time-barred... This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event_who": "The applicant",
+          "event_when": "On 20 May 2008",
+          "event_what": "brought subsequent proceedings in which he sought to stop paying child support to the second child. his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; Dismisses the applicant’s claim for just satisfaction. Done in English, and notified in writing on 5 April 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; Dismisses the applicant’s claim for just satisfaction. Done in English, and notified in writing on 5 April 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "THE COURT",
+          "event_when": "on 5 April 2018",
+          "event_what": "Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; Dismisses the applicant’s claim for just satisfaction.",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T16:44:27.863289",
+      "context_length": 128000,
+      "input_tokens": 997,
+      "model_runtime_seconds": 96.07335329055786,
+      "llm_runtime_seconds": 96.07185077667236,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama4:16x17b",
+      "events": [
+        {
+          "source_text": "The applicant lodged an application (no. 15074/08) against the Republic of Bulgaria with the Court on 18 February 2008.",
+          "event": "lodged an application",
+          "event_who": "the applicant",
+          "event_when": "18 February 2008",
+          "event_what": "lodged",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage to the child’s mother.",
+          "event": "alleged",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "communicated",
+          "event_who": "",
+          "event_when": "7 December 2016",
+          "event_what": "communicated",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant and his wife divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them.",
+          "event": "divorced",
+          "event_who": "the applicant and his wife",
+          "event_when": "21 August 2006",
+          "event_what": "divorced",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant brought a civil claim in court, seeking to contest his paternity of the child in question.",
+          "event": "brought a civil claim",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "brought",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child’s birth or from learning thereof.",
+          "event": "dismissed",
+          "event_who": "the Varna Regional Court",
+          "event_when": "1 March 2007",
+          "event_what": "dismissed",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant sought to stop paying child support to the second child.",
+          "event": "sought to stop paying child support",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "sought",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 20 May 2008 the Varna District Court rejected his claim.",
+          "event": "rejected",
+          "event_who": "the Varna District Court",
+          "event_when": "20 May 2008",
+          "event_what": "rejected",
+          "event_type": "procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T16:55:12.339073",
+      "context_length": 10000000,
+      "input_tokens": 997,
+      "model_runtime_seconds": 644.4756939411163,
+      "llm_runtime_seconds": 644.4741942882538,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.",
+          "event": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Bulgarian national, Mr Tsanko Todorov Doktorov (“the applicant”), on 18 February 2008.",
+          "event_who": "a Bulgarian national, Mr Tsanko Todorov Doktorov (the applicant)",
+          "event_when": "on 18 February 2008",
+          "event_what": "lodged an application (no. 15074/08) against the Republic of Bulgaria under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms”,  // missing procedure classification  //  event_circumstance or event_procedure?  Unclear from this text span alone.  Need more context to classify properly.  Leaving blank for now.  Classification:  null  or  [] or {}.   Blank is easier to process in some systems.  Your choice.  I will use ",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant was represented by Mr T. Valchev, a lawyer practising in Varna. The Bulgarian Government (“the Government”) were represented by their Agent, Ms R. Nikolova, of the Ministry of Justice.",
+          "event": "The applicant was represented by Mr T. Valchev, a lawyer practising in Varna. The Bulgarian Government (“the Government”) were represented by their Agent, Ms R. Nikolova, of the Ministry of Justice.",
+          "event_who": "The applicant was represented by Mr T. Valchev, a lawyer practising in Varna. The Bulgarian Government (“the Government”) were represented by their Agent, Ms R. Nikolova, of the Ministry of Justice.",
+          "event_when": "N/A",
+          "event_what": "N/A",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage to the child’s mother.",
+          "event": "The applicant alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage to the child’s mother.",
+          "event_who": "The applicant",
+          "event_when": "N/A",
+          "event_what": "alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage to the child’s mother.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "N/A",
+          "event_when": "On 7 December 2016",
+          "event_what": "this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event_who": "The applicant",
+          "event_when": "On 20 May 2008",
+          "event_what": "brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child’s father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 (“the 1985 Code”).",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, (1) Declares the application admissible; (2) Holds that there has been a violation of Article 8 of the Convention; (3) Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; (4) Dismisses the applicant’s claim for just satisfaction.",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, (1) Declares the application admissible; (2) Holds that there has been a violation of Article 8 of the Convention; (3) Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; (4) Dismisses the applicant’s claim for just satisfaction.",
+          "event_who": "THE COURT",
+          "event_when": "N/A",
+          "event_what": "Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8; Dismisses the applicant’s claim for just satisfaction.",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T17:09:32.833773",
+      "context_length": 32768,
+      "input_tokens": 997,
+      "model_runtime_seconds": 860.4946513175964,
+      "llm_runtime_seconds": 860.4936287403107,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin3:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 15074/08) against the Republic of Bulgaria lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms ('the Convention') by a Bulgarian national, Mr Tsanko Todorov Doktorov ('the applicant'), on 18 February 2008.",
+          "event": "The case originated in an application",
+          "event_who": "Mr Tsanko Todorov Doktorov (the applicant)",
+          "event_when": "18 February 2008",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr T. Valchev, a lawyer practising in Varna. The Bulgarian Government ('the Government') were represented by their Agent, Ms R. Nikolova, of the Ministry of Justice.",
+          "event": "The applicant was represented",
+          "event_who": "Mr T. Valchev (lawyer), Ms R. Nikolova (Agent for the Government)",
+          "event_when": "",
+          "event_what": "represented by Mr T. Valchev, a lawyer practising in Varna",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 7 December 2016 this complaint was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 Â️ 3 of the Rules of Court.",
+          "event": "The remainder of the application was declared inadmissible",
+          "event_who": "Government",
+          "event_when": "7 December 2016",
+          "event_what": "declared inadmissible pursuant to Rule 54 Â️ 3 of the Rules of Court",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged that it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage to the child's mother.",
+          "event": "The applicant alleged",
+          "event_who": "applicant",
+          "event_when": "",
+          "event_what": "it was impossible for him, both in law and in practice, to contest the paternity of a child born during his marriage",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was born in 1973 and lives in Varna.",
+          "event": "The applicant provided personal information",
+          "event_who": "applicant",
+          "event_when": "",
+          "event_what": "born in 1973 and lives in Varna",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant and his wife divorced on 21 August 2006 pursuant to a court-approved agreement between the two of them.",
+          "event": "Divorce occurred",
+          "event_who": "applicant and his wife",
+          "event_when": "21 August 2006",
+          "event_what": "divorced pursuant to a court-approved agreement",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Subsequently, the applicant learned that his former wife had conceived their second child, born in 2003, as a result of a relationship with another man during her marriage to the applicant.",
+          "event": "The applicant learned about the conception of the second child",
+          "event_who": "applicant",
+          "event_when": "",
+          "event_what": "his former wife had conceived their second child",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant underwent a DNA test to determine whether he was the father of the younger child. The DNA test – the result of which the applicant received on 15 January 2007 – established that he was not the biological father of the second child.",
+          "event": "DNA test conducted",
+          "event_who": "applicant",
+          "event_when": "15 January 2007",
+          "event_what": "underwent a DNA test to determine his paternity",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant brought a civil claim in court, seeking to contest his paternity of the child in question.",
+          "event": "Civil claim filed by the applicant",
+          "event_who": "applicant",
+          "event_when": "",
+          "event_what": "brought a civil claim in court, seeking to contest his paternity",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 March 2007 the Varna Regional Court dismissed his request, finding that it was time-barred due to the expiry – in 2004 – of the year-long limitation period counting from the child's birth or from learning thereof (see the section 'Relevant domestic law and practice' below).",
+          "event": "Court dismissed request",
+          "event_who": "Varna Regional Court",
+          "event_when": "1 March 2007",
+          "event_what": "dismissed his request, finding it time-barred",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "This finding was confirmed by two higher judicial instances, the final decision being pronounced by the Supreme Court of Cassation on 19 September 2007.",
+          "event": "Court decisions were affirmed",
+          "event_who": "Two higher judicial instances, Supreme Court of Cassation",
+          "event_when": "19 September 2007",
+          "event_what": "confirmed the finding and pronounced the final decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant brought subsequent proceedings in which he sought to stop paying child support to the second child. On 20 May 2008 his claim was rejected by the Varna District Court, which found that it had not been proven that the applicant was not the child's father, given that he had not rebutted the legal presumption under Article 32 (1) of the Family Code 1985 ('the 1985 Code').",
+          "event": "Subsequent proceedings initiated and claim rejected",
+          "event_who": "applicant, Varna District Court",
+          "event_when": "20 May 2008",
+          "event_what": "sought to stop paying child support; his claim was rejected",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "Court decision announced",
+          "event_who": "Court",
+          "event_when": "",
+          "event_what": "unanimously decided on the application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "1. ¿ Declares the application admissible;",
+          "event": "Application declared admissible",
+          "event_who": "Court",
+          "event_when": "",
+          "event_what": "declared the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2. ¿ Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Violation of Article 8 found",
+          "event_who": "Court",
+          "event_when": "",
+          "event_what": "found a violation of Article 8 of the Convention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "3. ¿ Holds that no separate issue arises under Article 13 of the Convention in conjunction with Article 8;",
+          "event": "No separate issue found under Article 13",
+          "event_who": "Court",
+          "event_when": "",
+          "event_what": "no separate issue arises under Article 13",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "4. ¿ Dismisses the applicant's claim for just satisfaction.",
+          "event": "Claim for just satisfaction dismissed",
+          "event_who": "Court",
+          "event_when": "",
+          "event_what": "dismissed the applicant's claim for just satisfaction",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 5 April 2018, pursuant to Rule §7 Â️ µ2 and 3 of the Rules of Court.",
+          "event": "Judgment finalized",
+          "event_who": "",
+          "event_when": "5 April 2018",
+          "event_what": "finalized the judgment and notified it in writing",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T17:10:32.903381",
+      "context_length": 128000,
+      "input_tokens": 997,
+      "model_runtime_seconds": 60.069557189941406,
+      "llm_runtime_seconds": 60.06850576400757,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin-mixtral:8x7b",
+      "events": [],
+      "processed_at": "2025-08-12T17:22:27.851761",
+      "context_length": 32768,
+      "input_tokens": 997,
+      "model_runtime_seconds": 714.9483001232147,
+      "llm_runtime_seconds": 714.9468581676483,
+      "validation_attempts": 1
+    }
+  ],
+  "processing_start_time": "2025-08-12T16:08:12.503444",
+  "processing_end_time": "2025-08-12T17:22:27.851773",
+  "total_processing_time_seconds": 4455.350181818008,
+  "metadata": {
+    "processed_at": "2025-08-12T17:22:27.852505",
+    "total_sections": 0,
+    "total_models": 12,
+    "total_tokens": 997
+  }
+}

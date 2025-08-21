@@ -901,7 +901,7 @@ def main():
     """Main function to run the complete evaluation pipeline."""
     parser = argparse.ArgumentParser(description='Run complete LLM annotation evaluation pipeline')
     parser.add_argument('pipeline_folder', nargs='?', 
-                       default='output/pipeline_results_20250808_145025',
+                       default='output/pipeline_results_20250816_185820',
                        help='Path to pipeline results folder (default: output/pipeline_results_20250804_170535)')
     
     args = parser.parse_args()

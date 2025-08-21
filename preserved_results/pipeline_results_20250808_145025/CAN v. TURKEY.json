@@ -1,0 +1,1897 @@
+{
+  "Document": "file:/C:/Users/mnavas/CASE%20OF%20CAN%20v.%20TURKEY.docx",
+  "sections": {
+    "procedure": "1.  The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.\n2.  The applicant was represented by Mr Y. Alataş, a lawyer practising in Ankara. The Turkish Government (“the Government”) were represented by their Agent.\n3.  On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+    "circumstances": "4.  The applicant was born in 1974 and lives in Adıyaman.\n5.  On 17 October 1999 the applicant sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.\n6.  On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.\n7.  On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ. In her deposition, the applicant noted that being a man was not a requirement for appointment to the post in question and that she fulfilled all the requirements for that post.\n8.  On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post. The applicant, being a woman, could therefore not be recruited as a security officer.\n9.  On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ. The court held that the requirement of “having completed military service” should be considered to apply only to male candidates and that there had been no restriction on women working as security officers in TEDAŞ.\n10.  On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.\n11.  On 1 April 2003 the applicant was recruited by TEDAŞ.\n12.  On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates. The high court therefore found that the administration’s decision had been in accordance with the law.\n13.  On 19 March 2004 the applicant was dismissed from her post.\n14.  On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.\n15.  On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.\n16.  On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.\nII.  RELEVANT DOMESTIC LAW AND INTERNATIONAL MATERIAL\n17.  Relevant domestic law, in force at the material time, and international material can be found in Emel Boyraz v. Turkey (no. 61960/08, §§ 26-30, 2 December 2014).",
+    "decision": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1.   Declares the application admissible;\n2.   Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention;\n3.   Holds\n(a)  that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;\n(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;\n4.   Dismisses the remainder of the applicant’s claim for just satisfaction.\nDone in English, and notified in writing on 25 September 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court."
+  },
+  "combined_text_length": 4657,
+  "total_tokens": 1076,
+  "annotations": [
+    {
+      "model_name": "gemma3:1b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Turkish national, Ms Zeliha Eylem Can (\"the applicant”), on 4 January 2008.",
+          "event": "Event_who",
+          "event_who": "the applicant",
+          "event_when": "4 January 2008",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr Y. Alataş, a lawyer practising in Ankara.",
+          "event": "Event_who",
+          "event_who": "Mr Y. Alataş",
+          "event_when": "2008",
+          "event_what": "represented the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Event_when",
+          "event_who": "the applicant",
+          "event_when": "6 January 2014",
+          "event_what": "the complaint was communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1974 and lives in Adıyaman.",
+          "event": "Event_who",
+          "event_who": "the applicant",
+          "event_when": "1974",
+          "event_what": "born",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 October 1999 the applicant sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event": "Event_when",
+          "event_who": "the applicant",
+          "event_when": "17 October 1999",
+          "event_what": "was successful in the examination",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of ‘being a man’ and ‘having completed military service’.",
+          "event": "Event_when",
+          "event_who": "the applicant",
+          "event_when": "4 September 2000",
+          "event_what": "was not appointed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ.",
+          "event": "Event_when",
+          "event_who": "the applicant",
+          "event_when": "unspecified date",
+          "event_what": "lodged an action",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In her deposition, the applicant noted that being a man was not a requirement for appointment to the post in question and that she fulfilled all the requirements for that post.",
+          "event": "Event_when",
+          "event_who": "the applicant",
+          "event_when": "deposition",
+          "event_what": "noted",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post. The applicant, being a woman, could therefore not be recruited as a security officer.",
+          "event": "Event_when",
+          "event_who": "the applicant",
+          "event_when": "unspecified date",
+          "event_what": "the general directorate submitted",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ. The court held that the requirement of ‘having completed military service’ should be considered to apply only to male candidates and that there had been no restriction on women working as security officers in TEDAŞ.",
+          "event": "Event_when",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "annulled the decision",
+          "event_what": "the requirement of military service should be considered",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event": "Event_when",
+          "event_who": "TEDAŞ",
+          "event_when": "lodged an appeal",
+          "event_what": "lodged an appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event": "Event_when",
+          "event_who": "the applicant",
+          "event_when": "19 March 2004",
+          "event_what": "was dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event": "Event_when",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "dismissed the case",
+          "event_what": "dismissed the case",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 7 May 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event": "Event_when",
+          "event_who": "the applicant",
+          "event_when": "7 May 2007",
+          "event_what": "judgment was notified",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-14T06:33:50.918899",
+      "context_length": 32000,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 33.494383335113525,
+      "llm_runtime_seconds": 33.49359917640686,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:4b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event": "The case originated in an application against the Republic of Turkey lodged with the Court",
+          "event_who": "applicant",
+          "event_when": "4 January 2008",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "The complaint concerning the applicant’s right not to be subjected to discrimination was communicated",
+          "event_who": "Government",
+          "event_when": "6 January 2014",
+          "event_what": "declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 October 1999 the applicant sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event": "The applicant sat an examination and was appointed to the post of security officer",
+          "event_who": "applicant",
+          "event_when": "17 October 1999, 27 June 2000",
+          "event_what": "was appointed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event": "The applicant was informed that she would not be appointed to a post",
+          "event_who": "TEDAŞ",
+          "event_when": "4 September 2000",
+          "event_what": "would not be appointed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ.",
+          "event": "The applicant lodged an action against TEDAŞ",
+          "event_who": "applicant",
+          "event_when": "unspecified date",
+          "event_what": "lodged an action",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post.",
+          "event": "TEDAŞ submitted that only men could be appointed to the post",
+          "event_who": "TEDAŞ",
+          "event_when": "unspecified date",
+          "event_what": "declared",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant, being a woman, could therefore not be recruited as a security officer.",
+          "event": "The applicant could not be recruited as a security officer",
+          "event_who": "applicant",
+          "event_when": "unspecified date",
+          "event_what": "could not be recruited",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ. The court held that the requirement of “having completed military service” should be considered to apply only to male candidates and that there had been no restriction on women working as security officers in TEDAŞ.",
+          "event": "The Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ",
+          "event_who": "Ankara Administrative Court",
+          "event_when": "28 November 2001",
+          "event_what": "annulled the decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event": "TEDAŞ lodged an appeal",
+          "event_who": "TEDAŞ",
+          "event_when": "30 January 2002",
+          "event_what": "lodged an appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event": "The applicant was recruited by TEDAŞ",
+          "event_who": "applicant",
+          "event_when": "1 April 2003",
+          "event_what": "was recruited",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates.",
+          "event": "The Supreme Administrative Court quashed the judgment of the Ankara Administrative Court",
+          "event_who": "Supreme Administrative Court",
+          "event_when": "21 October 2003",
+          "event_what": "quashed the judgment",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The high court therefore found that the administration’s decision had been in accordance with the law.",
+          "event": "The high court found that the administration’s decision had been in accordance with the law",
+          "event_who": "Supreme Administrative Court",
+          "event_when": "unspecified date",
+          "event_what": "found",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event": "The applicant was dismissed from her post",
+          "event_who": "applicant",
+          "event_when": "19 March 2004",
+          "event_what": "was dismissed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event": "The Ankara Administrative Court dismissed the applicant’s case",
+          "event_who": "Ankara Administrative Court",
+          "event_when": "30 December 2004",
+          "event_what": "dismissed the case",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event": "The Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004",
+          "event_who": "Supreme Administrative Court",
+          "event_when": "7 May 2007",
+          "event_what": "dismissed the appeal and upheld the judgment",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event": "The Supreme Administrative Court’s judgment was notified to the applicant",
+          "event_who": "Supreme Administrative Court",
+          "event_when": "12 July 2007",
+          "event_what": "was notified",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Relevant domestic law, in force at the material time, and international material can be found in Emel Boyraz v. Turkey (no. 61960/08, §§ 26-30, 2 December 2014). FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "Relevant domestic law can be found in Emel Boyraz v. Turkey",
+          "event_who": "Court",
+          "event_when": "2 December 2014",
+          "event_what": "declares the application admissible",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Declares the application admissible; Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention; Holds",
+          "event": "The Court declares the application admissible and holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention",
+          "event_who": "Court",
+          "event_when": "unspecified date",
+          "event_what": "declares the application admissible and holds that there has been a violation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(a) that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "The respondent State is to pay the applicant EUR 11,000 (eleven thousand euros) plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage",
+          "event_who": "respondent State",
+          "event_when": "within three months",
+          "event_what": "is to pay",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "The Court dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_who": "Court",
+          "event_when": "unspecified date",
+          "event_what": "dismisses",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-14T06:34:40.951432",
+      "context_length": 128000,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 50.03245711326599,
+      "llm_runtime_seconds": 50.030823945999146,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event": "lodged an application",
+          "event_who": "Ms Zeliha Eylem Can",
+          "event_when": "4 January 2008",
+          "event_what": "application (no. 2437/08) against the Republic of Turkey",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr Y. Alataş, a lawyer practising in Ankara. The Turkish Government (“the Government”) were represented by their Agent.",
+          "event": "represented",
+          "event_who": "Mr Y. Alataş, the Turkish Government",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "communicated",
+          "event_who": "the complaint",
+          "event_when": "6 January 2014",
+          "event_what": "concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 October 1999 the applicant sat an examination in order to become a public servant.",
+          "event": "sat an examination",
+          "event_who": "the applicant",
+          "event_when": "17 October 1999",
+          "event_what": "to become a public servant",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event": "notified",
+          "event_who": "she",
+          "event_when": "27 June 2000",
+          "event_what": "that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event": "informed",
+          "event_who": "the Kilis branch of TEDAŞ",
+          "event_when": "4 September 2000",
+          "event_what": "that she would not be appointed to a post",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ.",
+          "event": "lodged an action",
+          "event_who": "the applicant",
+          "event_when": "an unspecified date",
+          "event_what": "against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post.",
+          "event": "submitted",
+          "event_who": "the general directorate of TEDAŞ",
+          "event_when": "an unspecified date",
+          "event_what": "to the administrative court",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ. The court held that the requirement of “having completed military service” should be considered to apply only to male candidates and that there had been no restriction on women working as security officers in TEDAŞ.",
+          "event": "annulled",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "28 November 2001",
+          "event_what": "the decision of the Kilis branch of TEDAŞ",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event": "lodged an appeal",
+          "event_who": "TEDAŞ",
+          "event_when": "30 January 2002",
+          "event_what": "against the judgment of 28 November 2001",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event": "recruited",
+          "event_who": "the applicant",
+          "event_when": "1 April 2003",
+          "event_what": "by TEDAŞ",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates. The high court therefore found that the administration’s decision had been in accordance with the law.",
+          "event": "quashed",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "21 October 2003",
+          "event_what": "the judgment of the Ankara Administrative Court",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event": "dismissed",
+          "event_who": "the applicant",
+          "event_when": "19 March 2004",
+          "event_what": "from her post",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event": "dismissed",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "30 December 2004",
+          "event_what": "the applicant’s case",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event": "dismissed",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "7 May 2007",
+          "event_what": "the applicant’s appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event": "notified",
+          "event_who": "the Supreme Administrative Court’s judgment",
+          "event_when": "12 July 2007",
+          "event_what": "to the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares the application admissible;",
+          "event": "declares",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention;",
+          "event": "holds",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+          "event": "holds",
+          "event_who": "",
+          "event_when": "within three months",
+          "event_what": "that the respondent State is to pay the applicant EUR 11,000",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "dismisses",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "the remainder of the applicant’s claim for just satisfaction",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-14T06:36:02.305240",
+      "context_length": 128000,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 81.3537380695343,
+      "llm_runtime_seconds": 81.35217881202698,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama3.3:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event_who": "a Turkish national, Ms Zeliha Eylem Can (“the applicant”)",
+          "event_when": "on 4 January 2008",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "the Government",
+          "event_when": "On 6 January 2014",
+          "event_what": "was communicated to the Government and the remainder of the application was declared inadmissible",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 17 October 1999 the applicant sat an examination in order to become a public servant.",
+          "event": "On 17 October 1999 the applicant sat an examination in order to become a public servant.",
+          "event_who": "the applicant",
+          "event_when": "On 17 October 1999",
+          "event_what": "sat an examination in order to become a public servant",
+          "event_type": ""
+        },
+        {
+          "source_text": "She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event": "She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event_who": "the State Personnel Department",
+          "event_when": "on 27 June 2000",
+          "event_what": "notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event_who": "the Kilis branch of TEDAŞ",
+          "event_when": "On 4 September 2000",
+          "event_what": "informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”",
+          "event_type": ""
+        },
+        {
+          "source_text": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ.",
+          "event": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ.",
+          "event": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ.",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "On 28 November 2001",
+          "event_what": "annulled the decision of the Kilis branch of TEDAŞ",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event_who": "TEDAŞ",
+          "event_when": "On 30 January 2002",
+          "event_what": "lodged an appeal against the judgment of 28 November 2001",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event_who": "the applicant",
+          "event_when": "On 1 April 2003",
+          "event_what": "was recruited by TEDAŞ",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates.",
+          "event": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates.",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "On 21 October 2003",
+          "event_what": "quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event_who": "the applicant",
+          "event_when": "On 19 March 2004",
+          "event_what": "was dismissed from her post",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "On 30 December 2004",
+          "event_what": "dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "On 7 May 2007",
+          "event_what": "dismissed the applicant’s appeal and upheld the judgment of 30 December 2004",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event": "On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "On 12 July 2007",
+          "event_what": "notified to the applicant",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible;",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible;",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Declares the application admissible",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention",
+          "event_type": ""
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+          "event": "(a)  that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+          "event_who": "the respondent State",
+          "event_when": "within three months",
+          "event_what": "is to pay the applicant ... EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage",
+          "event_type": ""
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "from the expiry of the above-mentioned three months until settlement",
+          "event_what": "simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points",
+          "event_type": ""
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_type": ""
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 25 September 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 25 September 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 25 September 2018",
+          "event_what": "notified in writing ... pursuant to Rule 77 §§ 2 and 3 of the Rules of Court",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-14T07:25:56.717369",
+      "context_length": 128000,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 2994.410497903824,
+      "llm_runtime_seconds": 2994.4071547985077,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "deepseek-r1:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_who": "a Turkish national, Ms Zeliha Eylem Can (“the applicant”)",
+          "event_when": "on 4 January 2008",
+          "event_what": "lodged an application",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_who": "a Turkish national, Ms Zeliha Eylem Can (“the applicant”)",
+          "event_when": "on 4 January 2008",
+          "event_what": "lodged an application",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Mr Y. Alataş, a lawyer practising in Ankara. The Turkish Government (“the Government”) were represented by their Agent.",
+          "event": "The applicant was represented",
+          "event_who": "Mr Y. Alataş",
+          "event_when": "",
+          "event_what": "represented the applicant",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible",
+          "event_who": "",
+          "event_when": "On 6 January 2014",
+          "event_what": "was communicated; declared inadmissible",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant was born in 1974 and lives in Adıyaman.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 5 September 1999 the applicant sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event": "the applicant sat an examination; was successful; was notified",
+          "event_who": "The applicant",
+          "event_when": "On 5 September 1999 and on 27 June 2000",
+          "event_what": "sat an examination; was successful in the examination; was notified that she had been appointed to the post of security officer",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event": "the Kilis branch of TEDAŞ informed the applicant",
+          "event_who": "The Kilis branch of TEDAŞ",
+          "event_when": "On 4 September 2000",
+          "event_what": "informed that she would not be appointed",
+          "event_type": ""
+        },
+        {
+          "source_text": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ.",
+          "event": "the applicant lodged an action",
+          "event_who": "The applicant",
+          "event_when": "On an unspecified date",
+          "event_what": "lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision",
+          "event_type": ""
+        },
+        {
+          "source_text": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post.",
+          "event": "the general directorate of TEDAŞ submitted",
+          "event_who": "The general directorate of TEDAŞ",
+          "event_when": "On an unspecified date",
+          "event_what": "submitted to the administrative court",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ.",
+          "event": "The Ankara Administrative Court annulled the decision",
+          "event_who": "The Ankara Administrative Court",
+          "event_when": "On 28 November 2001",
+          "event_what": "annulled the decision",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event": "TEDAŞ lodged an appeal",
+          "event_who": "TEDAŞ",
+          "event_when": "On 30 January 2002",
+          "event_what": "lodged an appeal against the judgment",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event": "the applicant was recruited",
+          "event_who": "The applicant",
+          "event_when": "On 1 April 2003",
+          "event_what": "was recruited by TEDAŞ",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates.",
+          "event": "The Supreme Administrative Court quashed the judgment",
+          "event_who": "The Supreme Administrative Court",
+          "event_when": "On 21 October 2003",
+          "event_what": "quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates.",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event": "the applicant was dismissed",
+          "event_who": "The applicant",
+          "event_when": "On 19 March 2004",
+          "event_what": "was dismissed from her post",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event": "The Ankara Administrative Court dismissed the applicant’s case",
+          "event_who": "The Ankara Administrative Court",
+          "event_when": "On 30 December 2004",
+          "event_what": "dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event": "The Supreme Administrative Court dismissed the applicant’s appeal",
+          "event_who": "The Supreme Administrative Court",
+          "event_when": "On 7 May 2007",
+          "event_what": "dismissed the applicant’s appeal and upheld the judgment",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event": "The Supreme Administrative Court’s judgment was notified",
+          "event_who": "",
+          "event_when": "On 16 July 2007",
+          "event_what": "was notified to the applicant",
+          "event_type": ""
+        },
+        {
+          "source_text": "II. RELEVANT DOMESTIC LAW AND INTERNATIONAL MATERIAL\nRelevant domestic law, in force at the material time, and international material can be found in Emel Boyraz v. Turkey (no. 61960/08, §§ 26-30, 2 December 2014). FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n\n1. Declares the application admissible;\n\n2. Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention;\n\n3. Holds\n(a) that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;\n(b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;\n4. Dismisses the remainder of the applicant’s claim for just satisfaction.\n\nDone in English, and notified in writing on 25 September 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-14T07:27:13.606067",
+      "context_length": 128000,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 76.88862609863281,
+      "llm_runtime_seconds": 76.87508964538574,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mistral:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Turkish national, Ms Zeliha Eylem Can (\"the applicant\"), on 4 January 2008.",
+          "event": "The case originated in an application against the Republic of Turkey",
+          "event_who": "Ms Zeliha Eylem Can (the applicant)",
+          "event_when": "4 January 2008",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr Y. Alataş, a lawyer practising in Ankara.",
+          "event": "The applicant was represented by Mr Y. Alataş",
+          "event_who": "Mr Y. Alataş",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Turkish Government (\"the Government\") were represented by their Agent.",
+          "event": "The Turkish Government were represented by their Agent",
+          "event_who": "their Agent",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "The complaint concerning the applicant’s right not to be subjected to discrimination was communicated",
+          "event_who": "",
+          "event_when": "6 January 2014",
+          "event_what": "communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1974 and lives in Adıyaman.",
+          "event": "The applicant was born in 1974 and lives in Adıyaman",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "born, lives",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 17 October 1999 the applicant sat an examination in order to become a public servant.",
+          "event": "The applicant sat an examination to become a public servant",
+          "event_who": "the applicant",
+          "event_when": "17 October 1999",
+          "event_what": "sat an examination",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event": "She was appointed to the post of security officer",
+          "event_who": "the applicant",
+          "event_when": "27 June 2000",
+          "event_what": "appointed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event": "The Kilis branch of TEDAŞ informed the applicant that she would not be appointed",
+          "event_who": "the Kilis branch of TEDAŞ",
+          "event_when": "4 September 2000",
+          "event_what": "informed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ.",
+          "event": "The applicant lodged an action against TEDAŞ",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "lodged an action",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In her deposition, the applicant noted that being a man was not a requirement for appointment to the post in question and that she fulfilled all the requirements for that post.",
+          "event": "The applicant noted that being a man was not a requirement",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "noted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post. The applicant, being a woman, could therefore not be recruited as a security officer.",
+          "event": "The general directorate of TEDAŞ submitted that one of the requirements had been declared as ‘having completed military service’",
+          "event_who": "the general directorate of TEDAŞ",
+          "event_when": "",
+          "event_what": "submitted",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ.",
+          "event": "The Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "28 November 2001",
+          "event_what": "annulled",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event": "TEDAŞ lodged an appeal against the judgment of 28 November 2001",
+          "event_who": "TEDAŞ",
+          "event_when": "30 January 2002",
+          "event_what": "lodged an appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event": "The applicant was recruited by TEDAŞ",
+          "event_who": "the applicant",
+          "event_when": "1 April 2003",
+          "event_what": "recruited",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates.",
+          "event": "The Supreme Administrative Court quashed the judgment of the Ankara Administrative Court",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "21 October 2003",
+          "event_what": "quashed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event": "The applicant was dismissed from her post",
+          "event_who": "the applicant",
+          "event_when": "19 March 2004",
+          "event_what": "dismissed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event": "The Ankara Administrative Court dismissed the applicant’s case",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "30 December 2004",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event": "The Supreme Administrative Court dismissed the applicant’s appeal",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "7 May 2007",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event": "The Supreme Administrative Court’s judgment was notified to the applicant",
+          "event_who": "the Supreme Administrative Court’s judgment",
+          "event_when": "12 July 2007",
+          "event_what": "notified",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "II.  RELEVANT DOMESTIC LAW AND INTERNATIONAL MATERIAL",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "17.  Relevant domestic law, in force at the material time, and international material can be found in Emel Boyraz v. Turkey (no. 61960/08, §§ 26-30, 2 December 2014).",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "1.   Declares the application admissible;",
+          "event": "Declares the application admissible",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "declared",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2.   Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 14 of the Convention",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+          "event": "(a)  that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros)",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "pay",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "payable",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "4.   Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 25 September 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "",
+          "event_who": "",
+          "event_when": "25 September 2018",
+          "event_what": "",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-14T07:28:26.991119",
+      "context_length": 32768,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 73.38497853279114,
+      "llm_runtime_seconds": 73.3834125995636,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "incept5/llama3.1-claude:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event_who": "Ms Zeliha Eylem Can",
+          "event_when": "on 4 January 2008",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "the Government",
+          "event_when": "on 6 January 2014",
+          "event_what": "declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 October 1999 the applicant sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event": "On 17 October 1999 the applicant sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "sat an examination and was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event_who": "the Kilis branch of TEDAŞ",
+          "event_when": "",
+          "event_what": "informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ. In her deposition, the applicant noted that being a man was not a requirement for appointment to the post in question and that she fulfilled all the requirements for that post.",
+          "event": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ. In her deposition, the applicant noted that being a man was not a requirement for appointment to the post in question and that she fulfilled all the requirements for that post.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post. The applicant, being a woman, could therefore not be recruited as a security officer.",
+          "event": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post. The applicant, being a woman, could therefore not be recruited as a security officer.",
+          "event_who": "the general directorate of TEDAŞ",
+          "event_when": "",
+          "event_what": "submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ. The court held that the requirement of “having completed military service” should be considered to apply only to male candidates and that there had been no restriction on women working as security officers in TEDAŞ.",
+          "event": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ. The court held that the requirement of “having completed military service” should be considered to apply only to male candidates and that there had been no restriction on women working as security officers in TEDAŞ.",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "on 28 November 2001",
+          "event_what": "annulled the decision of the Kilis branch of TEDAŞ.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event_who": "TEDAŞ",
+          "event_when": "on 30 January 2002",
+          "event_what": "lodged an appeal against the judgment of 28 November 2001.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "was recruited by TEDAŞ.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates. The high court therefore found that the administration’s decision had been in accordance with the law.",
+          "event": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates. The high court therefore found that the administration’s decision had been in accordance with the law.",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "",
+          "event_what": "quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "was dismissed from her post.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "",
+          "event_what": "dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "",
+          "event_what": "dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event": "On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "",
+          "event_what": "judgment was notified to the applicant.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1.   Declares the application admissible;",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1.   Declares the application admissible;",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "Declares the application admissible.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 2.   Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention;",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 2.   Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention;",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 3.   Holds",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 3.   Holds",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "Holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 4.   Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 4.   Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-14T07:29:36.587208",
+      "context_length": 1000000,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 69.5960144996643,
+      "llm_runtime_seconds": 69.59441208839417,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "chevalblanc/claude-3-haiku:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event_who": "a Turkish national, Ms Zeliha Eylem Can (“the applicant”)",
+          "event_when": "on 4 January 2008",
+          "event_what": "lodged with the Court under Article 34 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr Y. Alataş, a lawyer practising in Ankara. The Turkish Government (“the Government”) were represented by their Agent.",
+          "event": "The applicant was represented by Mr Y. Alataş, a lawyer practising in Ankara. The Turkish Government (“the Government”) were represented by their Agent.",
+          "event_who": "The applicant, The Turkish Government (“the Government”)",
+          "event_when": "",
+          "event_what": "were represented",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8",
+          "event_when": "On 6 January 2014",
+          "event_what": "was communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1974 and lives in Adıyaman.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 17 October 1999 the applicant sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event": "On 17 October 1999 the applicant sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event_who": "the applicant",
+          "event_when": "On 17 October 1999, on 27 June 2000",
+          "event_what": "sat an examination in order to become a public servant, was appointed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event_who": "the applicant",
+          "event_when": "On 4 September 2000",
+          "event_what": "was informed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ. In her deposition, the applicant noted that being a man was not a requirement for appointment to the post in question and that she fulfilled all the requirements for that post.",
+          "event": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ. In her deposition, the applicant noted that being a man was not a requirement for appointment to the post in question and that she fulfilled all the requirements for that post.",
+          "event_who": "the applicant",
+          "event_when": "On an unspecified date",
+          "event_what": "lodged an action",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post. The applicant, being a woman, could therefore not be recruited as a security officer.",
+          "event": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post. The applicant, being a woman, could therefore not be recruited as a security officer.",
+          "event_who": "the general directorate of TEDAŞ",
+          "event_when": "On an unspecified date",
+          "event_what": "submitted",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ. The court held that the requirement of “having completed military service” should be considered to apply only to male candidates and that there had been no restriction on women working as security officers in TEDAŞ.",
+          "event": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ. The court held that the requirement of “having completed military service” should be considered to apply only to male candidates and that there had been no restriction on women working as security officers in TEDAŞ.",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "On 28 November 2001",
+          "event_what": "annulled",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event_who": "TEDAŞ",
+          "event_when": "On 30 January 2002",
+          "event_what": "lodged an appeal",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event_who": "the applicant",
+          "event_when": "On 1 April 2003",
+          "event_what": "was recruited",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates. The high court therefore found that the administration’s decision had been in accordance with the law.",
+          "event": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates. The high court therefore found that the administration’s decision had been in accordance with the law.",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "On 21 October 2003",
+          "event_what": "quashed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event_who": "the applicant",
+          "event_when": "On 19 March 2004",
+          "event_what": "was dismissed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "On 30 December 2004",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "On 7 May 2007",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event": "On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "On 12 July 2007",
+          "event_what": "was notified",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention; Holds (a) that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention; Holds (a) that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Declares, Holds",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-14T07:31:55.022947",
+      "context_length": 128000,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 138.43566846847534,
+      "llm_runtime_seconds": 138.43410801887512,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama4:16x17b",
+      "events": [
+        {
+          "source_text": "The applicant lodged an application with the Court on 4 January 2008.",
+          "event": "lodged an application",
+          "event_who": "the applicant",
+          "event_when": "4 January 2008",
+          "event_what": "lodged an application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr Y. Alataş, a lawyer practising in Ankara.",
+          "event": "was represented",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "was represented",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The Turkish Government were represented by their Agent.",
+          "event": "were represented",
+          "event_who": "the Turkish Government",
+          "event_when": "",
+          "event_what": "were represented",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "was communicated",
+          "event_who": "the complaint",
+          "event_when": "6 January 2014",
+          "event_what": "was communicated",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant sat an examination on 17 October 1999.",
+          "event": "sat an examination",
+          "event_who": "the applicant",
+          "event_when": "17 October 1999",
+          "event_what": "sat an examination",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant was appointed to the post of security officer in the Kilis branch of TEDAŞ on 27 June 2000.",
+          "event": "was appointed",
+          "event_who": "the applicant",
+          "event_when": "27 June 2000",
+          "event_what": "was appointed",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post on 4 September 2000.",
+          "event": "informed",
+          "event_who": "the Kilis branch of TEDAŞ",
+          "event_when": "4 September 2000",
+          "event_what": "informed",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant lodged an action against TEDAŞ with the Ankara Administrative Court on an unspecified date.",
+          "event": "lodged an action",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "lodged an action",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ on 28 November 2001.",
+          "event": "annulled",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "28 November 2001",
+          "event_what": "annulled",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The Supreme Administrative Court quashed the judgment of the Ankara Administrative Court on 21 October 2003.",
+          "event": "quashed",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "21 October 2003",
+          "event_what": "quashed",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was dismissed from her post on 19 March 2004.",
+          "event": "was dismissed",
+          "event_who": "the applicant",
+          "event_when": "19 March 2004",
+          "event_what": "was dismissed",
+          "event_type": "circumstance"
+        }
+      ],
+      "processed_at": "2025-08-14T07:45:08.310773",
+      "context_length": 10000000,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 793.2877504825592,
+      "llm_runtime_seconds": 793.2860929965973,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event_who": "The case",
+          "event_when": "on 4 January 2008",
+          "event_what": "originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8",
+          "event_when": "On 6 January 2014",
+          "event_what": "was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event_who": "the applicant",
+          "event_when": "On 1 April 2003",
+          "event_what": "was recruited by TEDAŞ.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event_who": "the applicant",
+          "event_when": "On 19 March 2004",
+          "event_what": "was dismissed from her post.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event_who": "the Ankara Administrative Court",
+          "event_when": "On 30 December 2004",
+          "event_what": "dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event_who": "the Supreme Administrative Court",
+          "event_when": "On 7 May 2007",
+          "event_what": "dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-14T07:56:55.610733",
+      "context_length": 32768,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 707.299910068512,
+      "llm_runtime_seconds": 707.2989175319672,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin3:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Turkish national, Ms Zeliha Eylem Can (\"the applicant\"), on 4 January 2008.",
+          "event": "The case originated in an application",
+          "event_who": "Ms Zeliha Eylem Can",
+          "event_when": "on 4 January 2008",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Mr Y. Alataş, a lawyer practising in Ankara. The Turkish Government (\"the Government\") were represented by their Agent.",
+          "event": "The applicant was represented",
+          "event_who": "Mr Y. Alataş",
+          "event_when": "",
+          "event_what": "represented by Mr Y. Alataş, a lawyer practising in Ankara",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant's right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "The complaint concerning the applicant's right not to be subjected to discrimination",
+          "event_who": "the Government",
+          "event_when": "On 6 January 2014",
+          "event_what": "was communicated",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was born in 1974 and lives in Adıyaman.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 17 October 1999 the applicant sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister's office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event": "the applicant sat an examination",
+          "event_who": "the applicant",
+          "event_when": "On 17 October 1999",
+          "event_what": "sat an examination",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of 'being a man' and 'having completed military service'.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 4 September 2000",
+          "event_what": "the Kilis branch of TEDAŞ informed the applicant",
+          "event_type": ""
+        },
+        {
+          "source_text": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ.",
+          "event": "the applicant lodged an action",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "lodged an action against TEDAŞ with the Ankara Administrative Court",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as 'having completed military service' and that therefore only men could be appointed to the post. The applicant, being a woman, could therefore not be recruited as a security officer.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ.",
+          "event": "the Ankara Administrative Court annulled",
+          "event_who": "Ankara Administrative Court",
+          "event_when": "On 28 November 2001",
+          "event_what": "annulled the decision",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 30 January 2002",
+          "event_what": "TEDAŞ lodged an appeal",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 1 April 2003",
+          "event_what": "the applicant was recruited",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates. The high court therefore found that the administration's decision had been in accordance with the law.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 21 October 2003",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 19 March 2004",
+          "event_what": "the applicant was dismissed",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant's case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 30 December 2004",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant's appeal and upheld the judgment of 30 December 2004.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 7 May 2007",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 12 July 2007 the Supreme Administrative Court's judgment was notified to the applicant.",
+          "event": "",
+          "event_who": "",
+          "event_when": "On 12 July 2007",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "1.  Declares the application admissible;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "2.   Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "3.   Holds",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "4.   Dismisses the remainder of the applicant's claim for just satisfaction.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 25 September 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "",
+          "event_who": "",
+          "event_when": "on 25 September 2018",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-14T07:57:59.170076",
+      "context_length": 128000,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 63.55929398536682,
+      "llm_runtime_seconds": 63.558257818222046,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin-mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event": "The case originated in an application (no. 2437/08) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Turkish national, Ms Zeliha Eylem Can (“the applicant”), on 4 January 2008.",
+          "event_who": "a Turkish national, Ms Zeliha Eylem Can",
+          "event_when": "on 4 January 2008",
+          "event_what": "lodged an application (no. 2437/08) against the Republic of Turkey with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms”,  “the Convention",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr Y. Alataş, a lawyer practising in Ankara. The Turkish Government (“the Government”) were represented by their Agent.",
+          "event": "The applicant was represented by Mr Y. Alataş, a lawyer practising in Ankara. The Turkish Government (“the Government”) were represented by their Agent.",
+          "event_who": "Mr Y. Alataş and the Turkish Government”,  “their Agent",
+          "event_when": "",
+          "event_what": "were represented",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 6 January 2014 the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "On 6 January 2014",
+          "event_what": "the complaint concerning the applicant’s right not to be subjected to discrimination under Article 14 of the Convention, in conjunction with Article 8, was communicated to the Government and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1974 and lives in Adıyaman.",
+          "event": "The applicant was born in 1974 and lives in Adıyaman.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "was born in 1974 and lives in Adıyaman.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 17 October 1999 the applicant sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event": "On 17 October 1999 the applicant sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event_who": "",
+          "event_when": "On 17 October 1999",
+          "event_what": "sat an examination in order to become a public servant. She was successful in the examination and on 27 June 2000 she was notified by the State Personnel Department attached to the Prime Minister’s office that she had been appointed to the post of security officer in the Kilis branch of TEDAŞ, the state-run Electricity Company.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”.",
+          "event": "On 4 September 2000 the Kilis branch of TEDAŞ informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”,  “the applicant",
+          "event_who": "",
+          "event_when": "On 4 September 2000",
+          "event_what": "informed the applicant that she would not be appointed to a post in that office as she did not fulfil the requirements of “being a man” and “having completed military service”,  “the applicant",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ. In her deposition, the applicant noted that being a man was not a requirement for appointment to the post in question and that she fulfilled all the requirements for that post.",
+          "event": "On an unspecified date the applicant lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ. In her deposition, the applicant noted that being a man was not a requirement for appointment to the post in question and that she fulfilled all the requirements for that post.",
+          "event_who": "",
+          "event_when": "On an unspecified date",
+          "event_what": "lodged an action against TEDAŞ with the Ankara Administrative Court requesting the annulment of the decision of the Kilis branch of TEDAŞ. In her deposition, the applicant noted that being a man was not a requirement for appointment to the post in question and that she fulfilled all the requirements for that post.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post. The applicant, being a woman, could therefore not be recruited as a security officer.",
+          "event": "On an unspecified date the general directorate of TEDAŞ submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post. The applicant, being a woman, could therefore not be recruited as a security officer.",
+          "event_who": "",
+          "event_when": "On an unspecified date",
+          "event_what": "submitted to the administrative court that one of the requirements for the post in question had been declared by the State Personnel Department as “having completed military service” and that therefore only men could be appointed to the post. The applicant, being a woman, could therefore not be recruited as a security officer.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ. The court held that the requirement of “having completed military service” should be considered to apply only to male candidates and that there had been no restriction on women working as security officers in TEDAŞ.",
+          "event": "On 28 November 2001 the Ankara Administrative Court annulled the decision of the Kilis branch of TEDAŞ. The court held that the requirement of “having completed military service” should be considered to apply only to male candidates and that there had been no restriction on women working as security officers in TEDAŞ.",
+          "event_who": "",
+          "event_when": "On 28 November 2001",
+          "event_what": "annulled the decision of the Kilis branch of TEDAŞ. The court held that the requirement of “having completed military service” should be considered to apply only to male candidates and that there had been no restriction on women working as security officers in TEDAŞ.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event": "On 30 January 2002 TEDAŞ lodged an appeal against the judgment of 28 November 2001.",
+          "event_who": "",
+          "event_when": "On 30 January 2002",
+          "event_what": "lodged an appeal against the judgment of 28 November 2001.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event": "On 1 April 2003 the applicant was recruited by TEDAŞ.",
+          "event_who": "",
+          "event_when": "On 1 April 2003",
+          "event_what": "was recruited by TEDAŞ.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates. The high court therefore found that the administration’s decision had been in accordance with the law.",
+          "event": "On 21 October 2003 the Supreme Administrative Court quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates. The high court therefore found that the administration’s decision had been in accordance with the law.",
+          "event_who": "",
+          "event_when": "On 21 October 2003",
+          "event_what": "quashed the judgment of the Ankara Administrative Court, holding that the requirement regarding military service demonstrated that the post in question was reserved for male candidates. The high court therefore found that the administration’s decision had been in accordance with the law.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event": "On 19 March 2004 the applicant was dismissed from her post.",
+          "event_who": "",
+          "event_when": "On 19 March 2004",
+          "event_what": "was dismissed from her post.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event": "On 30 December 2004 the Ankara Administrative Court dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event_who": "",
+          "event_when": "On 30 December 2004",
+          "event_what": "dismissed the applicant’s case, taking into consideration the decision of the Supreme Administrative Court.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event": "On 7 May 2007 the Supreme Administrative Court dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event_who": "",
+          "event_when": "On 7 May 2007",
+          "event_what": "dismissed the applicant’s appeal and upheld the judgment of 30 December 2004.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event": "On 12 July 2007 the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event_who": "",
+          "event_when": "On 12 July 2007",
+          "event_what": "the Supreme Administrative Court’s judgment was notified to the applicant.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "II.  RELEVANT DOMESTIC LAW AND INTERNATIONAL MATERIAL",
+          "event": "II.  RELEVANT DOMESTIC LAW AND INTERNATIONAL MATERIAL",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Relevant domestic law and international material can be found in Emel Boyraz v. Turkey (no. 61960/08, §§ 26-30, 2 December 2014).",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Decides to declare the application admissible; Holds that there has been a violation of Article 14 of the Convention, in conjunction with Article 8 of the Convention; Holds",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+          "event": "(a)  that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "(a)  that the respondent State is to pay the applicant within three months, EUR 11,000 (eleven thousand euros), plus any tax that may be chargeable, in respect of pecuniary and non-pecuniary damage, to be converted into the currency of the respondent State at the rate applicable at the date of settlement;",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "4.  Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "4.  Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 25 September 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 25 September 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "Done in English, and notified in writing on 25 September 2018",
+          "event_what": "pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_type": "procedure"
+        }
+      ],
+      "processed_at": "2025-08-14T08:34:49.912982",
+      "context_length": 32768,
+      "input_tokens": 1076,
+      "model_runtime_seconds": 2210.742830514908,
+      "llm_runtime_seconds": 2210.741204738617,
+      "validation_attempts": 1
+    }
+  ],
+  "processing_start_time": "2025-08-14T06:33:17.424463",
+  "processing_end_time": "2025-08-14T08:34:49.913000",
+  "total_processing_time_seconds": 7292.490557670593,
+  "metadata": {
+    "processed_at": "2025-08-14T08:34:49.913937",
+    "total_sections": 0,
+    "total_models": 12,
+    "total_tokens": 1076
+  }
+}

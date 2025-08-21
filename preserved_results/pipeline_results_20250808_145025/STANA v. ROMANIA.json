@@ -1,0 +1,2153 @@
+{
+  "Document": "file:/C:/Users/mnavas/CASE%20OF%20STANA%20v.%20ROMANIA.docx",
+  "sections": {
+    "procedure": "1.  The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.\n2.  The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara. The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.\n3.  On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+    "circumstances": "4.  The applicant was born in 1951 and lives in Timişoara.\n5.  On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.\n6.  By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe. Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.\n7.  The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.\n8.  The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript. He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention. However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.\nII.  RELEVANT DOMESTIC LAW\n9.  The legislation in force at the relevant time concerning telephone tapping is described in Dumitru Popescu v. Romania (no. 2) (no. 71525/01, §§ 39-46, 26 April 2007).",
+    "decision": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1.   Declares the application admissible;\n2.   Holds that there has been a violation of Article 8 of the Convention;\n3.   Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;\n4.   Holds\n(a)  that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;\n(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;\n5.   Dismisses the remainder of the applicant’s claim for just satisfaction.\nDone in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court."
+  },
+  "combined_text_length": 3284,
+  "total_tokens": 790,
+  "annotations": [
+    {
+      "model_name": "gemma3:1b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Romanian national, Mr Ilie Stana (\"the applicant”), on 8 October 2012.",
+          "event": "Complete text span",
+          "event_who": "Mr Ilie Stana (the applicant)",
+          "event_when": "8 October 2012",
+          "event_what": "lodged an application",
+          "event_type": "Application"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara.",
+          "event": "Complete text span",
+          "event_who": "Mr A. Bărăgan (the lawyer)",
+          "event_when": "on 8 October 2012",
+          "event_what": "represented the applicant",
+          "event_type": "Representation"
+        },
+        {
+          "source_text": "The Romanian Government (\"the Government\") were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "Complete text span",
+          "event_who": "Ms C. Brumar (the agent)",
+          "event_when": "on 24 February 2016",
+          "event_what": "represented the Government",
+          "event_type": "Representation"
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "Complete text span",
+          "event_who": "The applicant (a bank manager)",
+          "event_when": "20 February 2003",
+          "event_what": "placed in pre-trial detention",
+          "event_type": "Procedural"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (\"the High Court\") convicted the applicant of taking a bribe.",
+          "event": "Complete text span",
+          "event_who": "The High Court",
+          "event_when": "13 April 2012",
+          "event_what": "convicted the applicant",
+          "event_type": "Judgment"
+        },
+        {
+          "source_text": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "Complete text span",
+          "event_who": "The applicant",
+          "event_when": "16 September 2002",
+          "event_what": "the phone conversation",
+          "event_type": "Evidence"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (\"Law no. 51/1991)\" for the period between 13 August and 12 November 2002.",
+          "event": "Complete text span",
+          "event_who": "The prosecutor",
+          "event_when": "13 August and 12 November 2002",
+          "event_what": "intercepted the conversation",
+          "event_type": "Procedural"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "Complete text span",
+          "event_who": "The applicant",
+          "event_when": "Domestic courts",
+          "event_what": "complained about the interception and transcript",
+          "event_type": "Procedural"
+        },
+        {
+          "source_text": "He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event": "Complete text span",
+          "event_who": "The applicant",
+          "event_when": "Court",
+          "event_what": "the Court held",
+          "event_type": "Legal Ruling"
+        },
+        {
+          "source_text": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "Complete text span",
+          "event_who": "The High Court",
+          "event_when": "20 February 2003",
+          "event_what": "the High Court replied",
+          "event_type": "Response"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (\"the High Court\") convicted the applicant of taking a bribe.",
+          "event": "Complete text span",
+          "event_who": "The High Court",
+          "event_when": "13 April 2012",
+          "event_what": "convicted the applicant",
+          "event_type": "Judgment"
+        },
+        {
+          "source_text": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "Complete text span",
+          "event_who": "The applicant",
+          "event_when": "16 September 2002",
+          "event_what": "the phone conversation",
+          "event_type": "Evidence"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (\"Law no. 51/1991)\" for the period between 13 August and 12 November 2002.",
+          "event": "Complete text span",
+          "event_who": "The prosecutor",
+          "event_when": "13 August and 12 November 2002",
+          "event_what": "issued a warrant",
+          "event_type": "Procedural"
+        },
+        {
+          "source_text": "For THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "Complete text span",
+          "event_who": "The High Court",
+          "event_when": "4 December 2018",
+          "event_what": "Declared the application admissible",
+          "event_type": "Decision"
+        },
+        {
+          "source_text": "Declared the application admissible",
+          "event": "Complete text span",
+          "event_who": "The High Court",
+          "event_when": "4 December 2018",
+          "event_what": "Declared the application admissible",
+          "event_type": "Decision"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention.",
+          "event": "Complete text span",
+          "event_who": "The High Court",
+          "event_when": "Holds that",
+          "event_what": "there has been a violation",
+          "event_type": "Legal Ruling"
+        },
+        {
+          "source_text": "Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant.",
+          "event": "Complete text span",
+          "event_who": "The High Court",
+          "event_when": "Holds that",
+          "event_what": "the finding of a violation constitutes sufficient just satisfaction",
+          "event_type": "Legal Ruling"
+        },
+        {
+          "source_text": "Holds that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses.",
+          "event": "Complete text span",
+          "event_who": "The respondent State",
+          "event_when": "within three months",
+          "event_what": "pay EUR 118",
+          "event_type": "Payment"
+        },
+        {
+          "source_text": "That from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+          "event": "Complete text span",
+          "event_who": "The respondent State",
+          "event_when": "expiry of three months",
+          "event_what": "simple interest",
+          "event_type": "Payment"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77§§2 and 3 of the Rules of Court.",
+          "event": "Complete text span",
+          "event_who": "The notification",
+          "event_when": "4 December 2018",
+          "event_what": "notification",
+          "event_type": "Notification"
+        }
+      ],
+      "processed_at": "2025-08-12T14:35:07.664819",
+      "context_length": 32000,
+      "input_tokens": 790,
+      "model_runtime_seconds": 37.42548632621765,
+      "llm_runtime_seconds": 37.42482852935791,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:4b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "lodged an application",
+          "event_who": "Mr Ilie Stana (\"the applicant\")",
+          "event_when": "8 October 2012",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "declared inadmissible",
+          "event_who": "The Government",
+          "event_when": "24 February 2016",
+          "event_what": "declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event": "convicted",
+          "event_who": "the applicant",
+          "event_when": "13 April 2012",
+          "event_what": "convicted",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "included evidence",
+          "event_who": "the applicant, M.G.",
+          "event_when": "16 September 2002",
+          "event_what": "included evidence",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event": "intercepted",
+          "event_who": "the applicant, M.G.",
+          "event_when": "13 August and 12 November 2002",
+          "event_what": "intercepted",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "complained",
+          "event_who": "the applicant",
+          "event_when": "unspecified",
+          "event_what": "complained",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event": "alleged",
+          "event_who": "the applicant",
+          "event_when": "unspecified",
+          "event_what": "alleged",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "replied",
+          "event_who": "the High Court",
+          "event_when": "unspecified",
+          "event_what": "replied",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares the application admissible",
+          "event": "declared admissible",
+          "event_who": "the Court",
+          "event_when": "unspecified",
+          "event_what": "declared admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention",
+          "event": "held a violation",
+          "event_who": "the Court",
+          "event_when": "unspecified",
+          "event_what": "held a violation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant",
+          "event": "held just satisfaction",
+          "event_who": "the Court",
+          "event_when": "unspecified",
+          "event_what": "held just satisfaction",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; ",
+          "event": "ordered payment",
+          "event_who": "the Court",
+          "event_when": "within three months",
+          "event_what": "ordered payment",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; ",
+          "event": "ordered interest",
+          "event_who": "the Court",
+          "event_when": "from expiry of three months",
+          "event_what": "ordered interest",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "dismissed claim",
+          "event_who": "the Court",
+          "event_when": "unspecified",
+          "event_what": "dismissed claim",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T14:35:41.328418",
+      "context_length": 128000,
+      "input_tokens": 790,
+      "model_runtime_seconds": 33.66352462768555,
+      "llm_runtime_seconds": 33.661712646484375,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "source_text": "an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event": "lodged an application",
+          "event_who": "Mr Ilie Stana",
+          "event_when": "8 October 2012",
+          "event_what": "application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court",
+          "event": "were given notice of the complaint",
+          "event_who": "the Government",
+          "event_when": "24 February 2016",
+          "event_what": "complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the remainder of the application was declared inadmissible",
+          "event": "was declared inadmissible",
+          "event_who": "application",
+          "event_when": "24 February 2016",
+          "event_what": "application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe",
+          "event": "was placed in pre-trial detention",
+          "event_who": "the applicant",
+          "event_when": "20 February 2003",
+          "event_what": "pre-trial detention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the High Court convicted the applicant of taking a bribe",
+          "event": "convicted",
+          "event_who": "the applicant",
+          "event_when": "13 April 2012",
+          "event_what": "taking a bribe",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the conversation had been intercepted on the basis of a warrant issued by the prosecutor",
+          "event": "had been intercepted",
+          "event_who": "conversation",
+          "event_when": "between 13 August and 12 November 2002",
+          "event_what": "phone conversation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript",
+          "event": "complained",
+          "event_who": "the applicant",
+          "event_when": "before the domestic courts",
+          "event_what": "lawfulness of the interception of his phone conversation and the accuracy of the transcript",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "the Court declares the application admissible",
+          "event": "declares the application admissible",
+          "event_who": "the Court",
+          "event_when": "unanimously",
+          "event_what": "application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the Court holds that there has been a violation of Article 8 of the Convention",
+          "event": "holds that there has been a violation",
+          "event_who": "the Court",
+          "event_when": "unanimously",
+          "event_what": "violation of Article 8 of the Convention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "the Court holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant",
+          "event": "holds",
+          "event_who": "the Court",
+          "event_when": "unanimously",
+          "event_what": "finding of a violation constitutes in itself sufficient just satisfaction",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses",
+          "event": "is to pay",
+          "event_who": "the respondent State",
+          "event_when": "within three months",
+          "event_what": "EUR 118",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points",
+          "event": "shall be payable",
+          "event_who": "simple interest",
+          "event_when": "from the expiry of the above-mentioned three months until settlement",
+          "event_what": "simple interest",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the remainder of the applicant’s claim for just satisfaction",
+          "event": "Dismisses",
+          "event_who": "the Court",
+          "event_when": "unanimously",
+          "event_what": "claim for just satisfaction",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T14:36:29.279671",
+      "context_length": 128000,
+      "input_tokens": 790,
+      "model_runtime_seconds": 47.95117998123169,
+      "llm_runtime_seconds": 47.949867963790894,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama3.3:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event_who": "a Romanian national, Mr Ilie Stana (“the applicant”)",
+          "event_when": "on 8 October 2012",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "the Government",
+          "event_when": "On 24 February 2016",
+          "event_what": "were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event_who": "the applicant",
+          "event_when": "On 20 February 2003",
+          "event_what": "was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event_type": ""
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event_who": "the High Court of Cassation and Justice (“the High Court”)",
+          "event_when": "on 13 April 2012",
+          "event_what": "convicted the applicant of taking a bribe",
+          "event_type": ""
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event_who": "the prosecutor",
+          "event_when": "for the period between 13 August and 12 November 2002",
+          "event_what": "had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”)",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript",
+          "event_type": ""
+        },
+        {
+          "source_text": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event_who": "the High Court",
+          "event_when": "",
+          "event_what": "merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "1. Declares the application admissible;",
+          "event": "1. Declares the application admissible;",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Declares the application admissible",
+          "event_type": ""
+        },
+        {
+          "source_text": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Holds that there has been a violation of Article 8 of the Convention",
+          "event_type": ""
+        },
+        {
+          "source_text": "3. Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event": "3. Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant",
+          "event_type": ""
+        },
+        {
+          "source_text": "4. Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event": "4. Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event_who": "THE COURT",
+          "event_when": "within three months",
+          "event_what": "is to pay the applicant, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses",
+          "event_type": ""
+        },
+        {
+          "source_text": "5. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "5. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_type": ""
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 4 December 2018",
+          "event_what": "notified in writing",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-12T15:11:48.781535",
+      "context_length": 128000,
+      "input_tokens": 790,
+      "model_runtime_seconds": 2119.5017943382263,
+      "llm_runtime_seconds": 2119.4986493587494,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "deepseek-r1:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_who": "Mr Ilie Stana (“the applicant”)",
+          "event_when": "on 8 October 2012",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": "Application lodged"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara. The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "The applicant was represented by Mr A. Bărăgan",
+          "event_who": "Mr A. Bărăgan (a lawyer practising in Timişoara)",
+          "event_when": "",
+          "event_what": "was represented",
+          "event_type": "Representation"
+        },
+        {
+          "source_text": "The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar",
+          "event_who": "Romanian Government (represented by their Agent)",
+          "event_when": "",
+          "event_what": "were represented",
+          "event_type": "Representation"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "the Government were given notice of the complaint concerning Article 8 of the Convention",
+          "event_who": "Government (Romanian)",
+          "event_when": "On 24 February 2016",
+          "event_what": "were given notice",
+          "event_type": "Notice given"
+        },
+        {
+          "source_text": "the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "the remainder of the application was declared inadmissible",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "was declared inadmissible",
+          "event_type": "Admissibility declaration"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "The applicant was born in 1951",
+          "event_who": "applicant (Mr Ilie Stana)",
+          "event_when": "in 1951",
+          "event_what": "was born",
+          "event_type": "Birth"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "the applicant lives in Timişoara",
+          "event_who": "applicant (Mr Ilie Stana)",
+          "event_when": "",
+          "event_what": "lives",
+          "event_type": "Residence"
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "On 20 February 2003 the applicant was placed in pre-trial detention",
+          "event_who": "the applicant (Mr Ilie Stana)",
+          "event_when": "On 20 February 2003",
+          "event_what": "was placed in pre-trial detention",
+          "event_type": "Detention"
+        },
+        {
+          "source_text": "on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "the applicant was charged with taking a bribe on account of requesting a loan from M.G.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "taking a bribe",
+          "event_type": ""
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant",
+          "event_who": "High Court (The High Court)",
+          "event_when": "on 13 April 2012",
+          "event_what": "convicted",
+          "event_type": "Conviction"
+        },
+        {
+          "source_text": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "The transcript of a phone conversation was used as evidence",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "was included in the evidence for conviction",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 September 2002, there took place a phone conversation between the applicant and M.G.",
+          "event": "There took place a phone conversation between the applicant and M.G. on 16 September 2002",
+          "event_who": "the applicant (Mr Ilie Stana) and M.G.",
+          "event_when": "On 16 September 2002",
+          "event_what": "there took place a phone conversation",
+          "event_type": ""
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event": "The conversation was intercepted",
+          "event_who": "",
+          "event_when": "for the period between 13 August and 12 November 2002",
+          "event_what": "intercepted on the basis of a warrant issued by the prosecutor under Law no. 51/1991",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "The applicant complained before the domestic courts",
+          "event_who": "the applicant (Mr Ilie Stana)",
+          "event_when": "",
+          "event_what": "complained about the lawfulness of the interception and the accuracy of the transcript",
+          "event_type": ""
+        },
+        {
+          "source_text": "He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event": "Law no. 51/1991 was found to be insufficient",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "did not afford the guarantees required under Article 8 of the Convention",
+          "event_type": ""
+        },
+        {
+          "source_text": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "The High Court replied to the applicant's complaint",
+          "event_who": "High Court (the High Court)",
+          "event_when": "",
+          "event_what": "replied that the interception had been lawful and within the scope of Law no. 51/1991",
+          "event_type": ""
+        },
+        {
+          "source_text": "The legislation in force at the relevant time concerning telephone tapping is described in Dumitru Popescu v. Romania (no. 2) (no. 71525/01, §§ 39-46, 26 April 2007).",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant; Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Holds",
+          "event": "The Court declares the application admissible and holds there has been a violation of Article 8, which constitutes sufficient just satisfaction for non-pecuniary damage.",
+          "event_who": "THE COURT (the ECtHR)",
+          "event_when": "",
+          "event_what": "Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-.mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-12T15:18:25.941180",
+      "context_length": 128000,
+      "input_tokens": 790,
+      "model_runtime_seconds": 397.1595826148987,
+      "llm_runtime_seconds": 397.1528961658478,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mistral:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Romanian national, Mr Ilie Stana (\"the applicant\"), on 8 October 2012.",
+          "event": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Romanian national, Mr Ilie Stana (\"the applicant\"), on 8 October 2012.",
+          "event_who": "Mr Ilie Stana (the applicant)",
+          "event_when": "8 October 2012",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara.",
+          "event": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara.",
+          "event_who": "Mr A. Bărăgan",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Romanian Government (\"the Government\") were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "The Romanian Government (the Government) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event_who": "Ms C. Brumar",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "The Government",
+          "event_when": "24 February 2016",
+          "event_what": "given notice and declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "The applicant was born in 1951 and lives in Timişoara.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "born and lives",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event_who": "The applicant",
+          "event_when": "20 February 2003",
+          "event_what": "placed in pre-trial detention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (\"the High Court\") convicted the applicant of taking a bribe.",
+          "event": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (\"the High Court\") convicted the applicant of taking a bribe.",
+          "event_who": "The applicant",
+          "event_when": "13 April 2012",
+          "event_what": "convicted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event_who": "The applicant",
+          "event_when": "16 September 2002",
+          "event_what": "phone conversation",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (\"Law no. 51/1991\") for the period between 13 August and 12 November 2002.",
+          "event": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (\"Law no. 51/1991\") for the period between 13 August and 12 November 2002.",
+          "event_who": "",
+          "event_when": "Between 13 August and 12 November 2002",
+          "event_what": "intercepted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event": "He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event_who": "The High Court",
+          "event_when": "",
+          "event_what": "replied",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares the application admissible;",
+          "event": "Declares the application admissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declared admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds that there has been a violation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event": "Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds that the finding of a violation constitutes sufficient just satisfaction",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds (a)  that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event": "Holds (a)  that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds that the respondent State is to pay the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds that simple interest shall be payable",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "dismisses the remainder of the applicant’s claim",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "4 December 2018",
+          "event_what": "done and notified in writing",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T15:19:31.943791",
+      "context_length": 32768,
+      "input_tokens": 790,
+      "model_runtime_seconds": 66.00255966186523,
+      "llm_runtime_seconds": 66.0014865398407,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "incept5/llama3.1-claude:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event_who": "Mr Ilie Stana (applicant)",
+          "event_when": "on 8 October 2012",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "Government",
+          "event_when": "on 24 February 2016",
+          "event_what": "given notice of complaint and declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event_who": "applicant",
+          "event_when": "on 20 February 2003",
+          "event_what": "placed in pre-trial detention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event_who": "High Court",
+          "event_when": "on 13 April 2012",
+          "event_what": "convicted the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event_who": "prosecutor",
+          "event_when": "for the period between 13 August and 12 November 2002",
+          "event_what": "issued a warrant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "Court",
+          "event_when": "",
+          "event_what": "declared the application admissible and held that there has been a violation of Article 8 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 4 December 2018",
+          "event_what": "notified in writing",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T15:20:11.621060",
+      "context_length": 1000000,
+      "input_tokens": 790,
+      "model_runtime_seconds": 39.67720007896423,
+      "llm_runtime_seconds": 39.67581558227539,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "chevalblanc/claude-3-haiku:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event_who": "a Romanian national, Mr Ilie Stana (“the applicant”)",
+          "event_when": "on 8 October 2012",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara. The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "the Government",
+          "event_when": "On 24 February 2016",
+          "event_what": "were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event_who": "the applicant",
+          "event_when": "On 20 February 2003",
+          "event_what": "was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe. Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe. Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event_who": "the High Court",
+          "event_when": "on 13 April 2012",
+          "event_what": "convicted the applicant of taking a bribe",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript. He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention. However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant; Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant; Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T15:21:51.689941",
+      "context_length": 128000,
+      "input_tokens": 790,
+      "model_runtime_seconds": 100.06880760192871,
+      "llm_runtime_seconds": 100.06742405891418,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama4:16x17b",
+      "events": [
+        {
+          "source_text": "The applicant lodged an application (no. 66640/12) against Romania with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms on 8 October 2012.",
+          "event": "lodged an application",
+          "event_who": "the applicant",
+          "event_when": "8 October 2012",
+          "event_what": "lodged",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "given notice",
+          "event_who": "the Government",
+          "event_when": "24 February 2016",
+          "event_what": "given notice",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "was placed in pre-trial detention",
+          "event_who": "the applicant",
+          "event_when": "20 February 2003",
+          "event_what": "placed in detention",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event": "convicted",
+          "event_who": "the applicant",
+          "event_when": "13 April 2012",
+          "event_what": "convicted",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The Court declares the application admissible; ",
+          "event": "declares admissible",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "declares",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The Court holds that there has been a violation of Article 8 of the Convention;",
+          "event": "finds violation",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "finds",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The Court holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The Court holds that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-12T15:32:38.363390",
+      "context_length": 10000000,
+      "input_tokens": 790,
+      "model_runtime_seconds": 646.6733705997467,
+      "llm_runtime_seconds": 646.6706144809723,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event_who": "The case",
+          "event_when": "on 8 October 2012",
+          "event_what": "originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara. The Romanian Government（“the Government”）were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara. The Romanian Government（“the Government”）were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event_who": "The applicant and The Romanian Government",
+          "event_when": "None",
+          "event_what": "were represented by Mr A. Bărăgan, a lawyer practising in Timişoara and their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "The Government",
+          "event_when": "On 24 February 2016",
+          "event_what": "were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript. He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript. He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event_who": "The applicant",
+          "event_when": "None",
+          "event_what": "complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript. He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T15:42:13.380333",
+      "context_length": 32768,
+      "input_tokens": 790,
+      "model_runtime_seconds": 575.0168375968933,
+      "llm_runtime_seconds": 575.0028185844421,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin3:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms ('the Convention') by a Romanian national, Mr Ilie Stana ('the applicant'), on 8 October 2012.",
+          "event": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms ('the Convention') by a Romanian national, Mr Ilie Stana ('the applicant'), on 8 October 2012.",
+          "event_who": "Mr Ilie Stana",
+          "event_when": "8 October 2012",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara.",
+          "event": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara.",
+          "event_who": "Mr A. Bărăgan",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The Romanian Government ('the Government') were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "The Romanian Government ('the Government') were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event_who": "Ms C. Brumar",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 × 3 of the Rules of Court.",
+          "event": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54× 3 of the Rules of Court.",
+          "event_who": "Government",
+          "event_when": "24 February 2016",
+          "event_what": "notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "The applicant was born in 1951 and lives in Timişoara.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor's Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor's Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event_who": "Bucharest Anti-Corruption Department",
+          "event_when": "20 February 2003",
+          "event_what": "placed in pre-trial detention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice ('the High Court') convicted the applicant of taking a bribe.",
+          "event": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice ('the High Court') convicted the applicant of taking a bribe.",
+          "event_who": "High Court",
+          "event_when": "13 April 2012",
+          "event_what": "convicted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event_who": "",
+          "event_when": "16 September 2002",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security ('Law no. 51/1991') for the period between 13 August and 12 November 2002.",
+          "event": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security ('Law no. 51/1991') for the period between 13 August and 12 November 2002.",
+          "event_who": "",
+          "event_when": "13 August to 12 November 2002",
+          "event_what": "intercepted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": ""
+        },
+        {
+          "source_text": "He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event": "He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event_who": "High Court",
+          "event_when": "",
+          "event_what": "replied",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "1.   Declares the application admissible;",
+          "event": "1.   Declares the application admissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "2.   Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "2.   Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "3.   Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event": "3.   Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "4.   Holds",
+          "event": "4.   Holds",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event": "(a)  that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "5.   Dismisses the remainder of the applicant's claim for just satisfaction.",
+          "event": "5.   Dismisses the remainder of the applicant's claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 × 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77× 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "4 December 2018",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-12T15:43:17.302076",
+      "context_length": 128000,
+      "input_tokens": 790,
+      "model_runtime_seconds": 63.9216845035553,
+      "llm_runtime_seconds": 63.920433044433594,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin-mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event_who": "a Romanian national, Mr Ilie Stana”, ",
+          "event_when": "on 8 October 2012.",
+          "event_what": "lodged an application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara. The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara. The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event_who": "Mr A. Bărăgan and Ms C. Brumar",
+          "event_when": "",
+          "event_what": "represented in court",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "On 24 February 2016",
+          "event_what": "declared inadmissible",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "The applicant was born in 1951 and lives in Timişoara.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "was born",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event_who": "the applicant",
+          "event_when": "On 20 February 2003",
+          "event_what": "was placed in pre-trial detention",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event_who": "the High Court",
+          "event_when": "on 13 April 2012",
+          "event_what": "convicted the applicant of taking a bribe",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event_who": "",
+          "event_when": "on 16 September 2002",
+          "event_what": "transcript of a phone conversation",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event_who": "",
+          "event_when": "for the period between 13 August and 12 November 2002",
+          "event_what": "intercepted a phone conversation",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript. He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention. However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript. He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention. However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained about the lawfulness of the interception of his phone conversation and the accuracy of the transcript",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The legislation in force at the relevant time concerning telephone tapping is described in Dumitru Popescu v. Romania (no. 2) (no. 71525/01, §§ 39-46, 26 April 2007).",
+          "event": "The legislation in force at the relevant time concerning telephone tapping is described in Dumitru Popescu v. Romania (no. 2) (no. 71525/01, §§ 39-46, 26 April 2007).",
+          "event_who": "",
+          "event_when": "at the relevant time",
+          "event_what": "concerning telephone tapping is described in Dumitru Popescu v. Romania (no. 2)",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Decides as follows:",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "1. Declares the application admissible;",
+          "event": "1. Declares the application admissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Decides as follows:",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Decides as follows:",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "3. Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event": "3. Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Decides as follows:",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "4. Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event": "4. Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Decides as follows:",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "(b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Decides as follows:",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "5. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "5. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Decides as follows:",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 4 December 2018",
+          "event_what": "Decides as follows:",
+          "event_type": "procedure"
+        }
+      ],
+      "processed_at": "2025-08-12T16:08:12.483352",
+      "context_length": 32768,
+      "input_tokens": 790,
+      "model_runtime_seconds": 1495.181164741516,
+      "llm_runtime_seconds": 1495.1797375679016,
+      "validation_attempts": 1
+    }
+  ],
+  "processing_start_time": "2025-08-12T14:34:30.239268",
+  "processing_end_time": "2025-08-12T16:08:12.483362",
+  "total_processing_time_seconds": 5622.244988203049,
+  "metadata": {
+    "processed_at": "2025-08-12T16:08:12.484880",
+    "total_sections": 0,
+    "total_models": 12,
+    "total_tokens": 790
+  }
+}

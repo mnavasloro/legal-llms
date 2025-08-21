@@ -1,0 +1,2241 @@
+{
+  "Document": "file:/C:/Users/mnavas/CASE%20OF%20PAKHTUSOV%20v.%20RUSSIA.docx",
+  "sections": {
+    "procedure": "1.  The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.\n2.  The applicant was represented by Mr E. Mezak, a human rights activist practising in Syktyvkar. The Russian Government (“the Government”) were represented by Mr G. Matyushkin, Representative of the Russian Federation to the European Court of Human Rights.\n3.  The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.\n4.  On 17 June 2010 the application was communicated to the Government. The parties submitted written observations on the admissibility and merits.",
+    "circumstances": "5.  The applicant is a taxi driver.\n6.  On the night of 25 July 2009 traffic police stopped the applicant’s car. Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning. A record of the applicant’s administrative arrest was drawn up.\n7.  On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.\n8.  On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit. The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.\n9.  On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.\n10.  The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.\n11.  On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.\n12.  The applicant’s representative appealed. Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life. Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention. Restrictions of that kind could only be applied “in accordance with the law”, should pursue one or more legitimate aims and, in addition, should be justified as being “necessary in a democratic society”. The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.\n13.  On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:\n“There is no prohibition on family visits for administrative detainees.\n...\n[At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction. Providing lawenforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights.\nIn the case under examination, there are no grounds for concluding that the actions of the acting head [of the detention unit of the police station where the applicant had been detained] were unlawful because, having applied for a family visit, [the applicant] had not indicated whom he had wanted to see and what the relationship was between him and that person. If those important details are not provided, the authorisation of a family visit cannot be considered lawful.”\nII.  RELEVANT DOMESTIC LAW\n14.  The relevant provisions of the Russian Code of Administrative Offences (no. 195-FZ of 30 December 2001, in force at the time) read as follows:\nArticle 3.9\n“Administrative detention ( административный арест ), a type of administrative sentence, is imposed by a judge in exceptional cases for a limited number of administrative offences and for a period not exceeding fifteen days.”\nArticle 12.7 § 2\n“Continuing to drive a vehicle after a driving licence has been withdrawn is punishable by administrative detention of up to fifteen days.”\n15.  At the time of the events, administrative detention was governed by the Regulations on Procedure for Serving an Administrative Detention (adopted by the Governmental Decree no. 726 of 2 October 2002) and by the Internal Rules for Detention Facilities for Administrative Detainees (adopted by Order no. 605dsp issued by the Ministry of Internal Affairs of Russia on 6 June 2000). Both documents were silent on the possibility of family visits for administrative detainees.\n16.  On 26 July 2013 the Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force. Article 10 of the Act provided administrative detainees with the right to have an hour-long family visit during the detention period.",
+    "decision": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1.   Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;\n2.   Holds that there has been a violation of Article 8 of the Convention;\n3.   Holds\n(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement:\n(i)  EUR 1,000 (one thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;\n(ii)  EUR 3 (three euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;\n(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;\n4.   Dismisses the remainder of the applicant’s claim for just satisfaction.\nDone in English, and notified in writing on 16 May 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court."
+  },
+  "combined_text_length": 7354,
+  "total_tokens": 1608,
+  "annotations": [
+    {
+      "model_name": "gemma3:1b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event": "Event_who",
+          "event_who": "Russian national, Mr. Andrey Aleksandrovich Pakhtusov (\"the applicant\")",
+          "event_when": "17 January 2010",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr E. Mezak, a human rights activist practising in Syktyvkar.",
+          "event": "Event_who",
+          "event_who": "Mr E. Mezak",
+          "event_when": "on 17 January 2010",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Russian Government (“the Government”) were represented by Mr G. Matyushkin, Representative of the Russian Federation to the European Court of Human Rights.",
+          "event": "Event_who",
+          "event_who": "Mr G. Matyushkin",
+          "event_when": "on 17 January 2010",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event": "Event_what",
+          "event_who": "applicant",
+          "event_when": "on 17 January 2010",
+          "event_what": "complained about",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 June 2010 the application was communicated to the Government.",
+          "event": "Event_when",
+          "event_who": "Government",
+          "event_when": "on 17 June 2010",
+          "event_what": "communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The parties submitted written observations on the admissibility and merits.",
+          "event": "Event_what",
+          "event_who": "parties",
+          "event_when": "on 17 June 2010",
+          "event_what": "submitted observations",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant is a taxi driver.",
+          "event": "Event_who",
+          "event_who": "applicant",
+          "event_when": "on 17 June 2010",
+          "event_what": "taxi driver",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On the night of 25 July 2009 traffic police stopped the applicant’s car.",
+          "event": "Event_when",
+          "event_who": "traffic police",
+          "event_when": "on 25 July 2009",
+          "event_what": "stopped",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning.",
+          "event": "Event_when",
+          "event_who": "applicant",
+          "event_when": "until the following morning",
+          "event_what": "kept",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "A record of the applicant’s administrative arrest was drawn up.",
+          "event": "Event_what",
+          "event_who": "police officers",
+          "event_when": "on 25 July 2009",
+          "event_what": "drawn up",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event": "Event_when",
+          "event_who": "Justice of the Peace",
+          "event_when": "on 26 July 2009",
+          "event_what": "found guilty",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit.",
+          "event": "Event_when",
+          "event_who": "applicant",
+          "event_when": "on 31 July 2009",
+          "event_what": "made a request",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not ‘provided for [by law]’.",
+          "event": "Event_when",
+          "event_who": "acting head of the detention unit",
+          "event_when": "on 31 July 2009",
+          "event_what": "stated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "Event_when",
+          "event_who": "applicant's representative",
+          "event_when": "on 14 August 2009",
+          "event_what": "alleged",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "Event_when",
+          "event_who": "police officials",
+          "event_when": "filed objection",
+          "event_what": "argued",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows: \"There is no prohibition on family visits for administrative detainees. \".",
+          "event": "Event_when",
+          "event_who": "Supreme Court of the Komi Republic",
+          "event_when": "upheld decision",
+          "event_what": "reasoned as follows",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "...",
+          "event": "Event_what",
+          "event_who": "The Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008),",
+          "event_when": "on 22 October 2009",
+          "event_what": "The Court’s judgments",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Event_what",
+          "event_who": "Supreme Court of the Komi Republic",
+          "event_when": "dismisses claim",
+          "event_what": "dismisses claim",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T15:39:42.375223",
+      "context_length": 32000,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 38.701942920684814,
+      "llm_runtime_seconds": 38.70092177391052,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:4b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event": "lodged an application",
+          "event_who": "applicant",
+          "event_when": "17 January 2010",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr E. Mezak, a human rights activist practising in Syktyvkar. The Russian Government (“the Government”) were represented by Mr G. Matyushkin, Representative of the Russian Federation to the European Court of Human Rights.",
+          "event": "represented by",
+          "event_who": "applicant, Russian Government",
+          "event_when": "unknown",
+          "event_what": "represented by",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event": "complained about",
+          "event_who": "applicant",
+          "event_when": "unknown",
+          "event_what": "complained about",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 June 2010 the application was communicated to the Government. The parties submitted written observations on the admissibility and merits.",
+          "event": "communicated",
+          "event_who": "Court",
+          "event_when": "17 June 2010",
+          "event_what": "communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant is a taxi driver.",
+          "event": "is",
+          "event_who": "applicant",
+          "event_when": "unknown",
+          "event_what": "is",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On the night of 25 July 2009 traffic police stopped the applicant’s car. Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning. A record of the applicant’s administrative arrest was drawn up.",
+          "event": "stopped",
+          "event_who": "traffic police",
+          "event_when": "25 July 2009",
+          "event_what": "stopped",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event": "found guilty",
+          "event_who": "Justice of the Peace",
+          "event_when": "26 July 2009",
+          "event_what": "found guilty",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit. The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.",
+          "event": "made a request",
+          "event_who": "applicant",
+          "event_when": "31 July 2009",
+          "event_what": "made a request",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "lodged a complaint",
+          "event_who": "applicant’s representative",
+          "event_when": "14 August 2009",
+          "event_what": "lodged a complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event": "filed an objection",
+          "event_who": "police officials",
+          "event_when": "unknown",
+          "event_what": "filed an objection",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "dismissed the complaint",
+          "event_who": "Syktyvkar City Court",
+          "event_when": "15 September 2009",
+          "event_what": "dismissed the complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant’s representative appealed.",
+          "event": "appealed",
+          "event_who": "applicant’s representative",
+          "event_when": "unknown",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life. Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention. Restrictions of that kind could only be applied “in accordance with the law”, should pursue one or more legitimate aims and, in addition, should be justified as being “necessary in a democratic society”. The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.",
+          "event": "argued",
+          "event_who": "applicant’s representative",
+          "event_when": "unknown",
+          "event_what": "argued",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows: ‘There is no prohibition on family visits for administrative detainees. ... [At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction. Providing law enforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights. In the case under examination, there are no grounds for concluding that the actions of the acting head [of the detention unit of the police station where the applicant had been detained] were unlawful because, having applied for a family visit, [the applicant] had not indicated whom he had wanted to see and what the relationship was between him and that person. If those important details are not provided, the authorisation of a family visit cannot be considered lawful.’",
+          "event": "upheld the decision",
+          "event_who": "Supreme Court of the Komi Republic",
+          "event_when": "22 October 2009",
+          "event_what": "upheld the decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "lodged a complaint",
+          "event_who": "applicant’s representative",
+          "event_when": "14 August 2009",
+          "event_what": "lodged a complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event": "filed an objection",
+          "event_who": "police officials",
+          "event_when": "unknown",
+          "event_what": "filed an objection",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "dismissed the complaint",
+          "event_who": "Syktyvkar City Court",
+          "event_when": "15 September 2009",
+          "event_what": "dismissed the complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant’s representative appealed.",
+          "event": "appealed",
+          "event_who": "applicant’s representative",
+          "event_when": "unknown",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life. Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention. Restrictions of that kind could only be applied “in accordance with the law”, should pursue one or more legitimate aims and, in addition, should be justified as being “necessary in a democratic society”. The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.",
+          "event": "argued",
+          "event_who": "applicant’s representative",
+          "event_when": "unknown",
+          "event_what": "argued",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows: ‘There is no prohibition on family visits for administrative detainees. ... [At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction. Providing law enforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights. In the case under examination, there are no grounds for concluding that the actions of the acting head [of the detention unit of the police station where the applicant had been detained] were unlawful because, having applied for a family visit, [the applicant] had not indicated whom he had wanted to see and what the relationship was between him and that person. If those important details are not provided, the authorisation of a family visit cannot be considered lawful.’",
+          "event": "upheld the decision",
+          "event_who": "Supreme Court of the Komi Republic",
+          "event_when": "22 October 2009",
+          "event_what": "upheld the decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "lodged a complaint",
+          "event_who": "applicant’s representative",
+          "event_when": "14 August 2009",
+          "event_what": "lodged a complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event": "filed an objection",
+          "event_who": "police officials",
+          "event_when": "unknown",
+          "event_what": "filed an objection",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "dismissed the complaint",
+          "event_who": "Syktyvkar City Court",
+          "event_when": "15 September 2009",
+          "event_what": "dismissed the complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant’s representative appealed.",
+          "event": "appealed",
+          "event_who": "applicant’s representative",
+          "event_when": "unknown",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life. Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention. Restrictions of that kind could only be applied “in accordance with the law”, should pursue one or more legitimate aims and, in addition, should be justified as being “necessary in a democratic society”. The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.",
+          "event": "argued",
+          "event_who": "applicant’s representative",
+          "event_when": "unknown",
+          "event_what": "argued",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows: ‘There is no prohibition on family visits for administrative detainees. ... [At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction. Providing law enforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights. In the case under examination, there are no grounds for concluding that the actions of the acting head [of the detention unit of the police station where the applicant had been detained] were unlawful because, having applied for a family visit, [the applicant] had not indicated whom he had wanted to see and what the relationship was between him and that person. If those important details are not provided, the authorisation of a family visit cannot be considered lawful.’",
+          "event": "upheld the decision",
+          "event_who": "Supreme Court of the Komi Republic",
+          "event_when": "22 October 2009",
+          "event_what": "upheld the decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "lodged a complaint",
+          "event_who": "applicant’s representative",
+          "event_when": "14 August 2009",
+          "event_what": "lodged a complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event": "filed an objection",
+          "event_who": "police officials",
+          "event_when": "unknown",
+          "event_what": "filed an objection",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "dismissed the complaint",
+          "event_who": "Syktyvkar City Court",
+          "event_when": "15 September 2009",
+          "event_what": "dismissed the complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant’s representative appealed.",
+          "event": "appealed",
+          "event_who": "applicant’s representative",
+          "event_when": "unknown",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life. Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention. Restrictions of that kind could only be applied “in accordance with the law”, should pursue one or more legitimate aims and, in addition, should be justified as being “necessary in a democratic society”. The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.",
+          "event": "argued",
+          "event_who": "applicant’s representative",
+          "event_when": "unknown",
+          "event_what": "argued",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows: ‘There is no prohibition on family visits for administrative detainees. ... [At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction. Providing law enforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights. In the case under examination, there are no grounds for concluding that the actions of the acting head [of the detention unit of the police station where the applicant had been detained] were unlawful because, having applied for a family visit, [the applicant] had not indicated whom he had wanted to see and what the relationship was between him and that person. If those important details are not provided, the authorisation of a family visit cannot be considered lawful.’",
+          "event": "upheld the decision",
+          "event_who": "Supreme Court of the Komi Republic",
+          "event_when": "22 October 2009",
+          "event_what": "upheld the decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "lodged a complaint",
+          "event_who": "applicant’s representative",
+          "event_when": "14 August 2009",
+          "event_what": "lodged a complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event": "filed an objection",
+          "event_who": "police officials",
+          "event_when": "unknown",
+          "event_what": "filed an objection",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "dismissed the complaint",
+          "event_who": "Syktyvkar City Court",
+          "event_when": "15 September 2009",
+          "event_what": "dismissed the complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant’s representative appealed.",
+          "event": "appealed",
+          "event_who": "applicant’s representative",
+          "event_when": "unknown",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life. Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention. Restrictions of that kind could only be applied “in accordance with the law”, should pursue one or more legitimate aims and, in addition, should be justified as being “necessary in a democratic society”. The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.",
+          "event": "argued",
+          "event_who": "applicant’s representative",
+          "event_when": "unknown",
+          "event_what": "argued",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows: ‘There is no prohibition on family visits for administrative detainees. ... [At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction. Providing law enforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights. In the case under examination, there are no grounds for concluding that the actions of the acting head [of the detention unit of the police station where the applicant had been detained] were unlawful because, having applied for a family visit, [the applicant] had not indicated whom he had wanted to see and what the relationship was between him and that person. If those important details are not provided, the authorisation of a family visit cannot be considered lawful.’",
+          "event": "upheld the decision",
+          "event_who": "Supreme Court of the Komi Republic",
+          "event_when": "22 October 2009",
+          "event_what": "upheld the decision",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T15:41:17.432222",
+      "context_length": 128000,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 95.05692934989929,
+      "llm_runtime_seconds": 95.05465626716614,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event": "lodged an application",
+          "event_who": "Mr. Andrey Aleksandrovich Pakhtusov",
+          "event_when": "17 January 2010",
+          "event_what": "application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr E. Mezak, a human rights activist practising in Syktyvkar. The Russian Government (“the Government”) were represented by Mr G. Matyushkin, Representative of the Russian Federation to the European Court of Human Rights.",
+          "event": "represented",
+          "event_who": "Mr E. Mezak, Mr G. Matyushkin",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event": "complained",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "ban on family visits",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 17 June 2010 the application was communicated to the Government. The parties submitted written observations on the admissibility and merits.",
+          "event": "communicated",
+          "event_who": "the application",
+          "event_when": "17 June 2010",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On the night of 25 July 2009 traffic police stopped the applicant’s car. Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning. A record of the applicant’s administrative arrest was drawn up.",
+          "event": "stopped",
+          "event_who": "traffic police",
+          "event_when": "the night of 25 July 2009",
+          "event_what": "applicant’s car",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event": "found guilty",
+          "event_who": "The Justice of the Peace",
+          "event_when": "26 July 2009",
+          "event_what": "driving a vehicle after the withdrawal of his driving licence",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit. The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.",
+          "event": "made a written request",
+          "event_who": "the applicant",
+          "event_when": "31 July 2009",
+          "event_what": "family visit",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "lodged a complaint",
+          "event_who": "the applicant’s representative",
+          "event_when": "14 August 2009",
+          "event_what": "complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event": "filed a written objection",
+          "event_who": "The police officials",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "dismissed",
+          "event_who": "the Syktyvkar City Court",
+          "event_when": "15 September 2009",
+          "event_what": "applicant’s complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant’s representative appealed. Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life. Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention. Restrictions of that kind could only be applied “in accordance with the law”, should pursue one or more legitimate aims and, in addition, should be justified as being “necessary in a democratic society”. The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.",
+          "event": "appealed",
+          "event_who": "The applicant’s representative",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows: \"There is no prohibition on family visits for administrative detainees. ... [At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction. Providing lawenforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights. In the case under examination, there are no grounds for concluding that the actions of the acting head [of the detention unit of the police station where the applicant had been detained] were unlawful because, having applied for a family visit, [the applicant] had not indicated whom he had wanted to see and what the relationship was between him and that person. If those important details are not provided, the authorisation of a family visit cannot be considered lawful.\"",
+          "event": "upheld",
+          "event_who": "the Supreme Court of the Komi Republic",
+          "event_when": "22 October 2009",
+          "event_what": "the City Court’s decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 July 2013 the Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force. Article 10 of the Act provided administrative detainees with the right to have an hour-long family visit during the detention period.",
+          "event": "came into force",
+          "event_who": "the Administrative Detention Act",
+          "event_when": "26 July 2013",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1. Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible; 2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "declares admissible",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "violation of Article 8 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement: (i) EUR 1,000 (one thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii) EUR 3 (three euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "to pay",
+          "event_who": "the respondent State",
+          "event_when": "within three months from the date on which the judgment becomes final",
+          "event_what": "EUR 1,000, EUR 3",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T15:42:39.715224",
+      "context_length": 128000,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 82.28292846679688,
+      "llm_runtime_seconds": 82.28066825866699,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama3.3:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event_who": "a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”)",
+          "event_when": "on 17 January 2010",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 17 June 2010 the application was communicated to the Government.",
+          "event": "On 17 June 2010 the application was communicated to the Government.",
+          "event_who": "the Government",
+          "event_when": "On 17 June 2010",
+          "event_what": "was communicated",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": ""
+        },
+        {
+          "source_text": "On the night of 25 July 2009 traffic police stopped the applicant’s car.",
+          "event": "On the night of 25 July 2009 traffic police stopped the applicant’s car.",
+          "event_who": "traffic police",
+          "event_when": "On the night of 25 July 2009",
+          "event_what": "stopped",
+          "event_type": ""
+        },
+        {
+          "source_text": "Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning.",
+          "event": "Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning.",
+          "event_who": "police officers",
+          "event_when": "",
+          "event_what": "took",
+          "event_type": ""
+        },
+        {
+          "source_text": "A record of the applicant’s administrative arrest was drawn up.",
+          "event": "A record of the applicant’s administrative arrest was drawn up.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "was drawn up",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event_who": "the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District",
+          "event_when": "On 26 July 2009",
+          "event_what": "found … guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit.",
+          "event": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit.",
+          "event_who": "the applicant",
+          "event_when": "On 31 July 2009",
+          "event_what": "made",
+          "event_type": ""
+        },
+        {
+          "source_text": "The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.",
+          "event": "The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.",
+          "event_who": "the acting head of the detention unit, Mr S.",
+          "event_when": "The next day",
+          "event_what": "was returned",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event_who": "the applicant’s representative",
+          "event_when": "On 14 August 2009",
+          "event_what": "lodged",
+          "event_type": ""
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event_who": "the police officials",
+          "event_when": "",
+          "event_what": "filed",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event_who": "the Syktyvkar City Court",
+          "event_when": "On 15 September 2009",
+          "event_what": "dismissed",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant’s representative appealed.",
+          "event": "The applicant’s representative appealed.",
+          "event_who": "the applicant’s representative",
+          "event_when": "",
+          "event_what": "appealed",
+          "event_type": ""
+        },
+        {
+          "source_text": "Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:",
+          "event": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:",
+          "event_who": "the Supreme Court of the Komi Republic",
+          "event_when": "On 22 October 2009",
+          "event_what": "upheld",
+          "event_type": ""
+        },
+        {
+          "source_text": "“There is no prohibition on family visits for administrative detainees.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "[At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Providing law-enforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "In the case under examination, there are no grounds for concluding that the actions of the acting head [of the detention unit of the police station where the applicant had been detained] were unlawful because, having applied for a family visit, [the applicant] had not indicated whom he had wanted to see and what the relationship was between him and that person.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "If those important details are not provided, the authorisation of a family visit cannot be considered lawful.”",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 26 July 2013 the Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force.",
+          "event": "On 26 July 2013 the Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force.",
+          "event_who": "",
+          "event_when": "On 26 July 2013",
+          "event_what": "came into force",
+          "event_type": ""
+        },
+        {
+          "source_text": "Article 10 of the Act provided administrative detainees with the right to have an hour-long family visit during the detention period.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "1.  Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "2.  Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "3.  Holds",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement:",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(i)  EUR 1,000 (one thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(ii)  EUR 3 (three euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "4.  Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 16 May 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-09T16:45:39.775782",
+      "context_length": 128000,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 3780.0604858398438,
+      "llm_runtime_seconds": 3780.0570108890533,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "deepseek-r1:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_who": "Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”)",
+          "event_when": "on 17 January 2010",
+          "event_what": "lodged an application against the Russian Federation under Article 34 of the Convention with the Court",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant was represented by Mr E. Mezak, a human rights activist practising in Syktyvkar. The Russian Government (“the Government”) were represented by Mr G. Matyushkin, Representative of the Russian Federation to the European Court of Human Rights.",
+          "event": "The applicant was represented by Mr E. Mezak and the Russian Government were represented by Mr G. Matyushkin",
+          "event_who": "[\"Mr E. Mezak\", \"Russian Government\"]",
+          "event_when": "",
+          "event_what": "were represented",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 17 June 2010 the application was communicated to the Government.",
+          "event": "the application was communicated to the Government",
+          "event_who": "Government",
+          "event_when": "On 17 June 2010",
+          "event_what": "was communicated",
+          "event_type": ""
+        },
+        {
+          "source_text": "The parties submitted written observations on the admissibility and merits.",
+          "event": "The parties submitted written observations on the admissibility and merits",
+          "event_who": "parties (applicants and respondents)",
+          "event_when": "",
+          "event_what": "submitted written observations on the admissibility and merits",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 17 June 2010 the application was communicated to the Government. The parties submitted written observations on the admissibility and merits.",
+          "event": "The parties submitted written observations on the admissibility and merits",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "submitted written observations on the admissibility and merits",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event": "On 26 July 2009 the Justice of the Peace found the applicant guilty and sentenced him",
+          "event_who": "the Justice of the Peace",
+          "event_when": "On 26 July 2009",
+          "event_what": "found the applicant guilty and sentenced him to fifteen days of administrative detention",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 31 July 2009 the applicant made a written request to the head of the detention unit.",
+          "event": "the applicant made a written request to the head of the detention unit",
+          "event_who": "applicant",
+          "event_when": "On 31 July 2009",
+          "event_what": "made a written request",
+          "event_type": ""
+        },
+        {
+          "source_text": "The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S.",
+          "event": "the request was returned to the applicant bearing a handwritten note by the acting head",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "was returned to the applicant bearing a handwritten note",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court.",
+          "event": "the applicant’s representative lodged a complaint with the Syktyvkar Town Court",
+          "event_who": "applicant's representative",
+          "event_when": "On 14 August 2009",
+          "event_what": "lodged a complaint",
+          "event_type": ""
+        },
+        {
+          "source_text": "The police officials filed a written objection.",
+          "event": "the police officials filed a written objection",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "filed a written objection",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint.",
+          "event": "the Syktyvkar City Court dismissed the applicant's complaint",
+          "event_who": "",
+          "event_when": "On 15 September 2009",
+          "event_what": "dismissed the applicant's complaint",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant’s representative appealed.",
+          "event": "the applicant’s representative appealed",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "appealed",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court's decision.",
+          "event": "the Supreme Court upheld the City Court's decision",
+          "event_who": "",
+          "event_when": "On 22 October 2009",
+          "event_what": "upheld the City Court's decision",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 May 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "",
+          "event_who": "",
+          "event_when": "on 16 May 2017",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "The Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-09T16:46:39.504554",
+      "context_length": 128000,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 59.728705644607544,
+      "llm_runtime_seconds": 59.71598434448242,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mistral:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (\"the applicant\"), on 17 January 2010.",
+          "event": "The case originated in an application against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov on 17 January 2010.",
+          "event_who": "The applicant: Mr. Andrey Aleksandrovich Pakhtusov",
+          "event_when": "17 January 2010",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Mr E. Mezak, a human rights activist practising in Syktyvkar.",
+          "event": "The applicant was represented by Mr E. Mezak, a human rights activist practising in Syktyvkar.",
+          "event_who": "Mr E. Mezak",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Russian Government (\"the Government\") were represented by Mr G. Matyushkin, Representative of the Russian Federation to the European Court of Human Rights.",
+          "event": "The Russian Government were represented by Mr G. Matyushkin, Representative of the Russian Federation to the European Court of Human Rights.",
+          "event_who": "Mr G. Matyushkin",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 17 June 2010 the application was communicated to the Government.",
+          "event": "On 17 June 2010 the application was communicated to the Government.",
+          "event_who": "",
+          "event_when": "17 June 2010",
+          "event_what": "communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The parties submitted written observations on the admissibility and merits.",
+          "event": "The parties submitted written observations on the admissibility and merits.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "submitted",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant is a taxi driver.",
+          "event": "The applicant is a taxi driver.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "is",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On the night of 25 July 2009 traffic police stopped the applicant’s car.",
+          "event": "On the night of 25 July 2009 traffic police stopped the applicant’s car.",
+          "event_who": "",
+          "event_when": "25 July 2009",
+          "event_what": "stopped",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning.",
+          "event": "Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning.",
+          "event_who": "",
+          "event_when": "25 July 2009",
+          "event_what": "took",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event_who": "",
+          "event_when": "26 July 2009",
+          "event_what": "found guilty and sentenced",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit.",
+          "event": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit.",
+          "event_who": "The applicant",
+          "event_when": "31 July 2009",
+          "event_what": "made a written request",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not ‘provided for [by law]’.",
+          "event": "The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not ‘provided for [by law]’.",
+          "event_who": "Mr S.",
+          "event_when": "",
+          "event_what": "returned",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event_who": "The applicant’s representative",
+          "event_when": "14 August 2009",
+          "event_what": "lodged a complaint",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event_who": "The police officials",
+          "event_when": "",
+          "event_what": "filed a written objection",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event_who": "The Syktyvkar City Court",
+          "event_when": "15 September 2009",
+          "event_what": "dismissed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant’s representative appealed.",
+          "event": "The applicant’s representative appealed.",
+          "event_who": "The applicant’s representative",
+          "event_when": "",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life.",
+          "event": "Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life.",
+          "event_who": "The applicant’s representative",
+          "event_when": "",
+          "event_what": "argued",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention.",
+          "event": "Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "constituted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Restrictions of that kind could only be applied ‘in accordance with the law’, should pursue one or more legitimate aims and, in addition, should be justified as being ‘necessary in a democratic society’.",
+          "event": "Restrictions of that kind could only be applied ‘in accordance with the law’, should pursue one or more legitimate aims and, in addition, should be justified as being ‘necessary in a democratic society’.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "could only be applied",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.",
+          "event": "The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.",
+          "event_who": "The representative",
+          "event_when": "",
+          "event_what": "submitted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:",
+          "event": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:",
+          "event_who": "",
+          "event_when": "22 October 2009",
+          "event_what": "upheld",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "‘There is no prohibition on family visits for administrative detainees.’",
+          "event": "'There is no prohibition on family visits for administrative detainees.'",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "...[At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction.",
+          "event": "...[At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Providing law enforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights.",
+          "event": "Providing law enforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In the case under examination, there are no grounds for concluding that the actions of the acting head [of the detention unit of the police station where the applicant had been detained] were unlawful because, having applied for a family visit, [the applicant] had not indicated whom he had wanted to see and what the relationship was between him and that person. If those important details are not provided, the authorisation of a family visit cannot be considered lawful.”",
+          "event": "In the case under examination, there are no grounds for concluding that the actions of the acting head [of the detention unit of the police station where the applicant had been detained] were unlawful because, having applied for a family visit, [the applicant] had not indicated whom he had wanted to see and what the relationship was between him and that person. If those important details are not provided, the authorisation of a family visit cannot be considered lawful.”",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "II.  RELEVANT DOMESTIC LAW",
+          "event": "II.  RELEVANT DOMESTIC LAW",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The relevant provisions of the Russian Code of Administrative Offences (no. 195-FZ of 30 December 2001, in force at the time) read as follows:",
+          "event": "The relevant provisions of the Russian Code of Administrative Offences (no. 195-FZ of 30 December 2001, in force at the time) read as follows:",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "read",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Article 3.9",
+          "event": "Article 3.9",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "“Administrative detention ( административный арест ), a type of administrative sentence, is imposed by a judge in exceptional cases for a limited number of administrative offences and for a period not exceeding fifteen days.”",
+          "event": "“Administrative detention ( административный арест ), a type of administrative sentence, is imposed by a judge in exceptional cases for a limited number of administrative offences and for a period not exceeding fifteen days.”",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Article 12.7 § 2",
+          "event": "Article 12.7 § 2",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "“Continuing to drive a vehicle after a driving licence has been withdrawn is punishable by administrative detention of up to fifteen days.”",
+          "event": "“Continuing to drive a vehicle after a driving licence has been withdrawn is punishable by administrative detention of up to fifteen days.”",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "stated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "At the time of the events, administrative detention was governed by the Regulations on Procedure for Serving an Administrative Detention (adopted by the Governmental Decree no. 726 of 2 October 2002) and by the Internal Rules for Detention Facilities for Administrative Detainees (adopted by Order no. 605dsp issued by the Ministry of Internal Affairs of Russia on 6 June 2000). Both documents were silent on the possibility of family visits for administrative detainees.",
+          "event": "At the time of the events, administrative detention was governed by the Regulations on Procedure for Serving an Administrative Detention (adopted by the Governmental Decree no. 726 of 2 October 2002) and by the Internal Rules for Detention Facilities for Administrative Detainees (adopted by Order no. 605dsp issued by the Ministry of Internal Affairs of Russia on 6 June 2000). Both documents were silent on the possibility of family visits for administrative detainees.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "governed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 July 2013 the Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force.",
+          "event": "On 26 July 2013 the Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force.",
+          "event_who": "",
+          "event_when": "26 July 2013",
+          "event_what": "came into force",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Article 10 of the Act provided administrative detainees with the right to have an hour-long family visit during the detention period.",
+          "event": "Article 10 of the Act provided administrative detainees with the right to have an hour-long family visit during the detention period.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "provided",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;",
+          "event": "Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declared",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds",
+          "event": "Holds",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement:",
+          "event": "(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement:",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "that",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(i)  EUR 1,000 (one thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+          "event": "(i)  EUR 1,000 (one thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(ii)  EUR 3 (three euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "(ii)  EUR 3 (three euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "4.  Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "4.  Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 16 May 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 16 May 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T16:48:44.152168",
+      "context_length": 32768,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 124.64753484725952,
+      "llm_runtime_seconds": 124.64539170265198,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "incept5/llama3.1-claude:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event_who": "Mr. Andrey Aleksandrovich Pakhtusov (applicant)",
+          "event_when": "on 17 January 2010",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 17 June 2010 the application was communicated to the Government. The parties submitted written observations on the admissibility and merits.",
+          "event": "On 17 June 2010 the application was communicated to the Government. The parties submitted written observations on the admissibility and merits.",
+          "event_who": "the applicant, the Government",
+          "event_when": "on 17 June 2010",
+          "event_what": "communicated an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On the night of 25 July 2009 traffic police stopped the applicant’s car.",
+          "event": "On the night of 25 July 2009 traffic police stopped the applicant’s car.",
+          "event_who": "traffic police",
+          "event_when": "on the night of 25 July 2009",
+          "event_what": "stopped a car",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning.",
+          "event": "Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning.",
+          "event_who": "police officers",
+          "event_when": "",
+          "event_what": "took someone to a police station",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "A record of the applicant’s administrative arrest was drawn up.",
+          "event": "A record of the applicant’s administrative arrest was drawn up.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "a record was drawn up",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event_who": "the Justice of the Peace",
+          "event_when": "on 26 July 2009",
+          "event_what": "found someone guilty and sentenced them",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit.",
+          "event": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit.",
+          "event_who": "the applicant",
+          "event_when": "on 31 July 2009",
+          "event_what": "made a request",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.",
+          "event": "The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.",
+          "event_who": "the acting head of the detention unit",
+          "event_when": "",
+          "event_what": "returned a request with a note",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event_who": "the applicant’s representative",
+          "event_when": "on 14 August 2009",
+          "event_what": "lodged a complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event_who": "the police officials",
+          "event_when": "",
+          "event_what": "filed an objection",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event_who": "the Syktyvkar City Court",
+          "event_when": "on 15 September 2009",
+          "event_what": "dismissed a complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant’s representative appealed.",
+          "event": "The applicant’s representative appealed.",
+          "event_who": "the applicant’s representative",
+          "event_when": "",
+          "event_what": "appealed",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:",
+          "event": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:",
+          "event_who": "the Supreme Court of the Komi Republic",
+          "event_when": "on 22 October 2009",
+          "event_what": "upheld a decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 26 July 2013 the Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force.",
+          "event": "On 26 July 2013 the Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force.",
+          "event_who": "",
+          "event_when": "on 26 July 2013",
+          "event_what": "came into force",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "1.  Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;",
+          "event": "1.  Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "declared something admissible or inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2.  Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "2.  Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "held something",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3.  Holds",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement:",
+          "event": "(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement:",
+          "event_who": "the respondent State",
+          "event_when": "",
+          "event_what": "ordered someone to pay something",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 16 May 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in written on 16 May 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 16 May 2017",
+          "event_what": "done something",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T16:49:49.582849",
+      "context_length": 1000000,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 65.43060755729675,
+      "llm_runtime_seconds": 65.42796444892883,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "chevalblanc/claude-3-haiku:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event": "The case originated in an application against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov, on 17 January 2010.",
+          "event_who": "a Russian national, Mr. Andrey Aleksandrovich Pakhtusov",
+          "event_when": "on 17 January 2010",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained about the ban on family visits established by Russian law in respect of administrative detainees",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 17 June 2010 the application was communicated to the Government. The parties submitted written observations on the admissibility and merits.",
+          "event": "On 17 June 2010 the application was communicated to the Government. The parties submitted written observations on the admissibility and merits.",
+          "event_who": "the Government, the parties",
+          "event_when": "on 17 June 2010",
+          "event_what": "communicated the application, submitted written observations",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit. The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.",
+          "event": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit. The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.",
+          "event_who": "the applicant, the acting head of the detention unit, Mr S.",
+          "event_when": "on 31 July 2009, the next day",
+          "event_what": "made a written request, returned the request with a handwritten note stating that family visits were not provided for by law",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event_who": "the applicant’s representative",
+          "event_when": "on 14 August 2009",
+          "event_what": "lodged a complaint with the Syktyvkar Town Court alleging unlawful restriction of the applicant’s right to family life",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event_who": "the Syktyvkar City Court, the police authorities",
+          "event_when": "on 15 September 2009",
+          "event_what": "dismissed the applicant’s complaint, accepted the police authorities’ argument",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:...",
+          "event": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:...",
+          "event_who": "the Supreme Court of the Komi Republic",
+          "event_when": "on 22 October 2009",
+          "event_what": "upheld the City Court’s decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;...",
+          "event": "Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;",
+          "event_who": "THE COURT, UNANIMOUSLY",
+          "event_when": "",
+          "event_what": "Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;...",
+          "event": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "THE COURT, UNANIMOUSLY",
+          "event_when": "",
+          "event_what": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement:...",
+          "event": "Holds (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement:...",
+          "event_who": "THE COURT, UNANIMOUSLY",
+          "event_when": "",
+          "event_what": "Holds (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement:...",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "THE COURT, UNANIMOUSLY",
+          "event_when": "",
+          "event_what": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T16:51:35.564963",
+      "context_length": 128000,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 105.9820408821106,
+      "llm_runtime_seconds": 105.97999572753906,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama4:16x17b",
+      "events": [
+        {
+          "source_text": "On 26 July 2009 the Justice of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event": "The applicant was found guilty and sentenced to 15 days of administrative detention",
+          "event_who": "The applicant",
+          "event_when": "26 July 2009",
+          "event_what": "found guilty and sentenced",
+          "event_type": "administrative detention"
+        },
+        {
+          "source_text": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit.",
+          "event": "The applicant requested a family visit",
+          "event_who": "The applicant",
+          "event_when": "31 July 2009",
+          "event_what": "requested a family visit",
+          "event_type": "family visit request"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life had been unlawfully restricted.",
+          "event": "A complaint was lodged with the Syktyvkar Town Court",
+          "event_who": "The applicant's representative",
+          "event_when": "14 August 2009",
+          "event_what": "lodged a complaint",
+          "event_type": "court complaint"
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint.",
+          "event": "The Syktyvkar City Court dismissed the applicant's complaint",
+          "event_who": "The Syktyvkar City Court",
+          "event_when": "15 September 2009",
+          "event_what": "dismissed the complaint",
+          "event_type": "court decision"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision.",
+          "event": "The Supreme Court of the Komi Republic upheld the City Court's decision",
+          "event_who": "The Supreme Court of the Komi Republic",
+          "event_when": "22 October 2009",
+          "event_what": "upheld the decision",
+          "event_type": "court decision"
+        }
+      ],
+      "processed_at": "2025-08-09T17:01:35.222978",
+      "context_length": 10000000,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 599.6579158306122,
+      "llm_runtime_seconds": 599.6555199623108,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event_who": "The case",
+          "event_when": "on 17 January 2010",
+          "event_what": "originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”)",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event": "The applicant complained",
+          "event_who": "The applicant",
+          "event_when": "N/A",
+          "event_what": "about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court",
+          "event_who": "On 14 August 2009 the applicant’s representative",
+          "event_when": "On 14 August 2009",
+          "event_what": "lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:",
+          "event": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision",
+          "event_who": "On 22 October 2009 the Supreme Court of the Komi Republic",
+          "event_when": "On 22 October 2009",
+          "event_what": "upheld the City Court’s decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 16 May 2017, the Court, unanimously, declared the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible.",
+          "event": "On 16 May 2017, the Court, unanimously, declared the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible",
+          "event_who": "On 16 May 2017, the Court, unanimously",
+          "event_when": "On 16 May 2017",
+          "event_what": "declared the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible.",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T17:11:39.584532",
+      "context_length": 32768,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 604.3614768981934,
+      "llm_runtime_seconds": 604.3589775562286,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin3:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (\"the applicant\"), on 17 January 2010.",
+          "event": "The case originated in an application against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov, on 17 January 2010.",
+          "event_who": "Russian national, Mr. Andrey Aleksandrovich Pakhtusov",
+          "event_when": "on 17 January 2010",
+          "event_what": "originated in an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr E. Mezak, a human rights activist practising in Syktyvkar. The Russian Government (\"the Government\") were represented by Mr G. Matyushkin, Representative of the Russian Federation to the European Court of Human Rights.",
+          "event": "The applicant was represented by Mr E. Mezak and the Russian Government was represented by Mr G. Matyushkin",
+          "event_who": "Mr E. Mezak; Mr G. Matyushkin",
+          "event_when": "",
+          "event_what": "represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 17 June 2010 the application was communicated to the Government. The parties submitted written observations on the admissibility and merits.",
+          "event": "The application was communicated to the Government and the parties submitted written observations",
+          "event_who": "",
+          "event_when": "on 17 June 2010",
+          "event_what": "communicated; submitted",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant is a taxi driver.",
+          "event": "The applicant is a taxi driver.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "is",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On the night of 25 July 2009 traffic police stopped the applicant’s car. Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning. A record of the applicant’s administrative arrest was drawn up.",
+          "event": "Traffic police stopped the applicant's car on 25 July 2009 and took him to the duty unit of the Ezhvinskiy District police station",
+          "event_who": "",
+          "event_when": "on the night of 25 July 2009",
+          "event_what": "stopped; kept in a cell for administrative detainees; drew up a record",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 Â§ 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event": "The Justice of the Peace found the applicant guilty and sentenced him to fifteen days of administrative detention on 26 July 2009",
+          "event_who": "",
+          "event_when": "on 26 July 2009",
+          "event_what": "found guilty; sentenced",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit. The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.",
+          "event": "The applicant made a written request for a family visit on 31 July 2009",
+          "event_who": "",
+          "event_when": "on 31 July 2009",
+          "event_what": "made a request",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "The applicant's representative lodged a complaint with the Syktyvkar Town Court on 14 August 2009",
+          "event_who": "",
+          "event_when": "on 14 August 2009",
+          "event_what": "lodged a complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event": "Police officials filed a written objection on 14 August 2009",
+          "event_who": "",
+          "event_when": "on 14 August 2009",
+          "event_what": "filed an objection",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "The Syktyvkar City Court dismissed the applicant's complaint on 15 September 2009",
+          "event_who": "",
+          "event_when": "on 15 September 2009",
+          "event_what": "dismissed a complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant’s representative appealed. Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, Â§ 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, Âŗ 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life. Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention. Restrictions of that kind could only be applied “in accordance with the law”, should pursue one or more legitimate aims and, in addition, should be justified as being “necessary in a democratic society”. The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.",
+          "event": "The applicant's representative appealed and argued that the authorities' assistance in maintaining contact with close family was an essential part of a detainee's right to respect for family life",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "appealed; argued",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:",
+          "event": "The Supreme Court of the Komi Republic upheld the City Court's decision on 22 October 2009",
+          "event_who": "",
+          "event_when": "on 22 October 2009",
+          "event_what": "upheld a decision",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The relevant provisions of the Russian Code of Administrative Offences (no. 195-FZ of 30 December 2001, in force at the time) read as follows:",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Article 3.9",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "\"Administrative detention ( адиквоплнбждие )\", a type of administrative sentence, is imposed by a judge in exceptional cases for a limited number of administrative offences and for a period not exceeding fifteen days.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Article 12.7 Â§ 2",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "\"Continuing to drive a vehicle after a driving licence has been withdrawn is punishable by administrative detention of up to fifteen days.\"",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "At the time of the events, administrative detention was governed by the Regulations on Procedure for Serving an Administrative Detention (adopted by the Governmental Decree no. 726 of 2 October 2002) and by the Internal Rules for Detention Facilities for Administrative Detainees (adopted by Order no. 605dsp issued by the Ministry of Internal Affairs of Russia on 6 June 2000). Both documents were silent on the possibility of family visits for administrative detainees.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 26 July 2013 the Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force.",
+          "event": "",
+          "event_who": "",
+          "event_when": "on 26 July 2013",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "1. Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "3. Holds",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 Â§ 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement:",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(i) € 1,000 (one thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(ii) € 3 (three euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "(b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "4. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the remainder of the applicant's claim for just satisfaction",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "dismissed a claim",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 16 May 2017, pursuant to Rule 77 Â§ 2 and 3 of the Rules of Court.",
+          "event": "",
+          "event_who": "",
+          "event_when": "on 16 May 2017",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-09T17:13:04.474352",
+      "context_length": 128000,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 84.88976812362671,
+      "llm_runtime_seconds": 84.8883764743805,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin-mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event": "The case originated in an application (no. 11800/10) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr. Andrey Aleksandrovich Pakhtusov (“the applicant”), on 17 January 2010.",
+          "event_who": "Mr. Andrey Aleksandrovich Pakhtusov",
+          "event_when": "on 17 January 2010",
+          "event_what": "lodged an application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr E. Mezak, a human rights activist practising in Syktyvkar. The Russian Government (“the Government”) were represented by Mr G. Matyushkin, Representative of the Russian Federation to the European Court of Human Rights.",
+          "event": "The applicant was represented by Mr E. Mezak, a human rights activist practising in Syktyvkar. The Russian Government (“the Government”) were represented by Mr G. Matyushkin, Representative of the Russian Federation to the European Court of Human Rights.",
+          "event_who": "Mr E. Mezak and Mr G. Matyushkin",
+          "event_when": "",
+          "event_what": "represented the applicant and the Russian Government",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event": "The applicant complained about the ban on family visits established by Russian law in respect of administrative detainees.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained about the ban on family visits",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 17 June 2010 the application was communicated to the Government. The parties submitted written observations on the admissibility and merits.",
+          "event": "On 17 June 2010 the application was communicated to the Government. The parties submitted written observations on the admissibility and merits.",
+          "event_who": "",
+          "event_when": "on 17 June 2010",
+          "event_what": "communicated the application to the Government and submitted written observations",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant is a taxi driver.",
+          "event": "The applicant is a taxi driver.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "is a taxi driver",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On the night of 25 July 2009 traffic police stopped the applicant’s car. Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning. A record of the applicant’s administrative arrest was drawn up.",
+          "event": "On the night of 25 July 2009 traffic police stopped the applicant’s car. Following the applicant’s failure to produce his driving licence and suspecting that it had been withdrawn, police officers took him to the duty unit of the Ezhvinskiy District police station, where he was kept in a cell for administrative detainees until the following morning. A record of the applicant’s administrative arrest was drawn up.",
+          "event_who": "",
+          "event_when": "on 25 July 2009",
+          "event_what": "stopped the applicant’s car, took him to the duty unit of the Ezhvinskiy District police station and drew up a record of his administrative arrest",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event": "On 26 July 2009 the Justice of the Peace of the Vezhdinskiy Court Circuit of the Ezhvinskiy District found the applicant guilty of driving a vehicle after the withdrawal of his driving licence (an administrative offence under Article 12.7 § 2 of the Russian Code of Administrative Offences) and sentenced him to fifteen days of administrative detention.",
+          "event_who": "",
+          "event_when": "on 26 July 2009",
+          "event_what": "found the applicant guilty of driving a vehicle after the withdrawal of his driving licence and sentenced him to fifteen days of administrative detention",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit. The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.",
+          "event": "On 31 July 2009 the applicant made a written request to the head of the detention unit seeking a family visit. The next day the request was returned to the applicant bearing a handwritten note by the acting head of the detention unit, Mr S., which stated that family visits were not “provided for [by law]”.",
+          "event_who": "",
+          "event_when": "on 31 July 2009",
+          "event_what": "made a written request to the head of the detention unit seeking a family visit and had it returned with a note stating that family visits were not “provided for [by law]”.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event": "On 14 August 2009 the applicant’s representative lodged a complaint with the Syktyvkar Town Court, alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event_who": "",
+          "event_when": "on 14 August 2009",
+          "event_what": "lodged a complaint with the Syktyvkar Town Court alleging that the applicant’s right to family life guaranteed by Article 8 of the Convention had been unlawfully restricted.",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event": "The police officials filed a written objection, arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "filed a written objection arguing that the Internal Rules governing Detention Facilities for Administrative Detainees did not provide administrative detainees with the right to have a family visit",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event": "On 15 September 2009 the Syktyvkar City Court dismissed the applicant’s complaint, having accepted the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention.",
+          "event_who": "",
+          "event_when": "on 15 September 2009",
+          "event_what": "dismissed the applicant’s complaint accepting the police authorities’ argument that administrative detainees were not entitled to a family visit under the domestic law in force and that the applicant had been subjected to those limitations of his rights as a negative consequence of the administrative detention",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant’s representative appealed. Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life. Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention. Restrictions of that kind could only be applied “in accordance with the law”, should pursue one or more legitimate aims and, in addition, should be justified as being “necessary in a democratic society”. The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.",
+          "event": "The applicant’s representative appealed. Relying on the Court’s judgments in the cases of Messina v. Italy (no. 2) (no. 25498/94, § 61, ECHR 2000X) and Vlasov v. Russia (no. 78146/01, § 123, 12 June 2008), he argued that the authorities’ assistance in maintaining contact with close family was an essential part of a detainee’s right to respect for family life. Limitations imposed on the number of family visits constituted an interference with the applicant’s rights under Article 8 of the Convention. Restrictions of that kind could only be applied “in accordance with the law”, should pursue one or more legitimate aims and, in addition, should be justified as being “necessary in a democratic society”. The representative submitted that there was no norm in Russian law imposing restrictions on family visits for administrative detainees.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "appealed relying on the Court’s judgments and argued that there was no norm in Russian law imposing restrictions on family visits for administrative detainees",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:",
+          "event": "On 22 October 2009 the Supreme Court of the Komi Republic upheld the City Court’s decision, having reasoned as follows:",
+          "event_who": "",
+          "event_when": "on 22 October 2009",
+          "event_what": "upheld the City Court’s decision",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "“There is no prohibition on family visits for administrative detainees. ... [At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction. Providing lawenforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights.",
+          "event": "“There is no prohibition on family visits for administrative detainees. ... [At the same time] a refusal to authorise a family visit has a basis in Russian law; however, it should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction. Providing lawenforcement bodies with unlimited powers in issues pertaining to fundamental rights could run contrary to the superior role of the law and could result in arbitrary interference with human rights.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "reasoned that there is no prohibition on family visits for administrative detainees, but a refusal to authorise a family visit should be warranted by circumstances and conditions providing the competent authorities with the right to apply the disputed restriction",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "II. RELEVANT DOMESTIC LAW",
+          "event": "II. RELEVANT DOMESTIC LAW",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "relevant domestic law",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "14. The relevant provisions of the Russian Code of Administrative Offences (no. 195-FZ of 30 December 2001, in force at the time) read as follows:",
+          "event": "14. The relevant provisions of the Russian Code of Administrative Offences (no. 195-FZ of 30 December 2001, in force at the time) read as follows:",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "relevant provisions of the Russian Code of Administrative Offences",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Article 3.9 “Administrative detention ( административный арест ), a type of administrative sentence, is imposed by a judge in exceptional cases for a limited number of administrative offences and for a period not exceeding fifteen days.”",
+          "event": "Article 3.9 “Administrative detention ( административный арест ), a type of administrative sentence, is imposed by a judge in exceptional cases for a limited number of administrative offences and for a period not exceeding fifteen days.”",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Article 3.9 of the Russian Code of Administrative Offences",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Article 12.7 § 2 “Continuing to drive a vehicle after a driving licence has been withdrawn is punishable by administrative detention of up to fifteen days.”",
+          "event": "Article 12.7 § 2 “Continuing to drive a vehicle after a driving licence has been withdrawn is punishable by administrative detention of up to fifteen days.”",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Article 12.7 § 2 of the Russian Code of Administrative Offences",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "15. At the time of the events, administrative detention was governed by the Regulations on Procedure for Serving an Administrative Detention (adopted by the Governmental Decree no. 726 of 2 October 2002) and by the Internal Rules for Detention Facilities for Administrative Detainees (adopted by Order no. 605dsp issued by the Ministry of Internal Affairs of Russia on 6 June 2000). Both documents were silent on the possibility of family visits for administrative detainees.",
+          "event": "15. At the time of the events, administrative detention was governed by the Regulations on Procedure for Serving an Administrative Detention (adopted by the Governmental Decree no. 726 of 2 October 2002) and by the Internal Rules for Detention Facilities for Administrative Detainees (adopted by Order no. 605dsp issued by the Ministry of Internal Affairs of Russia on 6 June 2000). Both documents were silent on the possibility of family visits for administrative detainees.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "administrative detention was governed by the Regulations on Procedure for Serving an Administrative Detention and the Internal Rules for Detention Facilities for Administrative Detainees",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "16. On 26 July 2013 the Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force. Article 10 of the Act provided administrative detainees with the right to have an hour-long family visit during the detention period.",
+          "event": "16. On 26 July 2013 the Administrative Detention Act (no. 67-FZ of 26 April 2013) came into force. Article 10 of the Act provided administrative detainees with the right to have an hour-long family visit during the detention period.",
+          "event_who": "",
+          "event_when": "on 26 July 2013",
+          "event_what": "the Administrative Detention Act came into force providing administrative detainees with the right to have an hour-long family visit during the detention period",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1. Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1. Declares the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declared the complaint under Article 8 of the Convention concerning the denial of a family visit during the administrative detention admissible and the remainder of the application inadmissible",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "held that there has been a violation of Article 8 of the Convention",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "3. Holds (a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement: (i)  EUR 1,000 (one thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii)  EUR 3 (three euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "3. Holds (a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the Russian roubles at the rate applicable at the date of settlement: (i)  EUR 1,000 (one thousand euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii)  EUR 3 (three euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "held that the respondent State is to pay the applicant within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "held that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "4. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "4. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "dismissed the remainder of the applicant’s claim for just satisfaction",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 16 May 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 16 May 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 16 May 2017",
+          "event_what": "done in English and notified in writing on 16 May 2017 pursuant to Rule 77 §§ 2 and 3 of the Rules of Court",
+          "event_type": "procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T17:59:35.824896",
+      "context_length": 32768,
+      "input_tokens": 1608,
+      "model_runtime_seconds": 2791.350466966629,
+      "llm_runtime_seconds": 2791.3483593463898,
+      "validation_attempts": 1
+    }
+  ],
+  "processing_start_time": "2025-08-09T15:39:03.673228",
+  "processing_end_time": "2025-08-09T17:59:35.824910",
+  "total_processing_time_seconds": 8432.154205322266,
+  "metadata": {
+    "processed_at": "2025-08-09T17:59:35.825888",
+    "total_sections": 0,
+    "total_models": 12,
+    "total_tokens": 1608
+  }
+}

@@ -1,0 +1,2201 @@
+{
+  "Document": "file:/C:/Users/mnavas/CASE%20OF%20MOSKALEV%20v.%20RUSSIA.docx",
+  "sections": {
+    "procedure": "1.  The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.\n2.  The Russian Government (“the Government”) were represented by Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.\n3.  The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.\n4.  On 20 March 2009 the application was communicated to the Government.",
+    "circumstances": "5.  The applicant was born in 1960 and lives in Omsk.\n6.  The applicant was deputy head of the Omsk Regional Department for the Execution of Sentences.\n7.  On 22 August 2002 the Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication. The surveillance authorisation read in its entirety as follows:\n“Operational-search measures carried out with the aim of combatting corruption within State authorities have revealed indications of a systematic bribery scheme operated by certain prison officials in the Omsk region.\nAccording to operative information, there are good reasons to suspect [the applicant], deputy head of the Omsk Regional Department for the Execution of Sentences, of arranging for, and systematically receiving, unlawful payments from confidants of the convicts serving their sentences in Omsk penal institutions in exchange for granting them various privileges (such as a prison leave, improved conditions of detention or transfer to another penal institution within the Omsk region, which was for some reason preferred by the convict in question).\nGiven that [the applicant’s] actions contain elements of criminal offences under Article 290 § 4 of the Criminal Code [bribe-taking], classified as a serious offence, and under Article 285 § 1 of the Criminal Code [abuse of power], it is necessary to perform a combination of operational-search measures (interception and recording of telephone conversations, monitoring of correspondence and collection of data from technical channels of communication) in order to collect evidence of his criminal activities, and to receive information about the bribegivers and the payment mechanisms used.”\n8.  On 18 February 2003 the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days. The Government did not submit a copy of that decision.\n9.  Charges of bribe-taking or abuse of power have never been brought against the applicant.\n10.  In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.\n11.  When studying the criminal case file, the applicant learnt for the first time that his telephone conversations had been recorded and his other communications monitored. He also learnt that a recording of his telephone conversation with Ms L., a sister of a convict detained in a penal institution under his supervision, formed the basis for the charge of disclosure of State secrets. During the conversation, which had taken place on 17 October 2002, the applicant had warned Ms L. that her relative was under covert surveillance and that there were listening devices hidden in his cell.\n12.  At the trial the applicant pleaded not guilty. He claimed, in particular, that the recording of his telephone conversation with Ms L. was inadmissible as evidence as it had been obtained unlawfully.\n13.  On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code. It relied on the recording of the applicant’s telephone conversation with Ms L., among other evidence. It found that the recording was admissible as evidence as it had been obtained in accordance with the procedure prescribed by law. In particular, the interception of the applicant’s telephone conversations had been authorised by a court on the grounds that he was suspected of the serious criminal offence of bribetaking. The applicant was sentenced to three years’ imprisonment, suspended for two years.\n14.  In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life. He argued that the interception of his communications had been unlawful and unjustified, and that the recording of his conversation with Ms L. was inadmissible as evidence.\n15.  On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal. It noted that all the evidence had been collected in accordance with the procedure prescribed by law and was admissible.\nII.  RELEVANT DOMESTIC LAW\n16.  For a summary of the domestic provisions on interception of communications and use of the data thereby collected in criminal proceedings, see Zubkov and Others v. Russia (nos. 29431/05 and 2 others, §§ 40-57, 7 November 2017).\n17.  For a summary of the domestic provisions on judicial review of operational-search measures, see Zubkov and Others (cited above, §§ 5876).",
+    "decision": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1.   Declares the complaint concerning the alleged breach of the applicant’s right to respect for his private life and correspondence admissible and the remainder of the application inadmissible;\n2.   Holds that there has been a violation of Article 8 of the Convention;\n3.   Holds\n(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:\n(i)  EUR 7,500 (seven thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;\n(ii)  EUR 400 (four hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;\n(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;\n4.   Dismisses the remainder of the applicant’s claim for just satisfaction.\nDone in English, and notified in writing on 7 November 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court."
+  },
+  "combined_text_length": 6804,
+  "total_tokens": 1448,
+  "annotations": [
+    {
+      "model_name": "gemma3:1b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (\"the applicant”), on 27 October 2005.",
+          "event": "Event_who",
+          "event_who": "Russian national, Mr Yuriy Ivanovich Moskalev (\"the applicant\")",
+          "event_when": "27 October 2005",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Russian Government (\"the Government\") were represented by Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event": "Event_who",
+          "event_who": "Russian Government (\"the Government\")",
+          "event_when": "20 March 2009",
+          "event_what": "were represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event": "Event_who",
+          "event_who": "applicant",
+          "event_when": "27 October 2005",
+          "event_what": "alleged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 March 2009 the application was communicated to the Government.",
+          "event": "Event_when",
+          "event_who": "Government",
+          "event_when": "20 March 2009",
+          "event_what": "communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1960 and lives in Omsk.",
+          "event": "Event_when",
+          "event_who": "applicant",
+          "event_when": "1960",
+          "event_what": "born",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was deputy head of the Omsk Regional Department for the Execution of Sentences.",
+          "event": "Event_when",
+          "event_who": "applicant",
+          "event_when": "22 August 2002",
+          "event_what": "was deputy head",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication. The surveillance authorisation read in its entirety as follows: \"Operational-search measures carried out with the aim of combatting corruption within State authorities have revealed indications of a systematic bribery scheme operated by certain prison officials in the Omsk region.\"",
+          "event": "Event_when",
+          "event_who": "Novosibirsk Regional Court",
+          "event_when": "22 August 2002",
+          "event_what": "authorised",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was suspected of arranging for, and systematically receiving, unlawful payments from confidants of the convicts serving their sentences in Omsk penal institutions in exchange for granting them various privileges.",
+          "event": "Event_when",
+          "event_who": "applicant",
+          "event_when": "22 August 2002",
+          "event_what": "arranged for, receiving",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Given that [the applicant’s] actions contain elements of criminal offences under Article 290 § 4 of the Criminal Code [bribe-taking], classified as a serious offence, and under Article 285 § 1 of the Criminal Code [abuse of power], it is necessary to perform a combination of operational-search measures (interception and recording of telephone conversations, monitoring of correspondence and collection of data from technical channels of communication) in order to collect evidence of his criminal activities, and to receive information about the bribegivers and the payment mechanisms used.",
+          "event": "Event_when",
+          "event_who": "applicant",
+          "event_when": "22 August 2002",
+          "event_what": "required",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 18 February 2003 the Novosibirsk Regional Court authorised ‘audio surveillance’ of the applicant’s office for 180 days.",
+          "event": "Event_when",
+          "event_who": "Novosibirsk Regional Court",
+          "event_when": "18 February 2003",
+          "event_what": "authorized",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Government did not submit a copy of that decision.",
+          "event": "Event_when",
+          "event_who": "Government",
+          "event_when": "18 February 2003",
+          "event_what": "did not submit",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Charges of bribe-taking or abuse of power have never been brought against the applicant.",
+          "event": "Event_when",
+          "event_who": "applicant",
+          "event_when": "March 2003",
+          "event_what": "were not brought",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.",
+          "event": "Event_when",
+          "event_who": "Omsk Regional Court",
+          "event_when": "16 February 2005",
+          "event_what": "found guilty",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It found that the recording of the applicant’s telephone conversation with Ms L. was admissible as evidence as it had been obtained in accordance with the procedure prescribed by law.",
+          "event": "Event_when",
+          "event_who": "Omsk Regional Court",
+          "event_when": "16 February 2005",
+          "event_what": "found admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In particular, the interception of the applicant’s telephone conversations had been authorised by a court on the grounds that he was suspected of the serious criminal offence of bribetaking.",
+          "event": "Event_when",
+          "event_who": "Omsk Regional Court",
+          "event_when": "16 February 2005",
+          "event_what": "authorised",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It found that the applicant was sentenced to three years’ imprisonment, suspended for two years.",
+          "event": "Event_when",
+          "event_who": "Omsk Regional Court",
+          "event_when": "16 February 2005",
+          "event_what": "found sentenced",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life.",
+          "event": "Event_when",
+          "event_who": "applicant",
+          "event_when": "16 February 2005",
+          "event_what": "complained",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T01:56:15.875098",
+      "context_length": 32000,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 34.016186475753784,
+      "llm_runtime_seconds": 34.015029191970825,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:4b",
+      "events": [
+        {
+          "source_text": "lodged an application against the Russian Federation",
+          "event": "lodged an application against the Russian Federation",
+          "event_who": "applicant",
+          "event_when": "27 October 2005",
+          "event_what": "lodged an application",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "were represented by Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event": "were represented by Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event_who": "Russian Government",
+          "event_when": "unknown",
+          "event_what": "represented",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event": "alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event_who": "applicant",
+          "event_when": "unknown",
+          "event_what": "alleged",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 20 March 2009 the application was communicated to the Government.",
+          "event": "On 20 March 2009 the application was communicated to the Government.",
+          "event_who": "Government",
+          "event_when": "20 March 2009",
+          "event_what": "communicated",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant was born in 1960 and lives in Omsk.",
+          "event": "The applicant was born in 1960 and lives in Omsk.",
+          "event_who": "applicant",
+          "event_when": "1960",
+          "event_what": "born",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The applicant was deputy head of the Omsk Regional Department for the Execution of Sentences.",
+          "event": "The applicant was deputy head of the Omsk Regional Department for the Execution of Sentences.",
+          "event_who": "applicant",
+          "event_when": "unknown",
+          "event_what": "deputy head",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 22 August 2002 the Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication.",
+          "event": "On 22 August 2002 the Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication.",
+          "event_who": "Novosibirsk Regional Court",
+          "event_when": "22 August 2002",
+          "event_what": "authorised",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "Operational-search measures carried out with the aim of combating corruption within State authorities have revealed indications of a systematic bribery scheme operated by certain prison officials in the Omsk region.",
+          "event": "Operational-search measures carried out with the aim of combating corruption within State authorities have revealed indications of a systematic bribery scheme operated by certain prison officials in the Omsk region.",
+          "event_who": "unknown",
+          "event_when": "unknown",
+          "event_what": "revealed indications",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "According to operative information, there are good reasons to suspect [the applicant], deputy head of the Omsk Regional Department for the Execution of Sentences, of arranging for, and systematically receiving, unlawful payments from confidants of the convicts serving their sentences in Omsk penal institutions in exchange for granting them various privileges (such as a prison leave, improved conditions of detention or transfer to another penal institution within the Omsk region, which was for some reason preferred by the convict in question).",
+          "event": "suspect [the applicant], deputy head of the Omsk Regional Department for the Execution of Sentences, of arranging for, and systematically receiving, unlawful payments from confidants of the convicts serving their sentences in Omsk penal institutions in exchange for granting them various privileges (such as a prison leave, improved conditions of detention or transfer to another penal institution within the Omsk region, which was for some reason preferred by the convict in question).",
+          "event_who": "unknown",
+          "event_when": "unknown",
+          "event_what": "suspect",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "Given that [the applicant’s] actions contain elements of criminal offences under Article 290 § 4 of the Criminal Code [bribe-taking], classified as a serious offence, and under Article 285 § 1 of the Criminal Code [abuse of power], it is necessary to perform a combination of operational-search measures (interception and recording of telephone conversations, monitoring of correspondence and collection of data from technical channels of communication) in order to collect evidence of his criminal activities, and to receive information about the bribegivers and the payment mechanisms used.",
+          "event": "Given that [the applicant’s] actions contain elements of criminal offences under Article 290 § 4 of the Criminal Code [bribe-taking], classified as a serious offence, and under Article 285 § 1 of the Criminal Code [abuse of power], it is necessary to perform a combination of operational-search measures (interception and recording of telephone conversations, monitoring of correspondence and collection of data from technical channels of communication) in order to collect evidence of his criminal activities, and to receive information about the bribegivers and the payment mechanisms used.",
+          "event_who": "unknown",
+          "event_when": "unknown",
+          "event_what": "necessary to perform a combination of operational-search measures",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 18 February 2003 the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days.",
+          "event": "On 18 February 2003 the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days.",
+          "event_who": "Novosibirsk Regional Court",
+          "event_when": "18 February 2003",
+          "event_what": "authorised",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "The Government did not submit a copy of that decision.",
+          "event": "The Government did not submit a copy of that decision.",
+          "event_who": "Government",
+          "event_when": "unknown",
+          "event_what": "did not submit",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "Charges of bribe-taking or abuse of power have never been brought against the applicant.",
+          "event": "Charges of bribe-taking or abuse of power have never been brought against the applicant.",
+          "event_who": "unknown",
+          "event_when": "unknown",
+          "event_what": "never been brought",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.",
+          "event": "In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.",
+          "event_who": "unknown",
+          "event_when": "March 2003",
+          "event_what": "charged",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "When studying the criminal case file, the applicant learnt for the first time that his telephone conversations had been recorded and his other communications monitored. He also learnt that a recording of his telephone conversation with Ms L., a sister of a convict detained in a penal institution under his supervision, formed the basis for the charge of disclosure of State secrets. During the conversation, which had taken place on 17 October 2002, the applicant had warned Ms L. that her relative was under covert surveillance and that there were listening devices hidden in his cell.",
+          "event": "When studying the criminal case file, the applicant learnt for the first time that his telephone conversations had been recorded and his other communications monitored. He also learnt that a recording of his telephone conversation with Ms L., a sister of a convict detained in a penal institution under his supervision, formed the basis for the charge of disclosure of State secrets. During the conversation, which had taken place on 17 October 2002, the applicant had warned Ms L. that her relative was under covert surveillance and that there were listening devices hidden in his cell.",
+          "event_who": "applicant",
+          "event_when": "17 October 2002",
+          "event_what": "learnt",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "At the trial the applicant pleaded not guilty. He claimed, in particular, that the recording of his telephone conversation with Ms L. was inadmissible as evidence as it had been obtained unlawfully.",
+          "event": "At the trial the applicant pleaded not guilty. He claimed, in particular, that the recording of his telephone conversation with Ms L. was inadmissible as evidence as it had been obtained unlawfully.",
+          "event_who": "applicant",
+          "event_when": "unknown",
+          "event_what": "pleaded not guilty",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code. It relied on the recording of the applicant’s telephone conversation with Ms L., among other evidence. It found that the recording was admissible as evidence as it had been obtained in accordance with the procedure prescribed by law. In particular, the interception of the applicant’s telephone conversations had been authorised by a court on the grounds that he was suspected of the serious criminal offence of bribetaking. The applicant was sentenced to three years’ imprisonment, suspended for two years.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code. It relied on the recording of the applicant’s telephone conversation with Ms L., among other evidence. It found that the recording was admissible as evidence as it had been obtained in accordance with the procedure prescribed by law. In particular, the interception of the applicant’s telephone conversations had been authorised by a court on the grounds that he was suspected of the serious criminal offence of bribetaking. The applicant was sentenced to three years’ imprisonment, suspended for two years.",
+          "event_who": "Omsk Regional Court",
+          "event_when": "16 February 2005",
+          "event_what": "found the applicant guilty",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life. He argued that the interception of his communications had been unlawful and unjustified, and that the recording of his conversation with Ms L. was inadmissible as evidence.",
+          "event": "In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life. He argued that the interception of his communications had been unlawful and unjustified, and that the recording of his conversation with Ms L. was inadmissible as evidence.",
+          "event_who": "applicant",
+          "event_when": "unknown",
+          "event_what": "complained",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal. It noted that all the evidence had been collected in accordance with the procedure prescribed by law and was admissible.",
+          "event": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal. It noted that all the evidence had been collected in accordance with the procedure prescribed by law and was admissible.",
+          "event_who": "Supreme Court of the Russian Federation",
+          "event_when": "21 June 2005",
+          "event_what": "upheld the conviction on appeal",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "For a summary of the domestic provisions on interception of communications and use of the data thereby collected in criminal proceedings, see Zubkov and Others v. Russia (nos. 29431/05 and 2 others, §§ 40-57, 7 November 2017).",
+          "event": "For a summary of the domestic provisions on interception of communications and use of the data thereby collected in criminal proceedings, see Zubkov and Others v. Russia (nos. 29431/05 and 2 others, §§ 40-57, 7 November 2017).",
+          "event_who": "unknown",
+          "event_when": "unknown",
+          "event_what": "summary",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "For a summary of the domestic provisions on judicial review of operational-search measures, see Zubkov and Others (cited above, §§ 5876).",
+          "event": "For a summary of the domestic provisions on judicial review of operational-search measures, see Zubkov and Others (cited above, §§ 5876).",
+          "event_who": "unknown",
+          "event_when": "unknown",
+          "event_what": "summary",
+          "event_type": "circumstance"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 7 November 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 7 November 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "unknown",
+          "event_when": "7 November 2017",
+          "event_what": "done",
+          "event_type": "circumstance"
+        }
+      ],
+      "processed_at": "2025-08-09T01:57:15.189573",
+      "context_length": 128000,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 59.31440806388855,
+      "llm_runtime_seconds": 59.312482595443726,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event": "lodged an application",
+          "event_who": "Mr Yuriy Ivanovich Moskalev",
+          "event_when": "27 October 2005",
+          "event_what": "application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Russian Government (“the Government”) were represented by Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event": "were represented",
+          "event_who": "The Russian Government",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the application was communicated to the Government.",
+          "event": "communicated",
+          "event_who": "the application",
+          "event_when": "20 March 2009",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication.",
+          "event": "authorised",
+          "event_who": "the Novosibirsk Regional Court",
+          "event_when": "22 August 2002",
+          "event_what": "interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days.",
+          "event": "authorised",
+          "event_who": "the Novosibirsk Regional Court",
+          "event_when": "18 February 2003",
+          "event_what": "audio surveillance",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "the applicant pleaded not guilty.",
+          "event": "pleaded",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "not guilty",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "found",
+          "event_who": "the Omsk Regional Court",
+          "event_when": "16 February 2005",
+          "event_what": "guilty of disclosure of State secrets",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the applicant complained, in particular, of a violation of his right to respect for his private life.",
+          "event": "complained",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "violation of his right to respect for his private life",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event": "upheld",
+          "event_who": "the Supreme Court of the Russian Federation",
+          "event_when": "21 June 2005",
+          "event_what": "conviction",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "the Court, UNANIMOUSLY, Declares the complaint concerning the alleged breach of the applicant’s right to respect for his private life and correspondence admissible.",
+          "event": "Declares",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "the complaint admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention",
+          "event": "Holds",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "violation of Article 8 of the Convention",
+          "event_type": "event_circumstance"
+        }
+      ],
+      "processed_at": "2025-08-09T01:57:58.990091",
+      "context_length": 128000,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 43.80044507980347,
+      "llm_runtime_seconds": 43.79851818084717,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama3.3:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event_who": "Mr Yuriy Ivanovich Moskalev",
+          "event_when": "on 27 October 2005",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”)",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 20 March 2009 the application was communicated to the Government.",
+          "event": "On 20 March 2009 the application was communicated to the Government.",
+          "event_who": "the Government",
+          "event_when": "On 20 March 2009",
+          "event_what": "was communicated",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event": "The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 22 August 2002 the Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication.",
+          "event": "On 22 August 2002 the Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication.",
+          "event_who": "the Novosibirsk Regional Court",
+          "event_when": "On 22 August 2002",
+          "event_what": "authorised for 180 days the interception and recording",
+          "event_type": ""
+        },
+        {
+          "source_text": "The surveillance authorisation read in its entirety as follows: “Operational-search measures carried out with the aim of combatting corruption within State authorities have revealed indications of a systematic bribery scheme operated by certain prison officials in the Omsk region.",
+          "event": "The surveillance authorisation read in its entirety as follows: “Operational-search measures carried out with the aim of combatting corruption within State authorities have revealed indications of a systematic bribery scheme operated by certain prison officials in the Omsk region.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "read",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 18 February 2003 the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days.",
+          "event": "On 18 February 2003 the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days.",
+          "event_who": "the Novosibirsk Regional Court",
+          "event_when": "On 18 February 2003",
+          "event_what": "authorised “audio surveillance”",
+          "event_type": ""
+        },
+        {
+          "source_text": "Charges of bribe-taking or abuse of power have never been brought against the applicant.",
+          "event": "Charges of bribe-taking or abuse of power have never been brought against the applicant.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "have never been brought",
+          "event_type": ""
+        },
+        {
+          "source_text": "In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.",
+          "event": "In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.",
+          "event_who": "the applicant",
+          "event_when": "In March 2003",
+          "event_what": "was charged with disclosure of State secrets",
+          "event_type": ""
+        },
+        {
+          "source_text": "When studying the criminal case file, the applicant learnt for the first time that his telephone conversations had been recorded and his other communications monitored.",
+          "event": "When studying the criminal case file, the applicant learnt for the first time that his telephone conversations had been recorded and his other communications monitored.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "learnt for the first time",
+          "event_type": ""
+        },
+        {
+          "source_text": "At the trial the applicant pleaded not guilty.",
+          "event": "At the trial the applicant pleaded not guilty.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "pleaded not guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "the Omsk Regional Court",
+          "event_when": "On 16 February 2005",
+          "event_what": "found the applicant guilty of disclosure of State secrets",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant was sentenced to three years’ imprisonment, suspended for two years.",
+          "event": "The applicant was sentenced to three years’ imprisonment, suspended for two years.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "was sentenced to three years’ imprisonment",
+          "event_type": ""
+        },
+        {
+          "source_text": "In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life.",
+          "event": "In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event_who": "the Supreme Court of the Russian Federation",
+          "event_when": "On 21 June 2005",
+          "event_what": "upheld the conviction on appeal",
+          "event_type": ""
+        },
+        {
+          "source_text": "Declares the complaint concerning the alleged breach of the applicant’s right to respect for his private life and correspondence admissible and the remainder of the application inadmissible;",
+          "event": "Declares the complaint concerning the alleged breach of the applicant’s right to respect for his private life and correspondence admissible and the remainder of the application inadmissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Declares",
+          "event_type": ""
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Holds",
+          "event_type": ""
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 7 November 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 7 November 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "on 7 November 2017",
+          "event_what": "notified in writing",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-09T02:32:26.549823",
+      "context_length": 128000,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 2067.5596582889557,
+      "llm_runtime_seconds": 2067.5562477111816,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "deepseek-r1:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event_who": "a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”)",
+          "event_when": "on 27 October 2005",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": "Application lodged"
+        },
+        {
+          "source_text": "On 20 March 2009 the application was communicated to the Government.",
+          "event": "On 20 March 2009 the application was communicated to the Government.",
+          "event_who": "",
+          "event_when": "On 20 March 2009",
+          "event_what": "the application was communicated to the Government",
+          "event_type": "Communication of Application"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event": "The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "alleged that he had been subjected to covert surveillance",
+          "event_type": "Allegation"
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "the Omsk Regional Court",
+          "event_when": "On 16 February 2005",
+          "event_what": "found the applicant guilty",
+          "event_type": "Conviction"
+        },
+        {
+          "source_text": "It relied on the recording of the applicant’s telephone conversation with Ms L., among other evidence.",
+          "event": "It relied on the recording of the applicant’s telephone conversation with Ms L., among other evidence.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "relied on the recording",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 05 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 4975 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 4975 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 4975 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 4975 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 4975 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 4975 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 4975 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 6 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event": "On 6 February 4975 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 383 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "found the applicant guilty",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-09T02:37:34.389309",
+      "context_length": 128000,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 307.83941626548767,
+      "llm_runtime_seconds": 307.8310434818268,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mistral:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Russian national, Mr Yuriy Ivanovich Moskalev (\"the applicant\"), on 27 October 2005.",
+          "event": "The case originated in an application against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms by a Russian national, Mr Yuriy Ivanovich Moskalev on 27 October 2005.",
+          "event_who": "The applicant",
+          "event_when": "27 October 2005",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Russian Government (\"the Government\") were represented by Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event": "The Russian Government were represented by Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event_who": "The Russian Government",
+          "event_when": "",
+          "event_what": "were represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event": "The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "alleged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 March 2009 the application was communicated to the Government.",
+          "event": "On 20 March 2009 the application was communicated to the Government.",
+          "event_who": "",
+          "event_when": "20 March 2009",
+          "event_what": "was communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1960 and lives in Omsk.",
+          "event": "The applicant was born in 1960 and lives in Omsk.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "was born",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was deputy head of the Omsk Regional Department for the Execution of Sentences.",
+          "event": "The applicant was deputy head of the Omsk Regional Department for the Execution of Sentences.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "was deputy head",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 22 August 2002 the Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication.",
+          "event": "On 22 August 2002 the Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication.",
+          "event_who": "The Novosibirsk Regional Court",
+          "event_when": "22 August 2002",
+          "event_what": "authorised",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The surveillance authorisation read in its entirety as follows:",
+          "event": "The surveillance authorisation read in its entirety as follows:",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "read",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Operational-search measures carried out with the aim of combatting corruption within State authorities have revealed indications of a systematic bribery scheme operated by certain prison officials in the Omsk region.",
+          "event": "Operational-search measures carried out with the aim of combatting corruption within State authorities have revealed indications of a systematic bribery scheme operated by certain prison officials in the Omsk region.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "revealed",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "According to operative information, there are good reasons to suspect [the applicant], deputy head of the Omsk Regional Department for the Execution of Sentences, of arranging for, and systematically receiving, unlawful payments from confidants of the convicts serving their sentences in Omsk penal institutions in exchange for granting them various privileges (such as a prison leave, improved conditions of detention or transfer to another penal institution within the Omsk region, which was for some reason preferred by the convict in question).",
+          "event": "According to operative information, there are good reasons to suspect [the applicant], deputy head of the Omsk Regional Department for the Execution of Sentences, of arranging for, and systematically receiving, unlawful payments from confidants of the convicts serving their sentences in Omsk penal institutions in exchange for granting them various privileges (such as a prison leave, improved conditions of detention or transfer to another penal institution within the Omsk region, which was for some reason preferred by the convict in question).",
+          "event_who": "[the applicant]",
+          "event_when": "",
+          "event_what": "suspected",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Given that [the applicant’s] actions contain elements of criminal offences under Article 290 § 4 of the Criminal Code [bribe-taking], classified as a serious offence, and under Article 285 § 1 of the Criminal Code [abuse of power], it is necessary to perform a combination of operational-search measures (interception and recording of telephone conversations, monitoring of correspondence and collection of data from technical channels of communication) in order to collect evidence of his criminal activities, and to receive information about the bribegivers and the payment mechanisms used.",
+          "event": "Given that [the applicant’s] actions contain elements of criminal offences under Article 290 § 4 of the Criminal Code [bribe-taking], classified as a serious offence, and under Article 285 § 1 of the Criminal Code [abuse of power], it is necessary to perform a combination of operational-search measures (interception and recording of telephone conversations, monitoring of correspondence and collection of data from technical channels of communication) in order to collect evidence of his criminal activities, and to receive information about the bribegivers and the payment mechanisms used.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "is necessary",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 18 February 2003 the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days. The Government did not submit a copy of that decision.",
+          "event": "On 18 February 2003 the Novosibirsk Regional Court authorised ‘audio surveillance’ of the applicant’s office for 180 days. The Government did not submit a copy of that decision.",
+          "event_who": "The Novosibirsk Regional Court",
+          "event_when": "18 February 2003",
+          "event_what": "authorised",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Charges of bribe-taking or abuse of power have never been brought against the applicant.",
+          "event": "Charges of bribe-taking or abuse of power have never been brought against the applicant.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "have never been brought",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.",
+          "event": "In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.",
+          "event_who": "The applicant",
+          "event_when": "March 2003",
+          "event_what": "was charged",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "When studying the criminal case file, the applicant learnt for the first time that his telephone conversations had been recorded and his other communications monitored.",
+          "event": "When studying the criminal case file, the applicant learnt for the first time that his telephone conversations had been recorded and his other communications monitored.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "learned",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "He also learnt that a recording of his telephone conversation with Ms L., a sister of a convict detained in a penal institution under his supervision, formed the basis for the charge of disclosure of State secrets.",
+          "event": "He also learnt that a recording of his telephone conversation with Ms L., a sister of a convict detained in a penal institution under his supervision, formed the basis for the charge of disclosure of State secrets.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "also learnt",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "During the conversation, which had taken place on 17 October 2002, the applicant had warned Ms L. that her relative was under covert surveillance and that there were listening devices hidden in his cell.",
+          "event": "During the conversation, which had taken place on 17 October 2002, the applicant had warned Ms L. that her relative was under covert surveillance and that there were listening devices hidden in his cell.",
+          "event_who": "The applicant",
+          "event_when": "17 October 2002",
+          "event_what": "had warned",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "At the trial the applicant pleaded not guilty. He claimed, in particular, that the recording of his telephone conversation with Ms L. was inadmissible as evidence as it had been obtained unlawfully.",
+          "event": "At the trial the applicant pleaded not guilty. He claimed, in particular, that the recording of his telephone conversation with Ms L. was inadmissible as evidence as it had been obtained unlawfully.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "pleaded not guilty",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code. It relied on the recording of the applicant’s telephone conversation with Ms L., among other evidence.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code. It relied on the recording of the applicant’s telephone conversation with Ms L., among other evidence.",
+          "event_who": "The Omsk Regional Court",
+          "event_when": "16 February 2005",
+          "event_what": "found guilty",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "It found that the recording was admissible as evidence as it had been obtained in accordance with the procedure prescribed by law.",
+          "event": "It found that the recording was admissible as evidence as it had been obtained in accordance with the procedure prescribed by law.",
+          "event_who": "The Omsk Regional Court",
+          "event_when": "",
+          "event_what": "found",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life.",
+          "event": "In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "He argued that the interception of his communications had been unlawful and unjustified, and that the recording of his conversation with Ms L. was inadmissible as evidence.",
+          "event": "He argued that the interception of his communications had been unlawful and unjustified, and that the recording of his conversation with Ms L. was inadmissible as evidence.",
+          "event_who": "The applicant",
+          "event_when": "",
+          "event_what": "argued",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event_who": "The Supreme Court of the Russian Federation",
+          "event_when": "21 June 2005",
+          "event_what": "upheld",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "It noted that all the evidence had been collected in accordance with the procedure prescribed by law and was admissible.",
+          "event": "It noted that all the evidence had been collected in accordance with the procedure prescribed by law and was admissible.",
+          "event_who": "The Supreme Court of the Russian Federation",
+          "event_when": "",
+          "event_what": "noted",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "II.  RELEVANT DOMESTIC LAW",
+          "event": "II.  RELEVANT DOMESTIC LAW",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "is",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "For a summary of the domestic provisions on interception of communications and use of the data thereby collected in criminal proceedings, see Zubkov and Others v. Russia (nos. 29431/05 and 2 others, §§ 40-57, 7 November 2017).",
+          "event": "For a summary of the domestic provisions on interception of communications and use of the data thereby collected in criminal proceedings, see Zubkov and Others v. Russia (nos. 29431/05 and 2 others, §§ 40-57, 7 November 2017).",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "see",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "For a summary of the domestic provisions on judicial review of operational-search measures, see Zubkov and Others (cited above, §§ 5876).",
+          "event": "For a summary of the domestic provisions on judicial review of operational-search measures, see Zubkov and Others (cited above, §§ 5876).",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "see",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares the complaint concerning the alleged breach of the applicant’s right to respect for his private life and correspondence admissible and the remainder of the application inadmissible;",
+          "event": "Declares the complaint concerning the alleged breach of the applicant’s right to respect for his private life and correspondence admissible and the remainder of the application inadmissible;",
+          "event_who": "The Court",
+          "event_when": "",
+          "event_what": "declares",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "The Court",
+          "event_when": "",
+          "event_what": "holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds",
+          "event": "Holds",
+          "event_who": "The Court",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+          "event": "(a)  that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement:",
+          "event_who": "The Court",
+          "event_when": "",
+          "event_what": "is to pay",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(i)  EUR 7,500 (seven thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+          "event": "(i)  EUR 7,500 (seven thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(ii)  EUR 400 (four hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "(ii)  EUR 400 (four hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amounts at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "4.  Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "4.  Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "dismisses",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 7 November 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 7 November 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "7 November 2017",
+          "event_what": "done",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T02:39:24.756017",
+      "context_length": 32768,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 110.36662459373474,
+      "llm_runtime_seconds": 110.36464715003967,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "incept5/llama3.1-claude:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event_who": "Mr Yuriy Ivanovich Moskalev",
+          "event_when": "27 October 2005",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 20 March 2009 the application was communicated to the Government.",
+          "event": "On 20 March 2009 the application was communicated to the Government.",
+          "event_who": "the Government",
+          "event_when": "20 March 2009",
+          "event_what": "communicated an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event": "The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "subjected to covert surveillance",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 22 August 2002 the Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication.",
+          "event": "On 22 August 2002 the Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant’s telephone conversations, interception of postal communications and the collection of data from technical channels of communication.",
+          "event_who": "the Novosibirsk Regional Court",
+          "event_when": "22 August 2002",
+          "event_what": "authorised the interception and recording of telephone conversations",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 18 February 2003 the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days.",
+          "event": "On 18 February 2003 the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days.",
+          "event_who": "the Novosibirsk Regional Court",
+          "event_when": "18 February 2003",
+          "event_what": "authorised audio surveillance",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Charges of bribe-taking or abuse of power have never been brought against the applicant.",
+          "event": "Charges of bribe-taking or abuse of power have never been brought against the applicant.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "charges were not brought",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.",
+          "event": "In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.",
+          "event_who": "the applicant",
+          "event_when": "March 2003",
+          "event_what": "charged with disclosure of State secrets",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "the Omsk Regional Court",
+          "event_when": "16 February 2005",
+          "event_what": "found the applicant guilty",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life.",
+          "event": "In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained of a violation of his right to respect for his private life",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event_who": "the Supreme Court of the Russian Federation",
+          "event_when": "21 June 2005",
+          "event_what": "upheld the conviction",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was sentenced to three years’ imprisonment, suspended for two years.",
+          "event": "The applicant was sentenced to three years’ imprisonment, suspended for two years.",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "was sentenced to three years’ imprisonment",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 7 November 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Done in English, and notified in writing on 7 November 2017, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event_who": "",
+          "event_when": "7 November 2017",
+          "event_what": "was done",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T02:40:10.941960",
+      "context_length": 1000000,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 46.185872316360474,
+      "llm_runtime_seconds": 46.18393421173096,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "chevalblanc/claude-3-haiku:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event": "The case originated in an application against the Russian Federation lodged with the Court under Article 34 of the Convention",
+          "event_who": "a Russian national, Mr Yuriy Ivanovich Moskalev",
+          "event_when": "on 27 October 2005",
+          "event_what": "lodged",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event": "The applicant alleged that he had been subjected to covert surveillance",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "had been subjected",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 March 2009 the application was communicated to the Government.",
+          "event": "the application was communicated to the Government",
+          "event_who": "",
+          "event_when": "on 20 March 2009",
+          "event_what": "was communicated",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 18 February 2003 the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days. The Government did not submit a copy of that decision.",
+          "event": "the Novosibirsk Regional Court authorised audio surveillance",
+          "event_who": "the Novosibirsk Regional Court",
+          "event_when": "on 18 February 2003",
+          "event_what": "authorised",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code. It relied on the recording of the applicant’s telephone conversation with Ms L., among other evidence.",
+          "event": "the Omsk Regional Court found the applicant guilty",
+          "event_who": "the Omsk Regional Court",
+          "event_when": "on 16 February 2005",
+          "event_what": "found",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event": "the Supreme Court of the Russian Federation upheld the conviction on appeal",
+          "event_who": "the Supreme Court of the Russian Federation",
+          "event_when": "on 21 June 2005",
+          "event_what": "upheld",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the complaint concerning the alleged breach of the applicant’s right to respect for his private life and correspondence admissible and the remainder of the application inadmissible;",
+          "event": "Declares the complaint concerning the alleged breach...admissible and the remainder of the application inadmissible",
+          "event_who": "THE COURT, UNANIMOUSLY",
+          "event_when": "",
+          "event_what": "Declares",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 8 of the Convention",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Holds",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement: (i) EUR 7,500 (seven thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii) EUR 400 (four hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "Holds that the respondent State is to pay the applicant...in respect of non-pecuniary damage; (ii) EUR 400...in respect of costs and expenses",
+          "event_who": "",
+          "event_when": "within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention",
+          "event_what": "is to pay",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "Dismisses",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T02:41:34.868003",
+      "context_length": 128000,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 83.92597532272339,
+      "llm_runtime_seconds": 83.92408394813538,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama4:16x17b",
+      "events": [
+        {
+          "source_text": "The applicant lodged an application (no. 44045/05) against the Russian Federation with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms.",
+          "event": "lodged an application",
+          "event_who": "the applicant",
+          "event_when": "27 October 2005",
+          "event_what": "lodged an application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 20 March 2009 the application was communicated to the Government.",
+          "event": "communicated the application",
+          "event_who": "the Government",
+          "event_when": "20 March 2009",
+          "event_what": "communicated the application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The Novosibirsk Regional Court authorised interception of the applicant's telephone conversations on 22 August 2002.",
+          "event": "authorised interception",
+          "event_who": "The Novosibirsk Regional Court",
+          "event_when": "22 August 2002",
+          "event_what": "authorised interception",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 18 February 2003 the Novosibirsk Regional Court authorised 'audio surveillance' of the applicant's office for 180 days.",
+          "event": "authorised audio surveillance",
+          "event_who": "The Novosibirsk Regional Court",
+          "event_when": "18 February 2003",
+          "event_what": "authorised audio surveillance",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The applicant was charged with disclosure of State secrets on  [unspecified date].",
+          "event": "charged with disclosure",
+          "event_who": "the applicant",
+          "event_when": "[unspecified date]",
+          "event_what": "charged with disclosure",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The Omsk Regional Court found the applicant guilty on 16 February 2005.",
+          "event": "found guilty",
+          "event_who": "The Omsk Regional Court",
+          "event_when": "16 February 2005",
+          "event_what": "found guilty",
+          "event_type": "procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T02:50:40.517033",
+      "context_length": 10000000,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 545.6489617824554,
+      "llm_runtime_seconds": 545.6470704078674,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event_who": "a Russian national, Mr Yuriy Ivanovich Moskalev (the applicant)",
+          "event_when": "on 27 October 2005",
+          "event_what": "lodged an application (no. 44045/05) against the Russian Federation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Russian Government (“the Government”) were represented by Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event": "The Russian Government (“the Government”) were represented by Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event_who": "The Russian Government”, “the Government”",
+          "event_when": "N/A",
+          "event_what": "were represented by Mr G. Matyushkin and then by Mr M. Galperin",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 20 March 2009 the application was communicated to the Government.",
+          "event": "On 20 March 2009 the application was communicated to the Government.",
+          "event_who": "N/A",
+          "event_when": "On 20 March 2009",
+          "event_what": "the application was communicated to the Government",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.",
+          "event": "In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code, for informing a convict’s relative that the convict was under covert surveillance.",
+          "event_who": "the applicant",
+          "event_when": "In March 2003",
+          "event_what": "was charged with disclosure of State secrets",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "At the trial the applicant pleaded not guilty.",
+          "event": "At the trial the applicant pleaded not guilty.",
+          "event_who": "the applicant",
+          "event_when": "At the trial",
+          "event_what": "pleaded not guilty",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "the Omsk Regional Court",
+          "event_when": "On 16 February 2005",
+          "event_what": "found the applicant guilty of disclosure of State secrets",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life.",
+          "event": "In his appeal submissions the applicant complained, in particular, of a violation of his right to respect for his private life.",
+          "event_who": "the applicant",
+          "event_when": "In his appeal submissions",
+          "event_what": "complained of a violation of his right to respect for his private life",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event_who": "the Supreme Court of the Russian Federation",
+          "event_when": "On 21 June 2005",
+          "event_what": "upheld the conviction on appeal",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T03:02:01.981497",
+      "context_length": 32768,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 681.4644131660461,
+      "llm_runtime_seconds": 681.4630217552185,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin3:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms ('the Convention') by a Russian national, Mr Yuriy Ivanovich Moskalev ('the applicant'), on 27 October 2005.",
+          "event": "The case originated in an application",
+          "event_who": "a Russian national, Mr Yuriy Ivanovich Moskalev (the applicant)",
+          "event_when": "on 27 October 2005",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The Russian Government ('the Government') were represented by Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin.",
+          "event": "The Russian Government",
+          "event_who": "Mr G. Matyushkin, Representative of the Russian Federation at the European Court of Human Rights, and then by his successor in that office, Mr M. Galperin",
+          "event_when": "",
+          "event_what": "were represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant alleged, in particular, that he had been subjected to covert surveillance in breach of Article 8 of the Convention.",
+          "event": "The applicant alleged",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "that he had been subjected to covert surveillance in breach of Article 8 of the Convention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 March 2009 the application was communicated to the Government.",
+          "event": "The application was communicated",
+          "event_who": "the Government",
+          "event_when": "on 20 March 2009",
+          "event_what": "",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1960 and lives in Omsk.",
+          "event": "The applicant was born",
+          "event_who": "the applicant",
+          "event_when": "in 1960",
+          "event_what": "",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was deputy head of the Omsk Regional Department for the Execution of Sentences.",
+          "event": "The applicant was",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "deputy head of the Omsk Regional Department for the Execution of Sentences",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 22 August 2002 the Novosibirsk Regional Court authorised for 180 days the interception and recording of the applicant's telephone conversations, interception of postal communications and the collection of data from technical channels of communication.",
+          "event": "The Novosibirsk Regional Court authorised",
+          "event_who": "the Novosibirsk Regional Court",
+          "event_when": "on 22 August 2002",
+          "event_what": "the interception and recording of the applicant's telephone conversations, interception of postal communications and the collection of data from technical channels of communication",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 18 February 2003 the Novosibirsk Regional Court authorised 'audio surveillance' of the applicant's office for 180 days. The Government did not submit a copy of that decision.",
+          "event": "The Novosibirsk Regional Court authorised",
+          "event_who": "the Novosibirsk Regional Court",
+          "event_when": "on 18 February 2003",
+          "event_what": "'audio surveillance' of the applicant's office for 180 days",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Charges of bribe-taking or abuse of power have never been brought against the applicant.",
+          "event": "Charges have never been brought",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "of bribe-taking or abuse of power",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "In March 2003 the applicant was charged with disclosure of State secrets, an offence under Article 283 Âµ3 of the Criminal Code, for informing a convict's relative that the convict was under covert surveillance.",
+          "event": "The applicant was charged",
+          "event_who": "the applicant",
+          "event_when": "In March 2003",
+          "event_what": "with disclosure of State secrets",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 Âµ3 of the Criminal Code. It relied on the recording of the applicant's telephone conversation with Ms L., among other evidence.",
+          "event": "The Omsk Regional Court found",
+          "event_who": "the Omsk Regional Court",
+          "event_when": "On 16 February 2005",
+          "event_what": "the applicant guilty of disclosure of State secrets",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event": "The Supreme Court of the Russian Federation upheld",
+          "event_who": "the Supreme Court of the Russian Federation",
+          "event_when": "On 21 June 2005",
+          "event_what": "the conviction on appeal",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T03:02:50.272777",
+      "context_length": 128000,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 48.291210651397705,
+      "llm_runtime_seconds": 48.28898501396179,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin-mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event": "The case originated in an application (no. 44045/05) against the Russian Federation lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Russian national, Mr Yuriy Ivanovich Moskalev (“the applicant”), on 27 October 2005.",
+          "event_who": "Mr Yuriy Ivanovich Moskalev",
+          "event_when": "27 October 2005",
+          "event_what": "lodged an application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 20 March 2009 the application was communicated to the Government.",
+          "event": "On 20 March 2009 the application was communicated to the Government.",
+          "event_who": "",
+          "event_when": "20 March 2009",
+          "event_what": "communicated an application",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 18 February 2003 the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days. The Government did not submit a copy of that decision.",
+          "event": "On 18 February 2003 the Novosibirsk Regional Court authorised “audio surveillance” of the applicant’s office for 180 days.",
+          "event_who": "",
+          "event_when": "18 February 2003",
+          "event_what": "authorised audio surveillance",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code. It relied on the recording of the applicant’s telephone conversation with Ms L., among other evidence.",
+          "event": "On 16 February 2005 the Omsk Regional Court found the applicant guilty of disclosure of State secrets, an offence under Article 283 § 1 of the Criminal Code.",
+          "event_who": "",
+          "event_when": "16 February 2005",
+          "event_what": "found the applicant guilty of disclosure of State secrets",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event": "On 21 June 2005 the Supreme Court of the Russian Federation upheld the conviction on appeal.",
+          "event_who": "",
+          "event_when": "21 June 2005",
+          "event_what": "upheld the conviction on appeal",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "The Court, UNANIMOUSLY, Declares the complaint concerning the alleged breach of the applicant’s right to respect for his private life and correspondence admissible and the remainder of the application inadmissible;",
+          "event": "The Court, UNANIMOUSLY, Declares the complaint concerning the alleged breach of the applicant’s right to respect for his private life and correspondence admissible and the remainder of the application inadmissible;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "declared the complaint admissible and the remainder of the application inadmissible",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "held that there was a violation of Article 8 of the Convention",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement: (i) EUR 7,500 (seven thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii) EUR 400 (four hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event": "Holds (a) that the respondent State is to pay the applicant, within three months from the date on which the judgment becomes final in accordance with Article 44 § 2 of the Convention, the following amounts, to be converted into the currency of the respondent State at the rate applicable at the date of settlement: (i) EUR 7,500 (seven thousand five hundred euros), plus any tax that may be chargeable, in respect of non-pecuniary damage; (ii) EUR 400 (four hundred euros), plus any tax that may be chargeable to the applicant, in respect of costs and expenses;",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "held that the respondent State is to pay the applicant a certain amount for non-pecuniary damage and costs and expenses",
+          "event_type": "procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "dismissed the remainder of the applicant’s claim for just satisfaction",
+          "event_type": "procedure"
+        }
+      ],
+      "processed_at": "2025-08-09T03:16:02.272761",
+      "context_length": 32768,
+      "input_tokens": 1448,
+      "model_runtime_seconds": 791.9999101161957,
+      "llm_runtime_seconds": 791.9976513385773,
+      "validation_attempts": 1
+    }
+  ],
+  "processing_start_time": "2025-08-09T01:55:41.858863",
+  "processing_end_time": "2025-08-09T03:16:02.272775",
+  "total_processing_time_seconds": 4820.415223836899,
+  "metadata": {
+    "processed_at": "2025-08-09T03:16:02.273612",
+    "total_sections": 0,
+    "total_models": 12,
+    "total_tokens": 1448
+  }
+}

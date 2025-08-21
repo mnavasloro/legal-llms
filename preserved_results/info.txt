@@ -1,0 +1,1 @@
+pipeline_results_20250808_145025: 12 models, 30 documents, num_ctx 16384, prompt p4 without explicit role
