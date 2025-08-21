@@ -704,10 +704,10 @@ models = [
       "mistral:latest",
       "incept5/llama3.1-claude:latest", 
       "chevalblanc/claude-3-haiku:latest",
-      "llama4:16x17b",
+#      "llama4:16x17b",
       "mixtral:8x7b",
       "dolphin3:8b",
-      "dolphin-mixtral:8x7b"
+#      "dolphin-mixtral:8x7b"
 ]
 
 def run_improved_pipeline(max_documents: int = 10, models: List[str] = None, 
@@ -807,7 +807,7 @@ config.max_documents = 30 # Start with a small number for testing
 config.via_web = False    # Use local models
 config.max_retries = 3
 config.retry_delay = 2.0
-config.prompt_config = "p4"
+config.prompt_config = "p1"
 config.validate_exact_text = False  # Enable text validation
 config.validation_retries = 3  # Maximum validation retry attempts  
 
