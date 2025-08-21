@@ -1,0 +1,21 @@
+{
+  "project": {
+    "name": "GLiNER GPU Optimized",
+    "description": "Configuration optimized for GPU training with larger batches"
+  },
+  "extends": "gliner_config_default.json",
+  "training": {
+    "num_epochs": 15,
+    "batch_size": 16,
+    "learning_rate": 3e-6,
+    "save_steps": 500,
+    "eval_steps": 500,
+    "logging_steps": 50
+  },
+  "data": {
+    "max_tokens_per_chunk": 512
+  },
+  "output": {
+    "base_dir": "output/gliner_gpu_optimized"
+  }
+}
