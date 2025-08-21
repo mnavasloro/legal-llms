@@ -702,7 +702,6 @@ models = [
 
 # You can add more models as needed
 # models = [
-<<<<<<< HEAD
 #       "gemma3:1b",
 #       "gemma3:4b",
 #       "gemma3:12b",
@@ -716,21 +715,6 @@ models = [
 #       "dolphin3:8b",
 #       "dolphin-mixtral:8x7b"
 # ]
-=======
-      "gemma3:1b",
-      "gemma3:4b",
-      "gemma3:12b",
-      "llama3.3:latest",
-      "deepseek-r1:8b",
-      "mistral:latest",
-      "incept5/llama3.1-claude:latest", 
-      "chevalblanc/claude-3-haiku:latest",
-#      "llama4:16x17b",
-      "mixtral:8x7b",
-      "dolphin3:8b",
-#      "dolphin-mixtral:8x7b"
-]
->>>>>>> ffc5318e948a700e04ea404b51c9eb05884a79da
 
 def run_improved_pipeline(max_documents: int = 10, models: List[str] = None, 
                          prompt_config_name: str = None, pipeline_timestamp: str = None) -> Dict[str, Any]:
