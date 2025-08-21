@@ -1,0 +1,42 @@
+{
+  "project": {
+    "name": "Legal GLiNER Fine-tuning",
+    "description": "Configuration for legal document NER training"
+  },
+  "data": {
+    "train_folder": "input/original/annotated-json/train",
+    "val_folder": "input/original/annotated-json/dev",
+    "test_folder": "input/original/annotated-json/test",
+    "max_tokens_per_chunk": 350,
+    "chunk_overlap": 50,
+    "train_split": 1.0
+  },
+  "model": {
+    "name": "urchade/gliner_large-v2.1", 
+    "entity_types": ["Event", "Event_who", "Event_when", "Event_what"]
+  },
+  "training": {
+    "num_epochs": 40,
+    "batch_size": 8,
+    "learning_rate": 5e-6,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "save_steps": 1000,
+    "eval_steps": 1000,
+    "logging_steps": 100
+  },
+  "evaluation": {
+    "threshold": 0.2,
+    "overlap_threshold": 0.0
+  },
+  "output": {
+    "base_dir": "output/gliner_pipeline",
+    "model_dir": "models",
+    "predictions_dir": "predictions",
+    "evaluation_dir": "evaluation"
+  },
+  "logging": {
+    "level": "INFO",
+    "save_logs": true
+  }
+}

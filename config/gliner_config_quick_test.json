@@ -1,0 +1,42 @@
+{
+  "project": {
+    "name": "GLiNER Quick Test",
+    "description": "Fast configuration for testing GLiNER pipeline"
+  },
+  "data": {
+    "train_folder": "input/original/annotated-json/train",
+    "val_folder": "input/original/annotated-json/dev",
+    "test_folder": "input/original/annotated-json/test",
+    "max_tokens_per_chunk": 200,
+    "chunk_overlap": 25,
+    "train_split": 1.0
+  },
+  "model": {
+    "name": "urchade/gliner_small-v2.1",
+    "entity_types": ["Event", "Event_who", "Event_when", "Event_what"]
+  },
+  "training": {
+    "num_epochs": 3,
+    "batch_size": 4,
+    "learning_rate": 5e-6,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "save_steps": 500,
+    "eval_steps": 500,
+    "logging_steps": 50
+  },
+  "evaluation": {
+    "threshold": 0.1,
+    "overlap_threshold": 0.0
+  },
+  "output": {
+    "base_dir": "output/gliner_quick_test",
+    "model_dir": "models",
+    "predictions_dir": "predictions",
+    "evaluation_dir": "evaluation"
+  },
+  "logging": {
+    "level": "INFO",
+    "save_logs": true
+  }
+}

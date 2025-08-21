@@ -318,7 +318,7 @@ def import_and_run_llm_evaluation(pipeline_results_folder):
             'gemma3:1b', 'gemma3:4b', 'gemma3:12b', 'mistral:latest',
             'llama3.3:latest', 'deepseek-r1:8b', 'chevalblanc/claude-3-haiku:latest',
             'incept5/llama3.1-claude:latest', 'llama4:16x17b', 'mixtral:8x7b',
-            'dolphin3:8b', 'dolphin-mixtral:8x7b'
+            'dolphin3:8b', 'dolphin-mixtral:8x7b', 'gliner_legal'
         ]
         return model_name in known_llm_models
 
@@ -356,12 +356,13 @@ def import_and_run_llm_evaluation(pipeline_results_folder):
                 gold_anns = gold_by_type.get(ann_type, [])
                 pred_anns = llm_by_type.get(ann_type, [])
                 
-                # Lenient evaluation (50% overlap with minimum length normalization)
-                tp_lenient, fp_lenient, fn_lenient = find_matching_annotations(gold_anns, pred_anns, overlap_threshold, use_strict_overlap=False)
+                # Lenient evaluation (any overlap)
+                lenient_threshold = 0.0  # Any overlap counts as a match
+                tp_lenient, fp_lenient, fn_lenient = find_matching_annotations(gold_anns, pred_anns, lenient_threshold, use_strict_overlap=False)
                 precision_lenient, recall_lenient, f1_lenient = calculate_metrics(tp_lenient, fp_lenient, fn_lenient)
                 
-                # Strict evaluation (90% overlap with Jaccard index)
-                strict_overlap_threshold = 0.9  # Much higher threshold for strict evaluation
+                # Strict evaluation (100% exact boundaries)
+                strict_overlap_threshold = 1.0  # Exact boundary match required
                 tp_strict, fp_strict, fn_strict = find_matching_annotations(gold_anns, pred_anns, strict_overlap_threshold, use_strict_overlap=True)
                 precision_strict, recall_strict, f1_strict = calculate_metrics(tp_strict, fp_strict, fn_strict)
                 
@@ -396,7 +397,7 @@ def import_and_run_llm_evaluation(pipeline_results_folder):
         print(f"DETAILED RESULTS PER DOCUMENT AND MODEL")
         print(f"{'='*100}")
         
-        model_order = ['gemma3:1b', 'gemma3:4b', 'gemma3:12b', 'mistral:latest']
+        model_order = ['gemma3:1b', 'gemma3:4b', 'gemma3:12b', 'mistral:latest', 'gliner_legal']
         ann_type_order = ['Event', 'Event_who', 'Event_when', 'Event_what']
         
         for doc_name, doc_results in all_results.items():
@@ -413,7 +414,7 @@ def import_and_run_llm_evaluation(pipeline_results_folder):
                 print(f"{'='*100}")
                 
                 # Lenient evaluation results
-                print(f"\n📊 LENIENT EVALUATION (50% overlap threshold):")
+                print(f"\n📊 LENIENT EVALUATION (any overlap):")
                 print(f"{'-'*80}")
                 print(f"{'Type':<12} {'P':<7} {'R':<7} {'F1':<7} {'Gold':<6} {'Pred':<6} {'TP':<4} {'FP':<4} {'FN':<4}")
                 print(f"{'-'*80}")
@@ -448,7 +449,7 @@ def import_and_run_llm_evaluation(pipeline_results_folder):
                       f"{lenient_totals['tp']:<4} {lenient_totals['fp']:<4} {lenient_totals['fn']:<4}")
                 
                 # Strict evaluation results
-                print(f"\n🎯 STRICT EVALUATION (90% overlap with Jaccard index):")
+                print(f"\n🎯 STRICT EVALUATION (100% exact boundaries):")
                 print(f"{'-'*80}")
                 print(f"{'Type':<12} {'P':<7} {'R':<7} {'F1':<7} {'Gold':<6} {'Pred':<6} {'TP':<4} {'FP':<4} {'FN':<4}")
                 print(f"{'-'*80}")
@@ -514,7 +515,7 @@ def import_and_run_llm_evaluation(pipeline_results_folder):
         ann_types = ['Event', 'Event_who', 'Event_when', 'Event_what', 'OVERALL']
         
         # Lenient table
-        print(f"\n📊 LENIENT EVALUATION (50% overlap):")
+        print(f"\n📊 LENIENT EVALUATION (any overlap):")
         print(f"{'Model':<15} {'Event':<8} {'Who':<8} {'When':<8} {'What':<8} {'Overall':<8}")
         print(f"{'-'*67}")
         
@@ -542,7 +543,7 @@ def import_and_run_llm_evaluation(pipeline_results_folder):
             print(row)
         
         # Strict table
-        print(f"\n🎯 STRICT EVALUATION (90% overlap with Jaccard index):")
+        print(f"\n🎯 STRICT EVALUATION (100% exact boundaries):")
         print(f"{'Model':<15} {'Event':<8} {'Who':<8} {'When':<8} {'What':<8} {'Overall':<8}")
         print(f"{'-'*67}")
         
@@ -572,7 +573,7 @@ def import_and_run_llm_evaluation(pipeline_results_folder):
     # Configuration
     gate_documents_folder = f"{pipeline_results_folder}/gate_documents_with_llm_annotations"
     output_file = f"{pipeline_results_folder}/llm_evaluation_results.json"
-    overlap_threshold = 0.5  # Minimum overlap to consider a match
+    overlap_threshold = 0.0  # Any overlap to consider a match (lenient evaluation)
     
     # Find all bdocjs files
     bdocjs_files = []
