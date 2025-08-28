@@ -81,12 +81,26 @@ def import_and_run_add_llm_annotations(pipeline_results_folder):
         """Add LLM annotations from JSON data to a GATE document."""
         full_text = doc.text
         
+        # Track which models we've already processed to avoid duplicates
+        processed_models = set()
+        
         for annotation_data in json_data.get("annotations", []):
             model_name = annotation_data.get("model_name", "unknown")
+            
+            # Skip if we've already processed this model for this document
+            if model_name in processed_models:
+                print(f"  Warning: Model {model_name} already processed for this document, skipping duplicate")
+                continue
+                
+            processed_models.add(model_name)
             events = annotation_data.get("events", [])
             
-            # Create or get annotation set for this model
+            # Create or get annotation set for this model and clear existing annotations
             annset = doc.annset(model_name)
+            annset.clear()  # Clear existing annotations to prevent duplicates
+            
+            # Track added annotations to prevent duplicates within this processing
+            added_annotations = set()
             
             event_count = 0
             who_count = 0
@@ -103,10 +117,14 @@ def import_and_run_add_llm_annotations(pipeline_results_folder):
                 if position:
                     start, end = position
                     
-                    # Create the main event annotation with only the type feature
-                    features = {"type": event_type}
-                    annset.add(start, end, "Event", features)
-                    event_count += 1
+                    # Create unique identifier for this annotation
+                    ann_key = (start, end, "Event", event_type)
+                    if ann_key not in added_annotations:
+                        # Create the main event annotation with only the type feature
+                        features = {"type": event_type}
+                        annset.add(start, end, "Event", features)
+                        added_annotations.add(ann_key)
+                        event_count += 1
                     
                     # Add separate annotations for event_who, event_when, event_what
                     event_who = event.get("event_who", "").strip()
@@ -118,24 +136,33 @@ def import_and_run_add_llm_annotations(pipeline_results_folder):
                         who_position = find_text_position(full_text, event_who)
                         if who_position:
                             who_start, who_end = who_position
-                            annset.add(who_start, who_end, "Event_who", {})
-                            who_count += 1
+                            who_key = (who_start, who_end, "Event_who", "")
+                            if who_key not in added_annotations:
+                                annset.add(who_start, who_end, "Event_who", {})
+                                added_annotations.add(who_key)
+                                who_count += 1
                     
                     # Add event_when annotation if text is provided
                     if event_when:
                         when_position = find_text_position(full_text, event_when)
                         if when_position:
                             when_start, when_end = when_position
-                            annset.add(when_start, when_end, "Event_when", {})
-                            when_count += 1
+                            when_key = (when_start, when_end, "Event_when", "")
+                            if when_key not in added_annotations:
+                                annset.add(when_start, when_end, "Event_when", {})
+                                added_annotations.add(when_key)
+                                when_count += 1
                     
                     # Add event_what annotation if text is provided
                     if event_what:
                         what_position = find_text_position(full_text, event_what)
                         if what_position:
                             what_start, what_end = what_position
-                            annset.add(what_start, what_end, "Event_what", {})
-                            what_count += 1
+                            what_key = (what_start, what_end, "Event_what", "")
+                            if what_key not in added_annotations:
+                                annset.add(what_start, what_end, "Event_what", {})
+                                added_annotations.add(what_key)
+                                what_count += 1
             
             print(f"  {model_name}: {event_count} events, {who_count} who, {when_count} when, {what_count} what")
 
@@ -902,11 +929,7 @@ def main():
     """Main function to run the complete evaluation pipeline."""
     parser = argparse.ArgumentParser(description='Run complete LLM annotation evaluation pipeline')
     parser.add_argument('pipeline_folder', nargs='?', 
-<<<<<<< HEAD
                        default='output/pipeline_results_20250816_185820',
-=======
-                       default='output/pipeline_results_20250816_104700',
->>>>>>> ffc5318e948a700e04ea404b51c9eb05884a79da
                        help='Path to pipeline results folder (default: output/pipeline_results_20250804_170535)')
     
     args = parser.parse_args()
