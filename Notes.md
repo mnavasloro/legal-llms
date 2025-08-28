@@ -8,7 +8,6 @@
 
 
 ### 26.06.25
-
 - clarify which additional models we want to test -> how much additional disk space is required (disk currently full)
 -> email to Alex sent to increase disk space, give Maria access to jurix and ollama
 => DONE
