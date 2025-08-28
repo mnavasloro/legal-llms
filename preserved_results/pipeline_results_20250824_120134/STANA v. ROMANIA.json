@@ -1,0 +1,1125 @@
+{
+  "Document": "file:/C:/Users/mnavas/CASE%20OF%20STANA%20v.%20ROMANIA.docx",
+  "sections": {
+    "procedure": "1.  The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.\n2.  The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara. The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.\n3.  On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+    "circumstances": "4.  The applicant was born in 1951 and lives in Timişoara.\n5.  On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.\n6.  By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe. Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.\n7.  The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.\n8.  The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript. He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention. However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.\nII.  RELEVANT DOMESTIC LAW\n9.  The legislation in force at the relevant time concerning telephone tapping is described in Dumitru Popescu v. Romania (no. 2) (no. 71525/01, §§ 39-46, 26 April 2007).",
+    "decision": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1.   Declares the application admissible;\n2.   Holds that there has been a violation of Article 8 of the Convention;\n3.   Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;\n4.   Holds\n(a)  that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;\n(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;\n5.   Dismisses the remainder of the applicant’s claim for just satisfaction.\nDone in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court."
+  },
+  "combined_text_length": 3284,
+  "total_tokens": 790,
+  "annotations": [
+    {
+      "model_name": "gemma3:1b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "Event_who",
+          "event_who": "Ilie Stana",
+          "event_when": "8 October 2012",
+          "event_what": "application",
+          "event_type": "Event_who"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara.",
+          "event": "Event_who",
+          "event_who": "Mr A. Bărăgan",
+          "event_when": "Unknown",
+          "event_what": "represented",
+          "event_type": "Event_who"
+        },
+        {
+          "source_text": "The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "Event_who",
+          "event_who": "Ms C. Brumar",
+          "event_when": "Unknown",
+          "event_what": "represented",
+          "event_type": "Event_who"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Event_when",
+          "event_who": "The Government",
+          "event_when": "24 February 2016",
+          "event_what": "complaint",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "Event_who",
+          "event_who": "Ilie Stana",
+          "event_when": "1951",
+          "event_what": "born",
+          "event_type": "Event_who"
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "20 February 2003",
+          "event_what": "placed in pre-trial detention",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event": "Event_when",
+          "event_who": "The High Court",
+          "event_when": "13 April 2012",
+          "event_what": "convicted",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "16 September 2002",
+          "event_what": "phone conversation",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event": "Event_when",
+          "event_who": "The Prosecutor's Office",
+          "event_when": "13 August and 12 November 2002",
+          "event_what": "intercepted",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "Domestic courts",
+          "event_what": "complained",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event": "Event_when",
+          "event_who": "The applicant",
+          "event_when": "2003",
+          "event_what": "alleged",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "Event_when",
+          "event_who": "The High Court",
+          "event_when": "2003",
+          "event_what": "replied",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "The legislation in force at the relevant time concerning telephone tapping is described in Dumitru Popescu v. Romania (no. 2) (no. 71525/01, §§ 39-46, 26 April 2007).",
+          "event": "Event_when",
+          "event_who": "Dumitru Popescu",
+          "event_when": "2007",
+          "event_what": "described",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "Event_when",
+          "event_who": "The High Court",
+          "event_when": "2007",
+          "event_what": "declared",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "the application admissible;",
+          "event": "Event_when",
+          "event_who": "The High Court",
+          "event_when": "2007",
+          "event_what": "declared",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "the violation of Article 8 of the Convention;",
+          "event": "Event_when",
+          "event_who": "The High Court",
+          "event_when": "2007",
+          "event_what": "held",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event": "Event_when",
+          "event_who": "The High Court",
+          "event_when": "2007",
+          "event_what": "found",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses.",
+          "event": "Event_when",
+          "event_who": "The respondent State",
+          "event_when": "3 months from 2007",
+          "event_what": "pay",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points.",
+          "event": "Event_when",
+          "event_who": "The respondent State",
+          "event_when": "3 months from 2007",
+          "event_what": "payable",
+          "event_type": "Event_when"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Event_when",
+          "event_who": "The High Court",
+          "event_when": "2007",
+          "event_what": "dismisses",
+          "event_type": "Event_when"
+        }
+      ],
+      "processed_at": "2025-08-25T06:40:24.424398",
+      "context_length": 32000,
+      "num_ctx": 16384,
+      "input_tokens": 790,
+      "model_runtime_seconds": 31.03937268257141,
+      "llm_runtime_seconds": 31.03842544555664,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:4b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "lodged an application",
+          "event_who": "applicant",
+          "event_when": "8 October 2012",
+          "event_what": "lodged an application",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara. The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "represented",
+          "event_who": "applicant",
+          "event_when": "N/A",
+          "event_what": "represented",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "declared inadmissible",
+          "event_who": "Government",
+          "event_when": "24 February 2016",
+          "event_what": "declared inadmissible",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "born",
+          "event_who": "applicant",
+          "event_when": "1951",
+          "event_what": "born",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "placed in pre-trial detention",
+          "event_who": "applicant",
+          "event_when": "20 February 2003",
+          "event_what": "placed in pre-trial detention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe. Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "convicted",
+          "event_who": "applicant",
+          "event_when": "13 April 2012, 16 September 2002",
+          "event_what": "convicted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event": "intercepted",
+          "event_who": "prosecutor",
+          "event_when": "13 August - 12 November 2002",
+          "event_what": "intercepted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript. He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention. However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "complained",
+          "event_who": "applicant",
+          "event_when": "N/A",
+          "event_what": "complained",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant; Holds",
+          "event": "declares admissible, holds a violation, holds sufficient just satisfaction",
+          "event_who": "Court",
+          "event_when": "N/A",
+          "event_what": "declares admissible, holds a violation, holds sufficient just satisfaction",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; ",
+          "event": "holds payment terms",
+          "event_who": "Court",
+          "event_when": "N/A",
+          "event_what": "holds payment terms",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "dismisses claim",
+          "event_who": "Court",
+          "event_when": "N/A",
+          "event_what": "dismisses claim",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-25T06:40:48.307680",
+      "context_length": 128000,
+      "num_ctx": 16384,
+      "input_tokens": 790,
+      "model_runtime_seconds": 23.883208513259888,
+      "llm_runtime_seconds": 23.882029056549072,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "gemma3:12b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "originated",
+          "event_who": "applicant",
+          "event_when": "8 October 2012",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara. The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "represented",
+          "event_who": "applicant",
+          "event_when": "N/A",
+          "event_what": "were represented",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "given notice",
+          "event_who": "Government",
+          "event_when": "24 February 2016",
+          "event_what": "was declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "placed",
+          "event_who": "applicant",
+          "event_when": "20 February 2003",
+          "event_what": "was placed in pre-trial detention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe. Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "convicted",
+          "event_who": "applicant",
+          "event_when": "13 April 2012",
+          "event_what": "delivered a judgment",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event": "intercepted",
+          "event_who": "N/A",
+          "event_when": "between 13 August and 12 November 2002",
+          "event_what": "had been intercepted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript. He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention. However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "complained",
+          "event_who": "applicant",
+          "event_when": "N/A",
+          "event_what": "complained",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Declares the application admissible;",
+          "event": "declares",
+          "event_who": "Court",
+          "event_when": "N/A",
+          "event_what": "declares admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "holds",
+          "event_who": "Court",
+          "event_when": "N/A",
+          "event_what": "holds a violation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event": "holds",
+          "event_who": "Court",
+          "event_when": "N/A",
+          "event_what": "holds a finding",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event": "holds",
+          "event_who": "Court",
+          "event_when": "within three months",
+          "event_what": "is to pay",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "dismisses",
+          "event_who": "Court",
+          "event_when": "N/A",
+          "event_what": "dismisses a claim",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-25T06:41:42.620736",
+      "context_length": 128000,
+      "num_ctx": 16384,
+      "input_tokens": 790,
+      "model_runtime_seconds": 54.312979221343994,
+      "llm_runtime_seconds": 54.311686754226685,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "llama3.3:latest",
+      "events": [
+        {
+          "source_text": "1. The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (",
+          "event": "Event",
+          "event_who": "the applicant",
+          "event_when": "8 October 2012",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3. On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 ",
+          "event": "Event",
+          "event_who": "the Government",
+          "event_when": "24 February 2016",
+          "event_what": "were given notice of the complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3. On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 ",
+          "event": "Event",
+          "event_who": "the Court",
+          "event_when": "24 February 2016",
+          "event_what": "declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "5. On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor",
+          "event": "Event",
+          "event_who": "the Bucharest Anti-Corruption Department of the Prosecutor",
+          "event_when": "20 February 2003",
+          "event_what": "placed in pre-trial detention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "6. By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (",
+          "event": "Event",
+          "event_who": "the High Court of Cassation and Justice",
+          "event_when": "13 April 2012",
+          "event_what": "delivered a final judgment",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "7. The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (",
+          "event": "Event",
+          "event_who": "the prosecutor",
+          "event_when": "between 13 August and 12 November 2002",
+          "event_what": "issued a warrant",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "8. The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "Event",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, 1. Declares the application admissible;",
+          "event": "Event",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Declares the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Event",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Holds that there has been a violation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "4. Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event": "Event",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Holds that the respondent State is to pay",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "5. Dismisses the remainder of the applicant",
+          "event": "Event",
+          "event_who": "THE COURT",
+          "event_when": "",
+          "event_what": "Dismisses the remainder of the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 ",
+          "event": "Event",
+          "event_who": "",
+          "event_when": "4 December 2018",
+          "event_what": "notified in writing",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-25T07:02:14.110139",
+      "context_length": 128000,
+      "num_ctx": 16384,
+      "input_tokens": 790,
+      "model_runtime_seconds": 1231.4893338680267,
+      "llm_runtime_seconds": 1231.4881465435028,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "deepseek-r1:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "Application",
+          "event_who": "Mr Ilie Stana (applicant)",
+          "event_when": "8 October 2012",
+          "event_what": "lodged an application against Romania under Article 34 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Declaration",
+          "event_who": "the Government",
+          "event_when": "24 February 2016",
+          "event_what": "were given notice and the application was declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "Detention",
+          "event_who": "the applicant (Mr Ilie Stana)",
+          "event_when": "20 February 2003",
+          "event_what": "was placed in pre-trial detention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event": "Conviction",
+          "event_who": "High Court of Cassation and Justice (High Court)",
+          "event_when": "13 April 2012",
+          "event_what": "convicted the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "Conviction",
+          "event_who": "High Court (from previous event)",
+          "event_when": "13 April 2012",
+          "event_what": "convicted using evidence including transcript",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 for the period between 13 August and 12 November 2002.",
+          "event": "Interception",
+          "event_who": "prosecutor",
+          "event_when": "for the period between 13 August and 12 November 2002",
+          "event_what": "intercepted the phone conversation",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "Complaint",
+          "event_who": "the applicant (Mr Ilie Stana)",
+          "event_when": "",
+          "event_what": "complained about the lawfulness of the interception",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "Reply",
+          "event_who": "High Court",
+          "event_when": "",
+          "event_what": "replied to the applicant's complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,\n1. Declares the application admissible;\n2. Holds that there has been a violation of Article 8 of the Convention;\n3. Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;\n4. Holds\n(a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;\n(b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;\n5. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Decision",
+          "event_who": "the Court (European Court of Human Rights)",
+          "event_when": "",
+          "event_what": "declared application admissible, held violation, dismissed remainder",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Notification",
+          "event_who": "",
+          "event_when": "4 December 2018",
+          "event_what": "notified in writing",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-25T07:02:51.504403",
+      "context_length": 128000,
+      "num_ctx": 16384,
+      "input_tokens": 790,
+      "model_runtime_seconds": 37.394219160079956,
+      "llm_runtime_seconds": 37.39340829849243,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mistral:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\"the Convention\") by a Romanian national, Mr Ilie Stana (\"the applicant\"), on 8 October 2012.",
+          "event": "The case originated",
+          "event_who": "Mr Ilie Stana (the applicant)",
+          "event_when": "8 October 2012",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara.",
+          "event": "The applicant was represented",
+          "event_who": "Mr A. Bărăgan",
+          "event_when": "",
+          "event_what": "was represented by",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Romanian Government (\"the Government\") were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "The Romanian Government were represented",
+          "event_who": "Ms C. Brumar",
+          "event_when": "",
+          "event_what": "was represented by",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "The Government were given notice",
+          "event_who": "the Government",
+          "event_when": "24 February 2016",
+          "event_what": "was given notice of the complaint",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "The applicant was born and lives",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "was born and lives",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "The applicant was placed in pre-trial detention",
+          "event_who": "the applicant",
+          "event_when": "20 February 2003",
+          "event_what": "was placed in pre-trial detention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (\"the High Court\") convicted the applicant of taking a bribe.",
+          "event": "The High Court convicted the applicant",
+          "event_who": "the High Court",
+          "event_when": "13 April 2012",
+          "event_what": "convicted of taking a bribe",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "The evidence which led to his conviction included",
+          "event_who": "",
+          "event_when": "16 September 2002",
+          "event_what": "the transcript of a phone conversation",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (\"Law no. 51/1991\") for the period between 13 August and 12 November 2002.",
+          "event": "The conversation was intercepted",
+          "event_who": "",
+          "event_when": "between 13 August and 12 November 2002",
+          "event_what": "was intercepted on the basis of a warrant issued by the prosecutor",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "The applicant complained",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "complained about the lawfulness of the interception of his phone conversation and the accuracy of the transcript",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event": "He alleged that the Court held",
+          "event_who": "the applicant",
+          "event_when": "",
+          "event_what": "that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "The High Court merely replied",
+          "event_who": "the High Court",
+          "event_when": "",
+          "event_what": "that the impugned interception had been lawful and within the scope of Law no. 51/1991",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "",
+          "event_type": ""
+        },
+        {
+          "source_text": "Declares the application admissible;",
+          "event": "Declares the application admissible",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "declared the application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Holds that there has been a violation of Article 8 of the Convention",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "holds that there has been a violation of Article 8 of the Convention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event": "Holds that the finding of a violation constitutes in itself sufficient just satisfaction",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Holds (a)  that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event": "Holds that the respondent State is to pay the applicant",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "holds that the respondent State is to pay the applicant EUR 118 plus any tax within three months",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "(b)  that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points;",
+          "event": "Holds that simple interest shall be payable",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "holds that simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_who": "the Court",
+          "event_when": "",
+          "event_what": "dismisses the remainder of the applicant’s claim for just satisfaction",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "",
+          "event_who": "",
+          "event_when": "4 December 2018",
+          "event_what": "",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-25T07:03:33.016027",
+      "context_length": 32768,
+      "num_ctx": 16384,
+      "input_tokens": 790,
+      "model_runtime_seconds": 41.51154947280884,
+      "llm_runtime_seconds": 41.510350465774536,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "incept5/llama3.1-claude:latest",
+      "events": [
+        {
+          "source_text": "1. The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "Application",
+          "event_who": "Mr. Ilie Stana (applicant)",
+          "event_when": "8 October 2012",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3. On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Notice",
+          "event_who": "Government",
+          "event_when": "24 February 2016",
+          "event_what": "given notice",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "5. On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "Detention",
+          "event_who": "Mr. Ilie Stana (applicant)",
+          "event_when": "20 February 2003",
+          "event_what": "placed in pre-trial detention",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "6. By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event": "Conviction",
+          "event_who": "Mr. Ilie Stana (applicant)",
+          "event_when": "13 April 2012",
+          "event_what": "convicted",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "7. The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event": "Interception",
+          "event_who": "Prosecutor",
+          "event_when": "between 13 August and 12 November 2002",
+          "event_what": "intercepted a conversation",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "9. The legislation in force at the relevant time concerning telephone tapping is described in Dumitru Popescu v. Romania (no. 2) (no. 71525/01, §§ 39-46, 26 April 2007).",
+          "event": "Reference to Legislation",
+          "event_who": "Court",
+          "event_when": "26 April 2007",
+          "event_what": "described legislation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY,",
+          "event": "Judgment",
+          "event_who": "Court",
+          "event_when": "no specific date mentioned",
+          "event_what": "delivered a judgment",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "1. Declares the application admissible;",
+          "event": "Declaration of Admissibility",
+          "event_who": "Court",
+          "event_when": "no specific date mentioned",
+          "event_what": "declared an application admissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "2. Holds that there has been a violation of Article 8 of the Convention;",
+          "event": "Finding of Violation",
+          "event_who": "Court",
+          "event_when": "no specific date mentioned",
+          "event_what": "held a finding of violation",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "3. Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant;",
+          "event": "Finding of Just Satisfaction",
+          "event_who": "Court",
+          "event_when": "no specific date mentioned",
+          "event_what": "held a finding of just satisfaction",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "4. Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses;",
+          "event": "Order for Payment",
+          "event_who": "Court",
+          "event_when": "no specific date mentioned",
+          "event_what": "ordered payment",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "5. Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "Dismissal",
+          "event_who": "Court",
+          "event_when": "no specific date mentioned",
+          "event_what": "dismissed a claim",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Done in English, and notified in writing on 4 December 2018, pursuant to Rule 77 §§ 2 and 3 of the Rules of Court.",
+          "event": "Notification",
+          "event_who": "Court",
+          "event_when": "4 December 2018",
+          "event_what": "notified a decision",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-25T07:03:59.508855",
+      "context_length": 1000000,
+      "num_ctx": 16384,
+      "input_tokens": 790,
+      "model_runtime_seconds": 26.492741346359253,
+      "llm_runtime_seconds": 26.491029024124146,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "chevalblanc/claude-3-haiku:latest",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "lodged an application",
+          "event_who": "Mr Ilie Stana (the applicant)",
+          "event_when": "on 8 October 2012",
+          "event_what": "lodged an application against Romania under Article 34 of the Convention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "declared inadmissible",
+          "event_who": "the Government",
+          "event_when": "on 24 February 2016",
+          "event_what": "declared the remainder of the application inadmissible pursuant to Rule 54 § 3 of the Rules of Court",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "complained",
+          "event_who": "the applicant",
+          "event_when": "before the domestic courts",
+          "event_what": "complained about the lawfulness of the interception of his phone conversation and the accuracy of the transcript",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "FOR THESE REASONS, THE COURT, UNANIMOUSLY, Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant; Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event": "held",
+          "event_who": "THE COURT, UNANIMOUSLY",
+          "event_when": "on 4 December 2018",
+          "event_what": "Declares the application admissible; Holds that there has been a violation of Article 8 of the Convention; Holds that the finding of a violation constitutes in itself sufficient just satisfaction for the non-pecuniary damage sustained by the applicant; Holds (a) that the respondent State is to pay the applicant, within three months, EUR 118 (one hundred eighteen euros), plus any tax that may be chargeable to the applicant, to be converted into the currency of the respondent State at the rate applicable at the date of settlement, in respect of costs and expenses; (b) that from the expiry of the above-mentioned three months until settlement simple interest shall be payable on the above amount at a rate equal to the marginal lending rate of the European Central Bank during the default period plus three percentage points; Dismisses the remainder of the applicant’s claim for just satisfaction.",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-25T07:05:13.821943",
+      "context_length": 128000,
+      "num_ctx": 16384,
+      "input_tokens": 790,
+      "model_runtime_seconds": 74.31301379203796,
+      "llm_runtime_seconds": 74.31002306938171,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "mixtral:8x7b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by a Romanian national, Mr Ilie Stana (“the applicant”), on 8 October 2012.",
+          "event": "Event_procedure",
+          "event_who": "the Court",
+          "event_when": "on 8 October 2012",
+          "event_what": "lodged an application",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara. The Romanian Government (“the Government”) were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "Event_procedure",
+          "event_who": "The applicant and The Romanian Government",
+          "event_when": "N/A",
+          "event_what": "were represented by their lawyers",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 § 3 of the Rules of Court.",
+          "event": "Event_procedure",
+          "event_who": "The Government",
+          "event_when": "On 24 February 2016",
+          "event_what": "were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "Event_circumstance",
+          "event_who": "The applicant",
+          "event_when": "N/A",
+          "event_what": "was born in 1951 and lives in Timişoara",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor’s Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "Event_circumstance",
+          "event_who": "The applicant",
+          "event_when": "On 20 February 2003",
+          "event_what": "was placed in pre-trial detention on a charge of taking a bribe",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice (“the High Court”) convicted the applicant of taking a bribe.",
+          "event": "Event_circumstance",
+          "event_who": "The High Court",
+          "event_when": "By a final judgment delivered on 13 April 2012",
+          "event_what": "convicted the applicant of taking a bribe",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security (“Law no. 51/1991”) for the period between 13 August and 12 November 2002.",
+          "event": "Event_circumstance",
+          "event_who": "The prosecutor",
+          "event_when": "for the period between 13 August and 12 November 2002",
+          "event_what": "intercepted a conversation on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security",
+          "event_type": "event_circumstance"
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "Event_procedure",
+          "event_who": "The applicant",
+          "event_when": "N/A",
+          "event_what": "complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript",
+          "event_type": "event_procedure"
+        }
+      ],
+      "processed_at": "2025-08-25T07:14:58.644571",
+      "context_length": 32768,
+      "num_ctx": 16384,
+      "input_tokens": 790,
+      "model_runtime_seconds": 584.8225412368774,
+      "llm_runtime_seconds": 584.8105845451355,
+      "validation_attempts": 1
+    },
+    {
+      "model_name": "dolphin3:8b",
+      "events": [
+        {
+          "source_text": "The case originated in an application (no. 66640/12) against Romania lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms ('the Convention') by a Romanian national, Mr Ilie Stana ('the applicant'), on 8 October 2012.",
+          "event": "The case originated",
+          "event_who": "Romania",
+          "event_when": "8 October 2012",
+          "event_what": "lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms ('the Convention')",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was represented by Mr A. Bărăgan, a lawyer practising in Timişoara.",
+          "event": "The applicant was represented",
+          "event_who": "Mr A. Bărăgan",
+          "event_when": "",
+          "event_what": "represented by Mr A. Bărăgan, a lawyer",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The Romanian Government ('the Government') were represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs.",
+          "event": "The Romanian Government was represented",
+          "event_who": "Ms C. Brumar",
+          "event_when": "",
+          "event_what": "represented by their Agent, Ms C. Brumar, of the Ministry of Foreign Affairs",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "On 24 February 2016 the Government were given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 Ó 3 of the Rules of Court.",
+          "event": "The Government were given notice",
+          "event_who": "Government",
+          "event_when": "24 February 2016",
+          "event_what": "given notice of the complaint concerning Article 8 of the Convention and the remainder of the application was declared inadmissible pursuant to Rule 54 Ó 3 of the Rules of Court",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "The applicant was born in 1951 and lives in Timişoara.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "The applicant was born in 1951 and lives in Timişoara",
+          "event_type": ""
+        },
+        {
+          "source_text": "On 20 February 2003 the applicant, a bank manager at that time, was placed in pre-trial detention by the Bucharest Anti-Corruption Department of the Prosecutor's Office, on a charge of taking a bribe in order to favourably influence the acceptance of a loan requested by M.G.",
+          "event": "The applicant was placed",
+          "event_who": "Bucharest Anti-Corruption Department",
+          "event_when": "20 February 2003",
+          "event_what": "placed in pre-trial detention",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "By a final judgment delivered on 13 April 2012 the High Court of Cassation and Justice ('the High Court') convicted the applicant of taking a bribe.",
+          "event": "The High Court convicted",
+          "event_who": "High Court",
+          "event_when": "13 April 2012",
+          "event_what": "convicted the applicant of taking a bribe",
+          "event_type": "event_procedure"
+        },
+        {
+          "source_text": "Among the evidence which led to his conviction was the transcript of a phone conversation between the applicant and M.G. on 16 September 2002.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "the transcript of a phone conversation",
+          "event_type": ""
+        },
+        {
+          "source_text": "The conversation had been intercepted on the basis of a warrant issued by the prosecutor under the provisions of Law no. 51/1991 on national security ('Law no. 51/1991') for the period between 13 August and 12 November 2002.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "The conversation had been intercepted",
+          "event_type": ""
+        },
+        {
+          "source_text": "The applicant complained before the domestic courts about the lawfulness of the interception of his phone conversation and the accuracy of the transcript.",
+          "event": "The applicant complained",
+          "event_who": "applicant",
+          "event_when": "",
+          "event_what": "complained about the lawfulness of the interception of his phone conversation and the accuracy of the transcript",
+          "event_type": ""
+        },
+        {
+          "source_text": "He alleged that the Court had held that Law no. 51/1991 did not afford the guarantees required under Article 8 of the Convention.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "The applicant alleged",
+          "event_type": ""
+        },
+        {
+          "source_text": "However, the High Court merely replied that the impugned interception had been lawful and within the scope of Law no. 51/1991.",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "the High Court merely replied",
+          "event_type": ""
+        },
+        {
+          "source_text": "The legislation in force at the relevant time concerning telephone tapping is described in Dumitru Popescu v. Romania (no. 2) (no. 71525/01, Ó 39-46, 26 April 2007).",
+          "event": "",
+          "event_who": "",
+          "event_when": "",
+          "event_what": "The legislation in force at the relevant time concerning telephone tapping is described",
+          "event_type": ""
+        }
+      ],
+      "processed_at": "2025-08-25T07:15:51.373275",
+      "context_length": 128000,
+      "num_ctx": 16384,
+      "input_tokens": 790,
+      "model_runtime_seconds": 52.728631258010864,
+      "llm_runtime_seconds": 52.727368116378784,
+      "validation_attempts": 1
+    }
+  ],
+  "processing_start_time": "2025-08-25T06:39:53.384941",
+  "processing_end_time": "2025-08-25T07:15:51.373293",
+  "total_processing_time_seconds": 2157.989680290222,
+  "metadata": {
+    "processed_at": "2025-08-25T07:15:51.373985",
+    "total_sections": 0,
+    "total_models": 10,
+    "total_tokens": 790
+  }
+}

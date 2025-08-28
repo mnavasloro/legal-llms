@@ -641,47 +641,51 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
     
     # Process with each model
     for model in models:
-        logger.info(f"Processing with model: {model}")
-        model_start_time = time.time()
-        
-        # Choose appropriate function based on configuration
-        if config.via_web:
-            response = askChatbotImproved(model, prompt_config.role, prompt_config.instruction, combined_text, prompt_config.event_definitions, document_name=doc_name)
-        else:
-            response = askChatbotLocalImproved(model, prompt_config.role, prompt_config.instruction, combined_text, prompt_config.event_definitions, document_name=doc_name)
-        
-        model_end_time = time.time()
-        model_runtime = model_end_time - model_start_time
-        
-        if response:
-            annotation = {
-                "model_name": model,
-                "events": response["content"],
-                "processed_at": datetime.now().isoformat(),
-                "context_length": model_manager.get_context_length(model),
-                "num_ctx": response["num_ctx"],
-                "input_tokens": total_tokens,
-                "model_runtime_seconds": model_runtime,
-                "llm_runtime_seconds": response.get("runtime_seconds", 0),  # Time spent in actual LLM call
-                "validation_attempts": response.get("validation_attempts", 1)
-            }
-            doc_dict["annotations"].append(annotation)
-        else:
-            # Even failed attempts should record timing
-            annotation = {
-                "model_name": model,
-                "events": None,
-                "processed_at": datetime.now().isoformat(),
-                "context_length": model_manager.get_context_length(model),
-                "num_ctx": response["num_ctx"],
-                "input_tokens": total_tokens,
-                "model_runtime_seconds": model_runtime,
-                "llm_runtime_seconds": 0,
-                "validation_attempts": 0,
-                "status": "failed"
-            }
-            doc_dict["annotations"].append(annotation)
-            logger.warning(f"Failed to get response from {model} for document {doc_name}")
+        try:
+            logger.info(f"Processing with model: {model}")
+            model_start_time = time.time()
+            
+            # Choose appropriate function based on configuration
+            if config.via_web:
+                response = askChatbotImproved(model, prompt_config.role, prompt_config.instruction, combined_text, prompt_config.event_definitions, document_name=doc_name)
+            else:
+                response = askChatbotLocalImproved(model, prompt_config.role, prompt_config.instruction, combined_text, prompt_config.event_definitions, document_name=doc_name)
+            
+            model_end_time = time.time()
+            model_runtime = model_end_time - model_start_time
+            
+            if response:
+                annotation = {
+                    "model_name": model,
+                    "events": response["content"],
+                    "processed_at": datetime.now().isoformat(),
+                    "context_length": model_manager.get_context_length(model),
+                    "num_ctx": response["num_ctx"],
+                    "input_tokens": total_tokens,
+                    "model_runtime_seconds": model_runtime,
+                    "llm_runtime_seconds": response.get("runtime_seconds", 0),  # Time spent in actual LLM call
+                    "validation_attempts": response.get("validation_attempts", 1)
+                }
+                doc_dict["annotations"].append(annotation)
+            else:
+                # Even failed attempts should record timing
+                annotation = {
+                    "model_name": model,
+                    "events": None,
+                    "processed_at": datetime.now().isoformat(),
+                    "context_length": model_manager.get_context_length(model),
+                    "num_ctx": response["num_ctx"],
+                    "input_tokens": total_tokens,
+                    "model_runtime_seconds": model_runtime,
+                    "llm_runtime_seconds": 0,
+                    "validation_attempts": 0,
+                    "status": "failed"
+                }
+                doc_dict["annotations"].append(annotation)
+                logger.warning(f"Failed to get response from {model} for document {doc_name}")
+        except:
+            logger.warning(f"{model} for document {doc_name} did not provide a result")
+            continue
     
     # Add document-level timing information
     doc_end_time = time.time()
@@ -693,28 +697,28 @@ def process_document_with_models(doc, models: List[str], prompt_config) -> Dict[
 
 # %%
 # Updated model configuration
-models = [
-   "gemma3:1b",
+#models = [
+#   "gemma3:1b",
 #  "gemma3:4b",
 #  "gemma3:12b",
 #  "mistral:latest"
-]
+#]
 
 # You can add more models as needed
-# models = [
-#       "gemma3:1b",
-#       "gemma3:4b",
-#       "gemma3:12b",
-#       "llama3.3:latest",
-#       "deepseek-r1:8b",
-#       "mistral:latest",
-#       "incept5/llama3.1-claude:latest", 
-#       "chevalblanc/claude-3-haiku:latest",
+models = [
+       "gemma3:1b",
+       "gemma3:4b",
+       "gemma3:12b",
+       "llama3.3:latest",
+       "deepseek-r1:8b",
+       "mistral:latest",
+       "incept5/llama3.1-claude:latest", 
+       "chevalblanc/claude-3-haiku:latest",
 #       "llama4:16x17b",
-#       "mixtral:8x7b",
-#       "dolphin3:8b",
+       "mixtral:8x7b",
+       "dolphin3:8b",
 #       "dolphin-mixtral:8x7b"
-# ]
+ ]
 
 def run_improved_pipeline(max_documents: int = 10, models: List[str] = None, 
                          prompt_config_name: str = None, pipeline_timestamp: str = None) -> Dict[str, Any]:
@@ -809,13 +813,13 @@ print("Running improved IE pipeline...")
 print("=" * 50)
 
 # Configure processing
-config.max_documents = 1 # Start with a small number for testing
+config.max_documents = 30 # Start with a small number for testing
 config.via_web = False    # Use local models
 config.max_retries = 3
 config.retry_delay = 2.0
 config.prompt_config = "p1"
 config.validate_exact_text = False  # Enable text validation
-config.validation_retries = 3  # Maximum validation retry attempts  
+config.validation_retries = 2  # Maximum validation retry attempts  
 
 # Run the pipeline
 pipeline_timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
